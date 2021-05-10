@@ -60,15 +60,16 @@ h1 {
   const $app = $('#app')
   const $container = $app.find('#face-container')
   const face = await $.get('face.json')
-  face.forEach(({ QSid, QDes }) => {
-    const $img = $('<img>', { class: 'img', src: `static/s${QSid}.png` }).on(
+  face.forEach(({ QSid, QDes, isStatic }) => {
+    const src = isStatic ? `static/s${QSid}.png` : `gif/s${QSid}.gif`
+    const $img = $('<img>', { class: 'img', src }).on(
       'error',
       function() {
         $(this).replaceWith($('<div>', { class: 'img', text: '?' }))
       }
     )
     const $block = $('<a>', {
-      href: `assets/s${QSid}.gif`,
+      href: src,
       target: '_blank',
       class: 'face',
     }).append(
