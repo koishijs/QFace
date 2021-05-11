@@ -1,9 +1,10 @@
 # QQ 系统表情包
 
-## 元信息
-
-- 格式：`/meta.json`
-- 实例：https://qq-face.vercel.app/meta.json
+```js
+const face = require('qq-face')
+face.getUrl(178)
+// 返回值：/gif/s178.gif
+```
 
 ## 动态图片
 

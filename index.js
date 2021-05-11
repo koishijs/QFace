@@ -1,7 +1,7 @@
 !(async (window, $) => {
   const $app = $('#app')
   const $container = $app.find('#face-container')
-  const face = await $.get('meta.json')
+  const face = await $.get('./lib/data.json')
   face.sort((a, b) => Number(a.QSid) - Number(b.QSid))
   face.forEach(({ QSid, QDes, isStatic }) => {
     const src = isStatic ? `static/s${QSid}.png` : `gif/s${QSid}.gif`
