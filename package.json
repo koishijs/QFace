@@ -1,11 +1,11 @@
 {
-  "name": "qq-face",
+  "name": "qface",
   "version": "1.0.0",
   "main": "lib/index.js",
   "files": [
     "lib"
   ],
-  "repository": "https://github.com/koishijs/QQ-Face.git",
+  "repository": "https://github.com/koishijs/QFace.git",
   "author": "Shigma <1700011071@pku.edu.cn>",
   "license": "MIT"
 }
