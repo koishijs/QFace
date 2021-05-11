@@ -5,48 +5,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>QQ Face</title>
+    <link rel="stylesheet" type="text/css" href="./index.css">
     <script src="https://cdn.jsdelivr.net/npm/jquery@3.2.1/dist/jquery.min.js"></script>
-    <style>
-html,
-body {
-  margin: 0;
-  padding: 0;
-  font-size: 14px;
-  font-family: Arial, Helvetica, sans-serif;
-}
-h1 {
-  text-align: center;
-}
-#container {
-  padding: 1rem;
-}
-#face-container {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
-}
-#face-container .face {
-  box-sizing: border-box;
-  width: 80px;
-  padding: 10px;
-  text-align: center;
-  border-radius: 5px;
-  transition: all 0.28s;
-  cursor: pointer;
-  color: unset;
-  text-decoration: none;
-}
-#face-container .face:hover {
-  box-shadow: 0 0 8px rgba(0, 0, 0, 0.2);
-}
-#face-container .face .img {
-  display: block;
-  width: 50px;
-  height: auto;
-  line-height: 50px;
-  font-size: 40px;
-}
-    </style>
   </head>
   <body>
     <div id="app">
@@ -56,32 +16,32 @@ h1 {
       </div>
     </div>
     <script>
-!(async (window, $) => {
-  const $app = $('#app')
-  const $container = $app.find('#face-container')
-  const face = await $.get('face.json')
-  face.sort((a, b) => Number(a.QSid) - Number(b.QSid))
-  face.forEach(({ QSid, QDes, isStatic }) => {
-    const src = isStatic ? `static/s${QSid}.png` : `gif/s${QSid}.gif`
-    const $img = $('<img>', { class: 'img', src }).on(
-      'error',
-      function() {
-        $(this).replaceWith($('<div>', { class: 'img', text: '?' }))
-      }
-    )
-    const $block = $('<a>', {
-      href: src,
-      target: '_blank',
-      class: 'face',
-    }).append(
-      $img,
-      $('<div>', { class: 'face-id', text: QSid }),
-      $('<div>', { class: 'face-desc', text: QDes })
-    )
+      !(async (window, $) => {
+        const $app = $('#app')
+        const $container = $app.find('#face-container')
+        const face = await $.get('face.json')
+        face.sort((a, b) => Number(a.QSid) - Number(b.QSid))
+        face.forEach(({ QSid, QDes, isStatic }) => {
+          const src = isStatic ? `static/s${QSid}.png` : `gif/s${QSid}.gif`
+          const $img = $('<img>', { class: 'img', src }).on(
+            'error',
+            function() {
+              $(this).replaceWith($('<div>', { class: 'img', text: '?' }))
+            }
+          )
+          const $block = $('<a>', {
+            href: src,
+            target: '_blank',
+            class: 'face',
+          }).append(
+            $img,
+            $('<div>', { class: 'face-id', text: QSid }),
+            $('<div>', { class: 'face-desc', text: QDes })
+          )
 
-    $container.append($block)
-  })
-})(window, jQuery)
+          $container.append($block)
+        })
+      })(window, jQuery)
     </script>
   </body>
 </html>
