@@ -2,15 +2,15 @@
 
 ## 元信息
 
-- 格式：/meta.json
+- 格式：`/meta.json`
 - 实例：https://qq-face.vercel.app/meta.json
 
 ## 动态图片
 
-- 格式：/gif/s{id}.gif
+- 格式：`/gif/s{id}.gif`
 - 实例：https://qq-face.vercel.app/gif/s178.gif
 
 ## 静态图片
 
-- 格式：/static/s{id}.png
+- 格式：`/static/s{id}.png`
 - 实例：https://qq-face.vercel.app/static/s178.png
