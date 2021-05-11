@@ -1,6 +1,16 @@
 # QQ 系统表情包
 
-## 用法
+## 元信息
 
-- 动态图片 (gif) 存储于 gif 目录下，例如：https://qq-face.vercel.app/gif/s178.gif
-- 静态图片 (png) 存储于 static 目录下，例如：https://qq-face.vercel.app/static/s178.gif
+- 格式：/meta.json
+- 实例：https://qq-face.vercel.app/meta.json
+
+## 动态图片
+
+- 格式：/gif/s{id}.gif
+- 实例：https://qq-face.vercel.app/gif/s178.gif
+
+## 静态图片
+
+- 格式：/static/s{id}.png
+- 实例：https://qq-face.vercel.app/static/s178.png
