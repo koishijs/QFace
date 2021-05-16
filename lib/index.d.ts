@@ -6,6 +6,10 @@ export interface Face {
   EMCode: string
   isStatic?: '1'
   isCMEmoji?: '1'
+  AniStickerType?: 1
+  AniStickerPackId?: '1'
+  AniStickerId?: string
+  QHide?: '1'
 }
 
 export function get(id: string | number): Face
