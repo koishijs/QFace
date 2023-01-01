@@ -5,6 +5,10 @@ const qface = require('qface')
 
 qface.getUrl(178)
 // 返回值：https://qq-face.vercel.app/gif/s178.gif
+qface.getByText('jk')
+// 返回值：26
+qface.getByText('jingko')
+// 返回值：26
 ```
 
 ## 动态图片
