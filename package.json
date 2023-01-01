@@ -1,6 +1,6 @@
 {
   "name": "qface",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
   "files": [
