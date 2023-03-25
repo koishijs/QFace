@@ -168,6 +168,7 @@
     "IQLid": "32",
     "AQLid": "32",
     "EMCode": "115",
+    "isStatic": "1",
     "Input": [
       "nanguo",
       "ng"
@@ -1525,6 +1526,7 @@
     "IQLid": "163",
     "AQLid": "185",
     "EMCode": "263",
+    "isStatic": "1",
     "Input": [
       "daxiao",
       "dx"
@@ -2856,5 +2858,226 @@
       "xianqi",
       "xq"
     ]
+  },
+  {
+    "QSid": "324",
+    "QDes": "/吃糖",
+    "IQLid": "324",
+    "AQLid": "324",
+    "EMCode": "10324",
+    "AniStickerType": 1,
+    "AniStickerPackId": "1",
+    "AniStickerId": "12"
+  },
+  {
+    "QSid": "325",
+    "QDes": "/惊吓",
+    "IQLid": "325",
+    "AQLid": "325",
+    "EMCode": "10325",
+    "AniStickerType": 1,
+    "AniStickerPackId": "1",
+    "AniStickerId": "14"
+  },
+  {
+    "QSid": "326",
+    "QDes": "/生气",
+    "IQLid": "326",
+    "AQLid": "326",
+    "EMCode": "10326",
+    "AniStickerType": 1,
+    "AniStickerPackId": "1",
+    "AniStickerId": "15"
+  },
+  {
+    "QSid": "327",
+    "QDes": "/加一",
+    "QHide": "1",
+    "IQLid": "327",
+    "AQLid": "327",
+    "EMCode": "10327"
+  },
+  {
+    "QSid": "328",
+    "QDes": "/错号",
+    "QHide": "1",
+    "IQLid": "328",
+    "AQLid": "328",
+    "EMCode": "10328"
+  },
+  {
+    "QSid": "329",
+    "QDes": "/对号",
+    "QHide": "1",
+    "IQLid": "329",
+    "AQLid": "329",
+    "EMCode": "10329"
+  },
+  {
+    "QSid": "330",
+    "QDes": "/完成",
+    "QHide": "1",
+    "IQLid": "330",
+    "AQLid": "330",
+    "EMCode": "10330"
+  },
+  {
+    "QSid": "331",
+    "QDes": "/明白",
+    "QHide": "1",
+    "IQLid": "331",
+    "AQLid": "331",
+    "EMCode": "10331"
+  },
+  {
+    "QSid": "332",
+    "QDes": "/举牌牌",
+    "IQLid": "332",
+    "AQLid": "332",
+    "EMCode": "10332"
+  },
+  {
+    "QSid": "333",
+    "QDes": "/烟花",
+    "isStatic": "1",
+    "IQLid": "333",
+    "AQLid": "333",
+    "EMCode": "10333",
+    "AniStickerType": 1,
+    "AniStickerPackId": "1",
+    "AniStickerId": "19"
+  },
+  {
+    "QSid": "334",
+    "QDes": "/虎虎生威",
+    "IQLid": "334",
+    "AQLid": "334",
+    "EMCode": "10334",
+    "isStatic": "1"
+  },
+  {
+    "QSid": "336",
+    "QDes": "/豹富",
+    "IQLid": "336",
+    "AQLid": "336",
+    "EMCode": "10336",
+    "isStatic": "1"
+  },
+  {
+    "QSid": "337",
+    "QDes": "/花朵脸",
+    "IQLid": "337",
+    "AQLid": "337",
+    "EMCode": "10337",
+    "AniStickerType": 1,
+    "AniStickerPackId": "1",
+    "AniStickerId": "22"
+  },
+  {
+    "QSid": "338",
+    "QDes": "/我想开了",
+    "IQLid": "338",
+    "AQLid": "338",
+    "EMCode": "10338",
+    "AniStickerType": 1,
+    "AniStickerPackId": "1",
+    "AniStickerId": "20"
+  },
+  {
+    "QSid": "339",
+    "QDes": "/舔屏",
+    "IQLid": "339",
+    "AQLid": "339",
+    "EMCode": "10339",
+    "AniStickerType": 1,
+    "AniStickerPackId": "1",
+    "AniStickerId": "21"
+  },
+  {
+    "QSid": "340",
+    "QDes": "/热化了",
+    "IQLid": "340",
+    "AQLid": "340",
+    "QHide": "1",
+    "EMCode": "10340",
+    "AniStickerType": 1,
+    "AniStickerPackId": "1",
+    "AniStickerId": "23"
+  },
+  {
+    "QSid": "341",
+    "QDes": "/打招呼",
+    "IQLid": "341",
+    "AQLid": "341",
+    "EMCode": "10341",
+    "AniStickerType": 1,
+    "AniStickerPackId": "1",
+    "AniStickerId": "24"
+  },
+  {
+    "QSid": "342",
+    "QDes": "/酸Q",
+    "IQLid": "342",
+    "AQLid": "342",
+    "EMCode": "10342",
+    "AniStickerType": 1,
+    "AniStickerPackId": "1",
+    "AniStickerId": "26"
+  },
+  {
+    "QSid": "343",
+    "QDes": "/我方了",
+    "IQLid": "343",
+    "AQLid": "343",
+    "EMCode": "10343",
+    "AniStickerType": 1,
+    "AniStickerPackId": "1",
+    "AniStickerId": "27"
+  },
+  {
+    "QSid": "344",
+    "QDes": "/大怨种",
+    "IQLid": "344",
+    "AQLid": "344",
+    "EMCode": "10344",
+    "AniStickerType": 1,
+    "AniStickerPackId": "1",
+    "AniStickerId": "28"
+  },
+  {
+    "QSid": "345",
+    "QDes": "/红包多多",
+    "IQLid": "345",
+    "AQLid": "345",
+    "EMCode": "10345",
+    "AniStickerType": 1,
+    "AniStickerPackId": "1",
+    "AniStickerId": "29"
+  },
+  {
+    "QSid": "346",
+    "QDes": "/你真棒棒",
+    "IQLid": "346",
+    "AQLid": "346",
+    "EMCode": "10346",
+    "AniStickerType": 1,
+    "AniStickerPackId": "1",
+    "AniStickerId": "25"
+  },
+  {
+    "QSid": "347",
+    "QDes": "/大展宏兔",
+    "IQLid": "347",
+    "AQLid": "347",
+    "EMCode": "10347",
+    "isStatic": "1"
+  },
+  {
+    "QSid": "348",
+    "QDes": "/福萝卜",
+    "IQLid": "348",
+    "AQLid": "348",
+    "EMCode": "10348",
+    "isStatic": "1"
   }
 ]
