@@ -1,12 +1,20 @@
 {
   "name": "qface",
-  "version": "1.3.0",
+  "version": "1.4.1",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
   "files": [
     "lib"
   ],
   "repository": "https://github.com/koishijs/QFace.git",
-  "author": "Shigma <1700011071@pku.edu.cn>",
-  "license": "MIT"
+  "author": "Shigma <shigma10826@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "tecent",
+    "qq",
+    "face",
+    "oicq",
+    "emoji",
+    "reaction"
+  ]
 }
