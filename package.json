@@ -2,12 +2,16 @@
   "name": "qface",
   "version": "1.4.1",
   "main": "lib/index.js",
-  "typings": "lib/index.d.ts",
+  "types": "lib/index.d.ts",
+  "type": "module",
   "files": [
     "lib"
   ],
   "repository": "https://github.com/koishijs/QFace.git",
-  "author": "Shigma <shigma10826@gmail.com>",
+  "authors": [
+    "Shigma <shigma10826@gmail.com>",
+    "dragon-fish <dragon-fish@qq.com>"
+  ],
   "license": "MIT",
   "keywords": [
     "tencent",
