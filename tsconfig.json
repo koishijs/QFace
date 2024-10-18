@@ -1,0 +1,25 @@
+{
+  "compilerOptions": {
+    "target": "ES2020",
+    "module": "ESNext",
+    "strict": true,
+    "importHelpers": true,
+    "moduleResolution": "Bundler",
+    "experimentalDecorators": true,
+    "skipLibCheck": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "sourceMap": true,
+    "resolveJsonModule": true,
+    "lib": ["ESNext", "DOM"],
+    "declaration": true,
+    "outDir": "lib",
+    "paths": {
+      "@/*": ["./docs/*"]
+    }
+  },
+  "include": ["docs/**/*", "*.d.ts"],
+  "vueCompilerOptions": {
+    "plugins": ["@vue/language-plugin-pug"]
+  }
+}
