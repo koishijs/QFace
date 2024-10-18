@@ -4,8 +4,8 @@
   /** @type {HTMLElement} */
   const placeholder = document.getElementById('placeholder')
   /** @type {import('../lib').Face[]} */
-  const config = await fetch('./assets/default_config.json').then((res) =>
-    res.json()
+  const config = await fetch('./assets/qq_emoji/default_config.json').then(
+    (res) => res.json()
   )
 
   placeholder.style.display = 'none'
@@ -16,11 +16,9 @@
   list
     .sort((a, b) => Number(a.emojiId) - Number(b.emojiId))
     .forEach((item) => {
-      const { emojiId, describe = '', isStatic } = item
+      const { emojiId, describe = '' } = item
 
-      const src = isStatic
-        ? `assets/qq_emoji/qq_emoji_${emojiId}.png`
-        : `assets/resfile/emoji/${emojiId}/apng/${emojiId}.png`
+      const src = `assets/qq_emoji/resfile/emoji/${emojiId}/apng/${emojiId}.png`
       const faceImg = document.createElement('img')
       faceImg.src = src
       faceImg.className = 'face-img'
