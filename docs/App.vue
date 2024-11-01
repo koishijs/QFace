@@ -1,9 +1,9 @@
 <template lang="pug">
 #koishi-app
-  main
+  main(p-t-70px)
     RouterView
-  footer(bg='#161618' m-t-6 p-x-4 p-y-8)
-    .text-center Footer
+  GlobalHeader
+  GlobalFooter
 </template>
 
 <script setup lang="ts"></script>

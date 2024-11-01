@@ -14,6 +14,7 @@ RouterLink.qq-emoji-mini-card(
   p-4
   padding='10px'
   rounded='0.5rem'
+  transition-duration-200
   w-30
 )
   .face-thumb
@@ -40,4 +41,8 @@ const src = computed(
 )
 </script>
 
-<style scoped lang="sass"></style>
+<style scoped lang="sass">
+.qq-emoji-mini-card
+  &:hover
+    box-shadow: 0 0 0 0.25rem #7c67e666
+</style>

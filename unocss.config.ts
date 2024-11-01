@@ -6,6 +6,8 @@ import {
   transformerDirectives,
 } from 'unocss'
 import extractorPug from '@unocss/extractor-pug'
+import presetAnimations from 'unocss-preset-animations'
+import { presetShadcn } from 'unocss-preset-shadcn'
 
 const PROD =
   process.env.NODE_ENV === 'production' &&
@@ -14,6 +16,8 @@ const PROD =
 export default defineConfig({
   presets: [
     presetUno(),
+    presetAnimations(),
+    presetShadcn(),
     presetAttributify({
       prefix: 'uno:',
     }),
@@ -31,4 +35,14 @@ export default defineConfig({
       },
     ],
   ],
+  content: {
+    pipeline: {
+      include: [
+        // the default
+        /\.(vue|svelte|[jt]sx|mdx?|astro|elm|php|phtml|html)($|\?)/,
+        // include js/ts files
+        'docs/**/*.{js,ts}',
+      ],
+    },
+  },
 })

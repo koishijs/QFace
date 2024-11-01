@@ -6,12 +6,15 @@
 // biome-ignore lint: disable
 export {}
 declare global {
+  const Button: typeof import('./components/ui/button/index')['Button']
   const Context: typeof import('cordis')['Context']
   const EffectScope: typeof import('vue')['EffectScope']
   const Service: typeof import('cordis')['Service']
   const acceptHMRUpdate: typeof import('pinia')['acceptHMRUpdate']
   const asyncComputed: typeof import('@vueuse/core')['asyncComputed']
   const autoResetRef: typeof import('@vueuse/core')['autoResetRef']
+  const buttonVariants: typeof import('./components/ui/button/index')['buttonVariants']
+  const cn: typeof import('./utils/shadcn')['cn']
   const computed: typeof import('vue')['computed']
   const computedAsync: typeof import('@vueuse/core')['computedAsync']
   const computedEager: typeof import('@vueuse/core')['computedEager']
@@ -316,10 +319,13 @@ import { UnwrapRef } from 'vue'
 declare module 'vue' {
   interface GlobalComponents {}
   interface ComponentCustomProperties {
+    readonly Button: UnwrapRef<typeof import('./components/ui/button/index')['Button']>
     readonly EffectScope: UnwrapRef<typeof import('vue')['EffectScope']>
     readonly acceptHMRUpdate: UnwrapRef<typeof import('pinia')['acceptHMRUpdate']>
     readonly asyncComputed: UnwrapRef<typeof import('@vueuse/core')['asyncComputed']>
     readonly autoResetRef: UnwrapRef<typeof import('@vueuse/core')['autoResetRef']>
+    readonly buttonVariants: UnwrapRef<typeof import('./components/ui/button/index')['buttonVariants']>
+    readonly cn: UnwrapRef<typeof import('./utils/shadcn')['cn']>
     readonly computed: UnwrapRef<typeof import('vue')['computed']>
     readonly computedAsync: UnwrapRef<typeof import('@vueuse/core')['computedAsync']>
     readonly computedEager: UnwrapRef<typeof import('@vueuse/core')['computedEager']>

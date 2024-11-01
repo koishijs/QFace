@@ -7,6 +7,9 @@ export {}
 /* prettier-ignore */
 declare module 'vue' {
   export interface GlobalComponents {
+    Button: typeof import('./components/ui/button/Button.vue')['default']
+    GlobalFooter: typeof import('./components/GlobalFooter.vue')['default']
+    GlobalHeader: typeof import('./components/GlobalHeader.vue')['default']
     KoishiPlaceholder: typeof import('./components/KoishiPlaceholder.vue')['default']
     QEmojiMiniCard: typeof import('./components/QEmojiMiniCard.vue')['default']
     RouterLink: typeof import('vue-router')['RouterLink']

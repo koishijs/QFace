@@ -20,5 +20,6 @@ declare module 'vue-router/auto-routes' {
   export interface RouteNamedMap {
     'index': RouteRecordInfo<'index', '/', Record<never, never>, Record<never, never>>,
     'details-qqnt-:id': RouteRecordInfo<'details-qqnt-:id', '/details/qqnt/:id', { id: ParamValue<true> }, { id: ParamValue<false> }>,
+    'shadcn-playground': RouteRecordInfo<'shadcn-playground', '/shadcn-playground', Record<never, never>, Record<never, never>>,
   }
 }
