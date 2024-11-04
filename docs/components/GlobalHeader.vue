@@ -1,6 +1,19 @@
 <template lang="pug">
-header#global-header(bg='#161618' fixed h-60px l-0 p-x-4 p-y-8 t-0 w-full z-10)
-  h1.text-center QQ Emoji Playground
+header#global-header(
+  bg='#161618'
+  fixed
+  h-60px
+  l-0
+  p-x-4
+  p-y-10px
+  t-0
+  w-full
+  z-10
+)
+  .flex(items-center justify-between)
+    h1
+      RouterLink(to='/')
+        span.text-6 QQ Emoji Playground
 </template>
 
 <script setup lang="ts"></script>

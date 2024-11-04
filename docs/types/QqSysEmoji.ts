@@ -30,3 +30,20 @@ export interface QQSysEmojiConfig {
     SysEmojiGroupList: QqSysEmojiGroup[]
   }
 }
+
+export interface QqSysEmojiAsset {
+  type: QqSysEmojiAssetType
+  name: string
+  path: string
+}
+
+export enum QqSysEmojiAssetType {
+  THUMB_PNG,
+  THUMB_GIF,
+  APNG,
+  LOTTIE_JSON,
+}
+
+export interface QqSysEmojiWithAssets extends QqSysEmojiItem {
+  assets: QqSysEmojiAsset[]
+}

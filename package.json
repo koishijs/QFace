@@ -59,7 +59,9 @@
   ],
   "packageManager": "pnpm@8.10.2+sha1.e0b68270e89c817ff88b7be62466a2128c53af02",
   "dependencies": {
+    "lottie-web": "^5.12.2",
     "lucide-vue-next": "^0.454.0",
-    "tailwindcss-animate": "^1.0.7"
+    "tailwindcss-animate": "^1.0.7",
+    "vue3-lottie": "^3.3.1"
   }
 }

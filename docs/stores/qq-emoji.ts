@@ -1,21 +1,16 @@
-import { QQSysEmojiConfig } from '@/types/QqSysEmoji'
+import { QqSysEmojiAssetType, QqSysEmojiWithAssets } from '@/types/QqSysEmoji'
 
 export const useQqEmojiStore = defineStore('qq-emoji', () => {
-  const _rawConfig = ref<QQSysEmojiConfig>()
+  const allEmojiList = ref<QqSysEmojiWithAssets[]>([])
   const fetchData = async (noCache = false) => {
-    if (!noCache && _rawConfig.value) return _rawConfig.value
-    _rawConfig.value = await fetch('assets/qq_emoji/default_config.json').then(
-      (res) => res.json()
-    )
-    return _rawConfig.value
+    if (!noCache && allEmojiList.value?.length) {
+      return allEmojiList.value
+    }
+    allEmojiList.value = await fetch(
+      'assets/qq_emoji/generated_index.json'
+    ).then((res) => res.json())
+    return allEmojiList.value
   }
-  const allEmojiList = computed(() => {
-    return (
-      _rawConfig.value?.normalPanelResult.SysEmojiGroupList.map(
-        (l) => l.SysEmojiList
-      ).flat() || []
-    )
-  })
   const sortedEmojiList = computed(() => {
     return allEmojiList.value.sort(
       (a, b) => Number(a.emojiId) - Number(b.emojiId)
@@ -24,11 +19,21 @@ export const useQqEmojiStore = defineStore('qq-emoji', () => {
   const getEmojiById = (id: string) => {
     return allEmojiList.value.find((emoji) => emoji.emojiId === id)
   }
+
+  const getLottieAssets = (emoji: QqSysEmojiWithAssets) => {
+    return (
+      emoji.assets.filter(
+        (asset) => asset.type === QqSysEmojiAssetType.LOTTIE_JSON
+      ) || []
+    )
+  }
+
   return {
-    config: _rawConfig,
+    config: allEmojiList,
     fetchData,
     allEmojiList,
     sortedEmojiList,
     getEmojiById,
+    getLottieAssets,
   }
 })

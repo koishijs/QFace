@@ -9,6 +9,7 @@ declare global {
   const Button: typeof import('./components/ui/button/index')['Button']
   const Context: typeof import('cordis')['Context']
   const EffectScope: typeof import('vue')['EffectScope']
+  const QqSysEmojiAssetType: typeof import('./types/QqSysEmoji')['QqSysEmojiAssetType']
   const Service: typeof import('cordis')['Service']
   const acceptHMRUpdate: typeof import('pinia')['acceptHMRUpdate']
   const asyncComputed: typeof import('@vueuse/core')['asyncComputed']
@@ -313,6 +314,9 @@ declare global {
   // @ts-ignore
   export type { Component, ComponentPublicInstance, ComputedRef, DirectiveBinding, ExtractDefaultPropTypes, ExtractPropTypes, ExtractPublicPropTypes, InjectionKey, PropType, Ref, MaybeRef, MaybeRefOrGetter, VNode, WritableComputedRef } from 'vue'
   import('vue')
+  // @ts-ignore
+  export type { QqSysEmojiAssetType } from './types/QqSysEmoji'
+  import('./types/QqSysEmoji')
 }
 // for vue template auto import
 import { UnwrapRef } from 'vue'
@@ -321,6 +325,7 @@ declare module 'vue' {
   interface ComponentCustomProperties {
     readonly Button: UnwrapRef<typeof import('./components/ui/button/index')['Button']>
     readonly EffectScope: UnwrapRef<typeof import('vue')['EffectScope']>
+    readonly QqSysEmojiAssetType: UnwrapRef<typeof import('./types/QqSysEmoji')['QqSysEmojiAssetType']>
     readonly acceptHMRUpdate: UnwrapRef<typeof import('pinia')['acceptHMRUpdate']>
     readonly asyncComputed: UnwrapRef<typeof import('@vueuse/core')['asyncComputed']>
     readonly autoResetRef: UnwrapRef<typeof import('@vueuse/core')['autoResetRef']>

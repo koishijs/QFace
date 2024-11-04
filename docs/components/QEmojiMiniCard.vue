@@ -25,19 +25,31 @@ RouterLink.qq-emoji-mini-card(
       loading='lazy'
       w-full
     )
-  .face-name(text-5) {{ value.describe?.replace('/', '') }}
+  .face-name(text-5) {{ value.describe?.replace('/', '') || `#${value.emojiId}` }}
+  .face-id(text-3) {{ `#${value.emojiId}` }}
 </template>
 
 <script setup lang="ts">
-import type { QqSysEmojiItem } from '@/types/QqSysEmoji'
+import type { QqSysEmojiWithAssets } from '@/types/QqSysEmoji'
 
 const props = defineProps<{
-  value: QqSysEmojiItem
+  value: QqSysEmojiWithAssets
 }>()
 
+const getValidThumbImage = (emoji: QqSysEmojiWithAssets) => {
+  const posibleThumb = [
+    QqSysEmojiAssetType.APNG,
+    QqSysEmojiAssetType.THUMB_GIF,
+    QqSysEmojiAssetType.THUMB_PNG,
+  ]
+  return posibleThumb
+    .map((type) => emoji.assets.find((asset) => asset.type === type))
+    .filter(Boolean)[0]
+}
 const src = computed(
   () =>
-    `assets/qq_emoji/resfile/emoji/${props.value.emojiId}/apng/${props.value.emojiId}.png`
+    getValidThumbImage(props.value)?.path ||
+    'assets/qq_emoji/thumbs/default.png'
 )
 </script>
 
