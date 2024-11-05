@@ -14,7 +14,7 @@ const DEFAULT_CONFIG_FILE = resolve(
 )
 const OUTPUT_CONFIG_FILE = resolve(
   ROOT_DIR,
-  'assets/qq_emoji/generated_index.json'
+  'assets/qq_emoji/_index.json'
 )
 
 const config: QQSysEmojiConfig = JSON.parse(

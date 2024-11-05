@@ -19,7 +19,10 @@ declare module 'vue-router/auto-routes' {
    */
   export interface RouteNamedMap {
     'index': RouteRecordInfo<'index', '/', Record<never, never>, Record<never, never>>,
-    'details-qqnt-:id': RouteRecordInfo<'details-qqnt-:id', '/details/qqnt/:id', { id: ParamValue<true> }, { id: ParamValue<false> }>,
+    ':fallback(.*)': RouteRecordInfo<':fallback(.*)', '/:fallback(.*)', { fallback: ParamValue<true> }, { fallback: ParamValue<false> }>,
+    'qqnt': RouteRecordInfo<'qqnt', '/qqnt', Record<never, never>, Record<never, never>>,
+    'qqnt-:id': RouteRecordInfo<'qqnt-:id', '/qqnt/:id', { id: ParamValue<true> }, { id: ParamValue<false> }>,
     'shadcn-playground': RouteRecordInfo<'shadcn-playground', '/shadcn-playground', Record<never, never>, Record<never, never>>,
+    'wechat': RouteRecordInfo<'wechat', '/wechat', Record<never, never>, Record<never, never>>,
   }
 }

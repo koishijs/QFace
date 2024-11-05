@@ -28,6 +28,7 @@
     "axios": "^1.7.7",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.1",
+    "fast-xml-parser": "^4.5.0",
     "pinia": "^2.2.4",
     "prettier": "^3.3.3",
     "pug": "^3.0.3",

@@ -7,7 +7,7 @@ export const useQqEmojiStore = defineStore('qq-emoji', () => {
       return allEmojiList.value
     }
     allEmojiList.value = await fetch(
-      'assets/qq_emoji/generated_index.json'
+      'assets/qq_emoji/_index.json'
     ).then((res) => res.json())
     return allEmojiList.value
   }

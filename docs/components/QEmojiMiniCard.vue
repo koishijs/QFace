@@ -1,6 +1,5 @@
 <template lang="pug">
-RouterLink.qq-emoji-mini-card(
-  :to='`/details/qqnt/${value.emojiId}`'
+.qq-emoji-mini-card(
   bg='#161618'
   border='1px solid #7c67e6'
   color-white
