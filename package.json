@@ -13,7 +13,7 @@
     "dragon-fish <dragon-fish@qq.com>"
   ],
   "scripts": {
-    "dev": "vite",
+    "dev:docs": "vite",
     "build:docs": "vite build",
     "preview:docs": "vite preview"
   },
