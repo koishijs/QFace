@@ -14,8 +14,8 @@
   ],
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
-    "serve": "vite preview"
+    "build:docs": "vite build",
+    "preview:docs": "vite preview"
   },
   "devDependencies": {
     "@prettier/plugin-pug": "^3.2.0",

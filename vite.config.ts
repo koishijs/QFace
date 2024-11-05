@@ -41,6 +41,9 @@ export default defineConfig({
     }),
     UnoCSS(),
   ],
+  build: {
+    outDir: '.docs_dist',
+  },
   resolve: {
     alias: {
       '@': resolve(import.meta.dirname, 'docs'),
