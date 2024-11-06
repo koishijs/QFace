@@ -18,16 +18,17 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: 'lts/*'
-          cache: 'pnpm'
 
       - name: Install dependencies
-        run: pnpm install
+        run: |
+          npm install -g pnpm
+          pnpm install
 
       - name: Build docs
         run: pnpm build:docs
 
       - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
+        uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: .docs_dist
