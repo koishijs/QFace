@@ -9,6 +9,7 @@ import { resolve } from 'node:path'
 const PROD = process.env.NODE_ENV === 'production'
 
 export default defineConfig({
+  base: './',
   plugins: [
     Vue(),
     AutoImport({
