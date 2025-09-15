@@ -16,6 +16,7 @@
   border: 8px solid #5546a3;
   overflow: hidden;
   box-sizing: border-box;
+  display: inline-block;
 }
 .loader::after {
   content: '';

@@ -168,9 +168,10 @@
             .lottie-preview
               LottieViewer(
                 :animation-link='file.path',
-                :height='200',
-                :play-on-hover='true',
-                :width='200'
+                :auto-play='true',
+                :height='data.animationHeigh || 200',
+                :width='data.animationWidth || 200'
+                renderer='canvas'
               )
             .lottie-info
               .lottie-name {{ file.name }}
@@ -206,56 +207,26 @@
                       stroke-width='2'
                     )
 
-    .debug-section(v-if='showDebug')
+    .debug-section
       .section-card
         .section-header
           h2.section-title 调试信息
-          button.debug-toggle(@click='showDebug = false')
-            svg(
-              fill='none'
-              height='16'
-              viewBox='0 0 24 24'
-              width='16'
-              xmlns='http://www.w3.org/2000/svg'
-            )
-              path(
-                d='M18 6L6 18M6 6l12 12'
-                stroke='currentColor'
-                stroke-linecap='round'
-                stroke-linejoin='round'
-                stroke-width='2'
-              )
         .debug-content
           pre {{ JSON.stringify(data, null, 2) }}
-
-    .debug-toggle-btn(@click='showDebug = true' v-if='!showDebug')
-      svg(
-        fill='none'
-        height='16'
-        viewBox='0 0 24 24'
-        width='16'
-        xmlns='http://www.w3.org/2000/svg'
-      )
-        path(
-          d='M9 12l2 2 4-4M21 12a9 9 0 11-18 0 9 9 0 0118 0z'
-          stroke='currentColor'
-          stroke-linecap='round'
-          stroke-linejoin='round'
-          stroke-width='2'
-        )
-      span 调试信息
 </template>
 
 <script setup lang="ts">
 import { QqSysEmojiAssetType } from '@/types/QqSysEmoji'
-import { Vue3Lottie as LottieViewer } from 'vue3-lottie'
+
+const LottieViewer = defineAsyncComponent(() =>
+  import('vue3-lottie').then((m) => m.Vue3Lottie)
+)
 
 const qStore = useQqEmojiStore()
 const route = useRoute()
 const router = useRouter()
 
 const emojiId = ref(route.params.id as string)
-const showDebug = ref(false)
 
 const data = computed(() => {
   return qStore.allEmojiList.find((item) => item.emojiId === emojiId.value)

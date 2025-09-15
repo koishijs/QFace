@@ -206,13 +206,17 @@ onMounted(() => {
 
 .emoji-grid
   display: grid
-  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr))
+  grid-template-columns: repeat(auto-fit, 200px)
   gap: 24px
   margin-top: 20px
+  justify-content: space-between
 
 .emoji-card-link
   text-decoration: none
   color: inherit
+  display: inline-block
+  width: 200px
+  height: 240px
 
 .empty-state
   display: flex
@@ -263,8 +267,12 @@ onMounted(() => {
     width: 100%
 
   .emoji-grid
-    grid-template-columns: repeat(auto-fill, minmax(160px, 1fr))
+    grid-template-columns: repeat(auto-fit, 160px)
     gap: 16px
+
+  .emoji-card-link
+    width: 160px
+    height: 200px
 
   .content-section
     padding: 40px 16px
@@ -275,5 +283,9 @@ onMounted(() => {
     gap: 24px
 
   .emoji-grid
-    grid-template-columns: repeat(auto-fill, minmax(140px, 1fr))
+    grid-template-columns: repeat(auto-fit, 140px)
+
+  .emoji-card-link
+    width: 140px
+    height: 180px
 </style>

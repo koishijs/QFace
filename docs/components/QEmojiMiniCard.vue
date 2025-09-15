@@ -34,6 +34,8 @@
             fill='currentColor'
           )
         span {{ assetCount }} 资源
+        span(v-if='hasAPng') APNG
+        span(v-if='hasLottie') Lottie
       .asset-count(v-else)
         span 资源暂缺
 </template>
@@ -61,6 +63,21 @@ const src = computed(
 )
 
 const assetCount = computed(() => props.value.assets?.length || 0)
+
+const hasAPng = computed(() => {
+  return (
+    props.value.assets?.some(
+      (asset) => asset.type === QqSysEmojiAssetType.APNG
+    ) || false
+  )
+})
+const hasLottie = computed(() => {
+  return (
+    props.value.assets?.some(
+      (asset) => asset.type === QqSysEmojiAssetType.LOTTIE_JSON
+    ) || false
+  )
+})
 </script>
 
 <style scoped lang="sass">
@@ -131,6 +148,8 @@ const assetCount = computed(() => props.value.assets?.length || 0)
   justify-content: center
   opacity: 0
   transition: opacity 0.3s ease
+  user-select: none
+  pointer-events: none
 
 .view-icon
   color: white

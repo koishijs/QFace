@@ -22,7 +22,50 @@ declare module 'vue-router/auto-routes' {
     ':fallback(.*)': RouteRecordInfo<':fallback(.*)', '/:fallback(.*)', { fallback: ParamValue<true> }, { fallback: ParamValue<false> }>,
     'qqnt': RouteRecordInfo<'qqnt', '/qqnt', Record<never, never>, Record<never, never>>,
     'qqnt-:id': RouteRecordInfo<'qqnt-:id', '/qqnt/:id', { id: ParamValue<true> }, { id: ParamValue<false> }>,
-    'shadcn-playground': RouteRecordInfo<'shadcn-playground', '/shadcn-playground', Record<never, never>, Record<never, never>>,
     'wechat': RouteRecordInfo<'wechat', '/wechat', Record<never, never>, Record<never, never>>,
   }
+
+  /**
+   * Route file to route info map by unplugin-vue-router.
+   * Used by the volar plugin to automatically type useRoute()
+   *
+   * Each key is a file path relative to the project root with 2 properties:
+   * - routes: union of route names of the possible routes when in this page (passed to useRoute<...>())
+   * - views: names of nested views (can be passed to <RouterView name="...">)
+   *
+   * @internal
+   */
+  export interface _RouteFileInfoMap {
+    'docs/pages/index.vue': {
+      routes: 'index'
+      views: never
+    }
+    'docs/pages/[...fallback].vue': {
+      routes: ':fallback(.*)'
+      views: never
+    }
+    'docs/pages/qqnt/index.vue': {
+      routes: 'qqnt'
+      views: never
+    }
+    'docs/pages/qqnt/[id].vue': {
+      routes: 'qqnt-:id'
+      views: never
+    }
+    'docs/pages/wechat/index.vue': {
+      routes: 'wechat'
+      views: never
+    }
+  }
+
+  /**
+   * Get a union of possible route names in a certain route component file.
+   * Used by the volar plugin to automatically type useRoute()
+   *
+   * @internal
+   */
+  export type _RouteNamesForFilePath<FilePath extends string> =
+    _RouteFileInfoMap extends Record<FilePath, infer Info>
+      ? Info['routes']
+      : keyof RouteNamedMap
 }
