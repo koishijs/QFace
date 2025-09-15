@@ -1,8 +1,8 @@
 <template lang="pug">
 #koishi-app
-  main(p-t-70px)
-    RouterView
   GlobalHeader
+  main
+    RouterView
   GlobalFooter
 </template>
 
@@ -15,4 +15,6 @@
   flex-direction: column
   main
     flex: 1
+    padding-top: 70px
+    min-height: calc(100vh - 70px)
 </style>

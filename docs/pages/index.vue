@@ -2,7 +2,7 @@
 
 <script setup lang="ts">
 const router = useRouter()
-router.push('/qqnt')
+router.replace('/qqnt')
 </script>
 
 <style scoped lang="sass"></style>
