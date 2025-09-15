@@ -4,10 +4,11 @@ import {
   presetAttributify,
   presetTypography,
   transformerDirectives,
+  presetWind3,
+  presetWind4,
 } from 'unocss'
 import extractorPug from '@unocss/extractor-pug'
 import presetAnimations from 'unocss-preset-animations'
-import { presetShadcn } from 'unocss-preset-shadcn'
 
 const PROD =
   process.env.NODE_ENV === 'production' &&
@@ -15,9 +16,8 @@ const PROD =
 
 export default defineConfig({
   presets: [
-    presetUno(),
+    presetWind4(),
     presetAnimations(),
-    presetShadcn(),
     presetAttributify({
       prefix: 'uno:',
     }),
