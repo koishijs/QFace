@@ -319,6 +319,7 @@ declare global {
   export type { QqSysEmojiAssetType } from './types/QqSysEmoji'
   import('./types/QqSysEmoji')
 }
+
 // for vue template auto import
 import { UnwrapRef } from 'vue'
 declare module 'vue' {

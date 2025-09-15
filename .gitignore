@@ -130,3 +130,6 @@ dist
 .pnp.*
 
 .docs_dist
+
+.DS_Store
+.backup

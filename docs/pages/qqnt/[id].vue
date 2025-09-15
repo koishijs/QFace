@@ -54,7 +54,7 @@
           LottieViewer(
             :animation-link='item.path',
             :height='300',
-            :play-on-hover='lottieFiles.length > 1',
+            :play-on-hover='false',
             :width='300'
           )
           .text-center {{ item.name }}

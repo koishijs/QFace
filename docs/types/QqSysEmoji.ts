@@ -47,3 +47,18 @@ export enum QqSysEmojiAssetType {
 export interface QqSysEmojiWithAssets extends QqSysEmojiItem {
   assets: QqSysEmojiAsset[]
 }
+
+export interface QqNTSystemEmojiItem {
+  QSid: string
+  QCid?: `${number}`
+  QDes: string
+  IQLid: `${number}`
+  AQLid: `${number}`
+  EMCode: `${number}`
+  AniStickerType?: number
+  AniStickerPackId?: string
+  AniStickerId?: string
+  AniStickerWidth?: number
+  AniStickerHeight?: number
+  QHide?: '1'
+}

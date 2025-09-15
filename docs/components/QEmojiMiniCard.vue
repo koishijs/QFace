@@ -46,9 +46,7 @@ const getValidThumbImage = (emoji: QqSysEmojiWithAssets) => {
     .filter(Boolean)[0]
 }
 const src = computed(
-  () =>
-    getValidThumbImage(props.value)?.path ||
-    'assets/qq_emoji/thumbs/default.png'
+  () => getValidThumbImage(props.value)?.path || 'assets/default.png'
 )
 </script>
 
