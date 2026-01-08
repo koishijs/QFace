@@ -8730,6 +8730,43 @@
     ]
   },
   {
+    "emojiId": "450",
+    "describe": "",
+    "qzoneCode": "",
+    "qcid": 0,
+    "emojiType": 0,
+    "aniStickerPackId": 0,
+    "aniStickerId": 0,
+    "associateWords": [],
+    "isHide": false,
+    "startTime": "",
+    "endTime": "",
+    "animationWidth": 0,
+    "animationHeigh": 0,
+    "assets": [
+      {
+        "type": 0,
+        "name": "450_0.png",
+        "path": "assets/qq_emoji/450/png/450_0.png"
+      },
+      {
+        "type": 0,
+        "name": "450.png",
+        "path": "assets/qq_emoji/450/png/450.png"
+      },
+      {
+        "type": 2,
+        "name": "450.png",
+        "path": "assets/qq_emoji/450/apng/450.png"
+      },
+      {
+        "type": 3,
+        "name": "450.json",
+        "path": "assets/qq_emoji/450/lottie/450.json"
+      }
+    ]
+  },
+  {
     "emojiId": "451",
     "describe": "",
     "qzoneCode": "",
