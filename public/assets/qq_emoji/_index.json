@@ -8819,6 +8819,16 @@
     "animationHeigh": 0,
     "assets": [
       {
+        "type": 0,
+        "name": "452_0.png",
+        "path": "assets/qq_emoji/452/png/452_0.png"
+      },
+      {
+        "type": 0,
+        "name": "452.png",
+        "path": "assets/qq_emoji/452/png/452.png"
+      },
+      {
         "type": 2,
         "name": "452.png",
         "path": "assets/qq_emoji/452/apng/452.png"
