@@ -33,3 +33,4 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: .docs_dist
           publish_branch: docs
+          force_orphan: true
