@@ -329,6 +329,9 @@ declare global {
   // @ts-ignore
   export type { WechatNewEmojiItem, WechatNewEmojiConfig } from './types/WechatNewEmoji'
   import('./types/WechatNewEmoji')
+  // @ts-ignore
+  export type { GIFEncoder, quantize, applyPalette, GifEncoder } from './types/gifenc.d'
+  import('./types/gifenc.d')
 }
 
 // for vue template auto import

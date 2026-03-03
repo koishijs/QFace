@@ -47,39 +47,6 @@
       .emoji-preview
         .preview-container
           img(:alt='data.describe || "QQ Emoji"', :src='previewImage')
-        .preview-actions
-          button.action-btn(@click='downloadImage' v-if='previewImage')
-            svg(
-              fill='none'
-              height='16'
-              viewBox='0 0 24 24'
-              width='16'
-              xmlns='http://www.w3.org/2000/svg'
-            )
-              path(
-                d='M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4M7 10l5 5 5-5M12 15V3'
-                stroke='currentColor'
-                stroke-linecap='round'
-                stroke-linejoin='round'
-                stroke-width='2'
-              )
-            span 下载
-          button.action-btn(@click='copyImage' v-if='previewImage')
-            svg(
-              fill='none'
-              height='16'
-              viewBox='0 0 24 24'
-              width='16'
-              xmlns='http://www.w3.org/2000/svg'
-            )
-              path(
-                d='M16 4h2a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2h2M8 2h8v4H8V2z'
-                stroke='currentColor'
-                stroke-linecap='round'
-                stroke-linejoin='round'
-                stroke-width='2'
-              )
-            span 复制
       .emoji-info
         h1.emoji-title {{ data.describe?.replace(/^\//, '') || '[MISSING_DESCRIBE]' }}
         .emoji-meta
@@ -99,6 +66,77 @@
           .meta-item(v-if='data.animationWidth')
             .meta-label 动画尺寸
             .meta-value {{ data.animationWidth }} × {{ data.animationHeigh }}
+      .preview-actions
+        button.action-btn(@click='downloadImage' v-if='previewImage')
+          svg(
+            fill='none'
+            height='16'
+            viewBox='0 0 24 24'
+            width='16'
+            xmlns='http://www.w3.org/2000/svg'
+          )
+            path(
+              d='M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4M7 10l5 5 5-5M12 15V3'
+              stroke='currentColor'
+              stroke-linecap='round'
+              stroke-linejoin='round'
+              stroke-width='2'
+            )
+          span 下载
+        button.action-btn(
+          :class='{ "is-loading": isConvertingGif }'
+          :disabled='isConvertingGif'
+          :aria-busy='isConvertingGif ? "true" : "false"'
+          @click='convertApngToGif'
+          v-if='canConvertApngToGif'
+        )
+          svg(
+            v-if='isConvertingGif'
+            fill='none'
+            height='16'
+            viewBox='0 0 24 24'
+            width='16'
+            xmlns='http://www.w3.org/2000/svg'
+          )
+            path(
+              d='M21 12a9 9 0 1 1-6.219-8.56'
+              stroke='currentColor'
+              stroke-linecap='round'
+              stroke-linejoin='round'
+              stroke-width='2'
+            )
+          svg(
+            v-else
+            fill='none'
+            height='16'
+            viewBox='0 0 24 24'
+            width='16'
+            xmlns='http://www.w3.org/2000/svg'
+          )
+            path(
+              d='M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4M7 10l5 5 5-5M12 15V3'
+              stroke='currentColor'
+              stroke-linecap='round'
+              stroke-linejoin='round'
+              stroke-width='2'
+            )
+          span {{ isConvertingGif ? '转换中...' : '转GIF' }}
+        button.action-btn(@click='copyImage' v-if='previewImage')
+          svg(
+            fill='none'
+            height='16'
+            viewBox='0 0 24 24'
+            width='16'
+            xmlns='http://www.w3.org/2000/svg'
+          )
+            path(
+              d='M16 4h2a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2h2M8 2h8v4H8V2z'
+              stroke='currentColor'
+              stroke-linecap='round'
+              stroke-linejoin='round'
+              stroke-width='2'
+            )
+          span 复制
 
     .emoji-sections
       .section-card(v-if='data.associateWords?.length')
@@ -248,6 +286,98 @@ const lottieFiles = computed(() => {
   )
 })
 
+const isConvertingGif = ref(false)
+
+const apngAsset = computed(() => {
+  return (
+    data.value?.assets.find((item) => item.type === QqSysEmojiAssetType.APNG) ||
+    null
+  )
+})
+
+const hasGifAsset = computed(() => {
+  return (
+    data.value?.assets.some(
+      (item) => item.type === QqSysEmojiAssetType.THUMB_GIF
+    ) || false
+  )
+})
+
+const canConvertApngToGif = computed(() => {
+  return !!apngAsset.value && !hasGifAsset.value
+})
+
+let converterModulesPromise: Promise<{
+  parseAPNG: (buffer: ArrayBuffer) => any
+  GIFEncoder: () => {
+    writeFrame: (
+      index: Uint8Array,
+      width: number,
+      height: number,
+      opts?: {
+        palette?: number[][]
+        first?: boolean
+        transparent?: boolean
+        transparentIndex?: number
+        delay?: number
+        repeat?: number
+        dispose?: number
+      }
+    ) => void
+    finish: () => void
+    bytes: () => Uint8Array
+  }
+  quantize: (
+    rgba: Uint8Array | Uint8ClampedArray,
+    maxColors: number,
+    options?: {
+      format?: 'rgb565' | 'rgb444' | 'rgba4444'
+      oneBitAlpha?: boolean | number
+      clearAlpha?: boolean
+      clearAlphaThreshold?: number
+      clearAlphaColor?: number
+    }
+  ) => number[][]
+  applyPalette: (
+    rgba: Uint8Array | Uint8ClampedArray,
+    palette: number[][],
+    format?: 'rgb565' | 'rgb444' | 'rgba4444'
+  ) => Uint8Array
+}> | null = null
+
+async function loadConverterModules() {
+  if (!converterModulesPromise) {
+    converterModulesPromise = Promise.all([
+      import('apng-js'),
+      import('gifenc'),
+    ]).then(([apngModule, gifModule]) => {
+      const parseAPNG = (apngModule as any).default || apngModule
+      const GIFEncoder =
+        (gifModule as any).GIFEncoder ||
+        (gifModule as any).default?.GIFEncoder ||
+        (gifModule as any).default
+      const quantize =
+        (gifModule as any).quantize || (gifModule as any).default?.quantize
+      const applyPalette =
+        (gifModule as any).applyPalette ||
+        (gifModule as any).default?.applyPalette
+
+      if (!parseAPNG || !GIFEncoder || !quantize || !applyPalette) {
+        throw new Error('加载 APNG/GIF 转换模块失败')
+      }
+
+      return {
+        parseAPNG,
+        GIFEncoder,
+        quantize,
+        applyPalette,
+      }
+    })
+  }
+
+  return converterModulesPromise
+}
+
 const previewImage = computed(() => {
   const posibleThumb = [
     QqSysEmojiAssetType.APNG,
@@ -305,6 +435,90 @@ function downloadAsset(asset: any) {
   document.body.appendChild(link)
   link.click()
   document.body.removeChild(link)
+}
+
+function downloadBlob(blob: Blob, fileName: string) {
+  const url = URL.createObjectURL(blob)
+  const link = document.createElement('a')
+  link.href = url
+  link.download = fileName
+  document.body.appendChild(link)
+  link.click()
+  document.body.removeChild(link)
+  URL.revokeObjectURL(url)
+}
+
+async function convertApngToGif() {
+  if (!canConvertApngToGif.value || !apngAsset.value || isConvertingGif.value) {
+    return
+  }
+
+  isConvertingGif.value = true
+  try {
+    const { parseAPNG, GIFEncoder, quantize, applyPalette } =
+      await loadConverterModules()
+    const response = await fetch(apngAsset.value.path)
+    const apngBuffer = await response.arrayBuffer()
+    const apng = parseAPNG(apngBuffer)
+
+    if (apng instanceof Error) {
+      throw apng
+    }
+
+    const canvas = document.createElement('canvas')
+    canvas.width = apng.width
+    canvas.height = apng.height
+    const context = canvas.getContext('2d', { willReadFrequently: true })
+
+    if (!context) {
+      throw new Error('无法初始化 Canvas 上下文')
+    }
+
+    const player = await apng.getPlayer(context, false)
+    const gif = GIFEncoder()
+    for (let index = 0; index < apng.frames.length; index++) {
+      if (index > 0) {
+        player.renderNextFrame()
+      }
+
+      const frame = apng.frames[index]
+      const imageData = context.getImageData(0, 0, apng.width, apng.height)
+      const rgba = new Uint8Array(imageData.data)
+      const palette = quantize(rgba, 256, {
+        format: 'rgba4444',
+        oneBitAlpha: true,
+      })
+      const indexedFrame = applyPalette(rgba, palette, 'rgba4444')
+      const delay = Math.max(20, Math.round(frame?.delay || 100))
+      const options: {
+        palette: number[][]
+        delay: number
+        transparent: boolean
+        transparentIndex: number
+        repeat?: number
+      } = {
+        palette,
+        delay,
+        transparent: true,
+        transparentIndex: 0,
+      }
+      if (index === 0) {
+        options.repeat = 0
+      }
+
+      gif.writeFrame(indexedFrame, apng.width, apng.height, options)
+    }
+
+    gif.finish()
+    const gifBytes = gif.bytes()
+    const fileName = `${data.value?.emojiId || 'emoji'}.gif`
+    downloadBlob(new Blob([gifBytes], { type: 'image/gif' }), fileName)
+  } catch (err) {
+    console.error('APNG 转 GIF 失败:', err)
+    window.alert('APNG 转 GIF 失败，请稍后重试')
+  } finally {
+    isConvertingGif.value = false
+  }
 }
 
 function downloadLottie(file: any) {
@@ -426,8 +640,8 @@ onMounted(() => {
 
 .emoji-preview
   display: flex
-  flex-direction: column
-  gap: 20px
+  align-items: center
+  justify-content: center
 
 .preview-container
   width: 200px
@@ -448,6 +662,10 @@ onMounted(() => {
 .preview-actions
   display: flex
   gap: 12px
+  grid-column: 1 / -1
+  padding-top: 20px
+  margin-top: 4px
+  border-top: 1px solid var(--border-color)
 
 .action-btn
   flex: 1
@@ -468,6 +686,21 @@ onMounted(() => {
     background: var(--primary-gradient)
     color: white
     transform: translateY(-2px)
+
+  &:disabled
+    opacity: 0.6
+    cursor: not-allowed
+
+  &:disabled:hover
+    background: var(--background-hover)
+    color: var(--text-primary)
+    transform: none
+
+  &.is-loading svg
+    animation: spin 0.9s linear infinite
+
+  span
+    white-space: nowrap
 
 .emoji-info
   display: flex
@@ -763,8 +996,8 @@ onMounted(() => {
     gap: 32px
     text-align: center
 
-  .emoji-preview
-    align-items: center
+  .preview-actions
+    padding-top: 12px
 
 @media (max-width: 768px)
   .emoji-detail-content
@@ -772,6 +1005,12 @@ onMounted(() => {
 
   .emoji-header
     padding: 24px
+
+  .preview-actions
+    flex-wrap: wrap
+
+  .action-btn
+    flex: 1 1 calc(50% - 6px)
 
   .emoji-title
     font-size: 24px

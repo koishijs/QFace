@@ -61,6 +61,8 @@
   ],
   "packageManager": "pnpm@10.16.1",
   "dependencies": {
+    "apng-js": "^1.1.5",
+    "gifenc": "^1.0.3",
     "lottie-web": "^5.13.0",
     "lucide-vue-next": "^0.544.0",
     "tailwindcss-animate": "^1.0.7",
