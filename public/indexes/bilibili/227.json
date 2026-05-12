@@ -1,0 +1,232 @@
+{
+  "id": "227",
+  "name": "乙女音",
+  "coverUrl": "http://i0.hdslb.com/bfs/emote/0b45ffa789e6fb2d8dc6dadf12c7d922a476e5bd.png",
+  "emojis": [
+    {
+      "id": "3970",
+      "description": "乙女音_5000兆円",
+      "shortCodes": [
+        "[乙女音_5000兆円]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/227/3970.png",
+      "isHide": false,
+      "packageId": "227",
+      "meta": {
+        "packageName": "乙女音",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/0b45ffa789e6fb2d8dc6dadf12c7d922a476e5bd.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/8c83a6a9cb36dd7257f1c59af0845d62f78c5764.png"
+      }
+    },
+    {
+      "id": "3981",
+      "description": "乙女音_喜欢",
+      "shortCodes": [
+        "[乙女音_喜欢]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/227/3981.png",
+      "isHide": false,
+      "packageId": "227",
+      "meta": {
+        "packageName": "乙女音",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/0b45ffa789e6fb2d8dc6dadf12c7d922a476e5bd.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/6205cbc46d8e346acf433703eb63f70c7bca588c.png"
+      }
+    },
+    {
+      "id": "3973",
+      "description": "乙女音_好人",
+      "shortCodes": [
+        "[乙女音_好人]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/227/3973.png",
+      "isHide": false,
+      "packageId": "227",
+      "meta": {
+        "packageName": "乙女音",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/0b45ffa789e6fb2d8dc6dadf12c7d922a476e5bd.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/5cce382dbbf6751650a600e440e53005d1d96955.png"
+      }
+    },
+    {
+      "id": "3979",
+      "description": "乙女音_谢谢",
+      "shortCodes": [
+        "[乙女音_谢谢]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/227/3979.png",
+      "isHide": false,
+      "packageId": "227",
+      "meta": {
+        "packageName": "乙女音",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/0b45ffa789e6fb2d8dc6dadf12c7d922a476e5bd.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/ac7ffc001431ab15177f87a5aedeec59500cff54.png"
+      }
+    },
+    {
+      "id": "3974",
+      "description": "乙女音_好耶",
+      "shortCodes": [
+        "[乙女音_好耶]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/227/3974.png",
+      "isHide": false,
+      "packageId": "227",
+      "meta": {
+        "packageName": "乙女音",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/0b45ffa789e6fb2d8dc6dadf12c7d922a476e5bd.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/b9696a0c50c0b2db2dc95e84afdb47b8ec374684.png"
+      }
+    },
+    {
+      "id": "3975",
+      "description": "乙女音_很行",
+      "shortCodes": [
+        "[乙女音_很行]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/227/3975.png",
+      "isHide": false,
+      "packageId": "227",
+      "meta": {
+        "packageName": "乙女音",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/0b45ffa789e6fb2d8dc6dadf12c7d922a476e5bd.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/61f3590c09820a6b5ee7735f4daa904839e17f25.png"
+      }
+    },
+    {
+      "id": "3976",
+      "description": "乙女音_理解",
+      "shortCodes": [
+        "[乙女音_理解]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/227/3976.png",
+      "isHide": false,
+      "packageId": "227",
+      "meta": {
+        "packageName": "乙女音",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/0b45ffa789e6fb2d8dc6dadf12c7d922a476e5bd.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/9d02dd3814f1199d9541d435e5e2818c53cd2082.png"
+      }
+    },
+    {
+      "id": "3977",
+      "description": "乙女音_柠檬",
+      "shortCodes": [
+        "[乙女音_柠檬]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/227/3977.png",
+      "isHide": false,
+      "packageId": "227",
+      "meta": {
+        "packageName": "乙女音",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/0b45ffa789e6fb2d8dc6dadf12c7d922a476e5bd.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/323fbe7a916f101528799bf46afc2643c0818bb0.png"
+      }
+    },
+    {
+      "id": "3972",
+      "description": "乙女音_对不起",
+      "shortCodes": [
+        "[乙女音_对不起]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/227/3972.png",
+      "isHide": false,
+      "packageId": "227",
+      "meta": {
+        "packageName": "乙女音",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/0b45ffa789e6fb2d8dc6dadf12c7d922a476e5bd.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/2b4029232853ad2a792e0ee6edd9afe4958aff72.png"
+      }
+    },
+    {
+      "id": "3971",
+      "description": "乙女音_打咩",
+      "shortCodes": [
+        "[乙女音_打咩]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/227/3971.png",
+      "isHide": false,
+      "packageId": "227",
+      "meta": {
+        "packageName": "乙女音",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/0b45ffa789e6fb2d8dc6dadf12c7d922a476e5bd.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/bbda5c75fe41891de2fcf355247c2f32ffc1d6e8.png"
+      }
+    },
+    {
+      "id": "3978",
+      "description": "乙女音_生气",
+      "shortCodes": [
+        "[乙女音_生气]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/227/3978.png",
+      "isHide": false,
+      "packageId": "227",
+      "meta": {
+        "packageName": "乙女音",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/0b45ffa789e6fb2d8dc6dadf12c7d922a476e5bd.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/6e3d9e5e6a1349ca38d1f71fadb565ce8bc91752.png"
+      }
+    },
+    {
+      "id": "3980",
+      "description": "乙女音_晚安",
+      "shortCodes": [
+        "[乙女音_晚安]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/227/3980.png",
+      "isHide": false,
+      "packageId": "227",
+      "meta": {
+        "packageName": "乙女音",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/0b45ffa789e6fb2d8dc6dadf12c7d922a476e5bd.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/74f7c81a46483d8bea9cb649ad132f9c0b20ea23.png"
+      }
+    },
+    {
+      "id": "3982",
+      "description": "乙女音_嘻嘻",
+      "shortCodes": [
+        "[乙女音_嘻嘻]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/227/3982.png",
+      "isHide": false,
+      "packageId": "227",
+      "meta": {
+        "packageName": "乙女音",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/0b45ffa789e6fb2d8dc6dadf12c7d922a476e5bd.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/949adacac974513562ed9a469ebde67b1ba07809.png"
+      }
+    },
+    {
+      "id": "3983",
+      "description": "乙女音_原来如此",
+      "shortCodes": [
+        "[乙女音_原来如此]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/227/3983.png",
+      "isHide": false,
+      "packageId": "227",
+      "meta": {
+        "packageName": "乙女音",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/0b45ffa789e6fb2d8dc6dadf12c7d922a476e5bd.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/f8da5bcbd21ae1d625cb4937e20b5ccaa9ebcf08.png"
+      }
+    },
+    {
+      "id": "3984",
+      "description": "乙女音_震撼",
+      "shortCodes": [
+        "[乙女音_震撼]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/227/3984.png",
+      "isHide": false,
+      "packageId": "227",
+      "meta": {
+        "packageName": "乙女音",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/0b45ffa789e6fb2d8dc6dadf12c7d922a476e5bd.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/d9602fc5f13c648c9d0d78199565fa6d96368f35.png"
+      }
+    }
+  ]
+}

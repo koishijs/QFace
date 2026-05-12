@@ -1,0 +1,307 @@
+{
+  "id": "489",
+  "name": "Muse Dash",
+  "coverUrl": "http://i0.hdslb.com/bfs/emote/5fac1e720871bffe101e9d822b1229da4f41bacf.png",
+  "emojis": [
+    {
+      "id": "8678",
+      "description": "Muse Dash_FC",
+      "shortCodes": [
+        "[Muse Dash_FC]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/489/8678.png",
+      "isHide": false,
+      "packageId": "489",
+      "meta": {
+        "packageName": "Muse Dash",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/5fac1e720871bffe101e9d822b1229da4f41bacf.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/5485b683e06197ce4e05be9457d1976c2b94bd05.png"
+      }
+    },
+    {
+      "id": "8679",
+      "description": "Muse Dash_GREAT",
+      "shortCodes": [
+        "[Muse Dash_GREAT]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/489/8679.png",
+      "isHide": false,
+      "packageId": "489",
+      "meta": {
+        "packageName": "Muse Dash",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/5fac1e720871bffe101e9d822b1229da4f41bacf.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/9083821c47f1b620dda42bf64d9f0fa52e03e540.png"
+      }
+    },
+    {
+      "id": "8680",
+      "description": "Muse Dash_爱了爱了",
+      "shortCodes": [
+        "[Muse Dash_爱了爱了]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/489/8680.png",
+      "isHide": false,
+      "packageId": "489",
+      "meta": {
+        "packageName": "Muse Dash",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/5fac1e720871bffe101e9d822b1229da4f41bacf.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/4867ad8665f57785f06e78d890e40619e9174d8d.png"
+      }
+    },
+    {
+      "id": "8681",
+      "description": "Muse Dash_暗中观察",
+      "shortCodes": [
+        "[Muse Dash_暗中观察]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/489/8681.png",
+      "isHide": false,
+      "packageId": "489",
+      "meta": {
+        "packageName": "Muse Dash",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/5fac1e720871bffe101e9d822b1229da4f41bacf.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/f1857af64bf1236436b789a8309ec0caff5c1786.png"
+      }
+    },
+    {
+      "id": "8682",
+      "description": "Muse Dash_比心",
+      "shortCodes": [
+        "[Muse Dash_比心]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/489/8682.png",
+      "isHide": false,
+      "packageId": "489",
+      "meta": {
+        "packageName": "Muse Dash",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/5fac1e720871bffe101e9d822b1229da4f41bacf.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/b25a2a25a7da8dc3d42d13b31dc2023913398100.png"
+      }
+    },
+    {
+      "id": "8683",
+      "description": "Muse Dash_吃瓜",
+      "shortCodes": [
+        "[Muse Dash_吃瓜]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/489/8683.png",
+      "isHide": false,
+      "packageId": "489",
+      "meta": {
+        "packageName": "Muse Dash",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/5fac1e720871bffe101e9d822b1229da4f41bacf.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/309a2e3de65d4ad58df6eea7e70c91104828fa75.png"
+      }
+    },
+    {
+      "id": "8684",
+      "description": "Muse Dash_打call",
+      "shortCodes": [
+        "[Muse Dash_打call]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/489/8684.png",
+      "isHide": false,
+      "packageId": "489",
+      "meta": {
+        "packageName": "Muse Dash",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/5fac1e720871bffe101e9d822b1229da4f41bacf.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/cf23f5a36b40da67cb5dfce468bf5dad2612d19d.png"
+      }
+    },
+    {
+      "id": "8685",
+      "description": "Muse Dash_大受震撼",
+      "shortCodes": [
+        "[Muse Dash_大受震撼]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/489/8685.png",
+      "isHide": false,
+      "packageId": "489",
+      "meta": {
+        "packageName": "Muse Dash",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/5fac1e720871bffe101e9d822b1229da4f41bacf.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/22a1cabe13582979410679156e297e1caf80a886.png"
+      }
+    },
+    {
+      "id": "8686",
+      "description": "Muse Dash_好耶",
+      "shortCodes": [
+        "[Muse Dash_好耶]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/489/8686.png",
+      "isHide": false,
+      "packageId": "489",
+      "meta": {
+        "packageName": "Muse Dash",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/5fac1e720871bffe101e9d822b1229da4f41bacf.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/b9ada59467e56613a676fddb9516ca4476e43711.png"
+      }
+    },
+    {
+      "id": "8687",
+      "description": "Muse Dash_哼",
+      "shortCodes": [
+        "[Muse Dash_哼]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/489/8687.png",
+      "isHide": false,
+      "packageId": "489",
+      "meta": {
+        "packageName": "Muse Dash",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/5fac1e720871bffe101e9d822b1229da4f41bacf.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/70a58c93afa0860f253ddf14331eb2d82ebff6d3.png"
+      }
+    },
+    {
+      "id": "8688",
+      "description": "Muse Dash_摸鱼",
+      "shortCodes": [
+        "[Muse Dash_摸鱼]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/489/8688.png",
+      "isHide": false,
+      "packageId": "489",
+      "meta": {
+        "packageName": "Muse Dash",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/5fac1e720871bffe101e9d822b1229da4f41bacf.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/157a80663bd4e413049aa4f453fca328795a34a2.png"
+      }
+    },
+    {
+      "id": "8689",
+      "description": "Muse Dash_欧拉欧拉",
+      "shortCodes": [
+        "[Muse Dash_欧拉欧拉]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/489/8689.png",
+      "isHide": false,
+      "packageId": "489",
+      "meta": {
+        "packageName": "Muse Dash",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/5fac1e720871bffe101e9d822b1229da4f41bacf.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/2c790b24f188953d43cd51124967f9ee3aff5baf.png"
+      }
+    },
+    {
+      "id": "8690",
+      "description": "Muse Dash_起飞",
+      "shortCodes": [
+        "[Muse Dash_起飞]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/489/8690.png",
+      "isHide": false,
+      "packageId": "489",
+      "meta": {
+        "packageName": "Muse Dash",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/5fac1e720871bffe101e9d822b1229da4f41bacf.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/ecaedb8c7e4ce85e9ac3a529600633db35977f34.png"
+      }
+    },
+    {
+      "id": "8691",
+      "description": "Muse Dash_恰柠檬",
+      "shortCodes": [
+        "[Muse Dash_恰柠檬]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/489/8691.png",
+      "isHide": false,
+      "packageId": "489",
+      "meta": {
+        "packageName": "Muse Dash",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/5fac1e720871bffe101e9d822b1229da4f41bacf.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/9342fcd2356190ec3df40c0d6c3378b60f9d3c9a.png"
+      }
+    },
+    {
+      "id": "8692",
+      "description": "Muse Dash_上工",
+      "shortCodes": [
+        "[Muse Dash_上工]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/489/8692.png",
+      "isHide": false,
+      "packageId": "489",
+      "meta": {
+        "packageName": "Muse Dash",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/5fac1e720871bffe101e9d822b1229da4f41bacf.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/260212931cadd002b3f44a4f8ce3a3536df53d5a.png"
+      }
+    },
+    {
+      "id": "8693",
+      "description": "Muse Dash_我不理解",
+      "shortCodes": [
+        "[Muse Dash_我不理解]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/489/8693.png",
+      "isHide": false,
+      "packageId": "489",
+      "meta": {
+        "packageName": "Muse Dash",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/5fac1e720871bffe101e9d822b1229da4f41bacf.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/5ed2ac45f25dbfd92e38a7aaba18a913c30c01d2.png"
+      }
+    },
+    {
+      "id": "8694",
+      "description": "Muse Dash_呜呜",
+      "shortCodes": [
+        "[Muse Dash_呜呜]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/489/8694.png",
+      "isHide": false,
+      "packageId": "489",
+      "meta": {
+        "packageName": "Muse Dash",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/5fac1e720871bffe101e9d822b1229da4f41bacf.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/754d81cdd2f44201f55a07e23cbbd26c0203e753.png"
+      }
+    },
+    {
+      "id": "8695",
+      "description": "Muse Dash_下次一定",
+      "shortCodes": [
+        "[Muse Dash_下次一定]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/489/8695.png",
+      "isHide": false,
+      "packageId": "489",
+      "meta": {
+        "packageName": "Muse Dash",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/5fac1e720871bffe101e9d822b1229da4f41bacf.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/d91c2576e4e00183dad4092338eac1a712d76af2.png"
+      }
+    },
+    {
+      "id": "8696",
+      "description": "Muse Dash_怎么会事",
+      "shortCodes": [
+        "[Muse Dash_怎么会事]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/489/8696.png",
+      "isHide": false,
+      "packageId": "489",
+      "meta": {
+        "packageName": "Muse Dash",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/5fac1e720871bffe101e9d822b1229da4f41bacf.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/b830b0ab1d97a56329a34d24e5a52cce536b3f15.png"
+      }
+    },
+    {
+      "id": "8697",
+      "description": "Muse Dash_www",
+      "shortCodes": [
+        "[Muse Dash_www]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/489/8697.png",
+      "isHide": false,
+      "packageId": "489",
+      "meta": {
+        "packageName": "Muse Dash",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/5fac1e720871bffe101e9d822b1229da4f41bacf.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/e8969fe63985ff20ece0284844e8035b3bac0d7b.png"
+      }
+    }
+  ]
+}

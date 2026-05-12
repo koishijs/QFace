@@ -1,0 +1,157 @@
+{
+  "id": "287",
+  "name": "少年歌行",
+  "coverUrl": "http://i0.hdslb.com/bfs/emote/d0f5112d951cc3dc46b579a41d59dbb2f6f22024.png",
+  "emojis": [
+    {
+      "id": "4762",
+      "description": "少年歌行_no",
+      "shortCodes": [
+        "[少年歌行_no]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/287/4762.png",
+      "isHide": false,
+      "packageId": "287",
+      "meta": {
+        "packageName": "少年歌行",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/d0f5112d951cc3dc46b579a41d59dbb2f6f22024.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/b6c8d0734c49d1afeed6cd400a2152f9a3b8d4a8.png"
+      }
+    },
+    {
+      "id": "4763",
+      "description": "少年歌行_yes",
+      "shortCodes": [
+        "[少年歌行_yes]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/287/4763.png",
+      "isHide": false,
+      "packageId": "287",
+      "meta": {
+        "packageName": "少年歌行",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/d0f5112d951cc3dc46b579a41d59dbb2f6f22024.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/dd5567425f07887c7236d62418dee1b7e4a48f30.png"
+      }
+    },
+    {
+      "id": "4764",
+      "description": "少年歌行_比心",
+      "shortCodes": [
+        "[少年歌行_比心]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/287/4764.png",
+      "isHide": false,
+      "packageId": "287",
+      "meta": {
+        "packageName": "少年歌行",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/d0f5112d951cc3dc46b579a41d59dbb2f6f22024.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/d24445f0973d9c1bb1ca296bc5599f91d1597f8e.png"
+      }
+    },
+    {
+      "id": "4765",
+      "description": "少年歌行_馋",
+      "shortCodes": [
+        "[少年歌行_馋]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/287/4765.png",
+      "isHide": false,
+      "packageId": "287",
+      "meta": {
+        "packageName": "少年歌行",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/d0f5112d951cc3dc46b579a41d59dbb2f6f22024.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/6d31bd0e1c48c88a02abc22122af1a1e65de339b.png"
+      }
+    },
+    {
+      "id": "4766",
+      "description": "少年歌行_冲鸭",
+      "shortCodes": [
+        "[少年歌行_冲鸭]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/287/4766.png",
+      "isHide": false,
+      "packageId": "287",
+      "meta": {
+        "packageName": "少年歌行",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/d0f5112d951cc3dc46b579a41d59dbb2f6f22024.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/c9c090570ee4db2f6804f551292302874cf2b180.png"
+      }
+    },
+    {
+      "id": "4767",
+      "description": "少年歌行_戳",
+      "shortCodes": [
+        "[少年歌行_戳]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/287/4767.png",
+      "isHide": false,
+      "packageId": "287",
+      "meta": {
+        "packageName": "少年歌行",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/d0f5112d951cc3dc46b579a41d59dbb2f6f22024.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/4eae9883b13d631f31f88bd6d78df5683dc36c45.png"
+      }
+    },
+    {
+      "id": "4768",
+      "description": "少年歌行_泪目",
+      "shortCodes": [
+        "[少年歌行_泪目]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/287/4768.png",
+      "isHide": false,
+      "packageId": "287",
+      "meta": {
+        "packageName": "少年歌行",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/d0f5112d951cc3dc46b579a41d59dbb2f6f22024.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/6cceeb74f045c6cb52d87385f2748a028318cd06.png"
+      }
+    },
+    {
+      "id": "4769",
+      "description": "少年歌行_亿点点",
+      "shortCodes": [
+        "[少年歌行_亿点点]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/287/4769.png",
+      "isHide": false,
+      "packageId": "287",
+      "meta": {
+        "packageName": "少年歌行",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/d0f5112d951cc3dc46b579a41d59dbb2f6f22024.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/d98497a07970a52d5d921f693b6f61cee161d251.png"
+      }
+    },
+    {
+      "id": "4770",
+      "description": "少年歌行_元气满满",
+      "shortCodes": [
+        "[少年歌行_元气满满]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/287/4770.png",
+      "isHide": false,
+      "packageId": "287",
+      "meta": {
+        "packageName": "少年歌行",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/d0f5112d951cc3dc46b579a41d59dbb2f6f22024.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/da4d96c0840f3cb89f5a6d63f76322eae5c73d6d.png"
+      }
+    },
+    {
+      "id": "4771",
+      "description": "少年歌行_在吗",
+      "shortCodes": [
+        "[少年歌行_在吗]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/287/4771.png",
+      "isHide": false,
+      "packageId": "287",
+      "meta": {
+        "packageName": "少年歌行",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/d0f5112d951cc3dc46b579a41d59dbb2f6f22024.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/4c664cedcc139c6f804dc67bcd8808e64af1662f.png"
+      }
+    }
+  ]
+}

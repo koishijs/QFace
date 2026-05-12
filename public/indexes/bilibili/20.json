@@ -1,0 +1,307 @@
+{
+  "id": "20",
+  "name": "狐妖",
+  "coverUrl": "http://i0.hdslb.com/bfs/emote/8ef84c906cdf2f53e2b49dfca072179bb7679c7e.png",
+  "emojis": [
+    {
+      "id": "391",
+      "description": "狐妖_不服憋着",
+      "shortCodes": [
+        "[狐妖_不服憋着]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/20/391.png",
+      "isHide": false,
+      "packageId": "20",
+      "meta": {
+        "packageName": "狐妖",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/8ef84c906cdf2f53e2b49dfca072179bb7679c7e.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/d3633ea35afac42d46679a3d31775a9860e63c2d.png"
+      }
+    },
+    {
+      "id": "392",
+      "description": "狐妖_吃瓜",
+      "shortCodes": [
+        "[狐妖_吃瓜]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/20/392.png",
+      "isHide": false,
+      "packageId": "20",
+      "meta": {
+        "packageName": "狐妖",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/8ef84c906cdf2f53e2b49dfca072179bb7679c7e.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/8c5ad49f83b29262e2e785124bec6651670ae36b.png"
+      }
+    },
+    {
+      "id": "393",
+      "description": "狐妖_不明嚼栗",
+      "shortCodes": [
+        "[狐妖_不明嚼栗]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/20/393.png",
+      "isHide": false,
+      "packageId": "20",
+      "meta": {
+        "packageName": "狐妖",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/8ef84c906cdf2f53e2b49dfca072179bb7679c7e.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/71601899fe445454c3593e7d82e4ea01f980b230.png"
+      }
+    },
+    {
+      "id": "394",
+      "description": "狐妖_抽打",
+      "shortCodes": [
+        "[狐妖_抽打]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/20/394.png",
+      "isHide": false,
+      "packageId": "20",
+      "meta": {
+        "packageName": "狐妖",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/8ef84c906cdf2f53e2b49dfca072179bb7679c7e.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/43bb8e363f6c94c97a396a68852c8f2182651fc0.png"
+      }
+    },
+    {
+      "id": "395",
+      "description": "狐妖_吃我安利",
+      "shortCodes": [
+        "[狐妖_吃我安利]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/20/395.png",
+      "isHide": false,
+      "packageId": "20",
+      "meta": {
+        "packageName": "狐妖",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/8ef84c906cdf2f53e2b49dfca072179bb7679c7e.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/3a0bf7d0320a84002ea8b4907e6c3baa97ec0dd0.png"
+      }
+    },
+    {
+      "id": "396",
+      "description": "狐妖_伐开心",
+      "shortCodes": [
+        "[狐妖_伐开心]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/20/396.png",
+      "isHide": false,
+      "packageId": "20",
+      "meta": {
+        "packageName": "狐妖",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/8ef84c906cdf2f53e2b49dfca072179bb7679c7e.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/01f6b69d1f69e8ea879569827e7363f4da630cba.png"
+      }
+    },
+    {
+      "id": "397",
+      "description": "狐妖_惊",
+      "shortCodes": [
+        "[狐妖_惊]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/20/397.png",
+      "isHide": false,
+      "packageId": "20",
+      "meta": {
+        "packageName": "狐妖",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/8ef84c906cdf2f53e2b49dfca072179bb7679c7e.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/e1c6e6aca03b634f32bc71762015c44431dafd74.png"
+      }
+    },
+    {
+      "id": "398",
+      "description": "狐妖_大笑",
+      "shortCodes": [
+        "[狐妖_大笑]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/20/398.png",
+      "isHide": false,
+      "packageId": "20",
+      "meta": {
+        "packageName": "狐妖",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/8ef84c906cdf2f53e2b49dfca072179bb7679c7e.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/38bc9f4e39c2ec9d7442f2d67e13092fd535846b.png"
+      }
+    },
+    {
+      "id": "399",
+      "description": "狐妖_震惊",
+      "shortCodes": [
+        "[狐妖_震惊]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/20/399.png",
+      "isHide": false,
+      "packageId": "20",
+      "meta": {
+        "packageName": "狐妖",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/8ef84c906cdf2f53e2b49dfca072179bb7679c7e.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/83361a40f6fd010e6da88825aa27320189ad2df5.png"
+      }
+    },
+    {
+      "id": "400",
+      "description": "狐妖_脸红",
+      "shortCodes": [
+        "[狐妖_脸红]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/20/400.png",
+      "isHide": false,
+      "packageId": "20",
+      "meta": {
+        "packageName": "狐妖",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/8ef84c906cdf2f53e2b49dfca072179bb7679c7e.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/79175b3bc469061020d15114e22ac261b0668819.png"
+      }
+    },
+    {
+      "id": "401",
+      "description": "狐妖_冷漠",
+      "shortCodes": [
+        "[狐妖_冷漠]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/20/401.png",
+      "isHide": false,
+      "packageId": "20",
+      "meta": {
+        "packageName": "狐妖",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/8ef84c906cdf2f53e2b49dfca072179bb7679c7e.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/842b69b5c3e98d11292edd4f4cf6abb8504c18bc.png"
+      }
+    },
+    {
+      "id": "402",
+      "description": "狐妖_哭",
+      "shortCodes": [
+        "[狐妖_哭]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/20/402.png",
+      "isHide": false,
+      "packageId": "20",
+      "meta": {
+        "packageName": "狐妖",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/8ef84c906cdf2f53e2b49dfca072179bb7679c7e.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/29de352176c8ead5b301212aa61facb5e3abcd55.png"
+      }
+    },
+    {
+      "id": "403",
+      "description": "狐妖_目瞪口呆",
+      "shortCodes": [
+        "[狐妖_目瞪口呆]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/20/403.png",
+      "isHide": false,
+      "packageId": "20",
+      "meta": {
+        "packageName": "狐妖",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/8ef84c906cdf2f53e2b49dfca072179bb7679c7e.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/c75e6841c81a5c020971debe394334d8b2700151.png"
+      }
+    },
+    {
+      "id": "404",
+      "description": "狐妖_前排",
+      "shortCodes": [
+        "[狐妖_前排]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/20/404.png",
+      "isHide": false,
+      "packageId": "20",
+      "meta": {
+        "packageName": "狐妖",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/8ef84c906cdf2f53e2b49dfca072179bb7679c7e.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/4d2702f9383dec00c7c77ff026768c3ddaaf6d60.png"
+      }
+    },
+    {
+      "id": "405",
+      "description": "狐妖_沙发",
+      "shortCodes": [
+        "[狐妖_沙发]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/20/405.png",
+      "isHide": false,
+      "packageId": "20",
+      "meta": {
+        "packageName": "狐妖",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/8ef84c906cdf2f53e2b49dfca072179bb7679c7e.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/5ff883da9618dfd9740256e569279244bbff03b1.png"
+      }
+    },
+    {
+      "id": "406",
+      "description": "狐妖_掀桌",
+      "shortCodes": [
+        "[狐妖_掀桌]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/20/406.png",
+      "isHide": false,
+      "packageId": "20",
+      "meta": {
+        "packageName": "狐妖",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/8ef84c906cdf2f53e2b49dfca072179bb7679c7e.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/f0917c6d982a86c2ab02c979359226f761581c37.png"
+      }
+    },
+    {
+      "id": "407",
+      "description": "狐妖_心",
+      "shortCodes": [
+        "[狐妖_心]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/20/407.png",
+      "isHide": false,
+      "packageId": "20",
+      "meta": {
+        "packageName": "狐妖",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/8ef84c906cdf2f53e2b49dfca072179bb7679c7e.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/77123fd85c11478b46d762a1c8553328013637ef.png"
+      }
+    },
+    {
+      "id": "408",
+      "description": "狐妖_晕",
+      "shortCodes": [
+        "[狐妖_晕]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/20/408.png",
+      "isHide": false,
+      "packageId": "20",
+      "meta": {
+        "packageName": "狐妖",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/8ef84c906cdf2f53e2b49dfca072179bb7679c7e.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/64702d1fc92c44e8aaa39ffdacdc87aaa6d38d3d.png"
+      }
+    },
+    {
+      "id": "409",
+      "description": "狐妖_吃药",
+      "shortCodes": [
+        "[狐妖_吃药]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/20/409.png",
+      "isHide": false,
+      "packageId": "20",
+      "meta": {
+        "packageName": "狐妖",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/8ef84c906cdf2f53e2b49dfca072179bb7679c7e.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/059d810cbc5ad4df4f9bbf08e44643b022a2354f.png"
+      }
+    },
+    {
+      "id": "410",
+      "description": "狐妖_mdzz",
+      "shortCodes": [
+        "[狐妖_mdzz]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/20/410.png",
+      "isHide": false,
+      "packageId": "20",
+      "meta": {
+        "packageName": "狐妖",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/8ef84c906cdf2f53e2b49dfca072179bb7679c7e.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/e68fd21a5bcfa50b6d45f2a8f5926f992f484ae3.png"
+      }
+    }
+  ]
+}

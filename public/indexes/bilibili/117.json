@@ -1,0 +1,157 @@
+{
+  "id": "117",
+  "name": "元龙",
+  "coverUrl": "http://i0.hdslb.com/bfs/emote/92afa3a99ce86ec5eed0832db9c0aacd9e2c7494.png",
+  "emojis": [
+    {
+      "id": "2432",
+      "description": "元龙_嘲讽",
+      "shortCodes": [
+        "[元龙_嘲讽]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/117/2432.png",
+      "isHide": false,
+      "packageId": "117",
+      "meta": {
+        "packageName": "元龙",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/92afa3a99ce86ec5eed0832db9c0aacd9e2c7494.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/4e6916a48a28c35e6ccf0bcf117fe131d8da247a.png"
+      }
+    },
+    {
+      "id": "2433",
+      "description": "元龙_偷笑",
+      "shortCodes": [
+        "[元龙_偷笑]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/117/2433.png",
+      "isHide": false,
+      "packageId": "117",
+      "meta": {
+        "packageName": "元龙",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/92afa3a99ce86ec5eed0832db9c0aacd9e2c7494.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/f2d1b3369cd101c7e76b9e622c52946e12eab8e7.png"
+      }
+    },
+    {
+      "id": "2434",
+      "description": "元龙_生气",
+      "shortCodes": [
+        "[元龙_生气]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/117/2434.png",
+      "isHide": false,
+      "packageId": "117",
+      "meta": {
+        "packageName": "元龙",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/92afa3a99ce86ec5eed0832db9c0aacd9e2c7494.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/839729a7cf43d960d4c0a0c57386f6ad3ec8929d.png"
+      }
+    },
+    {
+      "id": "2435",
+      "description": "元龙_哭哭",
+      "shortCodes": [
+        "[元龙_哭哭]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/117/2435.png",
+      "isHide": false,
+      "packageId": "117",
+      "meta": {
+        "packageName": "元龙",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/92afa3a99ce86ec5eed0832db9c0aacd9e2c7494.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/bd017024114ddccbe78e91d513fdde2fc2137ed3.png"
+      }
+    },
+    {
+      "id": "2436",
+      "description": "元龙_嫌弃",
+      "shortCodes": [
+        "[元龙_嫌弃]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/117/2436.png",
+      "isHide": false,
+      "packageId": "117",
+      "meta": {
+        "packageName": "元龙",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/92afa3a99ce86ec5eed0832db9c0aacd9e2c7494.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/9705f85463bde8e1f8be939a5caaed2f82ad096b.png"
+      }
+    },
+    {
+      "id": "2437",
+      "description": "元龙_时代变了",
+      "shortCodes": [
+        "[元龙_时代变了]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/117/2437.png",
+      "isHide": false,
+      "packageId": "117",
+      "meta": {
+        "packageName": "元龙",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/92afa3a99ce86ec5eed0832db9c0aacd9e2c7494.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/08579c27468224cc2c03d142f57f9c09ffa534fa.png"
+      }
+    },
+    {
+      "id": "2438",
+      "description": "元龙_好汉饶命",
+      "shortCodes": [
+        "[元龙_好汉饶命]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/117/2438.png",
+      "isHide": false,
+      "packageId": "117",
+      "meta": {
+        "packageName": "元龙",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/92afa3a99ce86ec5eed0832db9c0aacd9e2c7494.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/3e267ed30aa9be74ed59e77e75b64e3ac5a9d2a1.png"
+      }
+    },
+    {
+      "id": "2439",
+      "description": "元龙_捂脸",
+      "shortCodes": [
+        "[元龙_捂脸]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/117/2439.png",
+      "isHide": false,
+      "packageId": "117",
+      "meta": {
+        "packageName": "元龙",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/92afa3a99ce86ec5eed0832db9c0aacd9e2c7494.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/acd37e3530f80e88ea6b8b4fa2e1bd1b1912e114.png"
+      }
+    },
+    {
+      "id": "2440",
+      "description": "元龙_我错了",
+      "shortCodes": [
+        "[元龙_我错了]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/117/2440.png",
+      "isHide": false,
+      "packageId": "117",
+      "meta": {
+        "packageName": "元龙",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/92afa3a99ce86ec5eed0832db9c0aacd9e2c7494.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/d4a061a8473929187962f1ff675ccb6a773f7122.png"
+      }
+    },
+    {
+      "id": "2441",
+      "description": "元龙_我投降",
+      "shortCodes": [
+        "[元龙_我投降]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/117/2441.png",
+      "isHide": false,
+      "packageId": "117",
+      "meta": {
+        "packageName": "元龙",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/92afa3a99ce86ec5eed0832db9c0aacd9e2c7494.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/31caf8622e4d1a919e10dc825259500c38aa6fa3.png"
+      }
+    }
+  ]
+}

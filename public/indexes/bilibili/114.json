@@ -1,0 +1,157 @@
+{
+  "id": "114",
+  "name": "新科娘",
+  "coverUrl": "http://i0.hdslb.com/bfs/emote/d9e053c28f92c9309e0cf2af4e7f16e8d7bf8fea.png",
+  "emojis": [
+    {
+      "id": "2391",
+      "description": "新科娘_点赞",
+      "shortCodes": [
+        "[新科娘_点赞]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/114/2391.png",
+      "isHide": false,
+      "packageId": "114",
+      "meta": {
+        "packageName": "新科娘",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/d9e053c28f92c9309e0cf2af4e7f16e8d7bf8fea.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/5bfe27f5e4a6ad02ee59d9b8bd20fc9d8184587a.png"
+      }
+    },
+    {
+      "id": "2392",
+      "description": "新科娘_得意",
+      "shortCodes": [
+        "[新科娘_得意]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/114/2392.png",
+      "isHide": false,
+      "packageId": "114",
+      "meta": {
+        "packageName": "新科娘",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/d9e053c28f92c9309e0cf2af4e7f16e8d7bf8fea.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/60fd99ca2185527aee51d02b45cede4faeff4b6c.png"
+      }
+    },
+    {
+      "id": "2393",
+      "description": "新科娘_花手",
+      "shortCodes": [
+        "[新科娘_花手]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/114/2393.png",
+      "isHide": false,
+      "packageId": "114",
+      "meta": {
+        "packageName": "新科娘",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/d9e053c28f92c9309e0cf2af4e7f16e8d7bf8fea.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/4e023ba73a9da2d71a5df3e117e83eca13332b65.png"
+      }
+    },
+    {
+      "id": "2394",
+      "description": "新科娘_懵逼",
+      "shortCodes": [
+        "[新科娘_懵逼]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/114/2394.png",
+      "isHide": false,
+      "packageId": "114",
+      "meta": {
+        "packageName": "新科娘",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/d9e053c28f92c9309e0cf2af4e7f16e8d7bf8fea.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/e80da4371fc3990c1f99266e589793edff062890.png"
+      }
+    },
+    {
+      "id": "2395",
+      "description": "新科娘_妙啊",
+      "shortCodes": [
+        "[新科娘_妙啊]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/114/2395.png",
+      "isHide": false,
+      "packageId": "114",
+      "meta": {
+        "packageName": "新科娘",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/d9e053c28f92c9309e0cf2af4e7f16e8d7bf8fea.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/06ea7e92dfa7d6667da3406080d05eea633d31f8.png"
+      }
+    },
+    {
+      "id": "2396",
+      "description": "新科娘_过分了",
+      "shortCodes": [
+        "[新科娘_过分了]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/114/2396.png",
+      "isHide": false,
+      "packageId": "114",
+      "meta": {
+        "packageName": "新科娘",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/d9e053c28f92c9309e0cf2af4e7f16e8d7bf8fea.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/640f8f43d7541635d4c1c726dfee7a786a3a1ecb.png"
+      }
+    },
+    {
+      "id": "2397",
+      "description": "新科娘_我装的",
+      "shortCodes": [
+        "[新科娘_我装的]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/114/2397.png",
+      "isHide": false,
+      "packageId": "114",
+      "meta": {
+        "packageName": "新科娘",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/d9e053c28f92c9309e0cf2af4e7f16e8d7bf8fea.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/799117df9b307ab71d68216a6f9c92e0b8fb0753.png"
+      }
+    },
+    {
+      "id": "2398",
+      "description": "新科娘_无话可说",
+      "shortCodes": [
+        "[新科娘_无话可说]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/114/2398.png",
+      "isHide": false,
+      "packageId": "114",
+      "meta": {
+        "packageName": "新科娘",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/d9e053c28f92c9309e0cf2af4e7f16e8d7bf8fea.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/670a8e5e42bc6f1457e9939b4ad771983ac4b192.png"
+      }
+    },
+    {
+      "id": "2399",
+      "description": "新科娘_这题不会",
+      "shortCodes": [
+        "[新科娘_这题不会]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/114/2399.png",
+      "isHide": false,
+      "packageId": "114",
+      "meta": {
+        "packageName": "新科娘",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/d9e053c28f92c9309e0cf2af4e7f16e8d7bf8fea.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/78a1b73de15a4755764bfe8bbac45cde681ac7c0.png"
+      }
+    },
+    {
+      "id": "2400",
+      "description": "新科娘_我哭了",
+      "shortCodes": [
+        "[新科娘_我哭了]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/114/2400.png",
+      "isHide": false,
+      "packageId": "114",
+      "meta": {
+        "packageName": "新科娘",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/d9e053c28f92c9309e0cf2af4e7f16e8d7bf8fea.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/2ae4ae0d6e52569984b41c9b41e9f66fc123bdc3.png"
+      }
+    }
+  ]
+}

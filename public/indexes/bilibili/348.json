@@ -1,0 +1,232 @@
+{
+  "id": "348",
+  "name": "查理苏",
+  "coverUrl": "http://i0.hdslb.com/bfs/emote/b6535d32dc52dcc85a8a1c5a551c9598c458f1e7.png",
+  "emojis": [
+    {
+      "id": "5706",
+      "description": "查理苏_感谢",
+      "shortCodes": [
+        "[查理苏_感谢]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/348/5706.png",
+      "isHide": false,
+      "packageId": "348",
+      "meta": {
+        "packageName": "查理苏",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/b6535d32dc52dcc85a8a1c5a551c9598c458f1e7.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/90f852dfecc39a99bedbf7181123060beb1284a8.png"
+      }
+    },
+    {
+      "id": "5707",
+      "description": "查理苏_干杯",
+      "shortCodes": [
+        "[查理苏_干杯]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/348/5707.png",
+      "isHide": false,
+      "packageId": "348",
+      "meta": {
+        "packageName": "查理苏",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/b6535d32dc52dcc85a8a1c5a551c9598c458f1e7.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/ece2f1453c32e7cce3175a704d531d928207fc41.png"
+      }
+    },
+    {
+      "id": "5708",
+      "description": "查理苏_开心",
+      "shortCodes": [
+        "[查理苏_开心]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/348/5708.png",
+      "isHide": false,
+      "packageId": "348",
+      "meta": {
+        "packageName": "查理苏",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/b6535d32dc52dcc85a8a1c5a551c9598c458f1e7.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/36a05e8bedf950a36bb3b6f781a1c94541598c02.png"
+      }
+    },
+    {
+      "id": "5709",
+      "description": "查理苏_买买买",
+      "shortCodes": [
+        "[查理苏_买买买]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/348/5709.png",
+      "isHide": false,
+      "packageId": "348",
+      "meta": {
+        "packageName": "查理苏",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/b6535d32dc52dcc85a8a1c5a551c9598c458f1e7.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/0e837496dbb10863da245cb0c30e0ea23df9109e.png"
+      }
+    },
+    {
+      "id": "5710",
+      "description": "查理苏_你币有了",
+      "shortCodes": [
+        "[查理苏_你币有了]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/348/5710.png",
+      "isHide": false,
+      "packageId": "348",
+      "meta": {
+        "packageName": "查理苏",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/b6535d32dc52dcc85a8a1c5a551c9598c458f1e7.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/1af1c4e951a421b1d3e83d7a300f5ca7413f2e0d.png"
+      }
+    },
+    {
+      "id": "5711",
+      "description": "查理苏_捧花",
+      "shortCodes": [
+        "[查理苏_捧花]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/348/5711.png",
+      "isHide": false,
+      "packageId": "348",
+      "meta": {
+        "packageName": "查理苏",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/b6535d32dc52dcc85a8a1c5a551c9598c458f1e7.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/ad814059a52bde587fa9183f293f1b7fae631406.png"
+      }
+    },
+    {
+      "id": "5712",
+      "description": "查理苏_完美",
+      "shortCodes": [
+        "[查理苏_完美]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/348/5712.png",
+      "isHide": false,
+      "packageId": "348",
+      "meta": {
+        "packageName": "查理苏",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/b6535d32dc52dcc85a8a1c5a551c9598c458f1e7.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/0bc7a15262214d5f6556551a5d73bf7fbb5d1cbd.png"
+      }
+    },
+    {
+      "id": "5713",
+      "description": "查理苏_晚安",
+      "shortCodes": [
+        "[查理苏_晚安]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/348/5713.png",
+      "isHide": false,
+      "packageId": "348",
+      "meta": {
+        "packageName": "查理苏",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/b6535d32dc52dcc85a8a1c5a551c9598c458f1e7.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/c0b5310cb74b0e6064d5b18a05ca8aa95d722b65.png"
+      }
+    },
+    {
+      "id": "5714",
+      "description": "查理苏_洗澡",
+      "shortCodes": [
+        "[查理苏_洗澡]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/348/5714.png",
+      "isHide": false,
+      "packageId": "348",
+      "meta": {
+        "packageName": "查理苏",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/b6535d32dc52dcc85a8a1c5a551c9598c458f1e7.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/395c0087c971337050d5dde23e1efbf6a86fbe5d.png"
+      }
+    },
+    {
+      "id": "5715",
+      "description": "查理苏_晕",
+      "shortCodes": [
+        "[查理苏_晕]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/348/5715.png",
+      "isHide": false,
+      "packageId": "348",
+      "meta": {
+        "packageName": "查理苏",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/b6535d32dc52dcc85a8a1c5a551c9598c458f1e7.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/d6e1c241f0fcd7e8b6e8e8426c3e4515ce63418d.png"
+      }
+    },
+    {
+      "id": "5716",
+      "description": "查理苏_疑问",
+      "shortCodes": [
+        "[查理苏_疑问]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/348/5716.png",
+      "isHide": false,
+      "packageId": "348",
+      "meta": {
+        "packageName": "查理苏",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/b6535d32dc52dcc85a8a1c5a551c9598c458f1e7.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/c14c6328b5a651e67cfecf94be2c29699798cb42.png"
+      }
+    },
+    {
+      "id": "5717",
+      "description": "查理苏_真香",
+      "shortCodes": [
+        "[查理苏_真香]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/348/5717.png",
+      "isHide": false,
+      "packageId": "348",
+      "meta": {
+        "packageName": "查理苏",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/b6535d32dc52dcc85a8a1c5a551c9598c458f1e7.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/700d5d8822f792521339812ce8605f68fbcc3b06.png"
+      }
+    },
+    {
+      "id": "5718",
+      "description": "查理苏_震惊",
+      "shortCodes": [
+        "[查理苏_震惊]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/348/5718.png",
+      "isHide": false,
+      "packageId": "348",
+      "meta": {
+        "packageName": "查理苏",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/b6535d32dc52dcc85a8a1c5a551c9598c458f1e7.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/2c77708b0f211376b19341284349a6d0ccf2034f.png"
+      }
+    },
+    {
+      "id": "5719",
+      "description": "查理苏_悬赏",
+      "shortCodes": [
+        "[查理苏_悬赏]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/348/5719.png",
+      "isHide": false,
+      "packageId": "348",
+      "meta": {
+        "packageName": "查理苏",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/b6535d32dc52dcc85a8a1c5a551c9598c458f1e7.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/1ccee569bda3242417c0e9536efe10eaa15edcab.png"
+      }
+    },
+    {
+      "id": "5720",
+      "description": "查理苏_自恋",
+      "shortCodes": [
+        "[查理苏_自恋]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/348/5720.png",
+      "isHide": false,
+      "packageId": "348",
+      "meta": {
+        "packageName": "查理苏",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/b6535d32dc52dcc85a8a1c5a551c9598c458f1e7.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/e6e7bfdb273f0127c5f24b47201a4ff60da098e1.png"
+      }
+    }
+  ]
+}

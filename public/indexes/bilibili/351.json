@@ -1,0 +1,157 @@
+{
+  "id": "351",
+  "name": "我的小铺",
+  "coverUrl": "http://i0.hdslb.com/bfs/emote/3aa23a6cc9b72eb49e1854c8b5358e976ad315db.png",
+  "emojis": [
+    {
+      "id": "5761",
+      "description": "我的小铺_OK",
+      "shortCodes": [
+        "[我的小铺_OK]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/351/5761.png",
+      "isHide": false,
+      "packageId": "351",
+      "meta": {
+        "packageName": "我的小铺",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/3aa23a6cc9b72eb49e1854c8b5358e976ad315db.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/16178084fc75db8185f875f08bc52544673f9ff6.png"
+      }
+    },
+    {
+      "id": "5762",
+      "description": "我的小铺_啊",
+      "shortCodes": [
+        "[我的小铺_啊]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/351/5762.png",
+      "isHide": false,
+      "packageId": "351",
+      "meta": {
+        "packageName": "我的小铺",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/3aa23a6cc9b72eb49e1854c8b5358e976ad315db.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/18e7e739ef9c4a9f9db0b5be27fad938de1e4ea3.png"
+      }
+    },
+    {
+      "id": "5763",
+      "description": "我的小铺_比心",
+      "shortCodes": [
+        "[我的小铺_比心]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/351/5763.png",
+      "isHide": false,
+      "packageId": "351",
+      "meta": {
+        "packageName": "我的小铺",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/3aa23a6cc9b72eb49e1854c8b5358e976ad315db.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/b397692105d878e1af33b3719bf4a85058168af4.png"
+      }
+    },
+    {
+      "id": "5764",
+      "description": "我的小铺_感谢",
+      "shortCodes": [
+        "[我的小铺_感谢]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/351/5764.png",
+      "isHide": false,
+      "packageId": "351",
+      "meta": {
+        "packageName": "我的小铺",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/3aa23a6cc9b72eb49e1854c8b5358e976ad315db.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/6441c32e775f35f0e30d1f0367f5e20cc658d5aa.png"
+      }
+    },
+    {
+      "id": "5765",
+      "description": "我的小铺_害羞",
+      "shortCodes": [
+        "[我的小铺_害羞]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/351/5765.png",
+      "isHide": false,
+      "packageId": "351",
+      "meta": {
+        "packageName": "我的小铺",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/3aa23a6cc9b72eb49e1854c8b5358e976ad315db.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/85b6e0f1471045567ead68cf72b6d389bd9d2022.png"
+      }
+    },
+    {
+      "id": "5766",
+      "description": "我的小铺_加油",
+      "shortCodes": [
+        "[我的小铺_加油]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/351/5766.png",
+      "isHide": false,
+      "packageId": "351",
+      "meta": {
+        "packageName": "我的小铺",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/3aa23a6cc9b72eb49e1854c8b5358e976ad315db.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/e0de76d8ea684cb2ea8a0a3cd0ca594b103b5ed1.png"
+      }
+    },
+    {
+      "id": "5767",
+      "description": "我的小铺_开心",
+      "shortCodes": [
+        "[我的小铺_开心]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/351/5767.png",
+      "isHide": false,
+      "packageId": "351",
+      "meta": {
+        "packageName": "我的小铺",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/3aa23a6cc9b72eb49e1854c8b5358e976ad315db.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/32a34e5370c1bb4eb4298b5fa1220014949d1e6e.png"
+      }
+    },
+    {
+      "id": "5768",
+      "description": "我的小铺_新年快乐",
+      "shortCodes": [
+        "[我的小铺_新年快乐]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/351/5768.png",
+      "isHide": false,
+      "packageId": "351",
+      "meta": {
+        "packageName": "我的小铺",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/3aa23a6cc9b72eb49e1854c8b5358e976ad315db.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/c10c4d6299988bfdbd3a5312214b38f8589ecf99.png"
+      }
+    },
+    {
+      "id": "5769",
+      "description": "我的小铺_疑惑",
+      "shortCodes": [
+        "[我的小铺_疑惑]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/351/5769.png",
+      "isHide": false,
+      "packageId": "351",
+      "meta": {
+        "packageName": "我的小铺",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/3aa23a6cc9b72eb49e1854c8b5358e976ad315db.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/cc24e2aa3fef11398f27bda1460323ec0eadba71.png"
+      }
+    },
+    {
+      "id": "5770",
+      "description": "我的小铺_在吗",
+      "shortCodes": [
+        "[我的小铺_在吗]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/351/5770.png",
+      "isHide": false,
+      "packageId": "351",
+      "meta": {
+        "packageName": "我的小铺",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/3aa23a6cc9b72eb49e1854c8b5358e976ad315db.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/8802d961ea9b22b29bacf0e0ba1929b99ee57c8b.png"
+      }
+    }
+  ]
+}

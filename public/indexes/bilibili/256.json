@@ -1,0 +1,232 @@
+{
+  "id": "256",
+  "name": "美波七海",
+  "coverUrl": "http://i0.hdslb.com/bfs/emote/455a579ef72f6f06ec7da5ea1bb88f159961b601.png",
+  "emojis": [
+    {
+      "id": "4244",
+      "description": "美波七海_sukiki",
+      "shortCodes": [
+        "[美波七海_sukiki]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/256/4244.png",
+      "isHide": false,
+      "packageId": "256",
+      "meta": {
+        "packageName": "美波七海",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/455a579ef72f6f06ec7da5ea1bb88f159961b601.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/3e87cde7f77a1a910d94071531b61a32d48a9a5d.png"
+      }
+    },
+    {
+      "id": "4245",
+      "description": "美波七海_突击",
+      "shortCodes": [
+        "[美波七海_突击]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/256/4245.png",
+      "isHide": false,
+      "packageId": "256",
+      "meta": {
+        "packageName": "美波七海",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/455a579ef72f6f06ec7da5ea1bb88f159961b601.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/ed51345dd333045103188c9fa01fb9ec8dee8511.png"
+      }
+    },
+    {
+      "id": "4246",
+      "description": "美波七海_？？？",
+      "shortCodes": [
+        "[美波七海_？？？]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/256/4246.png",
+      "isHide": false,
+      "packageId": "256",
+      "meta": {
+        "packageName": "美波七海",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/455a579ef72f6f06ec7da5ea1bb88f159961b601.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/2f8fe319402a9739ae9b38d5aa1f0260ffb2fe88.png"
+      }
+    },
+    {
+      "id": "4247",
+      "description": "美波七海_fake",
+      "shortCodes": [
+        "[美波七海_fake]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/256/4247.png",
+      "isHide": false,
+      "packageId": "256",
+      "meta": {
+        "packageName": "美波七海",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/455a579ef72f6f06ec7da5ea1bb88f159961b601.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/f7e854b27ff35b45caf98a9aa03055a668acbe5d.png"
+      }
+    },
+    {
+      "id": "4248",
+      "description": "美波七海_GKD",
+      "shortCodes": [
+        "[美波七海_GKD]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/256/4248.png",
+      "isHide": false,
+      "packageId": "256",
+      "meta": {
+        "packageName": "美波七海",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/455a579ef72f6f06ec7da5ea1bb88f159961b601.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/a1a697ffff43aff005e5d15977ba84859823dbee.png"
+      }
+    },
+    {
+      "id": "4249",
+      "description": "美波七海_lei了",
+      "shortCodes": [
+        "[美波七海_lei了]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/256/4249.png",
+      "isHide": false,
+      "packageId": "256",
+      "meta": {
+        "packageName": "美波七海",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/455a579ef72f6f06ec7da5ea1bb88f159961b601.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/0144f26eec7ff681d69f0cceb7e8406a3b533906.png"
+      }
+    },
+    {
+      "id": "4250",
+      "description": "美波七海_笨笨",
+      "shortCodes": [
+        "[美波七海_笨笨]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/256/4250.png",
+      "isHide": false,
+      "packageId": "256",
+      "meta": {
+        "packageName": "美波七海",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/455a579ef72f6f06ec7da5ea1bb88f159961b601.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/34c9f1b2de8eda3396c16526d2c7de06ac9510b6.png"
+      }
+    },
+    {
+      "id": "4251",
+      "description": "美波七海_不知道",
+      "shortCodes": [
+        "[美波七海_不知道]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/256/4251.png",
+      "isHide": false,
+      "packageId": "256",
+      "meta": {
+        "packageName": "美波七海",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/455a579ef72f6f06ec7da5ea1bb88f159961b601.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/f03f4bf5a57b7698f9c0cd2ab2261e62bd1bcfaf.png"
+      }
+    },
+    {
+      "id": "4252",
+      "description": "美波七海_果咩",
+      "shortCodes": [
+        "[美波七海_果咩]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/256/4252.png",
+      "isHide": false,
+      "packageId": "256",
+      "meta": {
+        "packageName": "美波七海",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/455a579ef72f6f06ec7da5ea1bb88f159961b601.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/5a32361c905d14702b53a8ab7046e3e0c1bf144d.png"
+      }
+    },
+    {
+      "id": "4253",
+      "description": "美波七海_哈",
+      "shortCodes": [
+        "[美波七海_哈]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/256/4253.png",
+      "isHide": false,
+      "packageId": "256",
+      "meta": {
+        "packageName": "美波七海",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/455a579ef72f6f06ec7da5ea1bb88f159961b601.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/d941d50dacf1d3e967c598559a004c751a6927e0.png"
+      }
+    },
+    {
+      "id": "4254",
+      "description": "美波七海_好耶",
+      "shortCodes": [
+        "[美波七海_好耶]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/256/4254.png",
+      "isHide": false,
+      "packageId": "256",
+      "meta": {
+        "packageName": "美波七海",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/455a579ef72f6f06ec7da5ea1bb88f159961b601.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/ecc3e0dba79487656908d373cba451a624cea773.png"
+      }
+    },
+    {
+      "id": "4255",
+      "description": "美波七海_击剑",
+      "shortCodes": [
+        "[美波七海_击剑]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/256/4255.png",
+      "isHide": false,
+      "packageId": "256",
+      "meta": {
+        "packageName": "美波七海",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/455a579ef72f6f06ec7da5ea1bb88f159961b601.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/95ccd12c1b34add9712120c3385af70e36905ef2.png"
+      }
+    },
+    {
+      "id": "4256",
+      "description": "美波七海_确实",
+      "shortCodes": [
+        "[美波七海_确实]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/256/4256.png",
+      "isHide": false,
+      "packageId": "256",
+      "meta": {
+        "packageName": "美波七海",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/455a579ef72f6f06ec7da5ea1bb88f159961b601.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/6b2b7f494574237588f984b1ea7721c655e6d541.png"
+      }
+    },
+    {
+      "id": "4257",
+      "description": "美波七海_投降",
+      "shortCodes": [
+        "[美波七海_投降]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/256/4257.png",
+      "isHide": false,
+      "packageId": "256",
+      "meta": {
+        "packageName": "美波七海",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/455a579ef72f6f06ec7da5ea1bb88f159961b601.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/2d18b8f98e1dfcf326905a4e34c0a4a2e5f99fc9.png"
+      }
+    },
+    {
+      "id": "4258",
+      "description": "美波七海_我！",
+      "shortCodes": [
+        "[美波七海_我！]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/256/4258.png",
+      "isHide": false,
+      "packageId": "256",
+      "meta": {
+        "packageName": "美波七海",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/455a579ef72f6f06ec7da5ea1bb88f159961b601.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/9e429d368f87e7377f28fc684ae5b98b68b72f03.png"
+      }
+    }
+  ]
+}

@@ -1,0 +1,382 @@
+{
+  "id": "373",
+  "name": "小可学妹",
+  "coverUrl": "http://i0.hdslb.com/bfs/emote/bdaafa4020b5108c5ef3a224d7985f5107d0d3b0.png",
+  "emojis": [
+    {
+      "id": "6138",
+      "description": "小可学妹_？？？",
+      "shortCodes": [
+        "[小可学妹_？？？]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/373/6138.png",
+      "isHide": false,
+      "packageId": "373",
+      "meta": {
+        "packageName": "小可学妹",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/bdaafa4020b5108c5ef3a224d7985f5107d0d3b0.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/67251abf795637134e30c6504898d2b4950768dd.png"
+      }
+    },
+    {
+      "id": "6139",
+      "description": "小可学妹_爱你",
+      "shortCodes": [
+        "[小可学妹_爱你]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/373/6139.png",
+      "isHide": false,
+      "packageId": "373",
+      "meta": {
+        "packageName": "小可学妹",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/bdaafa4020b5108c5ef3a224d7985f5107d0d3b0.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/badcaad598e9964b842c0a16f33cfd9786146ecc.png"
+      }
+    },
+    {
+      "id": "6140",
+      "description": "小可学妹_不可以哦",
+      "shortCodes": [
+        "[小可学妹_不可以哦]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/373/6140.png",
+      "isHide": false,
+      "packageId": "373",
+      "meta": {
+        "packageName": "小可学妹",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/bdaafa4020b5108c5ef3a224d7985f5107d0d3b0.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/34ee216cf96578f4c2e5ecafe413dd41d2c9c7c8.png"
+      }
+    },
+    {
+      "id": "6141",
+      "description": "小可学妹_www",
+      "shortCodes": [
+        "[小可学妹_www]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/373/6141.png",
+      "isHide": false,
+      "packageId": "373",
+      "meta": {
+        "packageName": "小可学妹",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/bdaafa4020b5108c5ef3a224d7985f5107d0d3b0.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/69df0990d41bfb0a599d3354ef9aedff6c37680e.png"
+      }
+    },
+    {
+      "id": "6142",
+      "description": "小可学妹_馋",
+      "shortCodes": [
+        "[小可学妹_馋]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/373/6142.png",
+      "isHide": false,
+      "packageId": "373",
+      "meta": {
+        "packageName": "小可学妹",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/bdaafa4020b5108c5ef3a224d7985f5107d0d3b0.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/d7cb1992fd18472c5808c83c38acb8875b09ed1b.png"
+      }
+    },
+    {
+      "id": "6143",
+      "description": "小可学妹_大哭",
+      "shortCodes": [
+        "[小可学妹_大哭]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/373/6143.png",
+      "isHide": false,
+      "packageId": "373",
+      "meta": {
+        "packageName": "小可学妹",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/bdaafa4020b5108c5ef3a224d7985f5107d0d3b0.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/57c881e65faea218adcc074e4260725496c1325a.png"
+      }
+    },
+    {
+      "id": "6144",
+      "description": "小可学妹_大笑",
+      "shortCodes": [
+        "[小可学妹_大笑]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/373/6144.png",
+      "isHide": false,
+      "packageId": "373",
+      "meta": {
+        "packageName": "小可学妹",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/bdaafa4020b5108c5ef3a224d7985f5107d0d3b0.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/cf512746f1d4844fc6571a6566ca87fdd7be0e6b.png"
+      }
+    },
+    {
+      "id": "6145",
+      "description": "小可学妹_害怕",
+      "shortCodes": [
+        "[小可学妹_害怕]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/373/6145.png",
+      "isHide": false,
+      "packageId": "373",
+      "meta": {
+        "packageName": "小可学妹",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/bdaafa4020b5108c5ef3a224d7985f5107d0d3b0.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/b5de265df2ad3d3084553664976f77f0d9f2f583.png"
+      }
+    },
+    {
+      "id": "6146",
+      "description": "小可学妹_哼",
+      "shortCodes": [
+        "[小可学妹_哼]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/373/6146.png",
+      "isHide": false,
+      "packageId": "373",
+      "meta": {
+        "packageName": "小可学妹",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/bdaafa4020b5108c5ef3a224d7985f5107d0d3b0.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/da3371041432d46bb72e4eb89ff91ab109940fc2.png"
+      }
+    },
+    {
+      "id": "6147",
+      "description": "小可学妹_击剑",
+      "shortCodes": [
+        "[小可学妹_击剑]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/373/6147.png",
+      "isHide": false,
+      "packageId": "373",
+      "meta": {
+        "packageName": "小可学妹",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/bdaafa4020b5108c5ef3a224d7985f5107d0d3b0.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/69e7dd1e02d01f35e41d34b868ee696aba225f4c.png"
+      }
+    },
+    {
+      "id": "6148",
+      "description": "小可学妹_加油呀",
+      "shortCodes": [
+        "[小可学妹_加油呀]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/373/6148.png",
+      "isHide": false,
+      "packageId": "373",
+      "meta": {
+        "packageName": "小可学妹",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/bdaafa4020b5108c5ef3a224d7985f5107d0d3b0.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/a626e62fad36c9575f8c6e563107fe36336c1bb2.png"
+      }
+    },
+    {
+      "id": "6149",
+      "description": "小可学妹_就这？",
+      "shortCodes": [
+        "[小可学妹_就这？]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/373/6149.png",
+      "isHide": false,
+      "packageId": "373",
+      "meta": {
+        "packageName": "小可学妹",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/bdaafa4020b5108c5ef3a224d7985f5107d0d3b0.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/2d4ab098546ed6691a44a9e7a9f138bf16f3b417.png"
+      }
+    },
+    {
+      "id": "6150",
+      "description": "小可学妹_老板大气",
+      "shortCodes": [
+        "[小可学妹_老板大气]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/373/6150.png",
+      "isHide": false,
+      "packageId": "373",
+      "meta": {
+        "packageName": "小可学妹",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/bdaafa4020b5108c5ef3a224d7985f5107d0d3b0.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/f5fadc61fd4da10fca13cc352e9a37663c21daf6.png"
+      }
+    },
+    {
+      "id": "6151",
+      "description": "小可学妹_太牛啦",
+      "shortCodes": [
+        "[小可学妹_太牛啦]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/373/6151.png",
+      "isHide": false,
+      "packageId": "373",
+      "meta": {
+        "packageName": "小可学妹",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/bdaafa4020b5108c5ef3a224d7985f5107d0d3b0.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/7bbaf0d0652dee4bf0c5a7219f4aa77617e52fd9.png"
+      }
+    },
+    {
+      "id": "6152",
+      "description": "小可学妹_哇",
+      "shortCodes": [
+        "[小可学妹_哇]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/373/6152.png",
+      "isHide": false,
+      "packageId": "373",
+      "meta": {
+        "packageName": "小可学妹",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/bdaafa4020b5108c5ef3a224d7985f5107d0d3b0.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/3a48dd5252c4f859318f459eebd4214beb7eb78b.png"
+      }
+    },
+    {
+      "id": "6153",
+      "description": "小可学妹_我流汗了",
+      "shortCodes": [
+        "[小可学妹_我流汗了]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/373/6153.png",
+      "isHide": false,
+      "packageId": "373",
+      "meta": {
+        "packageName": "小可学妹",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/bdaafa4020b5108c5ef3a224d7985f5107d0d3b0.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/82a02fe96f0332053aff0e60b5ce9bbf199bdfa5.png"
+      }
+    },
+    {
+      "id": "6154",
+      "description": "小可学妹_下饭",
+      "shortCodes": [
+        "[小可学妹_下饭]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/373/6154.png",
+      "isHide": false,
+      "packageId": "373",
+      "meta": {
+        "packageName": "小可学妹",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/bdaafa4020b5108c5ef3a224d7985f5107d0d3b0.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/b51f3849565496419047e645c05043e31452e294.png"
+      }
+    },
+    {
+      "id": "6155",
+      "description": "小可学妹_一起吗",
+      "shortCodes": [
+        "[小可学妹_一起吗]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/373/6155.png",
+      "isHide": false,
+      "packageId": "373",
+      "meta": {
+        "packageName": "小可学妹",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/bdaafa4020b5108c5ef3a224d7985f5107d0d3b0.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/a906c2b4c5cb4d57892ce4eebd9eb846f350da12.png"
+      }
+    },
+    {
+      "id": "6156",
+      "description": "小可学妹_抓住你了",
+      "shortCodes": [
+        "[小可学妹_抓住你了]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/373/6156.png",
+      "isHide": false,
+      "packageId": "373",
+      "meta": {
+        "packageName": "小可学妹",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/bdaafa4020b5108c5ef3a224d7985f5107d0d3b0.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/49eac8e2502932eabacc3109a7cb4681f8d5b788.png"
+      }
+    },
+    {
+      "id": "6157",
+      "description": "小可学妹_MUA",
+      "shortCodes": [
+        "[小可学妹_MUA]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/373/6157.png",
+      "isHide": false,
+      "packageId": "373",
+      "meta": {
+        "packageName": "小可学妹",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/bdaafa4020b5108c5ef3a224d7985f5107d0d3b0.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/1f57e4ce11f5767801e357e0870ce501a2299271.png"
+      }
+    },
+    {
+      "id": "6860",
+      "description": "小可学妹_别急",
+      "shortCodes": [
+        "[小可学妹_别急]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/373/6860.png",
+      "isHide": false,
+      "packageId": "373",
+      "meta": {
+        "packageName": "小可学妹",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/bdaafa4020b5108c5ef3a224d7985f5107d0d3b0.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/34e5417d0d7ba9994226198ca94030bd0b6ec4c8.png"
+      }
+    },
+    {
+      "id": "6861",
+      "description": "小可学妹_出生",
+      "shortCodes": [
+        "[小可学妹_出生]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/373/6861.png",
+      "isHide": false,
+      "packageId": "373",
+      "meta": {
+        "packageName": "小可学妹",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/bdaafa4020b5108c5ef3a224d7985f5107d0d3b0.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/30eb8f6f6e710203468fb1b813eae2cf7653813c.png"
+      }
+    },
+    {
+      "id": "6862",
+      "description": "小可学妹_好热",
+      "shortCodes": [
+        "[小可学妹_好热]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/373/6862.png",
+      "isHide": false,
+      "packageId": "373",
+      "meta": {
+        "packageName": "小可学妹",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/bdaafa4020b5108c5ef3a224d7985f5107d0d3b0.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/6892a3b67b1968c550fdd110e9ff8f995973a44b.png"
+      }
+    },
+    {
+      "id": "6863",
+      "description": "小可学妹_两眼一黑",
+      "shortCodes": [
+        "[小可学妹_两眼一黑]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/373/6863.png",
+      "isHide": false,
+      "packageId": "373",
+      "meta": {
+        "packageName": "小可学妹",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/bdaafa4020b5108c5ef3a224d7985f5107d0d3b0.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/66b17fa948ce00a66f260b202dff5bb943103c6c.png"
+      }
+    },
+    {
+      "id": "6864",
+      "description": "小可学妹_妈！",
+      "shortCodes": [
+        "[小可学妹_妈！]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/373/6864.png",
+      "isHide": false,
+      "packageId": "373",
+      "meta": {
+        "packageName": "小可学妹",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/bdaafa4020b5108c5ef3a224d7985f5107d0d3b0.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/f981f58805c354d7f7ee3464cd64eaff7e9f14ad.png"
+      }
+    }
+  ]
+}

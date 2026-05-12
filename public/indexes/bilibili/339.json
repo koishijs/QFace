@@ -1,0 +1,382 @@
+{
+  "id": "339",
+  "name": "珈乐Carol",
+  "coverUrl": "http://i0.hdslb.com/bfs/emote/de2055a01ecc5059290e72f9b4ab4b76e71611dc.png",
+  "emojis": [
+    {
+      "id": "5542",
+      "description": "珈乐Carol_Come on",
+      "shortCodes": [
+        "[珈乐Carol_Come on]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/339/5542.png",
+      "isHide": false,
+      "packageId": "339",
+      "meta": {
+        "packageName": "珈乐Carol",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/de2055a01ecc5059290e72f9b4ab4b76e71611dc.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/253a0f64638220554e2fa69c1d229a6f37808c02.png"
+      }
+    },
+    {
+      "id": "5543",
+      "description": "珈乐Carol_OK",
+      "shortCodes": [
+        "[珈乐Carol_OK]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/339/5543.png",
+      "isHide": false,
+      "packageId": "339",
+      "meta": {
+        "packageName": "珈乐Carol",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/de2055a01ecc5059290e72f9b4ab4b76e71611dc.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/dfab74714b44fb7edcc093a1afb3454d9b121dab.png"
+      }
+    },
+    {
+      "id": "5544",
+      "description": "珈乐Carol_Vocal担当",
+      "shortCodes": [
+        "[珈乐Carol_Vocal担当]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/339/5544.png",
+      "isHide": false,
+      "packageId": "339",
+      "meta": {
+        "packageName": "珈乐Carol",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/de2055a01ecc5059290e72f9b4ab4b76e71611dc.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/d0a8e8a3f7d3e44ceb1580da07ecc5884509001c.png"
+      }
+    },
+    {
+      "id": "5545",
+      "description": "珈乐Carol_啵啵",
+      "shortCodes": [
+        "[珈乐Carol_啵啵]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/339/5545.png",
+      "isHide": false,
+      "packageId": "339",
+      "meta": {
+        "packageName": "珈乐Carol",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/de2055a01ecc5059290e72f9b4ab4b76e71611dc.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/4022f02c8bb1ae3885fb518df3f5594596f075cd.png"
+      }
+    },
+    {
+      "id": "5546",
+      "description": "珈乐Carol_不懂二次元",
+      "shortCodes": [
+        "[珈乐Carol_不懂二次元]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/339/5546.png",
+      "isHide": false,
+      "packageId": "339",
+      "meta": {
+        "packageName": "珈乐Carol",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/de2055a01ecc5059290e72f9b4ab4b76e71611dc.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/0f80b644fa2657d7c61fe22519bdd14ecd955288.png"
+      }
+    },
+    {
+      "id": "5547",
+      "description": "珈乐Carol_草莓袜子",
+      "shortCodes": [
+        "[珈乐Carol_草莓袜子]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/339/5547.png",
+      "isHide": false,
+      "packageId": "339",
+      "meta": {
+        "packageName": "珈乐Carol",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/de2055a01ecc5059290e72f9b4ab4b76e71611dc.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/b78f048d1bfe593f728045281a7d0102c113ca85.png"
+      }
+    },
+    {
+      "id": "5548",
+      "description": "珈乐Carol_大哥",
+      "shortCodes": [
+        "[珈乐Carol_大哥]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/339/5548.png",
+      "isHide": false,
+      "packageId": "339",
+      "meta": {
+        "packageName": "珈乐Carol",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/de2055a01ecc5059290e72f9b4ab4b76e71611dc.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/6b48bdf881c69cacbc714df875e290e9ec51de1e.png"
+      }
+    },
+    {
+      "id": "5549",
+      "description": "珈乐Carol_二甲",
+      "shortCodes": [
+        "[珈乐Carol_二甲]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/339/5549.png",
+      "isHide": false,
+      "packageId": "339",
+      "meta": {
+        "packageName": "珈乐Carol",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/de2055a01ecc5059290e72f9b4ab4b76e71611dc.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/ded634bdf7e41046aeebc02efc9effab4ca2d4fe.png"
+      }
+    },
+    {
+      "id": "5550",
+      "description": "珈乐Carol_反诈骗",
+      "shortCodes": [
+        "[珈乐Carol_反诈骗]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/339/5550.png",
+      "isHide": false,
+      "packageId": "339",
+      "meta": {
+        "packageName": "珈乐Carol",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/de2055a01ecc5059290e72f9b4ab4b76e71611dc.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/93f0cdb8d0a846fcc449b055564f374d59148677.png"
+      }
+    },
+    {
+      "id": "5551",
+      "description": "珈乐Carol_风情",
+      "shortCodes": [
+        "[珈乐Carol_风情]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/339/5551.png",
+      "isHide": false,
+      "packageId": "339",
+      "meta": {
+        "packageName": "珈乐Carol",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/de2055a01ecc5059290e72f9b4ab4b76e71611dc.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/ebd89a6a74bfb19d9db5d85cea06c2584d87e3cd.png"
+      }
+    },
+    {
+      "id": "5552",
+      "description": "珈乐Carol_富贵儿",
+      "shortCodes": [
+        "[珈乐Carol_富贵儿]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/339/5552.png",
+      "isHide": false,
+      "packageId": "339",
+      "meta": {
+        "packageName": "珈乐Carol",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/de2055a01ecc5059290e72f9b4ab4b76e71611dc.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/b727f81e774207fc726b82843767af45f5ebafe7.png"
+      }
+    },
+    {
+      "id": "5553",
+      "description": "珈乐Carol_隔岸",
+      "shortCodes": [
+        "[珈乐Carol_隔岸]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/339/5553.png",
+      "isHide": false,
+      "packageId": "339",
+      "meta": {
+        "packageName": "珈乐Carol",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/de2055a01ecc5059290e72f9b4ab4b76e71611dc.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/34c0026b9597beee7c99bc480404e335bf3644d7.png"
+      }
+    },
+    {
+      "id": "5554",
+      "description": "珈乐Carol_红色高跟鞋",
+      "shortCodes": [
+        "[珈乐Carol_红色高跟鞋]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/339/5554.png",
+      "isHide": false,
+      "packageId": "339",
+      "meta": {
+        "packageName": "珈乐Carol",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/de2055a01ecc5059290e72f9b4ab4b76e71611dc.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/d9c72a9c8b975ade4cefc3576359f7f395a1ff5e.png"
+      }
+    },
+    {
+      "id": "5555",
+      "description": "珈乐Carol_皇珈骑士",
+      "shortCodes": [
+        "[珈乐Carol_皇珈骑士]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/339/5555.png",
+      "isHide": false,
+      "packageId": "339",
+      "meta": {
+        "packageName": "珈乐Carol",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/de2055a01ecc5059290e72f9b4ab4b76e71611dc.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/483a9510e9aab7d70a9ccd01f08d919a1dc2ee0d.png"
+      }
+    },
+    {
+      "id": "5556",
+      "description": "珈乐Carol_决明子",
+      "shortCodes": [
+        "[珈乐Carol_决明子]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/339/5556.png",
+      "isHide": false,
+      "packageId": "339",
+      "meta": {
+        "packageName": "珈乐Carol",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/de2055a01ecc5059290e72f9b4ab4b76e71611dc.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/c9f83b57499c2252c0330aa8ed9de2fb9fc8f48e.png"
+      }
+    },
+    {
+      "id": "5557",
+      "description": "珈乐Carol_哭哭",
+      "shortCodes": [
+        "[珈乐Carol_哭哭]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/339/5557.png",
+      "isHide": false,
+      "packageId": "339",
+      "meta": {
+        "packageName": "珈乐Carol",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/de2055a01ecc5059290e72f9b4ab4b76e71611dc.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/02a6118869e103a49de119eea1f2d3cad0b2f3ff.png"
+      }
+    },
+    {
+      "id": "5558",
+      "description": "珈乐Carol_酷盖",
+      "shortCodes": [
+        "[珈乐Carol_酷盖]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/339/5558.png",
+      "isHide": false,
+      "packageId": "339",
+      "meta": {
+        "packageName": "珈乐Carol",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/de2055a01ecc5059290e72f9b4ab4b76e71611dc.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/69734fc2ffd05db744a742121888a3315f5f8533.png"
+      }
+    },
+    {
+      "id": "5559",
+      "description": "珈乐Carol_狼牙土豆拳",
+      "shortCodes": [
+        "[珈乐Carol_狼牙土豆拳]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/339/5559.png",
+      "isHide": false,
+      "packageId": "339",
+      "meta": {
+        "packageName": "珈乐Carol",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/de2055a01ecc5059290e72f9b4ab4b76e71611dc.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/86ad388d0dc48bc2379c66d01fc26af13d1fed44.png"
+      }
+    },
+    {
+      "id": "5560",
+      "description": "珈乐Carol_睡了睡了",
+      "shortCodes": [
+        "[珈乐Carol_睡了睡了]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/339/5560.png",
+      "isHide": false,
+      "packageId": "339",
+      "meta": {
+        "packageName": "珈乐Carol",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/de2055a01ecc5059290e72f9b4ab4b76e71611dc.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/9dfca9d12f6eef0e65710afd28e1b2b0715e0d66.png"
+      }
+    },
+    {
+      "id": "5561",
+      "description": "珈乐Carol_投降",
+      "shortCodes": [
+        "[珈乐Carol_投降]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/339/5561.png",
+      "isHide": false,
+      "packageId": "339",
+      "meta": {
+        "packageName": "珈乐Carol",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/de2055a01ecc5059290e72f9b4ab4b76e71611dc.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/9ebfd28799e14b0cf7513404d209f2d157e2db85.png"
+      }
+    },
+    {
+      "id": "5562",
+      "description": "珈乐Carol_团播像坐牢",
+      "shortCodes": [
+        "[珈乐Carol_团播像坐牢]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/339/5562.png",
+      "isHide": false,
+      "packageId": "339",
+      "meta": {
+        "packageName": "珈乐Carol",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/de2055a01ecc5059290e72f9b4ab4b76e71611dc.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/3a03b47ad200384d06918d76376f5192b7d9099d.png"
+      }
+    },
+    {
+      "id": "5563",
+      "description": "珈乐Carol_我还有牌",
+      "shortCodes": [
+        "[珈乐Carol_我还有牌]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/339/5563.png",
+      "isHide": false,
+      "packageId": "339",
+      "meta": {
+        "packageName": "珈乐Carol",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/de2055a01ecc5059290e72f9b4ab4b76e71611dc.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/0e4357e1f05b5233b2823fea14114f005032dfd4.png"
+      }
+    },
+    {
+      "id": "5564",
+      "description": "珈乐Carol_我们是",
+      "shortCodes": [
+        "[珈乐Carol_我们是]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/339/5564.png",
+      "isHide": false,
+      "packageId": "339",
+      "meta": {
+        "packageName": "珈乐Carol",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/de2055a01ecc5059290e72f9b4ab4b76e71611dc.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/643f027e3d5f7120ae68f0508981966e36cc5011.png"
+      }
+    },
+    {
+      "id": "5565",
+      "description": "珈乐Carol_小狼堡",
+      "shortCodes": [
+        "[珈乐Carol_小狼堡]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/339/5565.png",
+      "isHide": false,
+      "packageId": "339",
+      "meta": {
+        "packageName": "珈乐Carol",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/de2055a01ecc5059290e72f9b4ab4b76e71611dc.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/07e35a7a220734aa7a75bb4484c33ea0f36c1f30.png"
+      }
+    },
+    {
+      "id": "5566",
+      "description": "珈乐Carol_小狼公主",
+      "shortCodes": [
+        "[珈乐Carol_小狼公主]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/339/5566.png",
+      "isHide": false,
+      "packageId": "339",
+      "meta": {
+        "packageName": "珈乐Carol",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/de2055a01ecc5059290e72f9b4ab4b76e71611dc.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/2396821dee0bc52228a98b96e135f50ad8d43509.png"
+      }
+    }
+  ]
+}

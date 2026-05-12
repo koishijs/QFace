@@ -1,0 +1,307 @@
+{
+  "id": "362",
+  "name": "绊爱第二弹",
+  "coverUrl": "http://i0.hdslb.com/bfs/emote/66723a42d8f1b6777cf6412939534a7f938433f1.png",
+  "emojis": [
+    {
+      "id": "5952",
+      "description": "绊爱第二弹_丧",
+      "shortCodes": [
+        "[绊爱第二弹_丧]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/362/5952.png",
+      "isHide": false,
+      "packageId": "362",
+      "meta": {
+        "packageName": "绊爱第二弹",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/66723a42d8f1b6777cf6412939534a7f938433f1.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/2c281f7a8f9794b34bd15f1d8a0ec34384410613.png"
+      }
+    },
+    {
+      "id": "5953",
+      "description": "绊爱第二弹_啊呜",
+      "shortCodes": [
+        "[绊爱第二弹_啊呜]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/362/5953.png",
+      "isHide": false,
+      "packageId": "362",
+      "meta": {
+        "packageName": "绊爱第二弹",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/66723a42d8f1b6777cf6412939534a7f938433f1.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/087ea5845e081e6c951745c814d9e5f6eeb4cef7.png"
+      }
+    },
+    {
+      "id": "5954",
+      "description": "绊爱第二弹_生气气",
+      "shortCodes": [
+        "[绊爱第二弹_生气气]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/362/5954.png",
+      "isHide": false,
+      "packageId": "362",
+      "meta": {
+        "packageName": "绊爱第二弹",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/66723a42d8f1b6777cf6412939534a7f938433f1.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/e077638c9639e496d1eb840da2b6ecd38b0ecd9b.png"
+      }
+    },
+    {
+      "id": "5955",
+      "description": "绊爱第二弹_盯",
+      "shortCodes": [
+        "[绊爱第二弹_盯]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/362/5955.png",
+      "isHide": false,
+      "packageId": "362",
+      "meta": {
+        "packageName": "绊爱第二弹",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/66723a42d8f1b6777cf6412939534a7f938433f1.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/1e8a107fac6bdecd63b2cb3b105ca74ea7aa5a4e.png"
+      }
+    },
+    {
+      "id": "5956",
+      "description": "绊爱第二弹_忍耐",
+      "shortCodes": [
+        "[绊爱第二弹_忍耐]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/362/5956.png",
+      "isHide": false,
+      "packageId": "362",
+      "meta": {
+        "packageName": "绊爱第二弹",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/66723a42d8f1b6777cf6412939534a7f938433f1.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/a9649bfe27564b4d0d2c101b727687e49685420e.png"
+      }
+    },
+    {
+      "id": "5957",
+      "description": "绊爱第二弹_紧张",
+      "shortCodes": [
+        "[绊爱第二弹_紧张]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/362/5957.png",
+      "isHide": false,
+      "packageId": "362",
+      "meta": {
+        "packageName": "绊爱第二弹",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/66723a42d8f1b6777cf6412939534a7f938433f1.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/fef0449733516858205b73775da02a6b7864f9c4.png"
+      }
+    },
+    {
+      "id": "5958",
+      "description": "绊爱第二弹_无能狂怒",
+      "shortCodes": [
+        "[绊爱第二弹_无能狂怒]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/362/5958.png",
+      "isHide": false,
+      "packageId": "362",
+      "meta": {
+        "packageName": "绊爱第二弹",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/66723a42d8f1b6777cf6412939534a7f938433f1.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/032599a8df482bf502d6a4202e6a33d830a9f362.png"
+      }
+    },
+    {
+      "id": "5959",
+      "description": "绊爱第二弹_再见",
+      "shortCodes": [
+        "[绊爱第二弹_再见]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/362/5959.png",
+      "isHide": false,
+      "packageId": "362",
+      "meta": {
+        "packageName": "绊爱第二弹",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/66723a42d8f1b6777cf6412939534a7f938433f1.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/e1bfa433bded9d69d9a557dd137b4bd8893213e5.png"
+      }
+    },
+    {
+      "id": "5960",
+      "description": "绊爱第二弹_哈？",
+      "shortCodes": [
+        "[绊爱第二弹_哈？]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/362/5960.png",
+      "isHide": false,
+      "packageId": "362",
+      "meta": {
+        "packageName": "绊爱第二弹",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/66723a42d8f1b6777cf6412939534a7f938433f1.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/960f205f21848f14e438af008a9980146b8325b0.png"
+      }
+    },
+    {
+      "id": "5961",
+      "description": "绊爱第二弹_好耶",
+      "shortCodes": [
+        "[绊爱第二弹_好耶]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/362/5961.png",
+      "isHide": false,
+      "packageId": "362",
+      "meta": {
+        "packageName": "绊爱第二弹",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/66723a42d8f1b6777cf6412939534a7f938433f1.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/a65f93f538e36538ff4f29eadca7baf0a24b3b28.png"
+      }
+    },
+    {
+      "id": "5962",
+      "description": "绊爱第二弹_充电",
+      "shortCodes": [
+        "[绊爱第二弹_充电]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/362/5962.png",
+      "isHide": false,
+      "packageId": "362",
+      "meta": {
+        "packageName": "绊爱第二弹",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/66723a42d8f1b6777cf6412939534a7f938433f1.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/cc5839b29fe2de281f35452c0c1582cc3f834a2d.png"
+      }
+    },
+    {
+      "id": "5963",
+      "description": "绊爱第二弹_晕晕",
+      "shortCodes": [
+        "[绊爱第二弹_晕晕]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/362/5963.png",
+      "isHide": false,
+      "packageId": "362",
+      "meta": {
+        "packageName": "绊爱第二弹",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/66723a42d8f1b6777cf6412939534a7f938433f1.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/a6d869dbc8dc5466316dc81570cd8a7c3c02c967.png"
+      }
+    },
+    {
+      "id": "5964",
+      "description": "绊爱第二弹_开始了",
+      "shortCodes": [
+        "[绊爱第二弹_开始了]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/362/5964.png",
+      "isHide": false,
+      "packageId": "362",
+      "meta": {
+        "packageName": "绊爱第二弹",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/66723a42d8f1b6777cf6412939534a7f938433f1.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/cf2faabb5c67e28dbd96d394516ae2225a8d78da.png"
+      }
+    },
+    {
+      "id": "5965",
+      "description": "绊爱第二弹_撒花",
+      "shortCodes": [
+        "[绊爱第二弹_撒花]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/362/5965.png",
+      "isHide": false,
+      "packageId": "362",
+      "meta": {
+        "packageName": "绊爱第二弹",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/66723a42d8f1b6777cf6412939534a7f938433f1.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/3f197cfc1466346c9eb342161599ce4bfb31f93b.png"
+      }
+    },
+    {
+      "id": "5966",
+      "description": "绊爱第二弹_哼",
+      "shortCodes": [
+        "[绊爱第二弹_哼]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/362/5966.png",
+      "isHide": false,
+      "packageId": "362",
+      "meta": {
+        "packageName": "绊爱第二弹",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/66723a42d8f1b6777cf6412939534a7f938433f1.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/c1ff182dd433a7dbee8c4d14dd5e55cb5ce421f6.png"
+      }
+    },
+    {
+      "id": "5967",
+      "description": "绊爱第二弹_酷",
+      "shortCodes": [
+        "[绊爱第二弹_酷]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/362/5967.png",
+      "isHide": false,
+      "packageId": "362",
+      "meta": {
+        "packageName": "绊爱第二弹",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/66723a42d8f1b6777cf6412939534a7f938433f1.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/bc482912eb40a942425d66cd6d62688f680c9861.png"
+      }
+    },
+    {
+      "id": "5968",
+      "description": "绊爱第二弹_睡觉",
+      "shortCodes": [
+        "[绊爱第二弹_睡觉]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/362/5968.png",
+      "isHide": false,
+      "packageId": "362",
+      "meta": {
+        "packageName": "绊爱第二弹",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/66723a42d8f1b6777cf6412939534a7f938433f1.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/459d1fa4b47c07aeac3676afe0e4af71f3d20f15.png"
+      }
+    },
+    {
+      "id": "5969",
+      "description": "绊爱第二弹_吃瓜",
+      "shortCodes": [
+        "[绊爱第二弹_吃瓜]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/362/5969.png",
+      "isHide": false,
+      "packageId": "362",
+      "meta": {
+        "packageName": "绊爱第二弹",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/66723a42d8f1b6777cf6412939534a7f938433f1.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/c63da0a074002f298b28f8c9f80fad1484c64c8b.png"
+      }
+    },
+    {
+      "id": "5970",
+      "description": "绊爱第二弹_挑衅",
+      "shortCodes": [
+        "[绊爱第二弹_挑衅]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/362/5970.png",
+      "isHide": false,
+      "packageId": "362",
+      "meta": {
+        "packageName": "绊爱第二弹",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/66723a42d8f1b6777cf6412939534a7f938433f1.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/ed13bf0ea573e3d429b791a5c47d6a4565efc9cf.png"
+      }
+    },
+    {
+      "id": "5971",
+      "description": "绊爱第二弹_悟了",
+      "shortCodes": [
+        "[绊爱第二弹_悟了]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/362/5971.png",
+      "isHide": false,
+      "packageId": "362",
+      "meta": {
+        "packageName": "绊爱第二弹",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/66723a42d8f1b6777cf6412939534a7f938433f1.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/17ffd7c42a0ef31850a56b8ede89ae76f598f350.png"
+      }
+    }
+  ]
+}

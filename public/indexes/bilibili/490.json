@@ -1,0 +1,382 @@
+{
+  "id": "490",
+  "name": "线条小狗",
+  "coverUrl": "http://i0.hdslb.com/bfs/emote/89946d96d8132db15653b1f18d7bdb0c570d2848.png",
+  "emojis": [
+    {
+      "id": "8698",
+      "description": "线条小狗_爱你",
+      "shortCodes": [
+        "[线条小狗_爱你]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/490/8698.png",
+      "isHide": false,
+      "packageId": "490",
+      "meta": {
+        "packageName": "线条小狗",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/89946d96d8132db15653b1f18d7bdb0c570d2848.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/637d1c72f32fe0ea8799088608b3d47a9bb3880f.png"
+      }
+    },
+    {
+      "id": "8699",
+      "description": "线条小狗_不是我干的",
+      "shortCodes": [
+        "[线条小狗_不是我干的]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/490/8699.png",
+      "isHide": false,
+      "packageId": "490",
+      "meta": {
+        "packageName": "线条小狗",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/89946d96d8132db15653b1f18d7bdb0c570d2848.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/69fa944760b3be2974cd659c76de3468b2daaf77.png"
+      }
+    },
+    {
+      "id": "8700",
+      "description": "线条小狗_冲啊",
+      "shortCodes": [
+        "[线条小狗_冲啊]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/490/8700.png",
+      "isHide": false,
+      "packageId": "490",
+      "meta": {
+        "packageName": "线条小狗",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/89946d96d8132db15653b1f18d7bdb0c570d2848.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/866a4022bcba3b2d6d83a118233f2aecd4786076.png"
+      }
+    },
+    {
+      "id": "8701",
+      "description": "线条小狗_大佬",
+      "shortCodes": [
+        "[线条小狗_大佬]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/490/8701.png",
+      "isHide": false,
+      "packageId": "490",
+      "meta": {
+        "packageName": "线条小狗",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/89946d96d8132db15653b1f18d7bdb0c570d2848.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/0c3bf4494199085397ed07ba9c7f125f7c502568.png"
+      }
+    },
+    {
+      "id": "8702",
+      "description": "线条小狗_盯",
+      "shortCodes": [
+        "[线条小狗_盯]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/490/8702.png",
+      "isHide": false,
+      "packageId": "490",
+      "meta": {
+        "packageName": "线条小狗",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/89946d96d8132db15653b1f18d7bdb0c570d2848.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/75e1c1bc82b9322697c18fffc7cc44368cdc0594.png"
+      }
+    },
+    {
+      "id": "8703",
+      "description": "线条小狗_哼",
+      "shortCodes": [
+        "[线条小狗_哼]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/490/8703.png",
+      "isHide": false,
+      "packageId": "490",
+      "meta": {
+        "packageName": "线条小狗",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/89946d96d8132db15653b1f18d7bdb0c570d2848.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/d7f0a28417052172ee4faf6c64ab95baf37d4557.png"
+      }
+    },
+    {
+      "id": "8704",
+      "description": "线条小狗_挥手",
+      "shortCodes": [
+        "[线条小狗_挥手]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/490/8704.png",
+      "isHide": false,
+      "packageId": "490",
+      "meta": {
+        "packageName": "线条小狗",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/89946d96d8132db15653b1f18d7bdb0c570d2848.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/e52ed2099bf66f52cfe433a08cbed54d9815318b.png"
+      }
+    },
+    {
+      "id": "8705",
+      "description": "线条小狗_击掌",
+      "shortCodes": [
+        "[线条小狗_击掌]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/490/8705.png",
+      "isHide": false,
+      "packageId": "490",
+      "meta": {
+        "packageName": "线条小狗",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/89946d96d8132db15653b1f18d7bdb0c570d2848.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/481075749991651c522caa7694bb308258714768.png"
+      }
+    },
+    {
+      "id": "8706",
+      "description": "线条小狗_静静看着你",
+      "shortCodes": [
+        "[线条小狗_静静看着你]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/490/8706.png",
+      "isHide": false,
+      "packageId": "490",
+      "meta": {
+        "packageName": "线条小狗",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/89946d96d8132db15653b1f18d7bdb0c570d2848.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/e2373ad40ced225115de77aee98e21f3d35d57c2.png"
+      }
+    },
+    {
+      "id": "8707",
+      "description": "线条小狗_沮丧",
+      "shortCodes": [
+        "[线条小狗_沮丧]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/490/8707.png",
+      "isHide": false,
+      "packageId": "490",
+      "meta": {
+        "packageName": "线条小狗",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/89946d96d8132db15653b1f18d7bdb0c570d2848.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/2ceef1641f6ac86a7e244b421365bbbcd5e82b3f.png"
+      }
+    },
+    {
+      "id": "8708",
+      "description": "线条小狗_快乐",
+      "shortCodes": [
+        "[线条小狗_快乐]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/490/8708.png",
+      "isHide": false,
+      "packageId": "490",
+      "meta": {
+        "packageName": "线条小狗",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/89946d96d8132db15653b1f18d7bdb0c570d2848.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/f82b6dcd3dd4b79827e68e7de812cfb17b825451.png"
+      }
+    },
+    {
+      "id": "8709",
+      "description": "线条小狗_难过",
+      "shortCodes": [
+        "[线条小狗_难过]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/490/8709.png",
+      "isHide": false,
+      "packageId": "490",
+      "meta": {
+        "packageName": "线条小狗",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/89946d96d8132db15653b1f18d7bdb0c570d2848.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/8e78fcd3499a281109cad38e63b9b01cf1e507b3.png"
+      }
+    },
+    {
+      "id": "8710",
+      "description": "线条小狗_求抱抱",
+      "shortCodes": [
+        "[线条小狗_求抱抱]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/490/8710.png",
+      "isHide": false,
+      "packageId": "490",
+      "meta": {
+        "packageName": "线条小狗",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/89946d96d8132db15653b1f18d7bdb0c570d2848.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/38c5ac5033fdfb1081eb60c799e76e2b053711fe.png"
+      }
+    },
+    {
+      "id": "8711",
+      "description": "线条小狗_求投喂",
+      "shortCodes": [
+        "[线条小狗_求投喂]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/490/8711.png",
+      "isHide": false,
+      "packageId": "490",
+      "meta": {
+        "packageName": "线条小狗",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/89946d96d8132db15653b1f18d7bdb0c570d2848.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/ebad58f92d43e650b4b292125f3a703a92f723ac.png"
+      }
+    },
+    {
+      "id": "8712",
+      "description": "线条小狗_上学去咯",
+      "shortCodes": [
+        "[线条小狗_上学去咯]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/490/8712.png",
+      "isHide": false,
+      "packageId": "490",
+      "meta": {
+        "packageName": "线条小狗",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/89946d96d8132db15653b1f18d7bdb0c570d2848.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/e669df3bd3f57a071574729d94c651063a8942b7.png"
+      }
+    },
+    {
+      "id": "8713",
+      "description": "线条小狗_伸懒腰",
+      "shortCodes": [
+        "[线条小狗_伸懒腰]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/490/8713.png",
+      "isHide": false,
+      "packageId": "490",
+      "meta": {
+        "packageName": "线条小狗",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/89946d96d8132db15653b1f18d7bdb0c570d2848.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/f2f32ceb9a5b56e4398b509cc51ae77bf46d19f7.png"
+      }
+    },
+    {
+      "id": "8714",
+      "description": "线条小狗_睡觉",
+      "shortCodes": [
+        "[线条小狗_睡觉]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/490/8714.png",
+      "isHide": false,
+      "packageId": "490",
+      "meta": {
+        "packageName": "线条小狗",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/89946d96d8132db15653b1f18d7bdb0c570d2848.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/517fdde797528e8080863557af56ad79975f5807.png"
+      }
+    },
+    {
+      "id": "8715",
+      "description": "线条小狗_送礼物",
+      "shortCodes": [
+        "[线条小狗_送礼物]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/490/8715.png",
+      "isHide": false,
+      "packageId": "490",
+      "meta": {
+        "packageName": "线条小狗",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/89946d96d8132db15653b1f18d7bdb0c570d2848.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/261b363f2ac8aa4f323895a94aa73962afd9954e.png"
+      }
+    },
+    {
+      "id": "8716",
+      "description": "线条小狗_天哪",
+      "shortCodes": [
+        "[线条小狗_天哪]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/490/8716.png",
+      "isHide": false,
+      "packageId": "490",
+      "meta": {
+        "packageName": "线条小狗",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/89946d96d8132db15653b1f18d7bdb0c570d2848.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/1c4fc75910c710f913ecaf3ca39c0a97a173c427.png"
+      }
+    },
+    {
+      "id": "8717",
+      "description": "线条小狗_哇哦",
+      "shortCodes": [
+        "[线条小狗_哇哦]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/490/8717.png",
+      "isHide": false,
+      "packageId": "490",
+      "meta": {
+        "packageName": "线条小狗",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/89946d96d8132db15653b1f18d7bdb0c570d2848.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/712c36ca555de7d7b51c1e4b0b8e1a3a9d5d68f1.png"
+      }
+    },
+    {
+      "id": "8718",
+      "description": "线条小狗_歪头",
+      "shortCodes": [
+        "[线条小狗_歪头]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/490/8718.png",
+      "isHide": false,
+      "packageId": "490",
+      "meta": {
+        "packageName": "线条小狗",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/89946d96d8132db15653b1f18d7bdb0c570d2848.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/e6402b6673b9a551867f05d52eac0e9068075b14.png"
+      }
+    },
+    {
+      "id": "8719",
+      "description": "线条小狗_无辜",
+      "shortCodes": [
+        "[线条小狗_无辜]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/490/8719.png",
+      "isHide": false,
+      "packageId": "490",
+      "meta": {
+        "packageName": "线条小狗",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/89946d96d8132db15653b1f18d7bdb0c570d2848.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/7cb2d52dfa92a5f958b7ffc7b8be71047cc16652.png"
+      }
+    },
+    {
+      "id": "8720",
+      "description": "线条小狗_震惊",
+      "shortCodes": [
+        "[线条小狗_震惊]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/490/8720.png",
+      "isHide": false,
+      "packageId": "490",
+      "meta": {
+        "packageName": "线条小狗",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/89946d96d8132db15653b1f18d7bdb0c570d2848.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/34fb403c6781e6c0dcbfdfb33534a1c9e6a23f6d.png"
+      }
+    },
+    {
+      "id": "8721",
+      "description": "线条小狗_职业假笑",
+      "shortCodes": [
+        "[线条小狗_职业假笑]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/490/8721.png",
+      "isHide": false,
+      "packageId": "490",
+      "meta": {
+        "packageName": "线条小狗",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/89946d96d8132db15653b1f18d7bdb0c570d2848.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/b8efdfc582b53bddac674e9bed2dfb5724504ab0.png"
+      }
+    },
+    {
+      "id": "8722",
+      "description": "线条小狗_走好不送",
+      "shortCodes": [
+        "[线条小狗_走好不送]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/490/8722.png",
+      "isHide": false,
+      "packageId": "490",
+      "meta": {
+        "packageName": "线条小狗",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/89946d96d8132db15653b1f18d7bdb0c570d2848.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/ba6eceb8be04662c8ffb4fe458a305a6ad30fef4.png"
+      }
+    }
+  ]
+}

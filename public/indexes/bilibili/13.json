@@ -1,0 +1,232 @@
+{
+  "id": "13",
+  "name": "星梦手记",
+  "coverUrl": "http://i0.hdslb.com/bfs/emote/c4a6081c03495a969ad3ea4b8630d1bda9e6c87f.png",
+  "emojis": [
+    {
+      "id": "263",
+      "description": "星梦手记_吃瓜",
+      "shortCodes": [
+        "[星梦手记_吃瓜]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/13/263.png",
+      "isHide": false,
+      "packageId": "13",
+      "meta": {
+        "packageName": "星梦手记",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/c4a6081c03495a969ad3ea4b8630d1bda9e6c87f.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/9227318a903c96e0e4a61f06ef208150ce470f66.png"
+      }
+    },
+    {
+      "id": "264",
+      "description": "星梦手记_薇薇惊吓",
+      "shortCodes": [
+        "[星梦手记_薇薇惊吓]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/13/264.png",
+      "isHide": false,
+      "packageId": "13",
+      "meta": {
+        "packageName": "星梦手记",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/c4a6081c03495a969ad3ea4b8630d1bda9e6c87f.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/093634e9099f40f40886a83133de5a67ca148bce.png"
+      }
+    },
+    {
+      "id": "265",
+      "description": "星梦手记_惺梛认真",
+      "shortCodes": [
+        "[星梦手记_惺梛认真]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/13/265.png",
+      "isHide": false,
+      "packageId": "13",
+      "meta": {
+        "packageName": "星梦手记",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/c4a6081c03495a969ad3ea4b8630d1bda9e6c87f.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/16fcbf1de40cb19d26a13552a3740150e45aa89f.png"
+      }
+    },
+    {
+      "id": "266",
+      "description": "星梦手记_石化",
+      "shortCodes": [
+        "[星梦手记_石化]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/13/266.png",
+      "isHide": false,
+      "packageId": "13",
+      "meta": {
+        "packageName": "星梦手记",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/c4a6081c03495a969ad3ea4b8630d1bda9e6c87f.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/f6a6d33835a48e4141fb433bbd0215b1130cf681.png"
+      }
+    },
+    {
+      "id": "267",
+      "description": "星梦手记_问号",
+      "shortCodes": [
+        "[星梦手记_问号]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/13/267.png",
+      "isHide": false,
+      "packageId": "13",
+      "meta": {
+        "packageName": "星梦手记",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/c4a6081c03495a969ad3ea4b8630d1bda9e6c87f.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/4ced3d8866f502487ec2e93b326f592f4c358fbf.png"
+      }
+    },
+    {
+      "id": "268",
+      "description": "星梦手记_卖萌",
+      "shortCodes": [
+        "[星梦手记_卖萌]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/13/268.png",
+      "isHide": false,
+      "packageId": "13",
+      "meta": {
+        "packageName": "星梦手记",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/c4a6081c03495a969ad3ea4b8630d1bda9e6c87f.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/375e4296c26f65be888e86bea4af4f858642a7bb.png"
+      }
+    },
+    {
+      "id": "269",
+      "description": "星梦手记_尴尬",
+      "shortCodes": [
+        "[星梦手记_尴尬]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/13/269.png",
+      "isHide": false,
+      "packageId": "13",
+      "meta": {
+        "packageName": "星梦手记",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/c4a6081c03495a969ad3ea4b8630d1bda9e6c87f.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/423347d687184c14d9ce8b47a8342fd8d23e99b9.png"
+      }
+    },
+    {
+      "id": "270",
+      "description": "星梦手记_要抱",
+      "shortCodes": [
+        "[星梦手记_要抱]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/13/270.png",
+      "isHide": false,
+      "packageId": "13",
+      "meta": {
+        "packageName": "星梦手记",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/c4a6081c03495a969ad3ea4b8630d1bda9e6c87f.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/c125f4fc66ac8587fe4dd264254aad5dc4b31bef.png"
+      }
+    },
+    {
+      "id": "271",
+      "description": "星梦手记_未来认真",
+      "shortCodes": [
+        "[星梦手记_未来认真]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/13/271.png",
+      "isHide": false,
+      "packageId": "13",
+      "meta": {
+        "packageName": "星梦手记",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/c4a6081c03495a969ad3ea4b8630d1bda9e6c87f.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/330306ba001db1bd9f78bc99b8b6ec9341acbbcb.png"
+      }
+    },
+    {
+      "id": "272",
+      "description": "星梦手记_摊手",
+      "shortCodes": [
+        "[星梦手记_摊手]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/13/272.png",
+      "isHide": false,
+      "packageId": "13",
+      "meta": {
+        "packageName": "星梦手记",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/c4a6081c03495a969ad3ea4b8630d1bda9e6c87f.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/acd565a268f66fa27e0ccea409b3ff57c814b360.png"
+      }
+    },
+    {
+      "id": "273",
+      "description": "星梦手记_委屈",
+      "shortCodes": [
+        "[星梦手记_委屈]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/13/273.png",
+      "isHide": false,
+      "packageId": "13",
+      "meta": {
+        "packageName": "星梦手记",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/c4a6081c03495a969ad3ea4b8630d1bda9e6c87f.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/55f3974a6dded58365ef21e0a61d91725c3db431.png"
+      }
+    },
+    {
+      "id": "275",
+      "description": "星梦手记_没钱",
+      "shortCodes": [
+        "[星梦手记_没钱]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/13/275.png",
+      "isHide": false,
+      "packageId": "13",
+      "meta": {
+        "packageName": "星梦手记",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/c4a6081c03495a969ad3ea4b8630d1bda9e6c87f.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/e7d3feef58bf65441cbca1b8cd3c4b79cb923d15.png"
+      }
+    },
+    {
+      "id": "276",
+      "description": "星梦手记_无辜",
+      "shortCodes": [
+        "[星梦手记_无辜]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/13/276.png",
+      "isHide": false,
+      "packageId": "13",
+      "meta": {
+        "packageName": "星梦手记",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/c4a6081c03495a969ad3ea4b8630d1bda9e6c87f.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/0be73bd600367f162a2a14d48c11ad72b3527858.png"
+      }
+    },
+    {
+      "id": "277",
+      "description": "星梦手记_弃疗",
+      "shortCodes": [
+        "[星梦手记_弃疗]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/13/277.png",
+      "isHide": false,
+      "packageId": "13",
+      "meta": {
+        "packageName": "星梦手记",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/c4a6081c03495a969ad3ea4b8630d1bda9e6c87f.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/fee923c0e57d1f1e3426b397edcfeac93d770b76.png"
+      }
+    },
+    {
+      "id": "278",
+      "description": "星梦手记_雨照惊吓",
+      "shortCodes": [
+        "[星梦手记_雨照惊吓]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/13/278.png",
+      "isHide": false,
+      "packageId": "13",
+      "meta": {
+        "packageName": "星梦手记",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/c4a6081c03495a969ad3ea4b8630d1bda9e6c87f.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/4b1316f5bfd5c1745f8c721d845a6917d663c715.png"
+      }
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "id": "90",
+  "name": "百妖谱",
+  "coverUrl": "https://i0.hdslb.com/bfs/emote/d4596b652fcda1c64b124ba410706de190fa1846.png",
+  "emojis": [
+    {
+      "id": "2044",
+      "description": "百妖谱_药不能停",
+      "shortCodes": [
+        "[百妖谱_药不能停]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/90/2044.png",
+      "isHide": false,
+      "packageId": "90",
+      "meta": {
+        "packageName": "百妖谱",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/d4596b652fcda1c64b124ba410706de190fa1846.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/66687ec8b0a613bd98e633c9e1020e2fc00fce93.png"
+      }
+    },
+    {
+      "id": "2045",
+      "description": "百妖谱_干杯",
+      "shortCodes": [
+        "[百妖谱_干杯]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/90/2045.png",
+      "isHide": false,
+      "packageId": "90",
+      "meta": {
+        "packageName": "百妖谱",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/d4596b652fcda1c64b124ba410706de190fa1846.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/bd2a713946341f646f4ac3ab36499b837e726ade.png"
+      }
+    },
+    {
+      "id": "2046",
+      "description": "百妖谱_快更新",
+      "shortCodes": [
+        "[百妖谱_快更新]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/90/2046.png",
+      "isHide": false,
+      "packageId": "90",
+      "meta": {
+        "packageName": "百妖谱",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/d4596b652fcda1c64b124ba410706de190fa1846.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/7a6acccabd976c68ce9b720a1132140e87d96527.png"
+      }
+    },
+    {
+      "id": "2047",
+      "description": "百妖谱_没问题",
+      "shortCodes": [
+        "[百妖谱_没问题]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/90/2047.png",
+      "isHide": false,
+      "packageId": "90",
+      "meta": {
+        "packageName": "百妖谱",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/d4596b652fcda1c64b124ba410706de190fa1846.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/9ccfc4586c6385b4fd4edd1f6c5e2ed0b000f344.png"
+      }
+    },
+    {
+      "id": "2048",
+      "description": "百妖谱_秋梨膏",
+      "shortCodes": [
+        "[百妖谱_秋梨膏]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/90/2048.png",
+      "isHide": false,
+      "packageId": "90",
+      "meta": {
+        "packageName": "百妖谱",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/d4596b652fcda1c64b124ba410706de190fa1846.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/dd8a0042eaa667fda1a76d5f23169bbb456ee5cf.png"
+      }
+    },
+    {
+      "id": "2049",
+      "description": "百妖谱_我太难了",
+      "shortCodes": [
+        "[百妖谱_我太难了]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/90/2049.png",
+      "isHide": false,
+      "packageId": "90",
+      "meta": {
+        "packageName": "百妖谱",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/d4596b652fcda1c64b124ba410706de190fa1846.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/0397200276499b1ddb07a128403de4fa6827c2b5.png"
+      }
+    },
+    {
+      "id": "2050",
+      "description": "百妖谱_告辞",
+      "shortCodes": [
+        "[百妖谱_告辞]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/90/2050.png",
+      "isHide": false,
+      "packageId": "90",
+      "meta": {
+        "packageName": "百妖谱",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/d4596b652fcda1c64b124ba410706de190fa1846.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/70273f28487827db7e7eede4c63d3d171daa3a6b.png"
+      }
+    },
+    {
+      "id": "2051",
+      "description": "百妖谱_陷入思考",
+      "shortCodes": [
+        "[百妖谱_陷入思考]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/90/2051.png",
+      "isHide": false,
+      "packageId": "90",
+      "meta": {
+        "packageName": "百妖谱",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/d4596b652fcda1c64b124ba410706de190fa1846.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/b4462ee01b4843a69e082fc1a0bbfa4439323b00.png"
+      }
+    },
+    {
+      "id": "2052",
+      "description": "百妖谱_凶",
+      "shortCodes": [
+        "[百妖谱_凶]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/90/2052.png",
+      "isHide": false,
+      "packageId": "90",
+      "meta": {
+        "packageName": "百妖谱",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/d4596b652fcda1c64b124ba410706de190fa1846.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/41c78bc32ea1a3f89ae47f240b61e4835bbd20a4.png"
+      }
+    },
+    {
+      "id": "2053",
+      "description": "百妖谱_一针见效",
+      "shortCodes": [
+        "[百妖谱_一针见效]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/90/2053.png",
+      "isHide": false,
+      "packageId": "90",
+      "meta": {
+        "packageName": "百妖谱",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/d4596b652fcda1c64b124ba410706de190fa1846.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/27cce53c5fb14e697993fc8db6f83aa308fa5830.png"
+      }
+    }
+  ]
+}

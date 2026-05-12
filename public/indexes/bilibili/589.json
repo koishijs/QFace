@@ -1,0 +1,382 @@
+{
+  "id": "589",
+  "name": "露早GOGO",
+  "coverUrl": "https://i0.hdslb.com/bfs/emote/c38a6c6a6fd213d67fc985b89560f1e692029993.png",
+  "emojis": [
+    {
+      "id": "10698",
+      "description": "露早GOGO_GOGO队",
+      "shortCodes": [
+        "[露早GOGO_GOGO队]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/589/10698.png",
+      "isHide": false,
+      "packageId": "589",
+      "meta": {
+        "packageName": "露早GOGO",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/c38a6c6a6fd213d67fc985b89560f1e692029993.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/96430f218bc99dd105c49461f8d140e04f29424d.png"
+      }
+    },
+    {
+      "id": "10699",
+      "description": "露早GOGO_mua",
+      "shortCodes": [
+        "[露早GOGO_mua]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/589/10699.png",
+      "isHide": false,
+      "packageId": "589",
+      "meta": {
+        "packageName": "露早GOGO",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/c38a6c6a6fd213d67fc985b89560f1e692029993.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/7e0b9c381ab38fe0cf2a0c9fbf7619a6ee9a68e6.png"
+      }
+    },
+    {
+      "id": "10700",
+      "description": "露早GOGO_给你一拳",
+      "shortCodes": [
+        "[露早GOGO_给你一拳]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/589/10700.png",
+      "isHide": false,
+      "packageId": "589",
+      "meta": {
+        "packageName": "露早GOGO",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/c38a6c6a6fd213d67fc985b89560f1e692029993.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/6ddae456fe4ac40e1fb2be4ada95505af65beff7.png"
+      }
+    },
+    {
+      "id": "10701",
+      "description": "露早GOGO_姐有招",
+      "shortCodes": [
+        "[露早GOGO_姐有招]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/589/10701.png",
+      "isHide": false,
+      "packageId": "589",
+      "meta": {
+        "packageName": "露早GOGO",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/c38a6c6a6fd213d67fc985b89560f1e692029993.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/24344bc634988870745151f1c3acd53f08629548.png"
+      }
+    },
+    {
+      "id": "10702",
+      "description": "露早GOGO_紧张",
+      "shortCodes": [
+        "[露早GOGO_紧张]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/589/10702.png",
+      "isHide": false,
+      "packageId": "589",
+      "meta": {
+        "packageName": "露早GOGO",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/c38a6c6a6fd213d67fc985b89560f1e692029993.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/04a2ebdd5a2c14fa3b52380394a0bc820c4be575.png"
+      }
+    },
+    {
+      "id": "10703",
+      "description": "露早GOGO_开心",
+      "shortCodes": [
+        "[露早GOGO_开心]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/589/10703.png",
+      "isHide": false,
+      "packageId": "589",
+      "meta": {
+        "packageName": "露早GOGO",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/c38a6c6a6fd213d67fc985b89560f1e692029993.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/30542a2ee2dd0da90a831648031de0f32379fc03.png"
+      }
+    },
+    {
+      "id": "10704",
+      "description": "露早GOGO_侃侃而谈",
+      "shortCodes": [
+        "[露早GOGO_侃侃而谈]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/589/10704.png",
+      "isHide": false,
+      "packageId": "589",
+      "meta": {
+        "packageName": "露早GOGO",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/c38a6c6a6fd213d67fc985b89560f1e692029993.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/b2a3447f0da833f0fcc24ccb2b9dc6bd62b6a98e.png"
+      }
+    },
+    {
+      "id": "10705",
+      "description": "露早GOGO_哭泣",
+      "shortCodes": [
+        "[露早GOGO_哭泣]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/589/10705.png",
+      "isHide": false,
+      "packageId": "589",
+      "meta": {
+        "packageName": "露早GOGO",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/c38a6c6a6fd213d67fc985b89560f1e692029993.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/b84c7958c5a21e588f515e127a9034b0bc032961.png"
+      }
+    },
+    {
+      "id": "10706",
+      "description": "露早GOGO_偶像包袱",
+      "shortCodes": [
+        "[露早GOGO_偶像包袱]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/589/10706.png",
+      "isHide": false,
+      "packageId": "589",
+      "meta": {
+        "packageName": "露早GOGO",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/c38a6c6a6fd213d67fc985b89560f1e692029993.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/d0021c887c542bc17a0fd745effbe663e00c5bf4.png"
+      }
+    },
+    {
+      "id": "10707",
+      "description": "露早GOGO_生气",
+      "shortCodes": [
+        "[露早GOGO_生气]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/589/10707.png",
+      "isHide": false,
+      "packageId": "589",
+      "meta": {
+        "packageName": "露早GOGO",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/c38a6c6a6fd213d67fc985b89560f1e692029993.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/774094fc3874fa6ae12dcfc5d3ab20550a73c52f.png"
+      }
+    },
+    {
+      "id": "10708",
+      "description": "露早GOGO_睡着",
+      "shortCodes": [
+        "[露早GOGO_睡着]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/589/10708.png",
+      "isHide": false,
+      "packageId": "589",
+      "meta": {
+        "packageName": "露早GOGO",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/c38a6c6a6fd213d67fc985b89560f1e692029993.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/234e86df70697fbc3f7d78f2b61aa78d4a012d22.png"
+      }
+    },
+    {
+      "id": "10709",
+      "description": "露早GOGO_偷吃",
+      "shortCodes": [
+        "[露早GOGO_偷吃]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/589/10709.png",
+      "isHide": false,
+      "packageId": "589",
+      "meta": {
+        "packageName": "露早GOGO",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/c38a6c6a6fd213d67fc985b89560f1e692029993.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/ba48b8962c62e4d30dc5bc81c2f51697db7404f8.png"
+      }
+    },
+    {
+      "id": "10710",
+      "description": "露早GOGO_歪嘴",
+      "shortCodes": [
+        "[露早GOGO_歪嘴]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/589/10710.png",
+      "isHide": false,
+      "packageId": "589",
+      "meta": {
+        "packageName": "露早GOGO",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/c38a6c6a6fd213d67fc985b89560f1e692029993.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/f5c436c823fcbb8672658ff8b63c4ac8c5dc96c4.png"
+      }
+    },
+    {
+      "id": "10711",
+      "description": "露早GOGO_在看吗？",
+      "shortCodes": [
+        "[露早GOGO_在看吗？]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/589/10711.png",
+      "isHide": false,
+      "packageId": "589",
+      "meta": {
+        "packageName": "露早GOGO",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/c38a6c6a6fd213d67fc985b89560f1e692029993.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/3625984f113e6485acfcb761c8411a9636bd6247.png"
+      }
+    },
+    {
+      "id": "10712",
+      "description": "露早GOGO_宅家",
+      "shortCodes": [
+        "[露早GOGO_宅家]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/589/10712.png",
+      "isHide": false,
+      "packageId": "589",
+      "meta": {
+        "packageName": "露早GOGO",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/c38a6c6a6fd213d67fc985b89560f1e692029993.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/55194386e9e85b490aaad582d20c5568eda021db.png"
+      }
+    },
+    {
+      "id": "14392",
+      "description": "露早GOGO_补签卡",
+      "shortCodes": [
+        "[露早GOGO_补签卡]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/589/14392.png",
+      "isHide": false,
+      "packageId": "589",
+      "meta": {
+        "packageName": "露早GOGO",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/c38a6c6a6fd213d67fc985b89560f1e692029993.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/7de2f2ab40f4ea71856642dbc147f11e484cbe21.png"
+      }
+    },
+    {
+      "id": "14393",
+      "description": "露早GOGO_蒽，",
+      "shortCodes": [
+        "[露早GOGO_蒽，]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/589/14393.png",
+      "isHide": false,
+      "packageId": "589",
+      "meta": {
+        "packageName": "露早GOGO",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/c38a6c6a6fd213d67fc985b89560f1e692029993.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/7ecd83d20fe81aa07113f46295640e9f959909e0.png"
+      }
+    },
+    {
+      "id": "14394",
+      "description": "露早GOGO_公主殿下",
+      "shortCodes": [
+        "[露早GOGO_公主殿下]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/589/14394.png",
+      "isHide": false,
+      "packageId": "589",
+      "meta": {
+        "packageName": "露早GOGO",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/c38a6c6a6fd213d67fc985b89560f1e692029993.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/1f0c3bbe1ec806153bcf0c2099248e12bc17ee9d.png"
+      }
+    },
+    {
+      "id": "14395",
+      "description": "露早GOGO_敬礼",
+      "shortCodes": [
+        "[露早GOGO_敬礼]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/589/14395.png",
+      "isHide": false,
+      "packageId": "589",
+      "meta": {
+        "packageName": "露早GOGO",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/c38a6c6a6fd213d67fc985b89560f1e692029993.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/a29c5bbeeb7e49284647745310769e637cf3f135.png"
+      }
+    },
+    {
+      "id": "14396",
+      "description": "露早GOGO_流汗",
+      "shortCodes": [
+        "[露早GOGO_流汗]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/589/14396.png",
+      "isHide": false,
+      "packageId": "589",
+      "meta": {
+        "packageName": "露早GOGO",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/c38a6c6a6fd213d67fc985b89560f1e692029993.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/7f726e9d8e4eeaca26f6a1d2c16844145a63e533.png"
+      }
+    },
+    {
+      "id": "14397",
+      "description": "露早GOGO_哇袄",
+      "shortCodes": [
+        "[露早GOGO_哇袄]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/589/14397.png",
+      "isHide": false,
+      "packageId": "589",
+      "meta": {
+        "packageName": "露早GOGO",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/c38a6c6a6fd213d67fc985b89560f1e692029993.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/8eeeaf69e67bdb3d4ff67312ce729ce0597fa69a.png"
+      }
+    },
+    {
+      "id": "14398",
+      "description": "露早GOGO_谢谢你",
+      "shortCodes": [
+        "[露早GOGO_谢谢你]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/589/14398.png",
+      "isHide": false,
+      "packageId": "589",
+      "meta": {
+        "packageName": "露早GOGO",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/c38a6c6a6fd213d67fc985b89560f1e692029993.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/49a2b4c0c7ff838bec50addc08ebfc2d31a7e635.png"
+      }
+    },
+    {
+      "id": "14399",
+      "description": "露早GOGO_早",
+      "shortCodes": [
+        "[露早GOGO_早]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/589/14399.png",
+      "isHide": false,
+      "packageId": "589",
+      "meta": {
+        "packageName": "露早GOGO",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/c38a6c6a6fd213d67fc985b89560f1e692029993.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/61779147fdf8a0d0731d55d76bcfa3a5072f7877.png"
+      }
+    },
+    {
+      "id": "14400",
+      "description": "露早GOGO_我们是EOE",
+      "shortCodes": [
+        "[露早GOGO_我们是EOE]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/589/14400.png",
+      "isHide": false,
+      "packageId": "589",
+      "meta": {
+        "packageName": "露早GOGO",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/c38a6c6a6fd213d67fc985b89560f1e692029993.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/a435586a43b72f0509db7a3e9aee75d664304e3b.png"
+      }
+    },
+    {
+      "id": "14401",
+      "description": "露早GOGO_GO叫",
+      "shortCodes": [
+        "[露早GOGO_GO叫]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/589/14401.png",
+      "isHide": false,
+      "packageId": "589",
+      "meta": {
+        "packageName": "露早GOGO",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/c38a6c6a6fd213d67fc985b89560f1e692029993.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/95a9ab8812814f1bb16d38460a5ec67f922884ec.png"
+      }
+    }
+  ]
+}

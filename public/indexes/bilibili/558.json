@@ -1,0 +1,157 @@
+{
+  "id": "558",
+  "name": "BURBERRY",
+  "coverUrl": "https://i0.hdslb.com/bfs/emote/d5436f545732057975092625bfa7640409764d6f.png",
+  "emojis": [
+    {
+      "id": "10209",
+      "description": "BURBERRY_WOW",
+      "shortCodes": [
+        "[BURBERRY_WOW]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/558/10209.png",
+      "isHide": false,
+      "packageId": "558",
+      "meta": {
+        "packageName": "BURBERRY",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/d5436f545732057975092625bfa7640409764d6f.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/506cf5b29df63a77ccaea10275e0b118952f9494.png"
+      }
+    },
+    {
+      "id": "10210",
+      "description": "BURBERRY_走起",
+      "shortCodes": [
+        "[BURBERRY_走起]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/558/10210.png",
+      "isHide": false,
+      "packageId": "558",
+      "meta": {
+        "packageName": "BURBERRY",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/d5436f545732057975092625bfa7640409764d6f.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/13bdc92bcd4da32e9910388ea90d08ff1b915568.png"
+      }
+    },
+    {
+      "id": "10211",
+      "description": "BURBERRY_OK",
+      "shortCodes": [
+        "[BURBERRY_OK]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/558/10211.png",
+      "isHide": false,
+      "packageId": "558",
+      "meta": {
+        "packageName": "BURBERRY",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/d5436f545732057975092625bfa7640409764d6f.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/bfa500aa98c31a6e2a962bff50b603ad610196d2.png"
+      }
+    },
+    {
+      "id": "10212",
+      "description": "BURBERRY_看着不错",
+      "shortCodes": [
+        "[BURBERRY_看着不错]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/558/10212.png",
+      "isHide": false,
+      "packageId": "558",
+      "meta": {
+        "packageName": "BURBERRY",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/d5436f545732057975092625bfa7640409764d6f.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/c34cd269a23812be3ffa3e848fbdd8431416ed20.png"
+      }
+    },
+    {
+      "id": "10213",
+      "description": "BURBERRY_快了快了",
+      "shortCodes": [
+        "[BURBERRY_快了快了]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/558/10213.png",
+      "isHide": false,
+      "packageId": "558",
+      "meta": {
+        "packageName": "BURBERRY",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/d5436f545732057975092625bfa7640409764d6f.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/218fe42681ad73f9b20446a5da58931350fb1941.png"
+      }
+    },
+    {
+      "id": "10214",
+      "description": "BURBERRY_等等",
+      "shortCodes": [
+        "[BURBERRY_等等]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/558/10214.png",
+      "isHide": false,
+      "packageId": "558",
+      "meta": {
+        "packageName": "BURBERRY",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/d5436f545732057975092625bfa7640409764d6f.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/1fc5330ebedc5f261ef5f3c1f87014dd3ab9e810.png"
+      }
+    },
+    {
+      "id": "10215",
+      "description": "BURBERRY_再见",
+      "shortCodes": [
+        "[BURBERRY_再见]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/558/10215.png",
+      "isHide": false,
+      "packageId": "558",
+      "meta": {
+        "packageName": "BURBERRY",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/d5436f545732057975092625bfa7640409764d6f.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/30376e2996498859088b916cfa72d06855f2723c.png"
+      }
+    },
+    {
+      "id": "10216",
+      "description": "BURBERRY_谢谢",
+      "shortCodes": [
+        "[BURBERRY_谢谢]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/558/10216.png",
+      "isHide": false,
+      "packageId": "558",
+      "meta": {
+        "packageName": "BURBERRY",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/d5436f545732057975092625bfa7640409764d6f.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/b8db5f23c35ea910ebef06f1d10c9e92bb2bd748.png"
+      }
+    },
+    {
+      "id": "10217",
+      "description": "BURBERRY_你好",
+      "shortCodes": [
+        "[BURBERRY_你好]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/558/10217.png",
+      "isHide": false,
+      "packageId": "558",
+      "meta": {
+        "packageName": "BURBERRY",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/d5436f545732057975092625bfa7640409764d6f.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/72f7b348ea296e1c64bf09eb93b468076dad0a4f.png"
+      }
+    },
+    {
+      "id": "10218",
+      "description": "BURBERRY_很酷",
+      "shortCodes": [
+        "[BURBERRY_很酷]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/558/10218.png",
+      "isHide": false,
+      "packageId": "558",
+      "meta": {
+        "packageName": "BURBERRY",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/d5436f545732057975092625bfa7640409764d6f.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/d7eccfd357370721c6e6a2e5099d9fc899997b58.png"
+      }
+    }
+  ]
+}

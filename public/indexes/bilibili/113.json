@@ -1,0 +1,232 @@
+{
+  "id": "113",
+  "name": "神楽Mea",
+  "coverUrl": "http://i0.hdslb.com/bfs/emote/7f338fa47ac3040b84ea0bc7e47b5d5f55e30727.png",
+  "emojis": [
+    {
+      "id": "2375",
+      "description": "神楽Mea_拜托拜托",
+      "shortCodes": [
+        "[神楽Mea_拜托拜托]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/113/2375.png",
+      "isHide": false,
+      "packageId": "113",
+      "meta": {
+        "packageName": "神楽Mea",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/7f338fa47ac3040b84ea0bc7e47b5d5f55e30727.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/2acfdf866cb9d5bc6efa4dcfbe1baebd0bbb3550.png"
+      }
+    },
+    {
+      "id": "2376",
+      "description": "神楽Mea_不可以",
+      "shortCodes": [
+        "[神楽Mea_不可以]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/113/2376.png",
+      "isHide": false,
+      "packageId": "113",
+      "meta": {
+        "packageName": "神楽Mea",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/7f338fa47ac3040b84ea0bc7e47b5d5f55e30727.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/21b61235610e77bd43e9b7dcd382cfc2cbc7feb9.png"
+      }
+    },
+    {
+      "id": "2377",
+      "description": "神楽Mea_给我钱",
+      "shortCodes": [
+        "[神楽Mea_给我钱]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/113/2377.png",
+      "isHide": false,
+      "packageId": "113",
+      "meta": {
+        "packageName": "神楽Mea",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/7f338fa47ac3040b84ea0bc7e47b5d5f55e30727.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/974c4f3235570125e72eda6c664300d882945000.png"
+      }
+    },
+    {
+      "id": "2378",
+      "description": "神楽Mea_哈哈哈",
+      "shortCodes": [
+        "[神楽Mea_哈哈哈]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/113/2378.png",
+      "isHide": false,
+      "packageId": "113",
+      "meta": {
+        "packageName": "神楽Mea",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/7f338fa47ac3040b84ea0bc7e47b5d5f55e30727.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/d4e82312c2b7ae24db07dc0748e82ed3f6a88d1b.png"
+      }
+    },
+    {
+      "id": "2379",
+      "description": "神楽Mea_哭给你看",
+      "shortCodes": [
+        "[神楽Mea_哭给你看]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/113/2379.png",
+      "isHide": false,
+      "packageId": "113",
+      "meta": {
+        "packageName": "神楽Mea",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/7f338fa47ac3040b84ea0bc7e47b5d5f55e30727.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/d167505d1c2ce0b39ec8c8067b28dae02152873c.png"
+      }
+    },
+    {
+      "id": "2380",
+      "description": "神楽Mea_理解一下",
+      "shortCodes": [
+        "[神楽Mea_理解一下]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/113/2380.png",
+      "isHide": false,
+      "packageId": "113",
+      "meta": {
+        "packageName": "神楽Mea",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/7f338fa47ac3040b84ea0bc7e47b5d5f55e30727.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/d21660312d5bcc063cdcae2022b3e68a5b57e3da.png"
+      }
+    },
+    {
+      "id": "2381",
+      "description": "神楽Mea_略略略",
+      "shortCodes": [
+        "[神楽Mea_略略略]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/113/2381.png",
+      "isHide": false,
+      "packageId": "113",
+      "meta": {
+        "packageName": "神楽Mea",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/7f338fa47ac3040b84ea0bc7e47b5d5f55e30727.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/dd0870cc8d7245f89c02dbe32ecf94c4d28e05c6.png"
+      }
+    },
+    {
+      "id": "2382",
+      "description": "神楽Mea_啾咪",
+      "shortCodes": [
+        "[神楽Mea_啾咪]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/113/2382.png",
+      "isHide": false,
+      "packageId": "113",
+      "meta": {
+        "packageName": "神楽Mea",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/7f338fa47ac3040b84ea0bc7e47b5d5f55e30727.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/50bc780ccba96dc0d8170f70b9671eea69f02abf.png"
+      }
+    },
+    {
+      "id": "2383",
+      "description": "神楽Mea_咩",
+      "shortCodes": [
+        "[神楽Mea_咩]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/113/2383.png",
+      "isHide": false,
+      "packageId": "113",
+      "meta": {
+        "packageName": "神楽Mea",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/7f338fa47ac3040b84ea0bc7e47b5d5f55e30727.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/80bfbba75128aaff8cf6dfe2ee427543aa28e9a5.png"
+      }
+    },
+    {
+      "id": "2384",
+      "description": "神楽Mea_你很可爱",
+      "shortCodes": [
+        "[神楽Mea_你很可爱]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/113/2384.png",
+      "isHide": false,
+      "packageId": "113",
+      "meta": {
+        "packageName": "神楽Mea",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/7f338fa47ac3040b84ea0bc7e47b5d5f55e30727.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/dade9e98431c10884291e7fd1f5e94a04234a4ec.png"
+      }
+    },
+    {
+      "id": "2385",
+      "description": "神楽Mea_不满么",
+      "shortCodes": [
+        "[神楽Mea_不满么]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/113/2385.png",
+      "isHide": false,
+      "packageId": "113",
+      "meta": {
+        "packageName": "神楽Mea",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/7f338fa47ac3040b84ea0bc7e47b5d5f55e30727.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/85d4f513ea20b1328ca82bf35979577b7841dd51.png"
+      }
+    },
+    {
+      "id": "2386",
+      "description": "神楽Mea_我错了",
+      "shortCodes": [
+        "[神楽Mea_我错了]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/113/2386.png",
+      "isHide": false,
+      "packageId": "113",
+      "meta": {
+        "packageName": "神楽Mea",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/7f338fa47ac3040b84ea0bc7e47b5d5f55e30727.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/b17d7f543cee4ee00716e4ba8b88d1e0e7d9d410.png"
+      }
+    },
+    {
+      "id": "2387",
+      "description": "神楽Mea_嘲讽",
+      "shortCodes": [
+        "[神楽Mea_嘲讽]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/113/2387.png",
+      "isHide": false,
+      "packageId": "113",
+      "meta": {
+        "packageName": "神楽Mea",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/7f338fa47ac3040b84ea0bc7e47b5d5f55e30727.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/fc54866b7729bdc1bd7b013c31c1b5a26eeba78e.png"
+      }
+    },
+    {
+      "id": "2388",
+      "description": "神楽Mea_kimo",
+      "shortCodes": [
+        "[神楽Mea_kimo]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/113/2388.png",
+      "isHide": false,
+      "packageId": "113",
+      "meta": {
+        "packageName": "神楽Mea",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/7f338fa47ac3040b84ea0bc7e47b5d5f55e30727.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/644c67b7e47042dddeb29c4e4ed8ccc576fabe8a.png"
+      }
+    },
+    {
+      "id": "2389",
+      "description": "神楽Mea_戳便便",
+      "shortCodes": [
+        "[神楽Mea_戳便便]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/113/2389.png",
+      "isHide": false,
+      "packageId": "113",
+      "meta": {
+        "packageName": "神楽Mea",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/7f338fa47ac3040b84ea0bc7e47b5d5f55e30727.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/c2f1414549d0ab115ff6c8c3f15efbd22a4eab26.png"
+      }
+    }
+  ]
+}

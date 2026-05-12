@@ -1,0 +1,232 @@
+{
+  "id": "326",
+  "name": "AG超玩会",
+  "coverUrl": "http://i0.hdslb.com/bfs/emote/251613f42066f514b4989560a0d1263bda914ecf.png",
+  "emojis": [
+    {
+      "id": "5326",
+      "description": "AG超玩会_6",
+      "shortCodes": [
+        "[AG超玩会_6]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/326/5326.png",
+      "isHide": false,
+      "packageId": "326",
+      "meta": {
+        "packageName": "AG超玩会",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/251613f42066f514b4989560a0d1263bda914ecf.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/fb68dd78af37c069f7d1a1f9efa5323a2ae21690.png"
+      }
+    },
+    {
+      "id": "5327",
+      "description": "AG超玩会_保GP",
+      "shortCodes": [
+        "[AG超玩会_保GP]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/326/5327.png",
+      "isHide": false,
+      "packageId": "326",
+      "meta": {
+        "packageName": "AG超玩会",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/251613f42066f514b4989560a0d1263bda914ecf.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/eb910665c97c903a41616a4f29958002cbd6e3df.png"
+      }
+    },
+    {
+      "id": "5328",
+      "description": "AG超玩会_电竞百灵鸟",
+      "shortCodes": [
+        "[AG超玩会_电竞百灵鸟]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/326/5328.png",
+      "isHide": false,
+      "packageId": "326",
+      "meta": {
+        "packageName": "AG超玩会",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/251613f42066f514b4989560a0d1263bda914ecf.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/103c7cc967ced54b43f720ac5e8b792f1c52bfca.png"
+      }
+    },
+    {
+      "id": "5329",
+      "description": "AG超玩会_啾咪啾咪",
+      "shortCodes": [
+        "[AG超玩会_啾咪啾咪]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/326/5329.png",
+      "isHide": false,
+      "packageId": "326",
+      "meta": {
+        "packageName": "AG超玩会",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/251613f42066f514b4989560a0d1263bda914ecf.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/f5dd9a3850fec1a5ebe27a8f3bb76ec2cd8c9fc4.png"
+      }
+    },
+    {
+      "id": "5330",
+      "description": "AG超玩会_哭哭",
+      "shortCodes": [
+        "[AG超玩会_哭哭]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/326/5330.png",
+      "isHide": false,
+      "packageId": "326",
+      "meta": {
+        "packageName": "AG超玩会",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/251613f42066f514b4989560a0d1263bda914ecf.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/d106ad40097792685bb4d0fc0c1df74e8d33bd20.png"
+      }
+    },
+    {
+      "id": "5331",
+      "description": "AG超玩会_老父亲",
+      "shortCodes": [
+        "[AG超玩会_老父亲]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/326/5331.png",
+      "isHide": false,
+      "packageId": "326",
+      "meta": {
+        "packageName": "AG超玩会",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/251613f42066f514b4989560a0d1263bda914ecf.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/79a28bec83d9df644ad0df8b54a73c1bc93d52ee.png"
+      }
+    },
+    {
+      "id": "5332",
+      "description": "AG超玩会_欧皇",
+      "shortCodes": [
+        "[AG超玩会_欧皇]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/326/5332.png",
+      "isHide": false,
+      "packageId": "326",
+      "meta": {
+        "packageName": "AG超玩会",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/251613f42066f514b4989560a0d1263bda914ecf.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/cbaa5c94d43b67a0eef1442b7cc8bee44765df31.png"
+      }
+    },
+    {
+      "id": "5333",
+      "description": "AG超玩会_唐僧",
+      "shortCodes": [
+        "[AG超玩会_唐僧]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/326/5333.png",
+      "isHide": false,
+      "packageId": "326",
+      "meta": {
+        "packageName": "AG超玩会",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/251613f42066f514b4989560a0d1263bda914ecf.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/754d2959353764ef8de3cb8a8fae4bd816f34a3c.png"
+      }
+    },
+    {
+      "id": "5334",
+      "description": "AG超玩会_五杀没喽",
+      "shortCodes": [
+        "[AG超玩会_五杀没喽]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/326/5334.png",
+      "isHide": false,
+      "packageId": "326",
+      "meta": {
+        "packageName": "AG超玩会",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/251613f42066f514b4989560a0d1263bda914ecf.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/5089be0b61bc0ae5f05df00f1c74199d8fc60166.png"
+      }
+    },
+    {
+      "id": "5335",
+      "description": "AG超玩会_向日葵",
+      "shortCodes": [
+        "[AG超玩会_向日葵]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/326/5335.png",
+      "isHide": false,
+      "packageId": "326",
+      "meta": {
+        "packageName": "AG超玩会",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/251613f42066f514b4989560a0d1263bda914ecf.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/4e33a67d477476663633e056ee178cb52954506d.png"
+      }
+    },
+    {
+      "id": "5336",
+      "description": "AG超玩会_小明无敌",
+      "shortCodes": [
+        "[AG超玩会_小明无敌]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/326/5336.png",
+      "isHide": false,
+      "packageId": "326",
+      "meta": {
+        "packageName": "AG超玩会",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/251613f42066f514b4989560a0d1263bda914ecf.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/881bb5b2e364f6cf6d1d3f9b10ea8c606f39dae4.png"
+      }
+    },
+    {
+      "id": "5337",
+      "description": "AG超玩会_久诚",
+      "shortCodes": [
+        "[AG超玩会_久诚]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/326/5337.png",
+      "isHide": false,
+      "packageId": "326",
+      "meta": {
+        "packageName": "AG超玩会",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/251613f42066f514b4989560a0d1263bda914ecf.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/0c498ac3566ef11bddecc3a97590bee00ce709c3.png"
+      }
+    },
+    {
+      "id": "5338",
+      "description": "AG超玩会_易烊千北",
+      "shortCodes": [
+        "[AG超玩会_易烊千北]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/326/5338.png",
+      "isHide": false,
+      "packageId": "326",
+      "meta": {
+        "packageName": "AG超玩会",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/251613f42066f514b4989560a0d1263bda914ecf.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/d49dcfbb64a6647610692221fa76ccde09cb0000.png"
+      }
+    },
+    {
+      "id": "5339",
+      "description": "AG超玩会_有问题吗?",
+      "shortCodes": [
+        "[AG超玩会_有问题吗?]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/326/5339.png",
+      "isHide": false,
+      "packageId": "326",
+      "meta": {
+        "packageName": "AG超玩会",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/251613f42066f514b4989560a0d1263bda914ecf.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/c6858c04176f0caf45dec31faad3d42f6718b4af.png"
+      }
+    },
+    {
+      "id": "5340",
+      "description": "AG超玩会_怎么gian的",
+      "shortCodes": [
+        "[AG超玩会_怎么gian的]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/326/5340.png",
+      "isHide": false,
+      "packageId": "326",
+      "meta": {
+        "packageName": "AG超玩会",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/251613f42066f514b4989560a0d1263bda914ecf.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/9ac6d3b79ec36ab63d8bd7b75e11a951ecf76eb3.png"
+      }
+    }
+  ]
+}

@@ -1,0 +1,232 @@
+{
+  "id": "495",
+  "name": "小彼索",
+  "coverUrl": "http://i0.hdslb.com/bfs/emote/45c0fa98196f714c89e77a9bf8e23d47310645b2.png",
+  "emojis": [
+    {
+      "id": "8798",
+      "description": "小彼索_暗中观察",
+      "shortCodes": [
+        "[小彼索_暗中观察]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/495/8798.png",
+      "isHide": false,
+      "packageId": "495",
+      "meta": {
+        "packageName": "小彼索",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/45c0fa98196f714c89e77a9bf8e23d47310645b2.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/d93caef0818a21dece74e7a08bea93e0bd213f85.png"
+      }
+    },
+    {
+      "id": "8799",
+      "description": "小彼索_币给你",
+      "shortCodes": [
+        "[小彼索_币给你]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/495/8799.png",
+      "isHide": false,
+      "packageId": "495",
+      "meta": {
+        "packageName": "小彼索",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/45c0fa98196f714c89e77a9bf8e23d47310645b2.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/59fc556c85da39e4ad06b06e46fa6ee4597196f2.png"
+      }
+    },
+    {
+      "id": "8800",
+      "description": "小彼索_无语",
+      "shortCodes": [
+        "[小彼索_无语]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/495/8800.png",
+      "isHide": false,
+      "packageId": "495",
+      "meta": {
+        "packageName": "小彼索",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/45c0fa98196f714c89e77a9bf8e23d47310645b2.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/93cc73d9da81478266143b30174d1c7ca03c6b45.png"
+      }
+    },
+    {
+      "id": "8801",
+      "description": "小彼索_吃瓜",
+      "shortCodes": [
+        "[小彼索_吃瓜]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/495/8801.png",
+      "isHide": false,
+      "packageId": "495",
+      "meta": {
+        "packageName": "小彼索",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/45c0fa98196f714c89e77a9bf8e23d47310645b2.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/26c10ebdba422921fffa160b317d956d30aa5fcb.png"
+      }
+    },
+    {
+      "id": "8802",
+      "description": "小彼索_冲冲冲",
+      "shortCodes": [
+        "[小彼索_冲冲冲]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/495/8802.png",
+      "isHide": false,
+      "packageId": "495",
+      "meta": {
+        "packageName": "小彼索",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/45c0fa98196f714c89e77a9bf8e23d47310645b2.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/d8f80c13d5ceca59332ec7b73feb87250411af59.png"
+      }
+    },
+    {
+      "id": "8803",
+      "description": "小彼索_对对对",
+      "shortCodes": [
+        "[小彼索_对对对]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/495/8803.png",
+      "isHide": false,
+      "packageId": "495",
+      "meta": {
+        "packageName": "小彼索",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/45c0fa98196f714c89e77a9bf8e23d47310645b2.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/b8bf96cea1fc434c7b28cab9eb5ef1ef5fb858c4.png"
+      }
+    },
+    {
+      "id": "8804",
+      "description": "小彼索_干饭",
+      "shortCodes": [
+        "[小彼索_干饭]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/495/8804.png",
+      "isHide": false,
+      "packageId": "495",
+      "meta": {
+        "packageName": "小彼索",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/45c0fa98196f714c89e77a9bf8e23d47310645b2.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/adbfec735e5c8948f9bc3121e4c839142fcfe61d.png"
+      }
+    },
+    {
+      "id": "8805",
+      "description": "小彼索_好气",
+      "shortCodes": [
+        "[小彼索_好气]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/495/8805.png",
+      "isHide": false,
+      "packageId": "495",
+      "meta": {
+        "packageName": "小彼索",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/45c0fa98196f714c89e77a9bf8e23d47310645b2.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/4a7e7cc76a2c18914aa852d904ca3ada9cb5f8c9.png"
+      }
+    },
+    {
+      "id": "8806",
+      "description": "小彼索_生气",
+      "shortCodes": [
+        "[小彼索_生气]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/495/8806.png",
+      "isHide": false,
+      "packageId": "495",
+      "meta": {
+        "packageName": "小彼索",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/45c0fa98196f714c89e77a9bf8e23d47310645b2.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/8669dfbecf610065038106c646f507ed71c1a3a6.png"
+      }
+    },
+    {
+      "id": "8807",
+      "description": "小彼索_就这",
+      "shortCodes": [
+        "[小彼索_就这]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/495/8807.png",
+      "isHide": false,
+      "packageId": "495",
+      "meta": {
+        "packageName": "小彼索",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/45c0fa98196f714c89e77a9bf8e23d47310645b2.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/11508d88c2a3ee8e82c44abc61e72bbe97b9c8f0.png"
+      }
+    },
+    {
+      "id": "8808",
+      "description": "小彼索_晚安",
+      "shortCodes": [
+        "[小彼索_晚安]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/495/8808.png",
+      "isHide": false,
+      "packageId": "495",
+      "meta": {
+        "packageName": "小彼索",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/45c0fa98196f714c89e77a9bf8e23d47310645b2.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/0c45f7bf10aa74033539c96153e378c98b8d3812.png"
+      }
+    },
+    {
+      "id": "8809",
+      "description": "小彼索_心碎一地",
+      "shortCodes": [
+        "[小彼索_心碎一地]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/495/8809.png",
+      "isHide": false,
+      "packageId": "495",
+      "meta": {
+        "packageName": "小彼索",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/45c0fa98196f714c89e77a9bf8e23d47310645b2.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/53204c795086408ae37cae82a8f4d8e147e57c3a.png"
+      }
+    },
+    {
+      "id": "8810",
+      "description": "小彼索_赞",
+      "shortCodes": [
+        "[小彼索_赞]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/495/8810.png",
+      "isHide": false,
+      "packageId": "495",
+      "meta": {
+        "packageName": "小彼索",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/45c0fa98196f714c89e77a9bf8e23d47310645b2.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/e0a05d1fac54fdd41b67214211b6f3437be2e96c.png"
+      }
+    },
+    {
+      "id": "8811",
+      "description": "小彼索_震惊",
+      "shortCodes": [
+        "[小彼索_震惊]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/495/8811.png",
+      "isHide": false,
+      "packageId": "495",
+      "meta": {
+        "packageName": "小彼索",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/45c0fa98196f714c89e77a9bf8e23d47310645b2.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/6c04a5dbf093af073e69718dedde06e5f6be101d.png"
+      }
+    },
+    {
+      "id": "8812",
+      "description": "小彼索_emo",
+      "shortCodes": [
+        "[小彼索_emo]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/495/8812.png",
+      "isHide": false,
+      "packageId": "495",
+      "meta": {
+        "packageName": "小彼索",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/45c0fa98196f714c89e77a9bf8e23d47310645b2.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/c99527065a6e4d93b6fc2f90b3529c74d08f6e23.png"
+      }
+    }
+  ]
+}

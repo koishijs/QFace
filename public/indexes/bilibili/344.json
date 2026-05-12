@@ -1,0 +1,22 @@
+{
+  "id": "344",
+  "name": "拜年纪2022",
+  "coverUrl": "http://i0.hdslb.com/bfs/emote/0c9f398d98136f77e2a1cbe6adeb2209a0c65b83.png",
+  "emojis": [
+    {
+      "id": "5663",
+      "description": "拜年纪2022_摸鱼",
+      "shortCodes": [
+        "[拜年纪2022_摸鱼]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/344/5663.png",
+      "isHide": false,
+      "packageId": "344",
+      "meta": {
+        "packageName": "拜年纪2022",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/0c9f398d98136f77e2a1cbe6adeb2209a0c65b83.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/c91335a1278581d8dfc3a0b8f69a8eec086841c6.png"
+      }
+    }
+  ]
+}

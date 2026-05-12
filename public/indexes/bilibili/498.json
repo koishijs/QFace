@@ -1,0 +1,307 @@
+{
+  "id": "498",
+  "name": "广州TTG",
+  "coverUrl": "http://i0.hdslb.com/bfs/emote/f6028a20ff65edf1da1b054d627349ca31626c85.png",
+  "emojis": [
+    {
+      "id": "8853",
+      "description": "广州TTG_no",
+      "shortCodes": [
+        "[广州TTG_no]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/498/8853.png",
+      "isHide": false,
+      "packageId": "498",
+      "meta": {
+        "packageName": "广州TTG",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/f6028a20ff65edf1da1b054d627349ca31626c85.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/b615efaf348ac9447596abbeaa828d0150361e27.png"
+      }
+    },
+    {
+      "id": "8854",
+      "description": "广州TTG_yes",
+      "shortCodes": [
+        "[广州TTG_yes]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/498/8854.png",
+      "isHide": false,
+      "packageId": "498",
+      "meta": {
+        "packageName": "广州TTG",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/f6028a20ff65edf1da1b054d627349ca31626c85.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/ad47d78030d89d09aee40438c0dd7b3e3268a9c8.png"
+      }
+    },
+    {
+      "id": "8855",
+      "description": "广州TTG_心碎",
+      "shortCodes": [
+        "[广州TTG_心碎]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/498/8855.png",
+      "isHide": false,
+      "packageId": "498",
+      "meta": {
+        "packageName": "广州TTG",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/f6028a20ff65edf1da1b054d627349ca31626c85.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/480ef66533cb771ec72b72c2be23eb2867c494ae.png"
+      }
+    },
+    {
+      "id": "8856",
+      "description": "广州TTG_操作起来",
+      "shortCodes": [
+        "[广州TTG_操作起来]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/498/8856.png",
+      "isHide": false,
+      "packageId": "498",
+      "meta": {
+        "packageName": "广州TTG",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/f6028a20ff65edf1da1b054d627349ca31626c85.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/65f86f66b5804b440c83a62ec12aa8d15e000695.png"
+      }
+    },
+    {
+      "id": "8857",
+      "description": "广州TTG_馋",
+      "shortCodes": [
+        "[广州TTG_馋]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/498/8857.png",
+      "isHide": false,
+      "packageId": "498",
+      "meta": {
+        "packageName": "广州TTG",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/f6028a20ff65edf1da1b054d627349ca31626c85.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/811cd47dfddf21ef152df7e40d35873b4b980f3c.png"
+      }
+    },
+    {
+      "id": "8858",
+      "description": "广州TTG_冲鸭",
+      "shortCodes": [
+        "[广州TTG_冲鸭]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/498/8858.png",
+      "isHide": false,
+      "packageId": "498",
+      "meta": {
+        "packageName": "广州TTG",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/f6028a20ff65edf1da1b054d627349ca31626c85.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/b1b9b4c9e8fda01a6c1629cc99911b875b766f01.png"
+      }
+    },
+    {
+      "id": "8859",
+      "description": "广州TTG_戳",
+      "shortCodes": [
+        "[广州TTG_戳]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/498/8859.png",
+      "isHide": false,
+      "packageId": "498",
+      "meta": {
+        "packageName": "广州TTG",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/f6028a20ff65edf1da1b054d627349ca31626c85.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/cb03a434ec3ad3f3016a36caa572869d6fea6ea5.png"
+      }
+    },
+    {
+      "id": "8860",
+      "description": "广州TTG_薅呆毛",
+      "shortCodes": [
+        "[广州TTG_薅呆毛]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/498/8860.png",
+      "isHide": false,
+      "packageId": "498",
+      "meta": {
+        "packageName": "广州TTG",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/f6028a20ff65edf1da1b054d627349ca31626c85.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/1f803947c2a241a5cd8cd7b02ed3de76e9a13e03.png"
+      }
+    },
+    {
+      "id": "8861",
+      "description": "广州TTG_加餐",
+      "shortCodes": [
+        "[广州TTG_加餐]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/498/8861.png",
+      "isHide": false,
+      "packageId": "498",
+      "meta": {
+        "packageName": "广州TTG",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/f6028a20ff65edf1da1b054d627349ca31626c85.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/afd80163393e2e1c67e74dd8fa2c2b15c5263695.png"
+      }
+    },
+    {
+      "id": "8862",
+      "description": "广州TTG_就这",
+      "shortCodes": [
+        "[广州TTG_就这]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/498/8862.png",
+      "isHide": false,
+      "packageId": "498",
+      "meta": {
+        "packageName": "广州TTG",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/f6028a20ff65edf1da1b054d627349ca31626c85.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/3bd58c8067921b409ab0ccd72c1540843674d521.png"
+      }
+    },
+    {
+      "id": "8863",
+      "description": "广州TTG_溜了",
+      "shortCodes": [
+        "[广州TTG_溜了]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/498/8863.png",
+      "isHide": false,
+      "packageId": "498",
+      "meta": {
+        "packageName": "广州TTG",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/f6028a20ff65edf1da1b054d627349ca31626c85.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/92c89ce351692e4e9a95eb150cf7c11a15619182.png"
+      }
+    },
+    {
+      "id": "8864",
+      "description": "广州TTG_冒头",
+      "shortCodes": [
+        "[广州TTG_冒头]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/498/8864.png",
+      "isHide": false,
+      "packageId": "498",
+      "meta": {
+        "packageName": "广州TTG",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/f6028a20ff65edf1da1b054d627349ca31626c85.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/3c2f216b382cb7cf2b1444ce9ca8fd14b384d9e2.png"
+      }
+    },
+    {
+      "id": "8865",
+      "description": "广州TTG_捧花",
+      "shortCodes": [
+        "[广州TTG_捧花]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/498/8865.png",
+      "isHide": false,
+      "packageId": "498",
+      "meta": {
+        "packageName": "广州TTG",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/f6028a20ff65edf1da1b054d627349ca31626c85.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/fb75744522e05d9a9e82243c7047e15f16417c07.png"
+      }
+    },
+    {
+      "id": "8866",
+      "description": "广州TTG_亲亲",
+      "shortCodes": [
+        "[广州TTG_亲亲]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/498/8866.png",
+      "isHide": false,
+      "packageId": "498",
+      "meta": {
+        "packageName": "广州TTG",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/f6028a20ff65edf1da1b054d627349ca31626c85.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/52cd422890b41ac3d49d574d2218504946c368f9.png"
+      }
+    },
+    {
+      "id": "8867",
+      "description": "广州TTG_偷看",
+      "shortCodes": [
+        "[广州TTG_偷看]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/498/8867.png",
+      "isHide": false,
+      "packageId": "498",
+      "meta": {
+        "packageName": "广州TTG",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/f6028a20ff65edf1da1b054d627349ca31626c85.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/940583a2c9505317bff2c92202bd65437bdafec5.png"
+      }
+    },
+    {
+      "id": "8868",
+      "description": "广州TTG_呜呜",
+      "shortCodes": [
+        "[广州TTG_呜呜]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/498/8868.png",
+      "isHide": false,
+      "packageId": "498",
+      "meta": {
+        "packageName": "广州TTG",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/f6028a20ff65edf1da1b054d627349ca31626c85.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/b7725ed6614a9bd5f21b392d8672019c87296490.png"
+      }
+    },
+    {
+      "id": "8869",
+      "description": "广州TTG_芜湖",
+      "shortCodes": [
+        "[广州TTG_芜湖]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/498/8869.png",
+      "isHide": false,
+      "packageId": "498",
+      "meta": {
+        "packageName": "广州TTG",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/f6028a20ff65edf1da1b054d627349ca31626c85.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/e3a837b1e24982a8920fc77effbffda5745b4bb6.png"
+      }
+    },
+    {
+      "id": "8870",
+      "description": "广州TTG_亿点点",
+      "shortCodes": [
+        "[广州TTG_亿点点]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/498/8870.png",
+      "isHide": false,
+      "packageId": "498",
+      "meta": {
+        "packageName": "广州TTG",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/f6028a20ff65edf1da1b054d627349ca31626c85.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/dfb4f7f4e5f0d00ce1f88581ea20a22f59e181fe.png"
+      }
+    },
+    {
+      "id": "8871",
+      "description": "广州TTG_元气满满",
+      "shortCodes": [
+        "[广州TTG_元气满满]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/498/8871.png",
+      "isHide": false,
+      "packageId": "498",
+      "meta": {
+        "packageName": "广州TTG",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/f6028a20ff65edf1da1b054d627349ca31626c85.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/4ee1558b87749bdf7ba85bb229c4e11c5cf894b5.png"
+      }
+    },
+    {
+      "id": "8872",
+      "description": "广州TTG_窒息",
+      "shortCodes": [
+        "[广州TTG_窒息]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/498/8872.png",
+      "isHide": false,
+      "packageId": "498",
+      "meta": {
+        "packageName": "广州TTG",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/f6028a20ff65edf1da1b054d627349ca31626c85.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/76c4c3cea0f82b998aa20498effafba6d76cc501.png"
+      }
+    }
+  ]
+}

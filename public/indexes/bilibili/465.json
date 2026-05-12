@@ -1,0 +1,457 @@
+{
+  "id": "465",
+  "name": "仙剑奇侠传七",
+  "coverUrl": "http://i0.hdslb.com/bfs/emote/8fa8823bf640b097156ea8683965a65417b3cead.png",
+  "emojis": [
+    {
+      "id": "8149",
+      "description": "仙剑七_仙",
+      "shortCodes": [
+        "[仙剑七_仙]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/465/8149.png",
+      "isHide": false,
+      "packageId": "465",
+      "meta": {
+        "packageName": "仙剑奇侠传七",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/8fa8823bf640b097156ea8683965a65417b3cead.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/8d1652208d5fbcbe10df75abd3c68f93fa4823d6.png"
+      }
+    },
+    {
+      "id": "8132",
+      "description": "仙剑七_剑",
+      "shortCodes": [
+        "[仙剑七_剑]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/465/8132.png",
+      "isHide": false,
+      "packageId": "465",
+      "meta": {
+        "packageName": "仙剑奇侠传七",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/8fa8823bf640b097156ea8683965a65417b3cead.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/655c792734f4ba3d8e8d055a6230487894114c80.png"
+      }
+    },
+    {
+      "id": "8140",
+      "description": "仙剑七_奇",
+      "shortCodes": [
+        "[仙剑七_奇]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/465/8140.png",
+      "isHide": false,
+      "packageId": "465",
+      "meta": {
+        "packageName": "仙剑奇侠传七",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/8fa8823bf640b097156ea8683965a65417b3cead.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/3b0bc4aabe106263ecda3167a82db7a833db89e7.png"
+      }
+    },
+    {
+      "id": "8148",
+      "description": "仙剑七_侠",
+      "shortCodes": [
+        "[仙剑七_侠]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/465/8148.png",
+      "isHide": false,
+      "packageId": "465",
+      "meta": {
+        "packageName": "仙剑奇侠传七",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/8fa8823bf640b097156ea8683965a65417b3cead.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/50ebf7aa7859ba43e4403bfe6189eb82f67a3f3d.png"
+      }
+    },
+    {
+      "id": "8125",
+      "description": "仙剑七_传",
+      "shortCodes": [
+        "[仙剑七_传]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/465/8125.png",
+      "isHide": false,
+      "packageId": "465",
+      "meta": {
+        "packageName": "仙剑奇侠传七",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/8fa8823bf640b097156ea8683965a65417b3cead.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/dcd2b5ffa8f225e173bea31d8783c368a63cc949.png"
+      }
+    },
+    {
+      "id": "8139",
+      "description": "仙剑七_七",
+      "shortCodes": [
+        "[仙剑七_七]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/465/8139.png",
+      "isHide": false,
+      "packageId": "465",
+      "meta": {
+        "packageName": "仙剑奇侠传七",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/8fa8823bf640b097156ea8683965a65417b3cead.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/b2bbd647317459980528f19d7642a5fe692d287a.png"
+      }
+    },
+    {
+      "id": "8138",
+      "description": "仙剑七_努力",
+      "shortCodes": [
+        "[仙剑七_努力]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/465/8138.png",
+      "isHide": false,
+      "packageId": "465",
+      "meta": {
+        "packageName": "仙剑奇侠传七",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/8fa8823bf640b097156ea8683965a65417b3cead.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/f5d9b43a3c2a2ac56e63f8d8f8a17d7110da7de5.png"
+      }
+    },
+    {
+      "id": "8135",
+      "description": "仙剑七_可",
+      "shortCodes": [
+        "[仙剑七_可]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/465/8135.png",
+      "isHide": false,
+      "packageId": "465",
+      "meta": {
+        "packageName": "仙剑奇侠传七",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/8fa8823bf640b097156ea8683965a65417b3cead.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/7b5157c83e2096a6d330162637be1b532851c5f2.png"
+      }
+    },
+    {
+      "id": "8129",
+      "description": "仙剑七_鸽了",
+      "shortCodes": [
+        "[仙剑七_鸽了]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/465/8129.png",
+      "isHide": false,
+      "packageId": "465",
+      "meta": {
+        "packageName": "仙剑奇侠传七",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/8fa8823bf640b097156ea8683965a65417b3cead.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/a2885da3fbc6a12e17c5053dd1cb3a18ec6e9e6c.png"
+      }
+    },
+    {
+      "id": "8143",
+      "description": "仙剑七_思考",
+      "shortCodes": [
+        "[仙剑七_思考]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/465/8143.png",
+      "isHide": false,
+      "packageId": "465",
+      "meta": {
+        "packageName": "仙剑奇侠传七",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/8fa8823bf640b097156ea8683965a65417b3cead.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/8e3377c71d78dcf0bbf3e81445943b2e6741439d.png"
+      }
+    },
+    {
+      "id": "8127",
+      "description": "仙剑七_感谢",
+      "shortCodes": [
+        "[仙剑七_感谢]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/465/8127.png",
+      "isHide": false,
+      "packageId": "465",
+      "meta": {
+        "packageName": "仙剑奇侠传七",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/8fa8823bf640b097156ea8683965a65417b3cead.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/d50c7971aff274951aa3d7c1575d4367c3169cef.png"
+      }
+    },
+    {
+      "id": "8147",
+      "description": "仙剑七_我来了",
+      "shortCodes": [
+        "[仙剑七_我来了]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/465/8147.png",
+      "isHide": false,
+      "packageId": "465",
+      "meta": {
+        "packageName": "仙剑奇侠传七",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/8fa8823bf640b097156ea8683965a65417b3cead.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/90bcbb380314eb31fbfa1d2f0e13768d27a69ff1.png"
+      }
+    },
+    {
+      "id": "8126",
+      "description": "仙剑七_尴尬",
+      "shortCodes": [
+        "[仙剑七_尴尬]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/465/8126.png",
+      "isHide": false,
+      "packageId": "465",
+      "meta": {
+        "packageName": "仙剑奇侠传七",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/8fa8823bf640b097156ea8683965a65417b3cead.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/e8b9275d22ddd739dc40938b51fa9749cc5769b3.png"
+      }
+    },
+    {
+      "id": "8134",
+      "description": "仙剑七_拒绝",
+      "shortCodes": [
+        "[仙剑七_拒绝]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/465/8134.png",
+      "isHide": false,
+      "packageId": "465",
+      "meta": {
+        "packageName": "仙剑奇侠传七",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/8fa8823bf640b097156ea8683965a65417b3cead.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/c2b2e7ff21064ebf51e00da629d8526c1a3d3f46.png"
+      }
+    },
+    {
+      "id": "8128",
+      "description": "仙剑七_干杯",
+      "shortCodes": [
+        "[仙剑七_干杯]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/465/8128.png",
+      "isHide": false,
+      "packageId": "465",
+      "meta": {
+        "packageName": "仙剑奇侠传七",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/8fa8823bf640b097156ea8683965a65417b3cead.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/1dbb6cdd2d0aed44fa7e39831031c902b11470a4.png"
+      }
+    },
+    {
+      "id": "8151",
+      "description": "仙剑七_疑惑",
+      "shortCodes": [
+        "[仙剑七_疑惑]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/465/8151.png",
+      "isHide": false,
+      "packageId": "465",
+      "meta": {
+        "packageName": "仙剑奇侠传七",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/8fa8823bf640b097156ea8683965a65417b3cead.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/596e0b079ba3a1d056fea2e2302527b2d372b180.png"
+      }
+    },
+    {
+      "id": "8136",
+      "description": "仙剑七_可爱",
+      "shortCodes": [
+        "[仙剑七_可爱]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/465/8136.png",
+      "isHide": false,
+      "packageId": "465",
+      "meta": {
+        "packageName": "仙剑奇侠传七",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/8fa8823bf640b097156ea8683965a65417b3cead.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/64b118a8bf0cdcd383a201e7795b4e3b184e0a58.png"
+      }
+    },
+    {
+      "id": "8123",
+      "description": "仙剑七_比心",
+      "shortCodes": [
+        "[仙剑七_比心]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/465/8123.png",
+      "isHide": false,
+      "packageId": "465",
+      "meta": {
+        "packageName": "仙剑奇侠传七",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/8fa8823bf640b097156ea8683965a65417b3cead.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/20fa45e3a59932f13e61b9288fc362f8dc5dd11e.png"
+      }
+    },
+    {
+      "id": "8152",
+      "description": "仙剑七_祝符",
+      "shortCodes": [
+        "[仙剑七_祝符]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/465/8152.png",
+      "isHide": false,
+      "packageId": "465",
+      "meta": {
+        "packageName": "仙剑奇侠传七",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/8fa8823bf640b097156ea8683965a65417b3cead.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/6fc864590781fa2b90162075b4cf36397974d4ad.png"
+      }
+    },
+    {
+      "id": "8130",
+      "description": "仙剑七_加油",
+      "shortCodes": [
+        "[仙剑七_加油]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/465/8130.png",
+      "isHide": false,
+      "packageId": "465",
+      "meta": {
+        "packageName": "仙剑奇侠传七",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/8fa8823bf640b097156ea8683965a65417b3cead.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/1233457813e4a1ccda7e5b9cdcb20b919bb9b90e.png"
+      }
+    },
+    {
+      "id": "8146",
+      "description": "仙剑七_委屈",
+      "shortCodes": [
+        "[仙剑七_委屈]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/465/8146.png",
+      "isHide": false,
+      "packageId": "465",
+      "meta": {
+        "packageName": "仙剑奇侠传七",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/8fa8823bf640b097156ea8683965a65417b3cead.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/50f50df876e7f92f2faa335302b841fd9b214fa1.png"
+      }
+    },
+    {
+      "id": "8144",
+      "description": "仙剑七_太难了",
+      "shortCodes": [
+        "[仙剑七_太难了]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/465/8144.png",
+      "isHide": false,
+      "packageId": "465",
+      "meta": {
+        "packageName": "仙剑奇侠传七",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/8fa8823bf640b097156ea8683965a65417b3cead.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/4bfb2322a95e15961275b5ac5f661d9d895d06b4.png"
+      }
+    },
+    {
+      "id": "8124",
+      "description": "仙剑七_吃瓜",
+      "shortCodes": [
+        "[仙剑七_吃瓜]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/465/8124.png",
+      "isHide": false,
+      "packageId": "465",
+      "meta": {
+        "packageName": "仙剑奇侠传七",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/8fa8823bf640b097156ea8683965a65417b3cead.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/6b3df6e68b6009cc015392655ce5ed7e9fa07678.png"
+      }
+    },
+    {
+      "id": "8150",
+      "description": "仙剑七_摇头",
+      "shortCodes": [
+        "[仙剑七_摇头]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/465/8150.png",
+      "isHide": false,
+      "packageId": "465",
+      "meta": {
+        "packageName": "仙剑奇侠传七",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/8fa8823bf640b097156ea8683965a65417b3cead.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/f405b2646637c7829f18a8a37d82a771a43eeb45.png"
+      }
+    },
+    {
+      "id": "8131",
+      "description": "仙剑七_假装不在",
+      "shortCodes": [
+        "[仙剑七_假装不在]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/465/8131.png",
+      "isHide": false,
+      "packageId": "465",
+      "meta": {
+        "packageName": "仙剑奇侠传七",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/8fa8823bf640b097156ea8683965a65417b3cead.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/94367931405885021f21d7bedf7ade60e935cd43.png"
+      }
+    },
+    {
+      "id": "8141",
+      "description": "仙剑七_庆祝",
+      "shortCodes": [
+        "[仙剑七_庆祝]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/465/8141.png",
+      "isHide": false,
+      "packageId": "465",
+      "meta": {
+        "packageName": "仙剑奇侠传七",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/8fa8823bf640b097156ea8683965a65417b3cead.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/83d7585818fa4e12691df0b72ec387d4d26aa945.png"
+      }
+    },
+    {
+      "id": "8137",
+      "description": "仙剑七_哭哭",
+      "shortCodes": [
+        "[仙剑七_哭哭]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/465/8137.png",
+      "isHide": false,
+      "packageId": "465",
+      "meta": {
+        "packageName": "仙剑奇侠传七",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/8fa8823bf640b097156ea8683965a65417b3cead.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/622c8a526af0a48633618d34e1505ec65fc76b3e.png"
+      }
+    },
+    {
+      "id": "8145",
+      "description": "仙剑七_晚安",
+      "shortCodes": [
+        "[仙剑七_晚安]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/465/8145.png",
+      "isHide": false,
+      "packageId": "465",
+      "meta": {
+        "packageName": "仙剑奇侠传七",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/8fa8823bf640b097156ea8683965a65417b3cead.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/be7664204690d37129d487dbe5e56c9d745a5bed.png"
+      }
+    },
+    {
+      "id": "8133",
+      "description": "仙剑七_就这",
+      "shortCodes": [
+        "[仙剑七_就这]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/465/8133.png",
+      "isHide": false,
+      "packageId": "465",
+      "meta": {
+        "packageName": "仙剑奇侠传七",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/8fa8823bf640b097156ea8683965a65417b3cead.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/9299a41c645d0bfa56133ac357a17a44235cef6b.png"
+      }
+    },
+    {
+      "id": "8142",
+      "description": "仙剑七_生气",
+      "shortCodes": [
+        "[仙剑七_生气]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/465/8142.png",
+      "isHide": false,
+      "packageId": "465",
+      "meta": {
+        "packageName": "仙剑奇侠传七",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/8fa8823bf640b097156ea8683965a65417b3cead.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/8b46d000a85df9ced996621bcbbcb0e16cd69447.png"
+      }
+    }
+  ]
+}

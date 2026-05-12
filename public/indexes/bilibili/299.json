@@ -1,0 +1,232 @@
+{
+  "id": "299",
+  "name": "早见saki",
+  "coverUrl": "http://i0.hdslb.com/bfs/emote/c04ee1415e54e300f66d250bc1862e3ce7a13bbc.png",
+  "emojis": [
+    {
+      "id": "4912",
+      "description": "早见咲_OK",
+      "shortCodes": [
+        "[早见咲_OK]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/299/4912.png",
+      "isHide": false,
+      "packageId": "299",
+      "meta": {
+        "packageName": "早见saki",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/c04ee1415e54e300f66d250bc1862e3ce7a13bbc.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/9be8386f94968e095457b9e77866a8e39c3e9587.png"
+      }
+    },
+    {
+      "id": "4913",
+      "description": "早见咲_saki招呼",
+      "shortCodes": [
+        "[早见咲_saki招呼]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/299/4913.png",
+      "isHide": false,
+      "packageId": "299",
+      "meta": {
+        "packageName": "早见saki",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/c04ee1415e54e300f66d250bc1862e3ce7a13bbc.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/a5372e59eee3d49e31fc0c75b6105323b196b4b9.png"
+      }
+    },
+    {
+      "id": "4914",
+      "description": "早见咲_不愧是我",
+      "shortCodes": [
+        "[早见咲_不愧是我]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/299/4914.png",
+      "isHide": false,
+      "packageId": "299",
+      "meta": {
+        "packageName": "早见saki",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/c04ee1415e54e300f66d250bc1862e3ce7a13bbc.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/4c8e0ea10d7120584f171c1a2af1eeb3b3b9b9b4.png"
+      }
+    },
+    {
+      "id": "4915",
+      "description": "早见咲_喝茶",
+      "shortCodes": [
+        "[早见咲_喝茶]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/299/4915.png",
+      "isHide": false,
+      "packageId": "299",
+      "meta": {
+        "packageName": "早见saki",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/c04ee1415e54e300f66d250bc1862e3ce7a13bbc.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/963dc783d227ac1e22752e34f73b8be0631fd116.png"
+      }
+    },
+    {
+      "id": "4916",
+      "description": "早见咲_好耶",
+      "shortCodes": [
+        "[早见咲_好耶]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/299/4916.png",
+      "isHide": false,
+      "packageId": "299",
+      "meta": {
+        "packageName": "早见saki",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/c04ee1415e54e300f66d250bc1862e3ce7a13bbc.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/4098fa2a9edfcaa77cc2171ba9801d22681d34a8.png"
+      }
+    },
+    {
+      "id": "4917",
+      "description": "早见咲_威亚",
+      "shortCodes": [
+        "[早见咲_威亚]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/299/4917.png",
+      "isHide": false,
+      "packageId": "299",
+      "meta": {
+        "packageName": "早见saki",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/c04ee1415e54e300f66d250bc1862e3ce7a13bbc.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/6aa2b785814a5efcc700625fe24cea7e9c87ec25.png"
+      }
+    },
+    {
+      "id": "4918",
+      "description": "早见咲_嫌弃",
+      "shortCodes": [
+        "[早见咲_嫌弃]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/299/4918.png",
+      "isHide": false,
+      "packageId": "299",
+      "meta": {
+        "packageName": "早见saki",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/c04ee1415e54e300f66d250bc1862e3ce7a13bbc.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/948d2fd034b4f9ec2aaff9d5c34d0128a53fe28c.png"
+      }
+    },
+    {
+      "id": "4919",
+      "description": "早见咲_很不爽",
+      "shortCodes": [
+        "[早见咲_很不爽]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/299/4919.png",
+      "isHide": false,
+      "packageId": "299",
+      "meta": {
+        "packageName": "早见saki",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/c04ee1415e54e300f66d250bc1862e3ce7a13bbc.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/40e5375aad12d3be159247ea53b7e4b1f696b054.png"
+      }
+    },
+    {
+      "id": "4920",
+      "description": "早见咲_微笑",
+      "shortCodes": [
+        "[早见咲_微笑]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/299/4920.png",
+      "isHide": false,
+      "packageId": "299",
+      "meta": {
+        "packageName": "早见saki",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/c04ee1415e54e300f66d250bc1862e3ce7a13bbc.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/92f19e52d9049dd4fb37bac374c0a9922a1bfca2.png"
+      }
+    },
+    {
+      "id": "4921",
+      "description": "早见咲_我呸",
+      "shortCodes": [
+        "[早见咲_我呸]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/299/4921.png",
+      "isHide": false,
+      "packageId": "299",
+      "meta": {
+        "packageName": "早见saki",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/c04ee1415e54e300f66d250bc1862e3ce7a13bbc.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/1dd027f7d584374e02d68673cd89d56462eb2e6a.png"
+      }
+    },
+    {
+      "id": "4922",
+      "description": "早见咲_晚安",
+      "shortCodes": [
+        "[早见咲_晚安]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/299/4922.png",
+      "isHide": false,
+      "packageId": "299",
+      "meta": {
+        "packageName": "早见saki",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/c04ee1415e54e300f66d250bc1862e3ce7a13bbc.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/f93dc0923ac81c144c148438477f698243504c36.png"
+      }
+    },
+    {
+      "id": "4923",
+      "description": "早见咲_盯",
+      "shortCodes": [
+        "[早见咲_盯]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/299/4923.png",
+      "isHide": false,
+      "packageId": "299",
+      "meta": {
+        "packageName": "早见saki",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/c04ee1415e54e300f66d250bc1862e3ce7a13bbc.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/67e38bbfe25f98bbde92c0a46880088535263159.png"
+      }
+    },
+    {
+      "id": "4924",
+      "description": "早见咲_谢谢",
+      "shortCodes": [
+        "[早见咲_谢谢]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/299/4924.png",
+      "isHide": false,
+      "packageId": "299",
+      "meta": {
+        "packageName": "早见saki",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/c04ee1415e54e300f66d250bc1862e3ce7a13bbc.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/06af16204599ad728dfa1c0a83c510ad19323a37.png"
+      }
+    },
+    {
+      "id": "4925",
+      "description": "早见咲_铁咩",
+      "shortCodes": [
+        "[早见咲_铁咩]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/299/4925.png",
+      "isHide": false,
+      "packageId": "299",
+      "meta": {
+        "packageName": "早见saki",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/c04ee1415e54e300f66d250bc1862e3ce7a13bbc.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/a549d0a553290fe4b72221caf03584cc3145c0ee.png"
+      }
+    },
+    {
+      "id": "4926",
+      "description": "早见咲_震撼",
+      "shortCodes": [
+        "[早见咲_震撼]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/299/4926.png",
+      "isHide": false,
+      "packageId": "299",
+      "meta": {
+        "packageName": "早见saki",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/c04ee1415e54e300f66d250bc1862e3ce7a13bbc.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/4000660e66687cbb536da13934f543d458839762.png"
+      }
+    }
+  ]
+}

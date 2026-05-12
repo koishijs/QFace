@@ -1,0 +1,307 @@
+{
+  "id": "308",
+  "name": "雪狐桑",
+  "coverUrl": "https://i0.hdslb.com/bfs/emote/f800fac319163a7b511e9d74cd2eedfab7268f1b.png",
+  "emojis": [
+    {
+      "id": "5053",
+      "description": "雪狐桑_rua",
+      "shortCodes": [
+        "[雪狐桑_rua]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/308/5053.png",
+      "isHide": false,
+      "packageId": "308",
+      "meta": {
+        "packageName": "雪狐桑",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/f800fac319163a7b511e9d74cd2eedfab7268f1b.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/0b60381989b1d583d76910b84367e704fd4e0ddc.png"
+      }
+    },
+    {
+      "id": "5054",
+      "description": "雪狐桑_嗷呜",
+      "shortCodes": [
+        "[雪狐桑_嗷呜]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/308/5054.png",
+      "isHide": false,
+      "packageId": "308",
+      "meta": {
+        "packageName": "雪狐桑",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/f800fac319163a7b511e9d74cd2eedfab7268f1b.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/6da8b1f57ec634ca93a13052adbf8c565c5c7ffe.png"
+      }
+    },
+    {
+      "id": "5055",
+      "description": "雪狐桑_保护",
+      "shortCodes": [
+        "[雪狐桑_保护]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/308/5055.png",
+      "isHide": false,
+      "packageId": "308",
+      "meta": {
+        "packageName": "雪狐桑",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/f800fac319163a7b511e9d74cd2eedfab7268f1b.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/c7606a0af4af34829435db31a299617d62eb7d51.png"
+      }
+    },
+    {
+      "id": "5056",
+      "description": "雪狐桑_不可爱",
+      "shortCodes": [
+        "[雪狐桑_不可爱]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/308/5056.png",
+      "isHide": false,
+      "packageId": "308",
+      "meta": {
+        "packageName": "雪狐桑",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/f800fac319163a7b511e9d74cd2eedfab7268f1b.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/feec8bb995d34fbaebcc0494f36d68d7e9ab18af.png"
+      }
+    },
+    {
+      "id": "5057",
+      "description": "雪狐桑_吃桃",
+      "shortCodes": [
+        "[雪狐桑_吃桃]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/308/5057.png",
+      "isHide": false,
+      "packageId": "308",
+      "meta": {
+        "packageName": "雪狐桑",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/f800fac319163a7b511e9d74cd2eedfab7268f1b.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/59b150d7fc30ebc33a2348eb0c0a6266bb52a376.png"
+      }
+    },
+    {
+      "id": "5058",
+      "description": "雪狐桑_大受震撼",
+      "shortCodes": [
+        "[雪狐桑_大受震撼]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/308/5058.png",
+      "isHide": false,
+      "packageId": "308",
+      "meta": {
+        "packageName": "雪狐桑",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/f800fac319163a7b511e9d74cd2eedfab7268f1b.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/5f1e8b4f73e23c68e11f5925be8241ce775e65a7.png"
+      }
+    },
+    {
+      "id": "5059",
+      "description": "雪狐桑_给你一拳",
+      "shortCodes": [
+        "[雪狐桑_给你一拳]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/308/5059.png",
+      "isHide": false,
+      "packageId": "308",
+      "meta": {
+        "packageName": "雪狐桑",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/f800fac319163a7b511e9d74cd2eedfab7268f1b.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/74d2c4c7f6e43901828dec497c66ecd3522505ff.png"
+      }
+    },
+    {
+      "id": "5060",
+      "description": "雪狐桑_好棒",
+      "shortCodes": [
+        "[雪狐桑_好棒]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/308/5060.png",
+      "isHide": false,
+      "packageId": "308",
+      "meta": {
+        "packageName": "雪狐桑",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/f800fac319163a7b511e9d74cd2eedfab7268f1b.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/ed189c8e471d9127808e0b64274a0c64d9bed5fb.png"
+      }
+    },
+    {
+      "id": "5061",
+      "description": "雪狐桑_惊",
+      "shortCodes": [
+        "[雪狐桑_惊]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/308/5061.png",
+      "isHide": false,
+      "packageId": "308",
+      "meta": {
+        "packageName": "雪狐桑",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/f800fac319163a7b511e9d74cd2eedfab7268f1b.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/b0122d98a4a09620f5f9e64662d6efd9a284f2af.png"
+      }
+    },
+    {
+      "id": "5062",
+      "description": "雪狐桑_快逃",
+      "shortCodes": [
+        "[雪狐桑_快逃]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/308/5062.png",
+      "isHide": false,
+      "packageId": "308",
+      "meta": {
+        "packageName": "雪狐桑",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/f800fac319163a7b511e9d74cd2eedfab7268f1b.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/effd0f94dcb055a8a624b1e4132741851382a7a7.png"
+      }
+    },
+    {
+      "id": "5063",
+      "description": "雪狐桑_没钱",
+      "shortCodes": [
+        "[雪狐桑_没钱]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/308/5063.png",
+      "isHide": false,
+      "packageId": "308",
+      "meta": {
+        "packageName": "雪狐桑",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/f800fac319163a7b511e9d74cd2eedfab7268f1b.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/d8a8789442dcb370981771db7821c4b04cd53178.png"
+      }
+    },
+    {
+      "id": "5064",
+      "description": "雪狐桑_摸鱼",
+      "shortCodes": [
+        "[雪狐桑_摸鱼]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/308/5064.png",
+      "isHide": false,
+      "packageId": "308",
+      "meta": {
+        "packageName": "雪狐桑",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/f800fac319163a7b511e9d74cd2eedfab7268f1b.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/52c3721de6f4a5f53d8ac6898668780cf987293e.png"
+      }
+    },
+    {
+      "id": "5065",
+      "description": "雪狐桑_生气",
+      "shortCodes": [
+        "[雪狐桑_生气]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/308/5065.png",
+      "isHide": false,
+      "packageId": "308",
+      "meta": {
+        "packageName": "雪狐桑",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/f800fac319163a7b511e9d74cd2eedfab7268f1b.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/e23d97793b76d95b38580b7f9b4e6350df18879c.png"
+      }
+    },
+    {
+      "id": "5066",
+      "description": "雪狐桑_躺平",
+      "shortCodes": [
+        "[雪狐桑_躺平]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/308/5066.png",
+      "isHide": false,
+      "packageId": "308",
+      "meta": {
+        "packageName": "雪狐桑",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/f800fac319163a7b511e9d74cd2eedfab7268f1b.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/77e8863bc4a3912f097e52a3070cc143803260a6.png"
+      }
+    },
+    {
+      "id": "5067",
+      "description": "雪狐桑_吸欧气",
+      "shortCodes": [
+        "[雪狐桑_吸欧气]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/308/5067.png",
+      "isHide": false,
+      "packageId": "308",
+      "meta": {
+        "packageName": "雪狐桑",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/f800fac319163a7b511e9d74cd2eedfab7268f1b.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/0898b5be3b9cbe5ff516b3460f2628ee23723941.png"
+      }
+    },
+    {
+      "id": "5068",
+      "description": "雪狐桑_屑",
+      "shortCodes": [
+        "[雪狐桑_屑]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/308/5068.png",
+      "isHide": false,
+      "packageId": "308",
+      "meta": {
+        "packageName": "雪狐桑",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/f800fac319163a7b511e9d74cd2eedfab7268f1b.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/034bd7c411926ddbb080ce44775c212ece1c16b0.png"
+      }
+    },
+    {
+      "id": "5069",
+      "description": "雪狐桑_心碎",
+      "shortCodes": [
+        "[雪狐桑_心碎]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/308/5069.png",
+      "isHide": false,
+      "packageId": "308",
+      "meta": {
+        "packageName": "雪狐桑",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/f800fac319163a7b511e9d74cd2eedfab7268f1b.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/b163c6451edbb06efcb6e51e0d32fe4d2ecb3389.png"
+      }
+    },
+    {
+      "id": "5070",
+      "description": "雪狐桑_心虚",
+      "shortCodes": [
+        "[雪狐桑_心虚]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/308/5070.png",
+      "isHide": false,
+      "packageId": "308",
+      "meta": {
+        "packageName": "雪狐桑",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/f800fac319163a7b511e9d74cd2eedfab7268f1b.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/c4a439208fb0c4e958a29f4b3dd48995c9e051f6.png"
+      }
+    },
+    {
+      "id": "5071",
+      "description": "雪狐桑_学习",
+      "shortCodes": [
+        "[雪狐桑_学习]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/308/5071.png",
+      "isHide": false,
+      "packageId": "308",
+      "meta": {
+        "packageName": "雪狐桑",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/f800fac319163a7b511e9d74cd2eedfab7268f1b.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/c3000f53f1667aabce2029d5321e17b245270fc4.png"
+      }
+    },
+    {
+      "id": "5072",
+      "description": "雪狐桑_疑问",
+      "shortCodes": [
+        "[雪狐桑_疑问]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/308/5072.png",
+      "isHide": false,
+      "packageId": "308",
+      "meta": {
+        "packageName": "雪狐桑",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/f800fac319163a7b511e9d74cd2eedfab7268f1b.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/9534cbc6f5a729595642e6feada7ace77ca18a7f.png"
+      }
+    }
+  ]
+}

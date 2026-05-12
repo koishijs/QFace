@@ -18,7 +18,10 @@
     "build:docs": "vite build",
     "preview:docs": "vite preview",
     "gen:qqnt": "tsx scripts/genQqEmojiIndexes.ts",
-    "gen:bilibili": "tsx scripts/genBilibiliEmojiIndexes.ts"
+    "gen:bilibili": "tsx scripts/genBilibiliEmojiIndexes.ts",
+    "indexes:bilibili": "tsx scripts/genBilibiliIndexes.ts",
+    "indexes:qq": "tsx scripts/genQqIndexes.ts",
+    "indexes:wechat": "tsx scripts/genWechatIndexes.ts"
   },
   "devDependencies": {
     "@prettier/plugin-pug": "^3.4.2",

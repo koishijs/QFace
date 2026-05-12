@@ -1,0 +1,157 @@
+{
+  "id": "132",
+  "name": "星座系列：天蝎座",
+  "coverUrl": "http://i0.hdslb.com/bfs/emote/48fbb4293e32ddca1c620653f6f0c9b36e39e3dd.png",
+  "emojis": [
+    {
+      "id": "2631",
+      "description": "天蝎座_爱你",
+      "shortCodes": [
+        "[天蝎座_爱你]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/132/2631.png",
+      "isHide": false,
+      "packageId": "132",
+      "meta": {
+        "packageName": "星座系列：天蝎座",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/48fbb4293e32ddca1c620653f6f0c9b36e39e3dd.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/11987f5ffc7b7bfe2593a466d292bb20adbcc1b4.png"
+      }
+    },
+    {
+      "id": "2632",
+      "description": "天蝎座_暗中观察",
+      "shortCodes": [
+        "[天蝎座_暗中观察]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/132/2632.png",
+      "isHide": false,
+      "packageId": "132",
+      "meta": {
+        "packageName": "星座系列：天蝎座",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/48fbb4293e32ddca1c620653f6f0c9b36e39e3dd.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/e54b6ef6746207108ffb27cdaef231d529ec202d.png"
+      }
+    },
+    {
+      "id": "2633",
+      "description": "天蝎座_吃醋",
+      "shortCodes": [
+        "[天蝎座_吃醋]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/132/2633.png",
+      "isHide": false,
+      "packageId": "132",
+      "meta": {
+        "packageName": "星座系列：天蝎座",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/48fbb4293e32ddca1c620653f6f0c9b36e39e3dd.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/2de6602ed6629c43862df0ae4e64b7b8e833b368.png"
+      }
+    },
+    {
+      "id": "2634",
+      "description": "天蝎座_画圈圈",
+      "shortCodes": [
+        "[天蝎座_画圈圈]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/132/2634.png",
+      "isHide": false,
+      "packageId": "132",
+      "meta": {
+        "packageName": "星座系列：天蝎座",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/48fbb4293e32ddca1c620653f6f0c9b36e39e3dd.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/6bd823b120bd589d26499338884d76b8d68da8f7.png"
+      }
+    },
+    {
+      "id": "2635",
+      "description": "天蝎座_机智",
+      "shortCodes": [
+        "[天蝎座_机智]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/132/2635.png",
+      "isHide": false,
+      "packageId": "132",
+      "meta": {
+        "packageName": "星座系列：天蝎座",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/48fbb4293e32ddca1c620653f6f0c9b36e39e3dd.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/52336560d8f8e2cf1e0c1df7b0c668a1fe9a4e77.png"
+      }
+    },
+    {
+      "id": "2636",
+      "description": "天蝎座_记仇",
+      "shortCodes": [
+        "[天蝎座_记仇]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/132/2636.png",
+      "isHide": false,
+      "packageId": "132",
+      "meta": {
+        "packageName": "星座系列：天蝎座",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/48fbb4293e32ddca1c620653f6f0c9b36e39e3dd.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/b531c6781b18c06343f5c1d4a51e055a2f9be102.png"
+      }
+    },
+    {
+      "id": "2637",
+      "description": "天蝎座_就这？",
+      "shortCodes": [
+        "[天蝎座_就这？]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/132/2637.png",
+      "isHide": false,
+      "packageId": "132",
+      "meta": {
+        "packageName": "星座系列：天蝎座",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/48fbb4293e32ddca1c620653f6f0c9b36e39e3dd.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/bc155922b8b2789512ff227c9b816d785c16439d.png"
+      }
+    },
+    {
+      "id": "2638",
+      "description": "天蝎座_掐你",
+      "shortCodes": [
+        "[天蝎座_掐你]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/132/2638.png",
+      "isHide": false,
+      "packageId": "132",
+      "meta": {
+        "packageName": "星座系列：天蝎座",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/48fbb4293e32ddca1c620653f6f0c9b36e39e3dd.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/5454ac521ce41aac98621e3ad6261381cd76b5d2.png"
+      }
+    },
+    {
+      "id": "2639",
+      "description": "天蝎座_贴贴",
+      "shortCodes": [
+        "[天蝎座_贴贴]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/132/2639.png",
+      "isHide": false,
+      "packageId": "132",
+      "meta": {
+        "packageName": "星座系列：天蝎座",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/48fbb4293e32ddca1c620653f6f0c9b36e39e3dd.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/21f79307f663bdb1ac7f596b3f5601c876d74f1d.png"
+      }
+    },
+    {
+      "id": "2640",
+      "description": "天蝎座_邪魅一笑",
+      "shortCodes": [
+        "[天蝎座_邪魅一笑]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/132/2640.png",
+      "isHide": false,
+      "packageId": "132",
+      "meta": {
+        "packageName": "星座系列：天蝎座",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/48fbb4293e32ddca1c620653f6f0c9b36e39e3dd.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/fbc6efacf65718f3d482876a950e06920fa89d75.png"
+      }
+    }
+  ]
+}

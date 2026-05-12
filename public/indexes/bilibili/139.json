@@ -1,0 +1,547 @@
+{
+  "id": "139",
+  "name": "原神",
+  "coverUrl": "http://i0.hdslb.com/bfs/emote/c75b16bd023a19fcfeb32034013bb32978deddf6.png",
+  "emojis": [
+    {
+      "id": "2728",
+      "description": "原神_小事一桩",
+      "shortCodes": [
+        "[原神_小事一桩]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/139/2728.png",
+      "isHide": false,
+      "packageId": "139",
+      "meta": {
+        "packageName": "原神",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/c75b16bd023a19fcfeb32034013bb32978deddf6.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/c52cddcb4d454af38d339c033c4a06160e6ba789.png"
+      }
+    },
+    {
+      "id": "2729",
+      "description": "原神_唔",
+      "shortCodes": [
+        "[原神_唔]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/139/2729.png",
+      "isHide": false,
+      "packageId": "139",
+      "meta": {
+        "packageName": "原神",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/c75b16bd023a19fcfeb32034013bb32978deddf6.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/f00164e1fdb73d4aa84b2741d343d10a89a8a2ed.png"
+      }
+    },
+    {
+      "id": "2730",
+      "description": "原神_躺平",
+      "shortCodes": [
+        "[原神_躺平]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/139/2730.png",
+      "isHide": false,
+      "packageId": "139",
+      "meta": {
+        "packageName": "原神",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/c75b16bd023a19fcfeb32034013bb32978deddf6.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/7067e7e2b589e7156be66901be9a73834ecdc25c.png"
+      }
+    },
+    {
+      "id": "2731",
+      "description": "原神_哦",
+      "shortCodes": [
+        "[原神_哦]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/139/2731.png",
+      "isHide": false,
+      "packageId": "139",
+      "meta": {
+        "packageName": "原神",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/c75b16bd023a19fcfeb32034013bb32978deddf6.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/4b8b6f0e451c600abf2d83560125d03cfa97fe28.png"
+      }
+    },
+    {
+      "id": "2732",
+      "description": "原神_哭哭",
+      "shortCodes": [
+        "[原神_哭哭]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/139/2732.png",
+      "isHide": false,
+      "packageId": "139",
+      "meta": {
+        "packageName": "原神",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/c75b16bd023a19fcfeb32034013bb32978deddf6.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/d800294a99034af28160bc6e98e7a59c55e60bc8.png"
+      }
+    },
+    {
+      "id": "2733",
+      "description": "原神_救救我",
+      "shortCodes": [
+        "[原神_救救我]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/139/2733.png",
+      "isHide": false,
+      "packageId": "139",
+      "meta": {
+        "packageName": "原神",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/c75b16bd023a19fcfeb32034013bb32978deddf6.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/49867dd30eb6a1699b9f64ae5316137c96d6280f.png"
+      }
+    },
+    {
+      "id": "2734",
+      "description": "原神_警觉",
+      "shortCodes": [
+        "[原神_警觉]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/139/2734.png",
+      "isHide": false,
+      "packageId": "139",
+      "meta": {
+        "packageName": "原神",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/c75b16bd023a19fcfeb32034013bb32978deddf6.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/4d03eb99263d1d85c5c820ad046b8a9549f246a9.png"
+      }
+    },
+    {
+      "id": "2735",
+      "description": "原神_交给我吧",
+      "shortCodes": [
+        "[原神_交给我吧]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/139/2735.png",
+      "isHide": false,
+      "packageId": "139",
+      "meta": {
+        "packageName": "原神",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/c75b16bd023a19fcfeb32034013bb32978deddf6.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/b09408f0a92ca5367e0ccffeb3389c5f19369817.png"
+      }
+    },
+    {
+      "id": "2736",
+      "description": "原神_哼哼",
+      "shortCodes": [
+        "[原神_哼哼]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/139/2736.png",
+      "isHide": false,
+      "packageId": "139",
+      "meta": {
+        "packageName": "原神",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/c75b16bd023a19fcfeb32034013bb32978deddf6.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/62d09fa482842dabbd4a51176abc0ec20a64a359.png"
+      }
+    },
+    {
+      "id": "2737",
+      "description": "原神_给我走开",
+      "shortCodes": [
+        "[原神_给我走开]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/139/2737.png",
+      "isHide": false,
+      "packageId": "139",
+      "meta": {
+        "packageName": "原神",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/c75b16bd023a19fcfeb32034013bb32978deddf6.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/c0a9f2bea10fdf763b4fbe3874ee254d61916711.png"
+      }
+    },
+    {
+      "id": "2738",
+      "description": "原神_鸽子",
+      "shortCodes": [
+        "[原神_鸽子]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/139/2738.png",
+      "isHide": false,
+      "packageId": "139",
+      "meta": {
+        "packageName": "原神",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/c75b16bd023a19fcfeb32034013bb32978deddf6.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/d03a8f9f490eb007aae2d826f9143e3a29a3be5a.png"
+      }
+    },
+    {
+      "id": "2739",
+      "description": "原神_干杯",
+      "shortCodes": [
+        "[原神_干杯]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/139/2739.png",
+      "isHide": false,
+      "packageId": "139",
+      "meta": {
+        "packageName": "原神",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/c75b16bd023a19fcfeb32034013bb32978deddf6.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/966f0b307bf4d07e81162dc32bf1e71c83bf997a.png"
+      }
+    },
+    {
+      "id": "2740",
+      "description": "原神_该吃饭了",
+      "shortCodes": [
+        "[原神_该吃饭了]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/139/2740.png",
+      "isHide": false,
+      "packageId": "139",
+      "meta": {
+        "packageName": "原神",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/c75b16bd023a19fcfeb32034013bb32978deddf6.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/34fb6a22facd0f7d6d4a4e1be50e96f120ae7054.png"
+      }
+    },
+    {
+      "id": "2741",
+      "description": "原神_出货吧",
+      "shortCodes": [
+        "[原神_出货吧]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/139/2741.png",
+      "isHide": false,
+      "packageId": "139",
+      "meta": {
+        "packageName": "原神",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/c75b16bd023a19fcfeb32034013bb32978deddf6.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/a087fb84524b6ffda6fa0385b09065c472432cd7.png"
+      }
+    },
+    {
+      "id": "2742",
+      "description": "原神_吃惊",
+      "shortCodes": [
+        "[原神_吃惊]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/139/2742.png",
+      "isHide": false,
+      "packageId": "139",
+      "meta": {
+        "packageName": "原神",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/c75b16bd023a19fcfeb32034013bb32978deddf6.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/d8d07498a567ea109a8fc4b58ffccdc33643cd99.png"
+      }
+    },
+    {
+      "id": "2743",
+      "description": "原神_不要啊",
+      "shortCodes": [
+        "[原神_不要啊]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/139/2743.png",
+      "isHide": false,
+      "packageId": "139",
+      "meta": {
+        "packageName": "原神",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/c75b16bd023a19fcfeb32034013bb32978deddf6.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/8ea92be976beb8126adc7cabc2aa7f2b02b9bee2.png"
+      }
+    },
+    {
+      "id": "2744",
+      "description": "原神_拜托",
+      "shortCodes": [
+        "[原神_拜托]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/139/2744.png",
+      "isHide": false,
+      "packageId": "139",
+      "meta": {
+        "packageName": "原神",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/c75b16bd023a19fcfeb32034013bb32978deddf6.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/2f2817b84caf9d81fdce171d18a3f99983f1ec64.png"
+      }
+    },
+    {
+      "id": "2745",
+      "description": "原神_zzZZ",
+      "shortCodes": [
+        "[原神_zzZZ]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/139/2745.png",
+      "isHide": false,
+      "packageId": "139",
+      "meta": {
+        "packageName": "原神",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/c75b16bd023a19fcfeb32034013bb32978deddf6.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/3c9d996ac0ed9dd8eaefbd00e6f90a0f21656b3f.png"
+      }
+    },
+    {
+      "id": "2746",
+      "description": "原神_good job",
+      "shortCodes": [
+        "[原神_good job]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/139/2746.png",
+      "isHide": false,
+      "packageId": "139",
+      "meta": {
+        "packageName": "原神",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/c75b16bd023a19fcfeb32034013bb32978deddf6.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/dd7666d93cd8f78c58ce5975133582a107b8d286.png"
+      }
+    },
+    {
+      "id": "2747",
+      "description": "原神_1摩拉",
+      "shortCodes": [
+        "[原神_1摩拉]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/139/2747.png",
+      "isHide": false,
+      "packageId": "139",
+      "meta": {
+        "packageName": "原神",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/c75b16bd023a19fcfeb32034013bb32978deddf6.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/c77cafc89695d148ccda4d6965698d9ae6a6802d.png"
+      }
+    },
+    {
+      "id": "2760",
+      "description": "原神_OK",
+      "shortCodes": [
+        "[原神_OK]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/139/2760.png",
+      "isHide": false,
+      "packageId": "139",
+      "meta": {
+        "packageName": "原神",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/c75b16bd023a19fcfeb32034013bb32978deddf6.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/cd9a2b4c2972dfcab81964f37a652b38fe88d0e7.png"
+      }
+    },
+    {
+      "id": "2761",
+      "description": "原神_暗中观察",
+      "shortCodes": [
+        "[原神_暗中观察]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/139/2761.png",
+      "isHide": false,
+      "packageId": "139",
+      "meta": {
+        "packageName": "原神",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/c75b16bd023a19fcfeb32034013bb32978deddf6.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/2532af22d65cf83f0630118c018cd08796558405.png"
+      }
+    },
+    {
+      "id": "2762",
+      "description": "原神_比心",
+      "shortCodes": [
+        "[原神_比心]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/139/2762.png",
+      "isHide": false,
+      "packageId": "139",
+      "meta": {
+        "packageName": "原神",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/c75b16bd023a19fcfeb32034013bb32978deddf6.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/8dbfe314096199a65360df01ccf06e06073b3869.png"
+      }
+    },
+    {
+      "id": "2763",
+      "description": "原神_震撼",
+      "shortCodes": [
+        "[原神_震撼]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/139/2763.png",
+      "isHide": false,
+      "packageId": "139",
+      "meta": {
+        "packageName": "原神",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/c75b16bd023a19fcfeb32034013bb32978deddf6.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/2fbf21300ca4ed47f763698364458fb8dad0f755.png"
+      }
+    },
+    {
+      "id": "2764",
+      "description": "原神_倒",
+      "shortCodes": [
+        "[原神_倒]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/139/2764.png",
+      "isHide": false,
+      "packageId": "139",
+      "meta": {
+        "packageName": "原神",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/c75b16bd023a19fcfeb32034013bb32978deddf6.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/d7b114b8d812ec97de10626cb73daaac98000544.png"
+      }
+    },
+    {
+      "id": "2765",
+      "description": "原神_点赞",
+      "shortCodes": [
+        "[原神_点赞]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/139/2765.png",
+      "isHide": false,
+      "packageId": "139",
+      "meta": {
+        "packageName": "原神",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/c75b16bd023a19fcfeb32034013bb32978deddf6.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/091572b59ea3251288b254abbe88a0f3c20cdffe.png"
+      }
+    },
+    {
+      "id": "2766",
+      "description": "原神_鼓掌",
+      "shortCodes": [
+        "[原神_鼓掌]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/139/2766.png",
+      "isHide": false,
+      "packageId": "139",
+      "meta": {
+        "packageName": "原神",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/c75b16bd023a19fcfeb32034013bb32978deddf6.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/c8f852c86219833aae92e739c8b68857f5269aa7.png"
+      }
+    },
+    {
+      "id": "2767",
+      "description": "原神_乖巧",
+      "shortCodes": [
+        "[原神_乖巧]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/139/2767.png",
+      "isHide": false,
+      "packageId": "139",
+      "meta": {
+        "packageName": "原神",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/c75b16bd023a19fcfeb32034013bb32978deddf6.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/53a51820cfe3ee3918cecffd5515719c97f2dcbf.png"
+      }
+    },
+    {
+      "id": "2768",
+      "description": "原神_得意",
+      "shortCodes": [
+        "[原神_得意]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/139/2768.png",
+      "isHide": false,
+      "packageId": "139",
+      "meta": {
+        "packageName": "原神",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/c75b16bd023a19fcfeb32034013bb32978deddf6.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/05fbec74a04c03cbf6c5af702c7436a7a2e9143d.png"
+      }
+    },
+    {
+      "id": "2769",
+      "description": "原神_冷漠",
+      "shortCodes": [
+        "[原神_冷漠]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/139/2769.png",
+      "isHide": false,
+      "packageId": "139",
+      "meta": {
+        "packageName": "原神",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/c75b16bd023a19fcfeb32034013bb32978deddf6.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/8c3c8ff85d18d7e839c5247526ce15c60bceddc0.png"
+      }
+    },
+    {
+      "id": "2770",
+      "description": "原神_期待",
+      "shortCodes": [
+        "[原神_期待]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/139/2770.png",
+      "isHide": false,
+      "packageId": "139",
+      "meta": {
+        "packageName": "原神",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/c75b16bd023a19fcfeb32034013bb32978deddf6.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/650cfaaaef9b9ec06b8fd6c156bfe395879c60be.png"
+      }
+    },
+    {
+      "id": "2771",
+      "description": "原神_撒花",
+      "shortCodes": [
+        "[原神_撒花]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/139/2771.png",
+      "isHide": false,
+      "packageId": "139",
+      "meta": {
+        "packageName": "原神",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/c75b16bd023a19fcfeb32034013bb32978deddf6.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/046e0fa34668c4174617e6ba67744ce16100fe47.png"
+      }
+    },
+    {
+      "id": "2772",
+      "description": "原神_晚安",
+      "shortCodes": [
+        "[原神_晚安]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/139/2772.png",
+      "isHide": false,
+      "packageId": "139",
+      "meta": {
+        "packageName": "原神",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/c75b16bd023a19fcfeb32034013bb32978deddf6.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/5f25c60f015ed45f82b3276f93a819dfac6b61f8.png"
+      }
+    },
+    {
+      "id": "2773",
+      "description": "原神_委屈",
+      "shortCodes": [
+        "[原神_委屈]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/139/2773.png",
+      "isHide": false,
+      "packageId": "139",
+      "meta": {
+        "packageName": "原神",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/c75b16bd023a19fcfeb32034013bb32978deddf6.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/7db56d34892314ac9ac6eedf4115bc2362bf1c4d.png"
+      }
+    },
+    {
+      "id": "2774",
+      "description": "原神_疑问",
+      "shortCodes": [
+        "[原神_疑问]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/139/2774.png",
+      "isHide": false,
+      "packageId": "139",
+      "meta": {
+        "packageName": "原神",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/c75b16bd023a19fcfeb32034013bb32978deddf6.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/9a3ed71cb7779710b072069e050d70096adba232.png"
+      }
+    },
+    {
+      "id": "2775",
+      "description": "原神_有主意了",
+      "shortCodes": [
+        "[原神_有主意了]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/139/2775.png",
+      "isHide": false,
+      "packageId": "139",
+      "meta": {
+        "packageName": "原神",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/c75b16bd023a19fcfeb32034013bb32978deddf6.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/08e473ea5ad8a1a40e51b7446d2e4ade1e5f05eb.png"
+      }
+    }
+  ]
+}

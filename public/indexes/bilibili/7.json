@@ -1,0 +1,307 @@
+{
+  "id": "7",
+  "name": "蛆音娘",
+  "coverUrl": "http://i0.hdslb.com/bfs/emote/2afa12abaad687ee1be56447eb9aa26deba067db.png",
+  "emojis": [
+    {
+      "id": "151",
+      "description": "蛆音娘_卖萌",
+      "shortCodes": [
+        "[蛆音娘_卖萌]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/7/151.png",
+      "isHide": false,
+      "packageId": "7",
+      "meta": {
+        "packageName": "蛆音娘",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/2afa12abaad687ee1be56447eb9aa26deba067db.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/4cd1024d0c2ecee93224477946656d32c1705ccf.png"
+      }
+    },
+    {
+      "id": "152",
+      "description": "蛆音娘_吃瓜群众",
+      "shortCodes": [
+        "[蛆音娘_吃瓜群众]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/7/152.png",
+      "isHide": false,
+      "packageId": "7",
+      "meta": {
+        "packageName": "蛆音娘",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/2afa12abaad687ee1be56447eb9aa26deba067db.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/5d0d6cc54b508d30b4f50b6b5f7b7e1e259d84ea.png"
+      }
+    },
+    {
+      "id": "153",
+      "description": "蛆音娘_吃惊",
+      "shortCodes": [
+        "[蛆音娘_吃惊]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/7/153.png",
+      "isHide": false,
+      "packageId": "7",
+      "meta": {
+        "packageName": "蛆音娘",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/2afa12abaad687ee1be56447eb9aa26deba067db.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/7a4cb0b644214d476ce198ddf6a7a0aa31311199.png"
+      }
+    },
+    {
+      "id": "154",
+      "description": "蛆音娘_害怕",
+      "shortCodes": [
+        "[蛆音娘_害怕]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/7/154.png",
+      "isHide": false,
+      "packageId": "7",
+      "meta": {
+        "packageName": "蛆音娘",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/2afa12abaad687ee1be56447eb9aa26deba067db.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/7407634bf67bfe9d7806f15d57608a1b18c2b4c2.png"
+      }
+    },
+    {
+      "id": "155",
+      "description": "蛆音娘_扶额",
+      "shortCodes": [
+        "[蛆音娘_扶额]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/7/155.png",
+      "isHide": false,
+      "packageId": "7",
+      "meta": {
+        "packageName": "蛆音娘",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/2afa12abaad687ee1be56447eb9aa26deba067db.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/a4d8f95baaa24821fd591a7dbeee1b869e760f59.png"
+      }
+    },
+    {
+      "id": "156",
+      "description": "蛆音娘_滑稽",
+      "shortCodes": [
+        "[蛆音娘_滑稽]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/7/156.png",
+      "isHide": false,
+      "packageId": "7",
+      "meta": {
+        "packageName": "蛆音娘",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/2afa12abaad687ee1be56447eb9aa26deba067db.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/d3717f10ffe9787336bc39a09214270988521a67.png"
+      }
+    },
+    {
+      "id": "157",
+      "description": "蛆音娘_哼",
+      "shortCodes": [
+        "[蛆音娘_哼]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/7/157.png",
+      "isHide": false,
+      "packageId": "7",
+      "meta": {
+        "packageName": "蛆音娘",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/2afa12abaad687ee1be56447eb9aa26deba067db.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/8854f1b8a82126e3b87f3a1563da5feb55b23e71.png"
+      }
+    },
+    {
+      "id": "158",
+      "description": "蛆音娘_机智",
+      "shortCodes": [
+        "[蛆音娘_机智]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/7/158.png",
+      "isHide": false,
+      "packageId": "7",
+      "meta": {
+        "packageName": "蛆音娘",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/2afa12abaad687ee1be56447eb9aa26deba067db.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/e543c0a823ca915df9362283f4ae950e9e9cc2e9.png"
+      }
+    },
+    {
+      "id": "159",
+      "description": "蛆音娘_哭泣",
+      "shortCodes": [
+        "[蛆音娘_哭泣]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/7/159.png",
+      "isHide": false,
+      "packageId": "7",
+      "meta": {
+        "packageName": "蛆音娘",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/2afa12abaad687ee1be56447eb9aa26deba067db.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/a23055546c19eba663b16370b8e072394d87ff53.png"
+      }
+    },
+    {
+      "id": "160",
+      "description": "蛆音娘_睡觉觉",
+      "shortCodes": [
+        "[蛆音娘_睡觉觉]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/7/160.png",
+      "isHide": false,
+      "packageId": "7",
+      "meta": {
+        "packageName": "蛆音娘",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/2afa12abaad687ee1be56447eb9aa26deba067db.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/40ef7e6d931acb37e5514b70d13663e86dc3698b.png"
+      }
+    },
+    {
+      "id": "161",
+      "description": "蛆音娘_生气",
+      "shortCodes": [
+        "[蛆音娘_生气]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/7/161.png",
+      "isHide": false,
+      "packageId": "7",
+      "meta": {
+        "packageName": "蛆音娘",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/2afa12abaad687ee1be56447eb9aa26deba067db.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/bf398cbbcfaae107d1b59aaf03895f38422e3d87.png"
+      }
+    },
+    {
+      "id": "162",
+      "description": "蛆音娘_偷看",
+      "shortCodes": [
+        "[蛆音娘_偷看]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/7/162.png",
+      "isHide": false,
+      "packageId": "7",
+      "meta": {
+        "packageName": "蛆音娘",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/2afa12abaad687ee1be56447eb9aa26deba067db.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/52463ded4f23649db10ba3ced662ed946c5edf0b.png"
+      }
+    },
+    {
+      "id": "163",
+      "description": "蛆音娘_吐血",
+      "shortCodes": [
+        "[蛆音娘_吐血]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/7/163.png",
+      "isHide": false,
+      "packageId": "7",
+      "meta": {
+        "packageName": "蛆音娘",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/2afa12abaad687ee1be56447eb9aa26deba067db.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/5772d22015e5b2b40a9fe302b5967ec7282ac848.png"
+      }
+    },
+    {
+      "id": "164",
+      "description": "蛆音娘_无语",
+      "shortCodes": [
+        "[蛆音娘_无语]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/7/164.png",
+      "isHide": false,
+      "packageId": "7",
+      "meta": {
+        "packageName": "蛆音娘",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/2afa12abaad687ee1be56447eb9aa26deba067db.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/b6c763c6484ce2e48299ceb21861e46318868871.png"
+      }
+    },
+    {
+      "id": "165",
+      "description": "蛆音娘_摇头",
+      "shortCodes": [
+        "[蛆音娘_摇头]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/7/165.png",
+      "isHide": false,
+      "packageId": "7",
+      "meta": {
+        "packageName": "蛆音娘",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/2afa12abaad687ee1be56447eb9aa26deba067db.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/b7278f750c6f2235f41f37056d727f25d3bf781f.png"
+      }
+    },
+    {
+      "id": "166",
+      "description": "蛆音娘_疑问",
+      "shortCodes": [
+        "[蛆音娘_疑问]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/7/166.png",
+      "isHide": false,
+      "packageId": "7",
+      "meta": {
+        "packageName": "蛆音娘",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/2afa12abaad687ee1be56447eb9aa26deba067db.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/7750b698d15a1b8e83c0f59106e8e9cd5cb57897.png"
+      }
+    },
+    {
+      "id": "167",
+      "description": "蛆音娘_die",
+      "shortCodes": [
+        "[蛆音娘_die]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/7/167.png",
+      "isHide": false,
+      "packageId": "7",
+      "meta": {
+        "packageName": "蛆音娘",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/2afa12abaad687ee1be56447eb9aa26deba067db.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/52543025a070fde5c01a10320c9636ec3173ac99.png"
+      }
+    },
+    {
+      "id": "168",
+      "description": "蛆音娘_OK",
+      "shortCodes": [
+        "[蛆音娘_OK]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/7/168.png",
+      "isHide": false,
+      "packageId": "7",
+      "meta": {
+        "packageName": "蛆音娘",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/2afa12abaad687ee1be56447eb9aa26deba067db.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/52a0dcee66c91bf123bf53bd48a269b1317d17f9.png"
+      }
+    },
+    {
+      "id": "169",
+      "description": "蛆音娘_肥皂",
+      "shortCodes": [
+        "[蛆音娘_肥皂]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/7/169.png",
+      "isHide": false,
+      "packageId": "7",
+      "meta": {
+        "packageName": "蛆音娘",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/2afa12abaad687ee1be56447eb9aa26deba067db.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/7f1a857e9430dcf3050ce0ef5fa19aefebea6dc4.png"
+      }
+    },
+    {
+      "id": "170",
+      "description": "蛆音娘_大笑",
+      "shortCodes": [
+        "[蛆音娘_大笑]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/7/170.png",
+      "isHide": false,
+      "packageId": "7",
+      "meta": {
+        "packageName": "蛆音娘",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/2afa12abaad687ee1be56447eb9aa26deba067db.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/1d3355fb89c24ab3c50e5c152d8b990a290dc63e.png"
+      }
+    }
+  ]
+}

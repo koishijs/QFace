@@ -1,0 +1,382 @@
+{
+  "id": "588",
+  "name": "莞儿睡不醒",
+  "coverUrl": "https://i0.hdslb.com/bfs/emote/d33211fc87b01a8fd2ad07b295ea7fcafb4074a4.png",
+  "emojis": [
+    {
+      "id": "10683",
+      "description": "莞儿睡不醒_mua",
+      "shortCodes": [
+        "[莞儿睡不醒_mua]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/588/10683.png",
+      "isHide": false,
+      "packageId": "588",
+      "meta": {
+        "packageName": "莞儿睡不醒",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/d33211fc87b01a8fd2ad07b295ea7fcafb4074a4.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/2554dc6b6cc50cc210c72fd583379df0a66bacbc.png"
+      }
+    },
+    {
+      "id": "10684",
+      "description": "莞儿睡不醒_安心",
+      "shortCodes": [
+        "[莞儿睡不醒_安心]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/588/10684.png",
+      "isHide": false,
+      "packageId": "588",
+      "meta": {
+        "packageName": "莞儿睡不醒",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/d33211fc87b01a8fd2ad07b295ea7fcafb4074a4.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/6fe014700c775fc705a6ce58d4164c8d04893aa3.png"
+      }
+    },
+    {
+      "id": "10685",
+      "description": "莞儿睡不醒_不安",
+      "shortCodes": [
+        "[莞儿睡不醒_不安]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/588/10685.png",
+      "isHide": false,
+      "packageId": "588",
+      "meta": {
+        "packageName": "莞儿睡不醒",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/d33211fc87b01a8fd2ad07b295ea7fcafb4074a4.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/32224c232636d5f5d21546c075c9f0d84e7c6e07.png"
+      }
+    },
+    {
+      "id": "10686",
+      "description": "莞儿睡不醒_高音",
+      "shortCodes": [
+        "[莞儿睡不醒_高音]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/588/10686.png",
+      "isHide": false,
+      "packageId": "588",
+      "meta": {
+        "packageName": "莞儿睡不醒",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/d33211fc87b01a8fd2ad07b295ea7fcafb4074a4.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/f0f7dc1a543c70df298aa5fa9bcfb4b3a04b946e.png"
+      }
+    },
+    {
+      "id": "10687",
+      "description": "莞儿睡不醒_莞安",
+      "shortCodes": [
+        "[莞儿睡不醒_莞安]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/588/10687.png",
+      "isHide": false,
+      "packageId": "588",
+      "meta": {
+        "packageName": "莞儿睡不醒",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/d33211fc87b01a8fd2ad07b295ea7fcafb4074a4.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/52627133089365b0147c6d4e3b13f0a2b3a382a3.png"
+      }
+    },
+    {
+      "id": "10688",
+      "description": "莞儿睡不醒_开心",
+      "shortCodes": [
+        "[莞儿睡不醒_开心]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/588/10688.png",
+      "isHide": false,
+      "packageId": "588",
+      "meta": {
+        "packageName": "莞儿睡不醒",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/d33211fc87b01a8fd2ad07b295ea7fcafb4074a4.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/c92de00a35afa64c773e1db7561067d71d6c8154.png"
+      }
+    },
+    {
+      "id": "10689",
+      "description": "莞儿睡不醒_哭泣",
+      "shortCodes": [
+        "[莞儿睡不醒_哭泣]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/588/10689.png",
+      "isHide": false,
+      "packageId": "588",
+      "meta": {
+        "packageName": "莞儿睡不醒",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/d33211fc87b01a8fd2ad07b295ea7fcafb4074a4.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/1e27998eafbc7845a01c64aa8611e04663e27a84.png"
+      }
+    },
+    {
+      "id": "10690",
+      "description": "莞儿睡不醒_什么意思",
+      "shortCodes": [
+        "[莞儿睡不醒_什么意思]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/588/10690.png",
+      "isHide": false,
+      "packageId": "588",
+      "meta": {
+        "packageName": "莞儿睡不醒",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/d33211fc87b01a8fd2ad07b295ea7fcafb4074a4.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/597cf144256d931bdc5f50dd93a4481165a84edb.png"
+      }
+    },
+    {
+      "id": "10691",
+      "description": "莞儿睡不醒_生气",
+      "shortCodes": [
+        "[莞儿睡不醒_生气]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/588/10691.png",
+      "isHide": false,
+      "packageId": "588",
+      "meta": {
+        "packageName": "莞儿睡不醒",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/d33211fc87b01a8fd2ad07b295ea7fcafb4074a4.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/7d84c3246dce1bcb8de9dc11b5bcdf9875c7c6ad.png"
+      }
+    },
+    {
+      "id": "10692",
+      "description": "莞儿睡不醒_唐突",
+      "shortCodes": [
+        "[莞儿睡不醒_唐突]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/588/10692.png",
+      "isHide": false,
+      "packageId": "588",
+      "meta": {
+        "packageName": "莞儿睡不醒",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/d33211fc87b01a8fd2ad07b295ea7fcafb4074a4.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/2f6f398bc7d82128cb058e8bdc04b1bcb0801bb6.png"
+      }
+    },
+    {
+      "id": "10693",
+      "description": "莞儿睡不醒_我要闹了",
+      "shortCodes": [
+        "[莞儿睡不醒_我要闹了]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/588/10693.png",
+      "isHide": false,
+      "packageId": "588",
+      "meta": {
+        "packageName": "莞儿睡不醒",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/d33211fc87b01a8fd2ad07b295ea7fcafb4074a4.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/88076aacade25e77071aba75335c0cc6a6c2de05.png"
+      }
+    },
+    {
+      "id": "10694",
+      "description": "莞儿睡不醒_小厨娘",
+      "shortCodes": [
+        "[莞儿睡不醒_小厨娘]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/588/10694.png",
+      "isHide": false,
+      "packageId": "588",
+      "meta": {
+        "packageName": "莞儿睡不醒",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/d33211fc87b01a8fd2ad07b295ea7fcafb4074a4.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/54bf460882c9c9015a384d134a7ce5deec9162c3.png"
+      }
+    },
+    {
+      "id": "10695",
+      "description": "莞儿睡不醒_小莞熊",
+      "shortCodes": [
+        "[莞儿睡不醒_小莞熊]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/588/10695.png",
+      "isHide": false,
+      "packageId": "588",
+      "meta": {
+        "packageName": "莞儿睡不醒",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/d33211fc87b01a8fd2ad07b295ea7fcafb4074a4.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/b991b058ab648285350babfc14726a4f5b107c8b.png"
+      }
+    },
+    {
+      "id": "10696",
+      "description": "莞儿睡不醒_巡逻中",
+      "shortCodes": [
+        "[莞儿睡不醒_巡逻中]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/588/10696.png",
+      "isHide": false,
+      "packageId": "588",
+      "meta": {
+        "packageName": "莞儿睡不醒",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/d33211fc87b01a8fd2ad07b295ea7fcafb4074a4.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/18c5add3e6dab5e75351572b16e8066bf20246f2.png"
+      }
+    },
+    {
+      "id": "10697",
+      "description": "莞儿睡不醒_真的吗",
+      "shortCodes": [
+        "[莞儿睡不醒_真的吗]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/588/10697.png",
+      "isHide": false,
+      "packageId": "588",
+      "meta": {
+        "packageName": "莞儿睡不醒",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/d33211fc87b01a8fd2ad07b295ea7fcafb4074a4.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/68a14d0ac8f7898191ce88bff02bd449ce1d13f3.png"
+      }
+    },
+    {
+      "id": "14412",
+      "description": "莞儿睡不醒_我们是EOE",
+      "shortCodes": [
+        "[莞儿睡不醒_我们是EOE]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/588/14412.png",
+      "isHide": false,
+      "packageId": "588",
+      "meta": {
+        "packageName": "莞儿睡不醒",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/d33211fc87b01a8fd2ad07b295ea7fcafb4074a4.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/135711bffa7b3374fde7727b6f7cde301d990334.png"
+      }
+    },
+    {
+      "id": "14434",
+      "description": "莞儿睡不醒_啵烂",
+      "shortCodes": [
+        "[莞儿睡不醒_啵烂]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/588/14434.png",
+      "isHide": false,
+      "packageId": "588",
+      "meta": {
+        "packageName": "莞儿睡不醒",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/d33211fc87b01a8fd2ad07b295ea7fcafb4074a4.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/24c621a2c9b59d89410e79648d1b8a2387c06a75.png"
+      }
+    },
+    {
+      "id": "14435",
+      "description": "莞儿睡不醒_懂你意思",
+      "shortCodes": [
+        "[莞儿睡不醒_懂你意思]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/588/14435.png",
+      "isHide": false,
+      "packageId": "588",
+      "meta": {
+        "packageName": "莞儿睡不醒",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/d33211fc87b01a8fd2ad07b295ea7fcafb4074a4.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/2705f7aed0b9093cbf07f12caf7dc422a9005db9.png"
+      }
+    },
+    {
+      "id": "14413",
+      "description": "莞儿睡不醒_投降",
+      "shortCodes": [
+        "[莞儿睡不醒_投降]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/588/14413.png",
+      "isHide": false,
+      "packageId": "588",
+      "meta": {
+        "packageName": "莞儿睡不醒",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/d33211fc87b01a8fd2ad07b295ea7fcafb4074a4.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/09de72694ae0cc6d651f657519fb3b012ea9ecc7.png"
+      }
+    },
+    {
+      "id": "14436",
+      "description": "莞儿睡不醒_饿了",
+      "shortCodes": [
+        "[莞儿睡不醒_饿了]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/588/14436.png",
+      "isHide": false,
+      "packageId": "588",
+      "meta": {
+        "packageName": "莞儿睡不醒",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/d33211fc87b01a8fd2ad07b295ea7fcafb4074a4.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/490254dd3ed62654c7e28907f7b4e2098921e379.png"
+      }
+    },
+    {
+      "id": "14414",
+      "description": "莞儿睡不醒_睡不醒",
+      "shortCodes": [
+        "[莞儿睡不醒_睡不醒]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/588/14414.png",
+      "isHide": false,
+      "packageId": "588",
+      "meta": {
+        "packageName": "莞儿睡不醒",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/d33211fc87b01a8fd2ad07b295ea7fcafb4074a4.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/4c5960c12f249e478b42b37707b2646d5260423d.png"
+      }
+    },
+    {
+      "id": "14415",
+      "description": "莞儿睡不醒_麻麻",
+      "shortCodes": [
+        "[莞儿睡不醒_麻麻]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/588/14415.png",
+      "isHide": false,
+      "packageId": "588",
+      "meta": {
+        "packageName": "莞儿睡不醒",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/d33211fc87b01a8fd2ad07b295ea7fcafb4074a4.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/cfc69aeee34cd189c70e347c02b76f08e83d2b9e.png"
+      }
+    },
+    {
+      "id": "14416",
+      "description": "莞儿睡不醒_可靠",
+      "shortCodes": [
+        "[莞儿睡不醒_可靠]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/588/14416.png",
+      "isHide": false,
+      "packageId": "588",
+      "meta": {
+        "packageName": "莞儿睡不醒",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/d33211fc87b01a8fd2ad07b295ea7fcafb4074a4.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/5c97bfcb3f9a18dcdd9cf4d1d819efdca39567bb.png"
+      }
+    },
+    {
+      "id": "14417",
+      "description": "莞儿睡不醒_好耶",
+      "shortCodes": [
+        "[莞儿睡不醒_好耶]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/588/14417.png",
+      "isHide": false,
+      "packageId": "588",
+      "meta": {
+        "packageName": "莞儿睡不醒",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/d33211fc87b01a8fd2ad07b295ea7fcafb4074a4.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/1bd5a0dd7069afe17ade6b1760f979daf13d41d9.png"
+      }
+    },
+    {
+      "id": "14418",
+      "description": "莞儿睡不醒_给你一铲",
+      "shortCodes": [
+        "[莞儿睡不醒_给你一铲]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/588/14418.png",
+      "isHide": false,
+      "packageId": "588",
+      "meta": {
+        "packageName": "莞儿睡不醒",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/d33211fc87b01a8fd2ad07b295ea7fcafb4074a4.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/8f431e3c309daaa6f65edbfe8166fa0ceee4d069.png"
+      }
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "id": "355",
+  "name": "梦奇",
+  "coverUrl": "http://i0.hdslb.com/bfs/emote/d49a7f803f71eed951c2e9b62e5b5d2638358765.png",
+  "emojis": [
+    {
+      "id": "5837",
+      "description": "梦奇_I",
+      "shortCodes": [
+        "[梦奇_I]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/355/5837.png",
+      "isHide": false,
+      "packageId": "355",
+      "meta": {
+        "packageName": "梦奇",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/d49a7f803f71eed951c2e9b62e5b5d2638358765.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/88627688279e57652fb300a9b667941225a5cfdd.png"
+      }
+    },
+    {
+      "id": "5838",
+      "description": "梦奇_K",
+      "shortCodes": [
+        "[梦奇_K]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/355/5838.png",
+      "isHide": false,
+      "packageId": "355",
+      "meta": {
+        "packageName": "梦奇",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/d49a7f803f71eed951c2e9b62e5b5d2638358765.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/7595bc2e5b076203abeaf5b9d1c4a12abd4d851a.png"
+      }
+    },
+    {
+      "id": "5839",
+      "description": "梦奇_MONKI",
+      "shortCodes": [
+        "[梦奇_MONKI]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/355/5839.png",
+      "isHide": false,
+      "packageId": "355",
+      "meta": {
+        "packageName": "梦奇",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/d49a7f803f71eed951c2e9b62e5b5d2638358765.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/185344dc25f21cff1c01310d2ab56fa9ac7d317b.png"
+      }
+    },
+    {
+      "id": "5840",
+      "description": "梦奇_M",
+      "shortCodes": [
+        "[梦奇_M]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/355/5840.png",
+      "isHide": false,
+      "packageId": "355",
+      "meta": {
+        "packageName": "梦奇",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/d49a7f803f71eed951c2e9b62e5b5d2638358765.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/c7d1031e9c35148dfb7b45bc71b6931026e2e80e.png"
+      }
+    },
+    {
+      "id": "5841",
+      "description": "梦奇_N",
+      "shortCodes": [
+        "[梦奇_N]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/355/5841.png",
+      "isHide": false,
+      "packageId": "355",
+      "meta": {
+        "packageName": "梦奇",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/d49a7f803f71eed951c2e9b62e5b5d2638358765.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/7a360fbf70b27e824dc0e2b49879c5472093fec4.png"
+      }
+    },
+    {
+      "id": "5842",
+      "description": "梦奇_O",
+      "shortCodes": [
+        "[梦奇_O]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/355/5842.png",
+      "isHide": false,
+      "packageId": "355",
+      "meta": {
+        "packageName": "梦奇",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/d49a7f803f71eed951c2e9b62e5b5d2638358765.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/3ebe95c3662a140cc68f86fac2062f74b52b0c76.png"
+      }
+    },
+    {
+      "id": "5843",
+      "description": "梦奇_发呆中",
+      "shortCodes": [
+        "[梦奇_发呆中]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/355/5843.png",
+      "isHide": false,
+      "packageId": "355",
+      "meta": {
+        "packageName": "梦奇",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/d49a7f803f71eed951c2e9b62e5b5d2638358765.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/bc619a39fec949060d0eb62c49b823e1635ead9a.png"
+      }
+    },
+    {
+      "id": "5844",
+      "description": "梦奇_来贴贴",
+      "shortCodes": [
+        "[梦奇_来贴贴]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/355/5844.png",
+      "isHide": false,
+      "packageId": "355",
+      "meta": {
+        "packageName": "梦奇",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/d49a7f803f71eed951c2e9b62e5b5d2638358765.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/e94e5cfe8beb6ffeb92148410249b7c0accee14d.png"
+      }
+    },
+    {
+      "id": "5845",
+      "description": "梦奇_睡觉觉",
+      "shortCodes": [
+        "[梦奇_睡觉觉]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/355/5845.png",
+      "isHide": false,
+      "packageId": "355",
+      "meta": {
+        "packageName": "梦奇",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/d49a7f803f71eed951c2e9b62e5b5d2638358765.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/c88dd62bd958a59917e7365d28e12a8257ed84a6.png"
+      }
+    },
+    {
+      "id": "5846",
+      "description": "梦奇_超开心",
+      "shortCodes": [
+        "[梦奇_超开心]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/355/5846.png",
+      "isHide": false,
+      "packageId": "355",
+      "meta": {
+        "packageName": "梦奇",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/d49a7f803f71eed951c2e9b62e5b5d2638358765.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/66e9367cf32254cb10a01dfe3df7338907d17e1c.png"
+      }
+    }
+  ]
+}

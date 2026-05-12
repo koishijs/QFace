@@ -1,0 +1,157 @@
+{
+  "id": "435",
+  "name": "夏日露营季",
+  "coverUrl": "http://i0.hdslb.com/bfs/emote/a0e0c7ead92d67394ff9d8bf13a413d29ca0a26a.png",
+  "emojis": [
+    {
+      "id": "7562",
+      "description": "夏日露营季_出发咯",
+      "shortCodes": [
+        "[夏日露营季_出发咯]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/435/7562.png",
+      "isHide": false,
+      "packageId": "435",
+      "meta": {
+        "packageName": "夏日露营季",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/a0e0c7ead92d67394ff9d8bf13a413d29ca0a26a.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/7955695ceec4a16e4de88f487bf1e9e332f349b8.png"
+      }
+    },
+    {
+      "id": "7563",
+      "description": "夏日露营季_搭帐篷",
+      "shortCodes": [
+        "[夏日露营季_搭帐篷]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/435/7563.png",
+      "isHide": false,
+      "packageId": "435",
+      "meta": {
+        "packageName": "夏日露营季",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/a0e0c7ead92d67394ff9d8bf13a413d29ca0a26a.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/3c457b401b6e70c50ca6a75f56ec517a53146a3c.png"
+      }
+    },
+    {
+      "id": "7564",
+      "description": "夏日露营季_露营灯",
+      "shortCodes": [
+        "[夏日露营季_露营灯]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/435/7564.png",
+      "isHide": false,
+      "packageId": "435",
+      "meta": {
+        "packageName": "夏日露营季",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/a0e0c7ead92d67394ff9d8bf13a413d29ca0a26a.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/290be1e8df1c9ea15573bd862799076ccd5c2f37.png"
+      }
+    },
+    {
+      "id": "7565",
+      "description": "夏日露营季_迷路",
+      "shortCodes": [
+        "[夏日露营季_迷路]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/435/7565.png",
+      "isHide": false,
+      "packageId": "435",
+      "meta": {
+        "packageName": "夏日露营季",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/a0e0c7ead92d67394ff9d8bf13a413d29ca0a26a.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/95761f3ee81847e177375d2c83f14bf63ddb82fd.png"
+      }
+    },
+    {
+      "id": "7566",
+      "description": "夏日露营季_拍照",
+      "shortCodes": [
+        "[夏日露营季_拍照]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/435/7566.png",
+      "isHide": false,
+      "packageId": "435",
+      "meta": {
+        "packageName": "夏日露营季",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/a0e0c7ead92d67394ff9d8bf13a413d29ca0a26a.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/2a901dfb711087af16bb8d3f216395e8c502003a.png"
+      }
+    },
+    {
+      "id": "7567",
+      "description": "夏日露营季_生火",
+      "shortCodes": [
+        "[夏日露营季_生火]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/435/7567.png",
+      "isHide": false,
+      "packageId": "435",
+      "meta": {
+        "packageName": "夏日露营季",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/a0e0c7ead92d67394ff9d8bf13a413d29ca0a26a.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/623c2a1ac2989874a6ba58bdf18b469e11b09352.png"
+      }
+    },
+    {
+      "id": "7568",
+      "description": "夏日露营季_晚安",
+      "shortCodes": [
+        "[夏日露营季_晚安]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/435/7568.png",
+      "isHide": false,
+      "packageId": "435",
+      "meta": {
+        "packageName": "夏日露营季",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/a0e0c7ead92d67394ff9d8bf13a413d29ca0a26a.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/5d26ee332bca4a606eba87269e1dd2b8876e0a12.png"
+      }
+    },
+    {
+      "id": "7569",
+      "description": "夏日露营季_我太南了",
+      "shortCodes": [
+        "[夏日露营季_我太南了]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/435/7569.png",
+      "isHide": false,
+      "packageId": "435",
+      "meta": {
+        "packageName": "夏日露营季",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/a0e0c7ead92d67394ff9d8bf13a413d29ca0a26a.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/1ac5f9913c61a9f9364fa10099fa999dbfe422f4.png"
+      }
+    },
+    {
+      "id": "7570",
+      "description": "夏日露营季_早安",
+      "shortCodes": [
+        "[夏日露营季_早安]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/435/7570.png",
+      "isHide": false,
+      "packageId": "435",
+      "meta": {
+        "packageName": "夏日露营季",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/a0e0c7ead92d67394ff9d8bf13a413d29ca0a26a.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/968e800c3e35b514f95674cc23039de3eace7011.png"
+      }
+    },
+    {
+      "id": "7571",
+      "description": "夏日露营季_真香",
+      "shortCodes": [
+        "[夏日露营季_真香]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/435/7571.png",
+      "isHide": false,
+      "packageId": "435",
+      "meta": {
+        "packageName": "夏日露营季",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/a0e0c7ead92d67394ff9d8bf13a413d29ca0a26a.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/5c3720a47cc6de79f5e37130114cd8803166823a.png"
+      }
+    }
+  ]
+}

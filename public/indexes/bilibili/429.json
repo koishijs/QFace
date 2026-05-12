@@ -1,0 +1,307 @@
+{
+  "id": "429",
+  "name": "魔法美少女ZC",
+  "coverUrl": "http://i0.hdslb.com/bfs/emote/37ae6ae29ff068ac1b8bcb161003b2189d2d3765.png",
+  "emojis": [
+    {
+      "id": "7323",
+      "description": "魔法美少女ZC_Zc来咯",
+      "shortCodes": [
+        "[魔法美少女ZC_Zc来咯]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/429/7323.png",
+      "isHide": false,
+      "packageId": "429",
+      "meta": {
+        "packageName": "魔法美少女ZC",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/37ae6ae29ff068ac1b8bcb161003b2189d2d3765.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/f1e57ec7fa2467495fb162682a85b92c88068baf.png"
+      }
+    },
+    {
+      "id": "7324",
+      "description": "魔法美少女ZC_什么情况",
+      "shortCodes": [
+        "[魔法美少女ZC_什么情况]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/429/7324.png",
+      "isHide": false,
+      "packageId": "429",
+      "meta": {
+        "packageName": "魔法美少女ZC",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/37ae6ae29ff068ac1b8bcb161003b2189d2d3765.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/ca3c8826ccb9043a68efc669ec7cb48eee3d550f.png"
+      }
+    },
+    {
+      "id": "7325",
+      "description": "魔法美少女ZC_使不得",
+      "shortCodes": [
+        "[魔法美少女ZC_使不得]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/429/7325.png",
+      "isHide": false,
+      "packageId": "429",
+      "meta": {
+        "packageName": "魔法美少女ZC",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/37ae6ae29ff068ac1b8bcb161003b2189d2d3765.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/192783aa2f354967114f571f47ceb0a86da9e23c.png"
+      }
+    },
+    {
+      "id": "7326",
+      "description": "魔法美少女ZC_傲娇",
+      "shortCodes": [
+        "[魔法美少女ZC_傲娇]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/429/7326.png",
+      "isHide": false,
+      "packageId": "429",
+      "meta": {
+        "packageName": "魔法美少女ZC",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/37ae6ae29ff068ac1b8bcb161003b2189d2d3765.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/63d9ccd267f8904e159d5f050af44c21034486b9.png"
+      }
+    },
+    {
+      "id": "7327",
+      "description": "魔法美少女ZC_刺猬",
+      "shortCodes": [
+        "[魔法美少女ZC_刺猬]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/429/7327.png",
+      "isHide": false,
+      "packageId": "429",
+      "meta": {
+        "packageName": "魔法美少女ZC",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/37ae6ae29ff068ac1b8bcb161003b2189d2d3765.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/95272720464f63629a988d3ca5563f7e1e4367f7.png"
+      }
+    },
+    {
+      "id": "7328",
+      "description": "魔法美少女ZC_咕咕",
+      "shortCodes": [
+        "[魔法美少女ZC_咕咕]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/429/7328.png",
+      "isHide": false,
+      "packageId": "429",
+      "meta": {
+        "packageName": "魔法美少女ZC",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/37ae6ae29ff068ac1b8bcb161003b2189d2d3765.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/2f37fe31e3b375d84e86abc190be26400cf9373c.png"
+      }
+    },
+    {
+      "id": "7329",
+      "description": "魔法美少女ZC_嗨到不行",
+      "shortCodes": [
+        "[魔法美少女ZC_嗨到不行]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/429/7329.png",
+      "isHide": false,
+      "packageId": "429",
+      "meta": {
+        "packageName": "魔法美少女ZC",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/37ae6ae29ff068ac1b8bcb161003b2189d2d3765.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/c58ac783a6fb77e5b2482b1cb4ec98a72c77c5d3.png"
+      }
+    },
+    {
+      "id": "7330",
+      "description": "魔法美少女ZC_大家快跑",
+      "shortCodes": [
+        "[魔法美少女ZC_大家快跑]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/429/7330.png",
+      "isHide": false,
+      "packageId": "429",
+      "meta": {
+        "packageName": "魔法美少女ZC",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/37ae6ae29ff068ac1b8bcb161003b2189d2d3765.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/7c49dc2f6a2c35670534ce67a7e0229c17c354ba.png"
+      }
+    },
+    {
+      "id": "7331",
+      "description": "魔法美少女ZC_好活当赏",
+      "shortCodes": [
+        "[魔法美少女ZC_好活当赏]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/429/7331.png",
+      "isHide": false,
+      "packageId": "429",
+      "meta": {
+        "packageName": "魔法美少女ZC",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/37ae6ae29ff068ac1b8bcb161003b2189d2d3765.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/a8203399c4e404da351786b164b4b944a8b89891.png"
+      }
+    },
+    {
+      "id": "7332",
+      "description": "魔法美少女ZC_好热哦",
+      "shortCodes": [
+        "[魔法美少女ZC_好热哦]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/429/7332.png",
+      "isHide": false,
+      "packageId": "429",
+      "meta": {
+        "packageName": "魔法美少女ZC",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/37ae6ae29ff068ac1b8bcb161003b2189d2d3765.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/f6342d06fbf313acdcc1cde61a4446e21a9a3374.png"
+      }
+    },
+    {
+      "id": "7333",
+      "description": "魔法美少女ZC_好耶",
+      "shortCodes": [
+        "[魔法美少女ZC_好耶]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/429/7333.png",
+      "isHide": false,
+      "packageId": "429",
+      "meta": {
+        "packageName": "魔法美少女ZC",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/37ae6ae29ff068ac1b8bcb161003b2189d2d3765.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/36b06e874aa8299d394027b85206b2091eec8af6.png"
+      }
+    },
+    {
+      "id": "7334",
+      "description": "魔法美少女ZC_开门啊",
+      "shortCodes": [
+        "[魔法美少女ZC_开门啊]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/429/7334.png",
+      "isHide": false,
+      "packageId": "429",
+      "meta": {
+        "packageName": "魔法美少女ZC",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/37ae6ae29ff068ac1b8bcb161003b2189d2d3765.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/23f3846bb6a310d027e2bc4e612d9e432c780321.png"
+      }
+    },
+    {
+      "id": "7335",
+      "description": "魔法美少女ZC_歇了",
+      "shortCodes": [
+        "[魔法美少女ZC_歇了]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/429/7335.png",
+      "isHide": false,
+      "packageId": "429",
+      "meta": {
+        "packageName": "魔法美少女ZC",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/37ae6ae29ff068ac1b8bcb161003b2189d2d3765.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/c911899165f07d1cce4be68a24106de00d4b2278.png"
+      }
+    },
+    {
+      "id": "7336",
+      "description": "魔法美少女ZC_沉思",
+      "shortCodes": [
+        "[魔法美少女ZC_沉思]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/429/7336.png",
+      "isHide": false,
+      "packageId": "429",
+      "meta": {
+        "packageName": "魔法美少女ZC",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/37ae6ae29ff068ac1b8bcb161003b2189d2d3765.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/361a58e9064ab4f788208b4cad952d81fc93bb03.png"
+      }
+    },
+    {
+      "id": "7337",
+      "description": "魔法美少女ZC_疑惑",
+      "shortCodes": [
+        "[魔法美少女ZC_疑惑]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/429/7337.png",
+      "isHide": false,
+      "packageId": "429",
+      "meta": {
+        "packageName": "魔法美少女ZC",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/37ae6ae29ff068ac1b8bcb161003b2189d2d3765.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/ce13d15be90a3f9b48c37d47b10a8c3560894a1a.png"
+      }
+    },
+    {
+      "id": "7338",
+      "description": "魔法美少女ZC_笑",
+      "shortCodes": [
+        "[魔法美少女ZC_笑]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/429/7338.png",
+      "isHide": false,
+      "packageId": "429",
+      "meta": {
+        "packageName": "魔法美少女ZC",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/37ae6ae29ff068ac1b8bcb161003b2189d2d3765.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/25e90623b709842f538d4ea0542f8fd9e9901f01.png"
+      }
+    },
+    {
+      "id": "7339",
+      "description": "魔法美少女ZC_给我看",
+      "shortCodes": [
+        "[魔法美少女ZC_给我看]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/429/7339.png",
+      "isHide": false,
+      "packageId": "429",
+      "meta": {
+        "packageName": "魔法美少女ZC",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/37ae6ae29ff068ac1b8bcb161003b2189d2d3765.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/2d22cd5545cb3a68a313870248b0c1a21c1635f8.png"
+      }
+    },
+    {
+      "id": "7340",
+      "description": "魔法美少女ZC_重量级",
+      "shortCodes": [
+        "[魔法美少女ZC_重量级]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/429/7340.png",
+      "isHide": false,
+      "packageId": "429",
+      "meta": {
+        "packageName": "魔法美少女ZC",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/37ae6ae29ff068ac1b8bcb161003b2189d2d3765.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/5c16dab9e3967d889983eb03c2c9b288178ac4b4.png"
+      }
+    },
+    {
+      "id": "7341",
+      "description": "魔法美少女ZC_震惊",
+      "shortCodes": [
+        "[魔法美少女ZC_震惊]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/429/7341.png",
+      "isHide": false,
+      "packageId": "429",
+      "meta": {
+        "packageName": "魔法美少女ZC",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/37ae6ae29ff068ac1b8bcb161003b2189d2d3765.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/8d1887fe250b41087afbf527e1f77ce4c270fb2b.png"
+      }
+    },
+    {
+      "id": "7342",
+      "description": "魔法美少女ZC_祝福你",
+      "shortCodes": [
+        "[魔法美少女ZC_祝福你]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/429/7342.png",
+      "isHide": false,
+      "packageId": "429",
+      "meta": {
+        "packageName": "魔法美少女ZC",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/37ae6ae29ff068ac1b8bcb161003b2189d2d3765.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/fbd011e21b59e237106757adacd3a172aa8b525c.png"
+      }
+    }
+  ]
+}

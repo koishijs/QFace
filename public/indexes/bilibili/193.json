@@ -1,0 +1,382 @@
+{
+  "id": "193",
+  "name": "C酱です",
+  "coverUrl": "http://i0.hdslb.com/bfs/emote/b9a9c2d876e7f856e5fa214c3593e8c342e4fb52.png",
+  "emojis": [
+    {
+      "id": "3445",
+      "description": "C酱_真剑胜负",
+      "shortCodes": [
+        "[C酱_真剑胜负]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/193/3445.png",
+      "isHide": false,
+      "packageId": "193",
+      "meta": {
+        "packageName": "C酱です",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/b9a9c2d876e7f856e5fa214c3593e8c342e4fb52.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/97e3cef05fe9f960cb859b1e2d839aeaf9a38bfb.png"
+      }
+    },
+    {
+      "id": "3446",
+      "description": "C酱_宅",
+      "shortCodes": [
+        "[C酱_宅]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/193/3446.png",
+      "isHide": false,
+      "packageId": "193",
+      "meta": {
+        "packageName": "C酱です",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/b9a9c2d876e7f856e5fa214c3593e8c342e4fb52.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/763e7529d10bcbd34cd6609e0711357d0f761bd4.png"
+      }
+    },
+    {
+      "id": "3447",
+      "description": "C酱_再来亿把",
+      "shortCodes": [
+        "[C酱_再来亿把]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/193/3447.png",
+      "isHide": false,
+      "packageId": "193",
+      "meta": {
+        "packageName": "C酱です",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/b9a9c2d876e7f856e5fa214c3593e8c342e4fb52.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/1532fde7962c7a882819aa2dcf8faeca6aa0ef29.png"
+      }
+    },
+    {
+      "id": "3448",
+      "description": "C酱_一般",
+      "shortCodes": [
+        "[C酱_一般]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/193/3448.png",
+      "isHide": false,
+      "packageId": "193",
+      "meta": {
+        "packageName": "C酱です",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/b9a9c2d876e7f856e5fa214c3593e8c342e4fb52.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/af7a4ad1955b5976602f6a210ecf522809ac9ff8.png"
+      }
+    },
+    {
+      "id": "3449",
+      "description": "C酱_下饭",
+      "shortCodes": [
+        "[C酱_下饭]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/193/3449.png",
+      "isHide": false,
+      "packageId": "193",
+      "meta": {
+        "packageName": "C酱です",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/b9a9c2d876e7f856e5fa214c3593e8c342e4fb52.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/8534877ad8737077c4d69607310d9633bf5a1ee7.png"
+      }
+    },
+    {
+      "id": "3450",
+      "description": "C酱_问号",
+      "shortCodes": [
+        "[C酱_问号]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/193/3450.png",
+      "isHide": false,
+      "packageId": "193",
+      "meta": {
+        "packageName": "C酱です",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/b9a9c2d876e7f856e5fa214c3593e8c342e4fb52.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/4fb6f0d8fcedef1624c5999609036346748b31e2.png"
+      }
+    },
+    {
+      "id": "3451",
+      "description": "C酱_警告",
+      "shortCodes": [
+        "[C酱_警告]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/193/3451.png",
+      "isHide": false,
+      "packageId": "193",
+      "meta": {
+        "packageName": "C酱です",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/b9a9c2d876e7f856e5fa214c3593e8c342e4fb52.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/5f9756b4bc5e57ef136a4340fa3bb0e53c5adc12.png"
+      }
+    },
+    {
+      "id": "3452",
+      "description": "C酱_惊吓",
+      "shortCodes": [
+        "[C酱_惊吓]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/193/3452.png",
+      "isHide": false,
+      "packageId": "193",
+      "meta": {
+        "packageName": "C酱です",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/b9a9c2d876e7f856e5fa214c3593e8c342e4fb52.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/e8122fea6e6b0b7812212fc69825f45fc02d1837.png"
+      }
+    },
+    {
+      "id": "3453",
+      "description": "C酱_好诶",
+      "shortCodes": [
+        "[C酱_好诶]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/193/3453.png",
+      "isHide": false,
+      "packageId": "193",
+      "meta": {
+        "packageName": "C酱です",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/b9a9c2d876e7f856e5fa214c3593e8c342e4fb52.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/a05ebdaf2348e5fbecdd9bc4ead748c8d7faa5a4.png"
+      }
+    },
+    {
+      "id": "3454",
+      "description": "C酱_AWSL",
+      "shortCodes": [
+        "[C酱_AWSL]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/193/3454.png",
+      "isHide": false,
+      "packageId": "193",
+      "meta": {
+        "packageName": "C酱です",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/b9a9c2d876e7f856e5fa214c3593e8c342e4fb52.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/4b8ac5c1fa7358d949ecfe089e02b252b29d6082.png"
+      }
+    },
+    {
+      "id": "3455",
+      "description": "C酱_害怕",
+      "shortCodes": [
+        "[C酱_害怕]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/193/3455.png",
+      "isHide": false,
+      "packageId": "193",
+      "meta": {
+        "packageName": "C酱です",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/b9a9c2d876e7f856e5fa214c3593e8c342e4fb52.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/f5f777b059df8c40cbc240586aeaf4f63af97f91.png"
+      }
+    },
+    {
+      "id": "3456",
+      "description": "C酱_哈哈",
+      "shortCodes": [
+        "[C酱_哈哈]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/193/3456.png",
+      "isHide": false,
+      "packageId": "193",
+      "meta": {
+        "packageName": "C酱です",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/b9a9c2d876e7f856e5fa214c3593e8c342e4fb52.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/df6123f3b74315645fe7e2a9d7cdf1a6f1ea0b66.png"
+      }
+    },
+    {
+      "id": "3457",
+      "description": "C酱_果咩捏",
+      "shortCodes": [
+        "[C酱_果咩捏]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/193/3457.png",
+      "isHide": false,
+      "packageId": "193",
+      "meta": {
+        "packageName": "C酱です",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/b9a9c2d876e7f856e5fa214c3593e8c342e4fb52.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/9403291378cef79b8b9d4efcf889bee138a57520.png"
+      }
+    },
+    {
+      "id": "3458",
+      "description": "C酱_多喝开水",
+      "shortCodes": [
+        "[C酱_多喝开水]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/193/3458.png",
+      "isHide": false,
+      "packageId": "193",
+      "meta": {
+        "packageName": "C酱です",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/b9a9c2d876e7f856e5fa214c3593e8c342e4fb52.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/7a506a58f85162e422a40da9d2108d735bd553e8.png"
+      }
+    },
+    {
+      "id": "3459",
+      "description": "C酱_打游戏",
+      "shortCodes": [
+        "[C酱_打游戏]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/193/3459.png",
+      "isHide": false,
+      "packageId": "193",
+      "meta": {
+        "packageName": "C酱です",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/b9a9c2d876e7f856e5fa214c3593e8c342e4fb52.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/4c6a872ac5baf08f830de5b58515f0456b3451c0.png"
+      }
+    },
+    {
+      "id": "3460",
+      "description": "C酱_超强",
+      "shortCodes": [
+        "[C酱_超强]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/193/3460.png",
+      "isHide": false,
+      "packageId": "193",
+      "meta": {
+        "packageName": "C酱です",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/b9a9c2d876e7f856e5fa214c3593e8c342e4fb52.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/ab0b5681521fad4049d4f501949faf652ea570ef.png"
+      }
+    },
+    {
+      "id": "3461",
+      "description": "C酱_嘻嘻",
+      "shortCodes": [
+        "[C酱_嘻嘻]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/193/3461.png",
+      "isHide": false,
+      "packageId": "193",
+      "meta": {
+        "packageName": "C酱です",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/b9a9c2d876e7f856e5fa214c3593e8c342e4fb52.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/65cf8762af542e8a72edc466b05bb1a19600dc2d.png"
+      }
+    },
+    {
+      "id": "3462",
+      "description": "C酱_秃头",
+      "shortCodes": [
+        "[C酱_秃头]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/193/3462.png",
+      "isHide": false,
+      "packageId": "193",
+      "meta": {
+        "packageName": "C酱です",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/b9a9c2d876e7f856e5fa214c3593e8c342e4fb52.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/a57e9240401b2474b8cca26c135be5fbf3b99f0a.png"
+      }
+    },
+    {
+      "id": "3463",
+      "description": "C酱_不要啊",
+      "shortCodes": [
+        "[C酱_不要啊]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/193/3463.png",
+      "isHide": false,
+      "packageId": "193",
+      "meta": {
+        "packageName": "C酱です",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/b9a9c2d876e7f856e5fa214c3593e8c342e4fb52.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/86994300b58eb3cb91fc99818dd87a691deed564.png"
+      }
+    },
+    {
+      "id": "3464",
+      "description": "C酱_啊这",
+      "shortCodes": [
+        "[C酱_啊这]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/193/3464.png",
+      "isHide": false,
+      "packageId": "193",
+      "meta": {
+        "packageName": "C酱です",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/b9a9c2d876e7f856e5fa214c3593e8c342e4fb52.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/a44c4977e0e444e10db4065aaedb2a8008ad870c.png"
+      }
+    },
+    {
+      "id": "3465",
+      "description": "C酱_KOROSUZO",
+      "shortCodes": [
+        "[C酱_KOROSUZO]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/193/3465.png",
+      "isHide": false,
+      "packageId": "193",
+      "meta": {
+        "packageName": "C酱です",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/b9a9c2d876e7f856e5fa214c3593e8c342e4fb52.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/f873c5686b51ef1ceb46be6a3e1e78b4071986fe.png"
+      }
+    },
+    {
+      "id": "3466",
+      "description": "C酱_kira",
+      "shortCodes": [
+        "[C酱_kira]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/193/3466.png",
+      "isHide": false,
+      "packageId": "193",
+      "meta": {
+        "packageName": "C酱です",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/b9a9c2d876e7f856e5fa214c3593e8c342e4fb52.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/b9a9c2d876e7f856e5fa214c3593e8c342e4fb52.png"
+      }
+    },
+    {
+      "id": "3467",
+      "description": "C酱_HSO",
+      "shortCodes": [
+        "[C酱_HSO]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/193/3467.png",
+      "isHide": false,
+      "packageId": "193",
+      "meta": {
+        "packageName": "C酱です",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/b9a9c2d876e7f856e5fa214c3593e8c342e4fb52.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/94895aeb0b46d4e9862fff73ea27c345c479eda0.png"
+      }
+    },
+    {
+      "id": "3468",
+      "description": "C酱_GKD",
+      "shortCodes": [
+        "[C酱_GKD]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/193/3468.png",
+      "isHide": false,
+      "packageId": "193",
+      "meta": {
+        "packageName": "C酱です",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/b9a9c2d876e7f856e5fa214c3593e8c342e4fb52.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/f7718fb7bed08a337d210a9be0f601bed967513d.png"
+      }
+    },
+    {
+      "id": "3469",
+      "description": "C酱_)—(",
+      "shortCodes": [
+        "[C酱_)—(]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/193/3469.png",
+      "isHide": false,
+      "packageId": "193",
+      "meta": {
+        "packageName": "C酱です",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/b9a9c2d876e7f856e5fa214c3593e8c342e4fb52.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/01649c75fe0d10d9c21f319dcf0d7316c2ac66ef.png"
+      }
+    }
+  ]
+}

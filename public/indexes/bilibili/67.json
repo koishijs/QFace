@@ -1,0 +1,157 @@
+{
+  "id": "67",
+  "name": "天选之子",
+  "coverUrl": "http://i0.hdslb.com/bfs/emote/ca49f59792512b3b03c21de332cf5c64a845c0c0.png",
+  "emojis": [
+    {
+      "id": "1661",
+      "description": "天选之子_讨厌啦",
+      "shortCodes": [
+        "[天选之子_讨厌啦]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/67/1661.png",
+      "isHide": false,
+      "packageId": "67",
+      "meta": {
+        "packageName": "天选之子",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/ca49f59792512b3b03c21de332cf5c64a845c0c0.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/b3e903684e20406ea6575d190e30d74f1ec0f4a6.png"
+      }
+    },
+    {
+      "id": "1662",
+      "description": "天选之子_心虚",
+      "shortCodes": [
+        "[天选之子_心虚]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/67/1662.png",
+      "isHide": false,
+      "packageId": "67",
+      "meta": {
+        "packageName": "天选之子",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/ca49f59792512b3b03c21de332cf5c64a845c0c0.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/142f4a7cfabc211ede93db4261cc51dbb41642c5.png"
+      }
+    },
+    {
+      "id": "1663",
+      "description": "天选之子_吃瓜",
+      "shortCodes": [
+        "[天选之子_吃瓜]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/67/1663.png",
+      "isHide": false,
+      "packageId": "67",
+      "meta": {
+        "packageName": "天选之子",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/ca49f59792512b3b03c21de332cf5c64a845c0c0.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/17202e8b7e620bfec86b9298d3b76ce85818ae3e.png"
+      }
+    },
+    {
+      "id": "1664",
+      "description": "天选之子_什么鬼",
+      "shortCodes": [
+        "[天选之子_什么鬼]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/67/1664.png",
+      "isHide": false,
+      "packageId": "67",
+      "meta": {
+        "packageName": "天选之子",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/ca49f59792512b3b03c21de332cf5c64a845c0c0.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/b6137e702d8de818b498b2623a2b042799684df6.png"
+      }
+    },
+    {
+      "id": "1665",
+      "description": "天选之子_生气气",
+      "shortCodes": [
+        "[天选之子_生气气]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/67/1665.png",
+      "isHide": false,
+      "packageId": "67",
+      "meta": {
+        "packageName": "天选之子",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/ca49f59792512b3b03c21de332cf5c64a845c0c0.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/e5f2a5e9e9ce430a5cfe5b8d22d49c0510d50750.png"
+      }
+    },
+    {
+      "id": "1666",
+      "description": "天选之子_原来如此",
+      "shortCodes": [
+        "[天选之子_原来如此]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/67/1666.png",
+      "isHide": false,
+      "packageId": "67",
+      "meta": {
+        "packageName": "天选之子",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/ca49f59792512b3b03c21de332cf5c64a845c0c0.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/88ee75211aba2d17557b50020b73f2525e781f63.png"
+      }
+    },
+    {
+      "id": "1667",
+      "description": "天选之子_我去",
+      "shortCodes": [
+        "[天选之子_我去]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/67/1667.png",
+      "isHide": false,
+      "packageId": "67",
+      "meta": {
+        "packageName": "天选之子",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/ca49f59792512b3b03c21de332cf5c64a845c0c0.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/a7887be795a2223e69d80af67499c3af3fd13618.png"
+      }
+    },
+    {
+      "id": "1668",
+      "description": "天选之子_打人了",
+      "shortCodes": [
+        "[天选之子_打人了]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/67/1668.png",
+      "isHide": false,
+      "packageId": "67",
+      "meta": {
+        "packageName": "天选之子",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/ca49f59792512b3b03c21de332cf5c64a845c0c0.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/5414e4907485a35a28ba21eb6e442da2d228a7b7.png"
+      }
+    },
+    {
+      "id": "1669",
+      "description": "天选之子_辛酸泪",
+      "shortCodes": [
+        "[天选之子_辛酸泪]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/67/1669.png",
+      "isHide": false,
+      "packageId": "67",
+      "meta": {
+        "packageName": "天选之子",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/ca49f59792512b3b03c21de332cf5c64a845c0c0.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/a3d4a1a7b9c205583c3368e2d85ceb621a004a50.png"
+      }
+    },
+    {
+      "id": "1670",
+      "description": "天选之子_拒绝",
+      "shortCodes": [
+        "[天选之子_拒绝]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/67/1670.png",
+      "isHide": false,
+      "packageId": "67",
+      "meta": {
+        "packageName": "天选之子",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/ca49f59792512b3b03c21de332cf5c64a845c0c0.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/9b14f76be037b7c10fa864a0b15c48ee701ee954.png"
+      }
+    }
+  ]
+}

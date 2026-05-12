@@ -1,0 +1,172 @@
+{
+  "id": "230",
+  "name": "BW2021",
+  "coverUrl": "http://i0.hdslb.com/bfs/emote/707eec4117ff53f6a87c007b27dd81cf82bce430.png",
+  "emojis": [
+    {
+      "id": "4031",
+      "description": "BW2021_KSWL",
+      "shortCodes": [
+        "[BW2021_KSWL]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/230/4031.png",
+      "isHide": false,
+      "packageId": "230",
+      "meta": {
+        "packageName": "BW2021",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/707eec4117ff53f6a87c007b27dd81cf82bce430.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/5da7b5c31b0cd0ebaeaca4a3952d81e04fd1d9fd.png"
+      }
+    },
+    {
+      "id": "4032",
+      "description": "BW2021_冲",
+      "shortCodes": [
+        "[BW2021_冲]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/230/4032.png",
+      "isHide": false,
+      "packageId": "230",
+      "meta": {
+        "packageName": "BW2021",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/707eec4117ff53f6a87c007b27dd81cf82bce430.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/b33e24ff262ea69ce625338f5b5f898627ad8e41.png"
+      }
+    },
+    {
+      "id": "4033",
+      "description": "BW2021_疯狂打call",
+      "shortCodes": [
+        "[BW2021_疯狂打call]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/230/4033.png",
+      "isHide": false,
+      "packageId": "230",
+      "meta": {
+        "packageName": "BW2021",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/707eec4117ff53f6a87c007b27dd81cf82bce430.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/901f5897333be2cdb7424298ad348960ed3e5b44.png"
+      }
+    },
+    {
+      "id": "4034",
+      "description": "BW2021_买买买",
+      "shortCodes": [
+        "[BW2021_买买买]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/230/4034.png",
+      "isHide": false,
+      "packageId": "230",
+      "meta": {
+        "packageName": "BW2021",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/707eec4117ff53f6a87c007b27dd81cf82bce430.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/9be2c3259641cb6c2dd31b4a55ad269f6afc7a5b.png"
+      }
+    },
+    {
+      "id": "4035",
+      "description": "BW2021_搞什么飞机",
+      "shortCodes": [
+        "[BW2021_搞什么飞机]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/230/4035.png",
+      "isHide": false,
+      "packageId": "230",
+      "meta": {
+        "packageName": "BW2021",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/707eec4117ff53f6a87c007b27dd81cf82bce430.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/cc4f855691a2acc2ac9c5b493d0e274b0f610d71.png"
+      }
+    },
+    {
+      "id": "4036",
+      "description": "BW2021_开始表演",
+      "shortCodes": [
+        "[BW2021_开始表演]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/230/4036.png",
+      "isHide": false,
+      "packageId": "230",
+      "meta": {
+        "packageName": "BW2021",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/707eec4117ff53f6a87c007b27dd81cf82bce430.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/a53593c47b060397af86670d92f7a169ac6e225f.png"
+      }
+    },
+    {
+      "id": "4037",
+      "description": "BW2021_燃起来了",
+      "shortCodes": [
+        "[BW2021_燃起来了]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/230/4037.png",
+      "isHide": false,
+      "packageId": "230",
+      "meta": {
+        "packageName": "BW2021",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/707eec4117ff53f6a87c007b27dd81cf82bce430.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/1952de12840305ff16cbcca487a02ba8290d695a.png"
+      }
+    },
+    {
+      "id": "4038",
+      "description": "BW2021_三连走你",
+      "shortCodes": [
+        "[BW2021_三连走你]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/230/4038.png",
+      "isHide": false,
+      "packageId": "230",
+      "meta": {
+        "packageName": "BW2021",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/707eec4117ff53f6a87c007b27dd81cf82bce430.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/ab9d53e6bc1952be149b84a26a9335d8bd21397e.png"
+      }
+    },
+    {
+      "id": "4039",
+      "description": "BW2021_呜呜呜",
+      "shortCodes": [
+        "[BW2021_呜呜呜]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/230/4039.png",
+      "isHide": false,
+      "packageId": "230",
+      "meta": {
+        "packageName": "BW2021",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/707eec4117ff53f6a87c007b27dd81cf82bce430.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/3c49e64f07fcbcc2de408cac256e6835561237b7.png"
+      }
+    },
+    {
+      "id": "4040",
+      "description": "BW2021_向大佬低头",
+      "shortCodes": [
+        "[BW2021_向大佬低头]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/230/4040.png",
+      "isHide": false,
+      "packageId": "230",
+      "meta": {
+        "packageName": "BW2021",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/707eec4117ff53f6a87c007b27dd81cf82bce430.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/3eaa6fc734e22fae6f06c12bfb325f371218604d.png"
+      }
+    },
+    {
+      "id": "4041",
+      "description": "BW2021_真是绝了",
+      "shortCodes": [
+        "[BW2021_真是绝了]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/230/4041.png",
+      "isHide": false,
+      "packageId": "230",
+      "meta": {
+        "packageName": "BW2021",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/707eec4117ff53f6a87c007b27dd81cf82bce430.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/f1f8a062b4dfbbb744a5c15578d2dd69e528167c.png"
+      }
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "id": "100",
+  "name": "BW2020",
+  "coverUrl": "http://i0.hdslb.com/bfs/emote/a8703466ee009d8da60167eed2af199a1562d742.png",
+  "emojis": [
+    {
+      "id": "2169",
+      "description": "BW2020_欢迎",
+      "shortCodes": [
+        "[BW2020_欢迎]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/100/2169.png",
+      "isHide": false,
+      "packageId": "100",
+      "meta": {
+        "packageName": "BW2020",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/a8703466ee009d8da60167eed2af199a1562d742.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/ba2b81cdf3118c703c1ad4ef7e424087a33618cf.png"
+      }
+    },
+    {
+      "id": "2170",
+      "description": "BW2020_请",
+      "shortCodes": [
+        "[BW2020_请]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/100/2170.png",
+      "isHide": false,
+      "packageId": "100",
+      "meta": {
+        "packageName": "BW2020",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/a8703466ee009d8da60167eed2af199a1562d742.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/d775ba5c6f6f58ee272c869a58dd7dae1d1e9355.png"
+      }
+    },
+    {
+      "id": "2171",
+      "description": "BW2020_你币没了",
+      "shortCodes": [
+        "[BW2020_你币没了]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/100/2171.png",
+      "isHide": false,
+      "packageId": "100",
+      "meta": {
+        "packageName": "BW2020",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/a8703466ee009d8da60167eed2af199a1562d742.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/b89e1742ac98ecdc37dbe08b3f01459ba83ca116.png"
+      }
+    },
+    {
+      "id": "2172",
+      "description": "BW2020_你号没了",
+      "shortCodes": [
+        "[BW2020_你号没了]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/100/2172.png",
+      "isHide": false,
+      "packageId": "100",
+      "meta": {
+        "packageName": "BW2020",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/a8703466ee009d8da60167eed2af199a1562d742.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/46031209d17352d86821d5eab36e8a82c6e87e1c.png"
+      }
+    },
+    {
+      "id": "2173",
+      "description": "BW2020_棒棒哦",
+      "shortCodes": [
+        "[BW2020_棒棒哦]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/100/2173.png",
+      "isHide": false,
+      "packageId": "100",
+      "meta": {
+        "packageName": "BW2020",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/a8703466ee009d8da60167eed2af199a1562d742.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/9c88ffb02d2e2904ca682871584f3b3a696c2348.png"
+      }
+    },
+    {
+      "id": "2174",
+      "description": "BW2020_我全都要",
+      "shortCodes": [
+        "[BW2020_我全都要]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/100/2174.png",
+      "isHide": false,
+      "packageId": "100",
+      "meta": {
+        "packageName": "BW2020",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/a8703466ee009d8da60167eed2af199a1562d742.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/36408633cf896e73451b59ea1c87382aedfa1bd6.png"
+      }
+    },
+    {
+      "id": "2175",
+      "description": "BW2020_贫穷",
+      "shortCodes": [
+        "[BW2020_贫穷]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/100/2175.png",
+      "isHide": false,
+      "packageId": "100",
+      "meta": {
+        "packageName": "BW2020",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/a8703466ee009d8da60167eed2af199a1562d742.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/ea42044e11e949ff221c7746db766e75378ac9eb.png"
+      }
+    },
+    {
+      "id": "2176",
+      "description": "BW2020_期待",
+      "shortCodes": [
+        "[BW2020_期待]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/100/2176.png",
+      "isHide": false,
+      "packageId": "100",
+      "meta": {
+        "packageName": "BW2020",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/a8703466ee009d8da60167eed2af199a1562d742.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/9ce557b7630660ea80b313f0acfcae8b12c12114.png"
+      }
+    },
+    {
+      "id": "2177",
+      "description": "BW2020_我太难了",
+      "shortCodes": [
+        "[BW2020_我太难了]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/100/2177.png",
+      "isHide": false,
+      "packageId": "100",
+      "meta": {
+        "packageName": "BW2020",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/a8703466ee009d8da60167eed2af199a1562d742.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/efb76d2fa70ee51382f90f239fe65a98cc13c5b5.png"
+      }
+    },
+    {
+      "id": "2178",
+      "description": "BW2020_震惊",
+      "shortCodes": [
+        "[BW2020_震惊]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/100/2178.png",
+      "isHide": false,
+      "packageId": "100",
+      "meta": {
+        "packageName": "BW2020",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/a8703466ee009d8da60167eed2af199a1562d742.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/8a1eef67bd3ede9bc29fbd76e9a8df091403d108.png"
+      }
+    }
+  ]
+}

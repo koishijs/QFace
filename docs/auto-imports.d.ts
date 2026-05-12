@@ -6,6 +6,7 @@
 // biome-ignore lint: disable
 export {}
 declare global {
+  const AssetType: typeof import('./types/UnifiedEmoji')['AssetType']
   const Button: typeof import('./components/ui/button/index')['Button']
   const Context: typeof import('cordis')['Context']
   const EffectScope: typeof import('vue')['EffectScope']
@@ -14,6 +15,8 @@ declare global {
   const acceptHMRUpdate: typeof import('pinia')['acceptHMRUpdate']
   const asyncComputed: typeof import('@vueuse/core')['asyncComputed']
   const autoResetRef: typeof import('@vueuse/core')['autoResetRef']
+  const biliEmojiToUnified: typeof import('./types/UnifiedEmoji')['biliEmojiToUnified']
+  const biliListToPackages: typeof import('./types/UnifiedEmoji')['biliListToPackages']
   const buttonVariants: typeof import('./components/ui/button/index')['buttonVariants']
   const cn: typeof import('./utils/shadcn')['cn']
   const computed: typeof import('vue')['computed']
@@ -90,6 +93,8 @@ declare global {
   const pausableWatch: typeof import('@vueuse/core')['pausableWatch']
   const provide: typeof import('vue')['provide']
   const provideLocal: typeof import('@vueuse/core')['provideLocal']
+  const qqEmojiToUnified: typeof import('./types/UnifiedEmoji')['qqEmojiToUnified']
+  const qqListToUnified: typeof import('./types/UnifiedEmoji')['qqListToUnified']
   const reactify: typeof import('@vueuse/core')['reactify']
   const reactifyObject: typeof import('@vueuse/core')['reactifyObject']
   const reactive: typeof import('vue')['reactive']
@@ -331,6 +336,9 @@ declare global {
   export type { QqSysEmojiAssetType, QqSysEmojiItem, QqSysEmojiGroup, QQSysEmojiConfig, QqSysEmojiAsset, QqSysEmojiWithAssets, QqNTSystemEmojiItem } from './types/QqSysEmoji'
   import('./types/QqSysEmoji')
   // @ts-ignore
+  export type { AssetType, Asset, UnifiedEmoji, UnifiedEmojiPackage, UnifiedEmojiPackageMeta, QQAsset, QQEmojiRaw, BiliEmojiRaw } from './types/UnifiedEmoji'
+  import('./types/UnifiedEmoji')
+  // @ts-ignore
   export type { WechatNewEmojiItem, WechatNewEmojiConfig } from './types/WechatNewEmoji'
   import('./types/WechatNewEmoji')
   // @ts-ignore
@@ -343,11 +351,14 @@ import { UnwrapRef } from 'vue'
 declare module 'vue' {
   interface GlobalComponents {}
   interface ComponentCustomProperties {
+    readonly AssetType: UnwrapRef<typeof import('./types/UnifiedEmoji')['AssetType']>
     readonly EffectScope: UnwrapRef<typeof import('vue')['EffectScope']>
     readonly QqSysEmojiAssetType: UnwrapRef<typeof import('./types/QqSysEmoji')['QqSysEmojiAssetType']>
     readonly acceptHMRUpdate: UnwrapRef<typeof import('pinia')['acceptHMRUpdate']>
     readonly asyncComputed: UnwrapRef<typeof import('@vueuse/core')['asyncComputed']>
     readonly autoResetRef: UnwrapRef<typeof import('@vueuse/core')['autoResetRef']>
+    readonly biliEmojiToUnified: UnwrapRef<typeof import('./types/UnifiedEmoji')['biliEmojiToUnified']>
+    readonly biliListToPackages: UnwrapRef<typeof import('./types/UnifiedEmoji')['biliListToPackages']>
     readonly cn: UnwrapRef<typeof import('./utils/shadcn')['cn']>
     readonly computed: UnwrapRef<typeof import('vue')['computed']>
     readonly computedAsync: UnwrapRef<typeof import('@vueuse/core')['computedAsync']>
@@ -422,6 +433,8 @@ declare module 'vue' {
     readonly pausableWatch: UnwrapRef<typeof import('@vueuse/core')['pausableWatch']>
     readonly provide: UnwrapRef<typeof import('vue')['provide']>
     readonly provideLocal: UnwrapRef<typeof import('@vueuse/core')['provideLocal']>
+    readonly qqEmojiToUnified: UnwrapRef<typeof import('./types/UnifiedEmoji')['qqEmojiToUnified']>
+    readonly qqListToUnified: UnwrapRef<typeof import('./types/UnifiedEmoji')['qqListToUnified']>
     readonly reactify: UnwrapRef<typeof import('@vueuse/core')['reactify']>
     readonly reactifyObject: UnwrapRef<typeof import('@vueuse/core')['reactifyObject']>
     readonly reactive: UnwrapRef<typeof import('vue')['reactive']>

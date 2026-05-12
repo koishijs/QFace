@@ -1,0 +1,307 @@
+{
+  "id": "480",
+  "name": "梦音茶糯",
+  "coverUrl": "http://i0.hdslb.com/bfs/emote/30c0b4605aa3299a84d869bd1644472e6325ddf1.png",
+  "emojis": [
+    {
+      "id": "8491",
+      "description": "梦音茶糯_？？？",
+      "shortCodes": [
+        "[梦音茶糯_？？？]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/480/8491.png",
+      "isHide": false,
+      "packageId": "480",
+      "meta": {
+        "packageName": "梦音茶糯",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/30c0b4605aa3299a84d869bd1644472e6325ddf1.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/b2a8e785afb06a133055d356c8464814089de18e.png"
+      }
+    },
+    {
+      "id": "8492",
+      "description": "梦音茶糯_mua",
+      "shortCodes": [
+        "[梦音茶糯_mua]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/480/8492.png",
+      "isHide": false,
+      "packageId": "480",
+      "meta": {
+        "packageName": "梦音茶糯",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/30c0b4605aa3299a84d869bd1644472e6325ddf1.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/b563c3e656755eea2329ed780ee3f543479d81c2.png"
+      }
+    },
+    {
+      "id": "8493",
+      "description": "梦音茶糯_NO",
+      "shortCodes": [
+        "[梦音茶糯_NO]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/480/8493.png",
+      "isHide": false,
+      "packageId": "480",
+      "meta": {
+        "packageName": "梦音茶糯",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/30c0b4605aa3299a84d869bd1644472e6325ddf1.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/d912463e04d9b27dcbb29c9ad379d721a8c641ef.png"
+      }
+    },
+    {
+      "id": "8494",
+      "description": "梦音茶糯_绷不住了",
+      "shortCodes": [
+        "[梦音茶糯_绷不住了]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/480/8494.png",
+      "isHide": false,
+      "packageId": "480",
+      "meta": {
+        "packageName": "梦音茶糯",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/30c0b4605aa3299a84d869bd1644472e6325ddf1.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/31f3038141244d280aa9b5d61d4e5e0c180a49f0.png"
+      }
+    },
+    {
+      "id": "8495",
+      "description": "梦音茶糯_超凶",
+      "shortCodes": [
+        "[梦音茶糯_超凶]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/480/8495.png",
+      "isHide": false,
+      "packageId": "480",
+      "meta": {
+        "packageName": "梦音茶糯",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/30c0b4605aa3299a84d869bd1644472e6325ddf1.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/0c7b671c08dec6241caa77ba7ffaf49267f0245b.png"
+      }
+    },
+    {
+      "id": "8496",
+      "description": "梦音茶糯_吃撑",
+      "shortCodes": [
+        "[梦音茶糯_吃撑]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/480/8496.png",
+      "isHide": false,
+      "packageId": "480",
+      "meta": {
+        "packageName": "梦音茶糯",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/30c0b4605aa3299a84d869bd1644472e6325ddf1.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/006973cbdb619c6f9cb77c622340b313d61f7014.png"
+      }
+    },
+    {
+      "id": "8497",
+      "description": "梦音茶糯_恭喜",
+      "shortCodes": [
+        "[梦音茶糯_恭喜]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/480/8497.png",
+      "isHide": false,
+      "packageId": "480",
+      "meta": {
+        "packageName": "梦音茶糯",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/30c0b4605aa3299a84d869bd1644472e6325ddf1.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/54d35043551c9699a51056b1dfe18c185bf1759d.png"
+      }
+    },
+    {
+      "id": "8498",
+      "description": "梦音茶糯_好听",
+      "shortCodes": [
+        "[梦音茶糯_好听]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/480/8498.png",
+      "isHide": false,
+      "packageId": "480",
+      "meta": {
+        "packageName": "梦音茶糯",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/30c0b4605aa3299a84d869bd1644472e6325ddf1.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/661a2b6f7dcbc4948a04fb8658a620e641cea235.png"
+      }
+    },
+    {
+      "id": "8499",
+      "description": "梦音茶糯_好耶",
+      "shortCodes": [
+        "[梦音茶糯_好耶]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/480/8499.png",
+      "isHide": false,
+      "packageId": "480",
+      "meta": {
+        "packageName": "梦音茶糯",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/30c0b4605aa3299a84d869bd1644472e6325ddf1.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/7f029fcea545ec887b89813e18bcdfa2a80f5887.png"
+      }
+    },
+    {
+      "id": "8500",
+      "description": "梦音茶糯_泪目",
+      "shortCodes": [
+        "[梦音茶糯_泪目]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/480/8500.png",
+      "isHide": false,
+      "packageId": "480",
+      "meta": {
+        "packageName": "梦音茶糯",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/30c0b4605aa3299a84d869bd1644472e6325ddf1.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/89f9a9582a9c2d787ed98703e9cd198ecd9624c5.png"
+      }
+    },
+    {
+      "id": "8501",
+      "description": "梦音茶糯_摸鱼",
+      "shortCodes": [
+        "[梦音茶糯_摸鱼]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/480/8501.png",
+      "isHide": false,
+      "packageId": "480",
+      "meta": {
+        "packageName": "梦音茶糯",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/30c0b4605aa3299a84d869bd1644472e6325ddf1.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/4b53c309aaf39c65fac10806f31b02fb7da211e5.png"
+      }
+    },
+    {
+      "id": "8502",
+      "description": "梦音茶糯_期待",
+      "shortCodes": [
+        "[梦音茶糯_期待]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/480/8502.png",
+      "isHide": false,
+      "packageId": "480",
+      "meta": {
+        "packageName": "梦音茶糯",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/30c0b4605aa3299a84d869bd1644472e6325ddf1.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/fa7257290d3d1e78d42247c37bdb1e6c0da7d6f6.png"
+      }
+    },
+    {
+      "id": "8503",
+      "description": "梦音茶糯_三连了",
+      "shortCodes": [
+        "[梦音茶糯_三连了]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/480/8503.png",
+      "isHide": false,
+      "packageId": "480",
+      "meta": {
+        "packageName": "梦音茶糯",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/30c0b4605aa3299a84d869bd1644472e6325ddf1.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/799ba56356d46c1b1952fac0d77b4c2b5ea56e5a.png"
+      }
+    },
+    {
+      "id": "8504",
+      "description": "梦音茶糯_晚安",
+      "shortCodes": [
+        "[梦音茶糯_晚安]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/480/8504.png",
+      "isHide": false,
+      "packageId": "480",
+      "meta": {
+        "packageName": "梦音茶糯",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/30c0b4605aa3299a84d869bd1644472e6325ddf1.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/c809e60e670bda636953744bd466df7f5f76bfc2.png"
+      }
+    },
+    {
+      "id": "8505",
+      "description": "梦音茶糯_无语",
+      "shortCodes": [
+        "[梦音茶糯_无语]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/480/8505.png",
+      "isHide": false,
+      "packageId": "480",
+      "meta": {
+        "packageName": "梦音茶糯",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/30c0b4605aa3299a84d869bd1644472e6325ddf1.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/c02943d17c6c8bd525c739a956dd4439aeb56761.png"
+      }
+    },
+    {
+      "id": "8506",
+      "description": "梦音茶糯_屑！",
+      "shortCodes": [
+        "[梦音茶糯_屑！]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/480/8506.png",
+      "isHide": false,
+      "packageId": "480",
+      "meta": {
+        "packageName": "梦音茶糯",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/30c0b4605aa3299a84d869bd1644472e6325ddf1.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/03e405be8837f92039b132b814d38df416f06d9e.png"
+      }
+    },
+    {
+      "id": "8507",
+      "description": "梦音茶糯_辛苦了",
+      "shortCodes": [
+        "[梦音茶糯_辛苦了]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/480/8507.png",
+      "isHide": false,
+      "packageId": "480",
+      "meta": {
+        "packageName": "梦音茶糯",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/30c0b4605aa3299a84d869bd1644472e6325ddf1.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/d530bf4a153e48b04256fe80bced881f02963715.png"
+      }
+    },
+    {
+      "id": "8508",
+      "description": "梦音茶糯_摇晃菇",
+      "shortCodes": [
+        "[梦音茶糯_摇晃菇]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/480/8508.png",
+      "isHide": false,
+      "packageId": "480",
+      "meta": {
+        "packageName": "梦音茶糯",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/30c0b4605aa3299a84d869bd1644472e6325ddf1.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/1bcfeeaf6d9c14972cc1f5acba9078a243da86e7.png"
+      }
+    },
+    {
+      "id": "8509",
+      "description": "梦音茶糯_优雅",
+      "shortCodes": [
+        "[梦音茶糯_优雅]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/480/8509.png",
+      "isHide": false,
+      "packageId": "480",
+      "meta": {
+        "packageName": "梦音茶糯",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/30c0b4605aa3299a84d869bd1644472e6325ddf1.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/a0de3405a3f1d84c9175838661f4ce4086416472.png"
+      }
+    },
+    {
+      "id": "8510",
+      "description": "梦音茶糯_震撼",
+      "shortCodes": [
+        "[梦音茶糯_震撼]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/480/8510.png",
+      "isHide": false,
+      "packageId": "480",
+      "meta": {
+        "packageName": "梦音茶糯",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/30c0b4605aa3299a84d869bd1644472e6325ddf1.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/08bff44b9a69f65f42daa5b0a0fc52f147695966.png"
+      }
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "id": "289",
+  "name": "RNG战队",
+  "coverUrl": "http://i0.hdslb.com/bfs/emote/9adef44a4820ee70d6b56bc477e42c2f1f20af53.png",
+  "emojis": [
+    {
+      "id": "4792",
+      "description": "RNG_出征",
+      "shortCodes": [
+        "[RNG_出征]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/289/4792.png",
+      "isHide": false,
+      "packageId": "289",
+      "meta": {
+        "packageName": "RNG战队",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/9adef44a4820ee70d6b56bc477e42c2f1f20af53.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/e579dfd2c0cdfa32a2caa479c4e1c63d8e906dd0.png"
+      }
+    },
+    {
+      "id": "4793",
+      "description": "RNG_点点",
+      "shortCodes": [
+        "[RNG_点点]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/289/4793.png",
+      "isHide": false,
+      "packageId": "289",
+      "meta": {
+        "packageName": "RNG战队",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/9adef44a4820ee70d6b56bc477e42c2f1f20af53.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/2e5dcb9de9296b3698a79dfdad9acf7c261dcd9a.png"
+      }
+    },
+    {
+      "id": "4794",
+      "description": "RNG_666",
+      "shortCodes": [
+        "[RNG_666]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/289/4794.png",
+      "isHide": false,
+      "packageId": "289",
+      "meta": {
+        "packageName": "RNG战队",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/9adef44a4820ee70d6b56bc477e42c2f1f20af53.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/fae966b1ddb891e547fac1b19470624f5df35e25.png"
+      }
+    },
+    {
+      "id": "4795",
+      "description": "RNG_牛",
+      "shortCodes": [
+        "[RNG_牛]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/289/4795.png",
+      "isHide": false,
+      "packageId": "289",
+      "meta": {
+        "packageName": "RNG战队",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/9adef44a4820ee70d6b56bc477e42c2f1f20af53.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/0e0c2383854838ef5a564fa77119a86d3e41a7d1.png"
+      }
+    },
+    {
+      "id": "4796",
+      "description": "RNG_哭哭",
+      "shortCodes": [
+        "[RNG_哭哭]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/289/4796.png",
+      "isHide": false,
+      "packageId": "289",
+      "meta": {
+        "packageName": "RNG战队",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/9adef44a4820ee70d6b56bc477e42c2f1f20af53.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/e0afca8c038b8112a0b453618c07873a6b4fadfb.png"
+      }
+    },
+    {
+      "id": "4797",
+      "description": "RNG_集合",
+      "shortCodes": [
+        "[RNG_集合]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/289/4797.png",
+      "isHide": false,
+      "packageId": "289",
+      "meta": {
+        "packageName": "RNG战队",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/9adef44a4820ee70d6b56bc477e42c2f1f20af53.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/6eaf8084df74ff5bb35eb6f0146a10a46d59095e.png"
+      }
+    },
+    {
+      "id": "4798",
+      "description": "RNG_荣光加冕",
+      "shortCodes": [
+        "[RNG_荣光加冕]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/289/4798.png",
+      "isHide": false,
+      "packageId": "289",
+      "meta": {
+        "packageName": "RNG战队",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/9adef44a4820ee70d6b56bc477e42c2f1f20af53.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/ab9d4f327feb1cdbf28a54f9048feab5f28bf05f.png"
+      }
+    },
+    {
+      "id": "4799",
+      "description": "RNG_庆祝",
+      "shortCodes": [
+        "[RNG_庆祝]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/289/4799.png",
+      "isHide": false,
+      "packageId": "289",
+      "meta": {
+        "packageName": "RNG战队",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/9adef44a4820ee70d6b56bc477e42c2f1f20af53.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/20f79198047a498c97d3980db3b56dc7272e7932.png"
+      }
+    },
+    {
+      "id": "4800",
+      "description": "RNG_冲",
+      "shortCodes": [
+        "[RNG_冲]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/289/4800.png",
+      "isHide": false,
+      "packageId": "289",
+      "meta": {
+        "packageName": "RNG战队",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/9adef44a4820ee70d6b56bc477e42c2f1f20af53.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/fe7f6aef8e95a8407f4a54aeaf50f0547fd42762.png"
+      }
+    },
+    {
+      "id": "4801",
+      "description": "RNG_RNG",
+      "shortCodes": [
+        "[RNG_RNG]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/289/4801.png",
+      "isHide": false,
+      "packageId": "289",
+      "meta": {
+        "packageName": "RNG战队",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/9adef44a4820ee70d6b56bc477e42c2f1f20af53.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/9adef44a4820ee70d6b56bc477e42c2f1f20af53.png"
+      }
+    }
+  ]
+}

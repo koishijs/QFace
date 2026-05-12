@@ -1,0 +1,157 @@
+{
+  "id": "175",
+  "name": "约战·白之女王",
+  "coverUrl": "http://i0.hdslb.com/bfs/emote/0ee47379418bc7fc47ee493870cbcb08720ffb26.png",
+  "emojis": [
+    {
+      "id": "3192",
+      "description": "白之女王_傲慢",
+      "shortCodes": [
+        "[白之女王_傲慢]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/175/3192.png",
+      "isHide": false,
+      "packageId": "175",
+      "meta": {
+        "packageName": "约战·白之女王",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/0ee47379418bc7fc47ee493870cbcb08720ffb26.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/cc010d128dae801e341360a27ec1c2c3d59c3306.png"
+      }
+    },
+    {
+      "id": "3193",
+      "description": "白之女王_生气",
+      "shortCodes": [
+        "[白之女王_生气]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/175/3193.png",
+      "isHide": false,
+      "packageId": "175",
+      "meta": {
+        "packageName": "约战·白之女王",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/0ee47379418bc7fc47ee493870cbcb08720ffb26.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/ba55daccab191b266ba9b1aadfb3812bbfac8351.png"
+      }
+    },
+    {
+      "id": "3194",
+      "description": "白之女王_哼",
+      "shortCodes": [
+        "[白之女王_哼]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/175/3194.png",
+      "isHide": false,
+      "packageId": "175",
+      "meta": {
+        "packageName": "约战·白之女王",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/0ee47379418bc7fc47ee493870cbcb08720ffb26.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/f1ba3779456316bbdc110c5b1815fe2418ef4346.png"
+      }
+    },
+    {
+      "id": "3195",
+      "description": "白之女王_吐血",
+      "shortCodes": [
+        "[白之女王_吐血]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/175/3195.png",
+      "isHide": false,
+      "packageId": "175",
+      "meta": {
+        "packageName": "约战·白之女王",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/0ee47379418bc7fc47ee493870cbcb08720ffb26.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/d1824b5443480c3ba1fff67ee9a948f17535979d.png"
+      }
+    },
+    {
+      "id": "3196",
+      "description": "白之女王_害羞",
+      "shortCodes": [
+        "[白之女王_害羞]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/175/3196.png",
+      "isHide": false,
+      "packageId": "175",
+      "meta": {
+        "packageName": "约战·白之女王",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/0ee47379418bc7fc47ee493870cbcb08720ffb26.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/9b6896337b3beeecff32011140b1b21aba42b2ed.png"
+      }
+    },
+    {
+      "id": "3197",
+      "description": "白之女王_害怕",
+      "shortCodes": [
+        "[白之女王_害怕]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/175/3197.png",
+      "isHide": false,
+      "packageId": "175",
+      "meta": {
+        "packageName": "约战·白之女王",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/0ee47379418bc7fc47ee493870cbcb08720ffb26.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/c72c2e1d213acf55ffc0758eb5ab65c286386a39.png"
+      }
+    },
+    {
+      "id": "3198",
+      "description": "白之女王_点赞",
+      "shortCodes": [
+        "[白之女王_点赞]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/175/3198.png",
+      "isHide": false,
+      "packageId": "175",
+      "meta": {
+        "packageName": "约战·白之女王",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/0ee47379418bc7fc47ee493870cbcb08720ffb26.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/54d6d6f6f20ddd060360f6bc4d0ee6f8df942007.png"
+      }
+    },
+    {
+      "id": "3199",
+      "description": "白之女王_无语",
+      "shortCodes": [
+        "[白之女王_无语]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/175/3199.png",
+      "isHide": false,
+      "packageId": "175",
+      "meta": {
+        "packageName": "约战·白之女王",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/0ee47379418bc7fc47ee493870cbcb08720ffb26.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/6c36c45e9db1dd5838b46aa40f49709b4930511d.png"
+      }
+    },
+    {
+      "id": "3200",
+      "description": "白之女王_崇拜",
+      "shortCodes": [
+        "[白之女王_崇拜]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/175/3200.png",
+      "isHide": false,
+      "packageId": "175",
+      "meta": {
+        "packageName": "约战·白之女王",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/0ee47379418bc7fc47ee493870cbcb08720ffb26.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/04a806b8ea72164cf77278eea7f017f6e8a8e949.png"
+      }
+    },
+    {
+      "id": "3201",
+      "description": "白之女王_疑惑",
+      "shortCodes": [
+        "[白之女王_疑惑]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/175/3201.png",
+      "isHide": false,
+      "packageId": "175",
+      "meta": {
+        "packageName": "约战·白之女王",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/0ee47379418bc7fc47ee493870cbcb08720ffb26.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/e0b6a2bddce86d764829f2854d3673a068bcf507.png"
+      }
+    }
+  ]
+}

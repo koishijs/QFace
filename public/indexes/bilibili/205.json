@@ -1,0 +1,157 @@
+{
+  "id": "205",
+  "name": "星座系列：金牛座",
+  "coverUrl": "http://i0.hdslb.com/bfs/emote/46320ca728a5ef6f85c08b0d160a69b16914490c.png",
+  "emojis": [
+    {
+      "id": "3631",
+      "description": "金牛座_按住",
+      "shortCodes": [
+        "[金牛座_按住]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/205/3631.png",
+      "isHide": false,
+      "packageId": "205",
+      "meta": {
+        "packageName": "星座系列：金牛座",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/46320ca728a5ef6f85c08b0d160a69b16914490c.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/f20a0e618b9dd4a05efd42a3437b180148a0397a.png"
+      }
+    },
+    {
+      "id": "3632",
+      "description": "金牛座_担忧",
+      "shortCodes": [
+        "[金牛座_担忧]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/205/3632.png",
+      "isHide": false,
+      "packageId": "205",
+      "meta": {
+        "packageName": "星座系列：金牛座",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/46320ca728a5ef6f85c08b0d160a69b16914490c.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/e224a9417a34df8d42a438d722d7ea0b9a1ee039.png"
+      }
+    },
+    {
+      "id": "3633",
+      "description": "金牛座_富有",
+      "shortCodes": [
+        "[金牛座_富有]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/205/3633.png",
+      "isHide": false,
+      "packageId": "205",
+      "meta": {
+        "packageName": "星座系列：金牛座",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/46320ca728a5ef6f85c08b0d160a69b16914490c.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/506625bcc0e8480f9f1a3ed1629e6c87e90ab962.png"
+      }
+    },
+    {
+      "id": "3634",
+      "description": "金牛座_干饭魂",
+      "shortCodes": [
+        "[金牛座_干饭魂]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/205/3634.png",
+      "isHide": false,
+      "packageId": "205",
+      "meta": {
+        "packageName": "星座系列：金牛座",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/46320ca728a5ef6f85c08b0d160a69b16914490c.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/39580d1bcd25ab786d9e264238cddb0b433b1fb3.png"
+      }
+    },
+    {
+      "id": "3635",
+      "description": "金牛座_靠谱",
+      "shortCodes": [
+        "[金牛座_靠谱]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/205/3635.png",
+      "isHide": false,
+      "packageId": "205",
+      "meta": {
+        "packageName": "星座系列：金牛座",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/46320ca728a5ef6f85c08b0d160a69b16914490c.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/b3cb3d588e3a90fd99a981916ebd4fb9e95873a2.png"
+      }
+    },
+    {
+      "id": "3636",
+      "description": "金牛座_没钱了",
+      "shortCodes": [
+        "[金牛座_没钱了]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/205/3636.png",
+      "isHide": false,
+      "packageId": "205",
+      "meta": {
+        "packageName": "星座系列：金牛座",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/46320ca728a5ef6f85c08b0d160a69b16914490c.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/7112a4f82ad71639ad98293df43dca0f91c03711.png"
+      }
+    },
+    {
+      "id": "3637",
+      "description": "金牛座_牛年大吉",
+      "shortCodes": [
+        "[金牛座_牛年大吉]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/205/3637.png",
+      "isHide": false,
+      "packageId": "205",
+      "meta": {
+        "packageName": "星座系列：金牛座",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/46320ca728a5ef6f85c08b0d160a69b16914490c.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/7bc180a1f76fe3cc6c2add913cd513b45b55ae45.png"
+      }
+    },
+    {
+      "id": "3638",
+      "description": "金牛座_贴贴",
+      "shortCodes": [
+        "[金牛座_贴贴]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/205/3638.png",
+      "isHide": false,
+      "packageId": "205",
+      "meta": {
+        "packageName": "星座系列：金牛座",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/46320ca728a5ef6f85c08b0d160a69b16914490c.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/5ab4efdfc5202fc6a55e83fa3003360398cc80d1.png"
+      }
+    },
+    {
+      "id": "3639",
+      "description": "金牛座_我寻思一下",
+      "shortCodes": [
+        "[金牛座_我寻思一下]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/205/3639.png",
+      "isHide": false,
+      "packageId": "205",
+      "meta": {
+        "packageName": "星座系列：金牛座",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/46320ca728a5ef6f85c08b0d160a69b16914490c.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/f958600ce1bd50176322b42e97b25d27a53eff41.png"
+      }
+    },
+    {
+      "id": "3640",
+      "description": "金牛座_爷青回",
+      "shortCodes": [
+        "[金牛座_爷青回]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/205/3640.png",
+      "isHide": false,
+      "packageId": "205",
+      "meta": {
+        "packageName": "星座系列：金牛座",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/46320ca728a5ef6f85c08b0d160a69b16914490c.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/f9b42bc1b9131de4cd7b06ae4132a42ca163f06a.png"
+      }
+    }
+  ]
+}

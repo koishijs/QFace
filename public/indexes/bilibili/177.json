@@ -1,0 +1,157 @@
+{
+  "id": "177",
+  "name": "星座系列：双鱼座",
+  "coverUrl": "http://i0.hdslb.com/bfs/emote/b03bb87b22853ca311a99fecde5895cf6e4b94a4.png",
+  "emojis": [
+    {
+      "id": "3224",
+      "description": "双鱼座_Zzz",
+      "shortCodes": [
+        "[双鱼座_Zzz]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/177/3224.png",
+      "isHide": false,
+      "packageId": "177",
+      "meta": {
+        "packageName": "星座系列：双鱼座",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/b03bb87b22853ca311a99fecde5895cf6e4b94a4.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/f5d49819bf9d7903c6093657bfa5fce624c2b9d9.png"
+      }
+    },
+    {
+      "id": "3225",
+      "description": "双鱼座_发射爱心",
+      "shortCodes": [
+        "[双鱼座_发射爱心]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/177/3225.png",
+      "isHide": false,
+      "packageId": "177",
+      "meta": {
+        "packageName": "星座系列：双鱼座",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/b03bb87b22853ca311a99fecde5895cf6e4b94a4.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/8b8103d75cb0223a1aa1fa4c0b98b5cb68d91cb1.png"
+      }
+    },
+    {
+      "id": "3226",
+      "description": "双鱼座_摸头",
+      "shortCodes": [
+        "[双鱼座_摸头]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/177/3226.png",
+      "isHide": false,
+      "packageId": "177",
+      "meta": {
+        "packageName": "星座系列：双鱼座",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/b03bb87b22853ca311a99fecde5895cf6e4b94a4.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/0a270d9deb7696e6d5fa3f60e5c23122fa3226e5.png"
+      }
+    },
+    {
+      "id": "3227",
+      "description": "双鱼座_祈愿流星",
+      "shortCodes": [
+        "[双鱼座_祈愿流星]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/177/3227.png",
+      "isHide": false,
+      "packageId": "177",
+      "meta": {
+        "packageName": "星座系列：双鱼座",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/b03bb87b22853ca311a99fecde5895cf6e4b94a4.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/e19cafaf04a3b5fb308fb0befa95333a0edab5ae.png"
+      }
+    },
+    {
+      "id": "3228",
+      "description": "双鱼座_叹气",
+      "shortCodes": [
+        "[双鱼座_叹气]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/177/3228.png",
+      "isHide": false,
+      "packageId": "177",
+      "meta": {
+        "packageName": "星座系列：双鱼座",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/b03bb87b22853ca311a99fecde5895cf6e4b94a4.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/8f4488987d580fe8f235419c3cd51a5ebf13027f.png"
+      }
+    },
+    {
+      "id": "3229",
+      "description": "双鱼座_贴贴",
+      "shortCodes": [
+        "[双鱼座_贴贴]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/177/3229.png",
+      "isHide": false,
+      "packageId": "177",
+      "meta": {
+        "packageName": "星座系列：双鱼座",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/b03bb87b22853ca311a99fecde5895cf6e4b94a4.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/f053832d3533b0623d72beb521b44400c8d9bc86.png"
+      }
+    },
+    {
+      "id": "3230",
+      "description": "双鱼座_哇塞",
+      "shortCodes": [
+        "[双鱼座_哇塞]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/177/3230.png",
+      "isHide": false,
+      "packageId": "177",
+      "meta": {
+        "packageName": "星座系列：双鱼座",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/b03bb87b22853ca311a99fecde5895cf6e4b94a4.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/6f2e9d8749992071e0e336265a437f4fa20568c2.png"
+      }
+    },
+    {
+      "id": "3231",
+      "description": "双鱼座_哭的小声",
+      "shortCodes": [
+        "[双鱼座_哭的小声]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/177/3231.png",
+      "isHide": false,
+      "packageId": "177",
+      "meta": {
+        "packageName": "星座系列：双鱼座",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/b03bb87b22853ca311a99fecde5895cf6e4b94a4.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/bd068fe39cc7a16bc91cda9a355029f014c9f74e.png"
+      }
+    },
+    {
+      "id": "3232",
+      "description": "双鱼座_有事吗",
+      "shortCodes": [
+        "[双鱼座_有事吗]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/177/3232.png",
+      "isHide": false,
+      "packageId": "177",
+      "meta": {
+        "packageName": "星座系列：双鱼座",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/b03bb87b22853ca311a99fecde5895cf6e4b94a4.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/80dcf67c236618fb28b81668c2c7371218c46f80.png"
+      }
+    },
+    {
+      "id": "3233",
+      "description": "双鱼座_做白日梦",
+      "shortCodes": [
+        "[双鱼座_做白日梦]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/177/3233.png",
+      "isHide": false,
+      "packageId": "177",
+      "meta": {
+        "packageName": "星座系列：双鱼座",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/b03bb87b22853ca311a99fecde5895cf6e4b94a4.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/ba03f95ebe480106806377024e0c93ddb9c0f836.png"
+      }
+    }
+  ]
+}

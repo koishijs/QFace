@@ -1,0 +1,232 @@
+{
+  "id": "6",
+  "name": "2233娘",
+  "coverUrl": "http://i0.hdslb.com/bfs/emote/f52830f0c01a4dc91457be5bb2ee49b1b5692cd5.png",
+  "emojis": [
+    {
+      "id": "136",
+      "description": "2233娘_大笑",
+      "shortCodes": [
+        "[2233娘_大笑]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/6/136.png",
+      "isHide": false,
+      "packageId": "6",
+      "meta": {
+        "packageName": "2233娘",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/f52830f0c01a4dc91457be5bb2ee49b1b5692cd5.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/16b8794be990cefa6caeba4d901b934a227ee3b8.png"
+      }
+    },
+    {
+      "id": "137",
+      "description": "2233娘_吃惊",
+      "shortCodes": [
+        "[2233娘_吃惊]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/6/137.png",
+      "isHide": false,
+      "packageId": "6",
+      "meta": {
+        "packageName": "2233娘",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/f52830f0c01a4dc91457be5bb2ee49b1b5692cd5.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/d1628c43d35b1530c0504a643ff80b6189fa0a43.png"
+      }
+    },
+    {
+      "id": "138",
+      "description": "2233娘_大哭",
+      "shortCodes": [
+        "[2233娘_大哭]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/6/138.png",
+      "isHide": false,
+      "packageId": "6",
+      "meta": {
+        "packageName": "2233娘",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/f52830f0c01a4dc91457be5bb2ee49b1b5692cd5.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/476a2a60f6e337b8c0697a592e0aa82781f6b33b.png"
+      }
+    },
+    {
+      "id": "139",
+      "description": "2233娘_耶",
+      "shortCodes": [
+        "[2233娘_耶]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/6/139.png",
+      "isHide": false,
+      "packageId": "6",
+      "meta": {
+        "packageName": "2233娘",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/f52830f0c01a4dc91457be5bb2ee49b1b5692cd5.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/d7178e258a0efc969b65ccc2b1322fb235f5dff4.png"
+      }
+    },
+    {
+      "id": "140",
+      "description": "2233娘_卖萌",
+      "shortCodes": [
+        "[2233娘_卖萌]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/6/140.png",
+      "isHide": false,
+      "packageId": "6",
+      "meta": {
+        "packageName": "2233娘",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/f52830f0c01a4dc91457be5bb2ee49b1b5692cd5.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/ea893aa25355de95ab4f03c2dad3f0c58d0c159e.png"
+      }
+    },
+    {
+      "id": "141",
+      "description": "2233娘_疑问",
+      "shortCodes": [
+        "[2233娘_疑问]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/6/141.png",
+      "isHide": false,
+      "packageId": "6",
+      "meta": {
+        "packageName": "2233娘",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/f52830f0c01a4dc91457be5bb2ee49b1b5692cd5.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/0b41f509351958dbb63d472fec0132d1bd03bd14.png"
+      }
+    },
+    {
+      "id": "142",
+      "description": "2233娘_汗",
+      "shortCodes": [
+        "[2233娘_汗]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/6/142.png",
+      "isHide": false,
+      "packageId": "6",
+      "meta": {
+        "packageName": "2233娘",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/f52830f0c01a4dc91457be5bb2ee49b1b5692cd5.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/247cd9df8cdf84b18368c21e3b2dd374e84c0927.png"
+      }
+    },
+    {
+      "id": "143",
+      "description": "2233娘_困惑",
+      "shortCodes": [
+        "[2233娘_困惑]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/6/143.png",
+      "isHide": false,
+      "packageId": "6",
+      "meta": {
+        "packageName": "2233娘",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/f52830f0c01a4dc91457be5bb2ee49b1b5692cd5.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/714eeb4eae0d0933b4ff08b7df788b1982f6b940.png"
+      }
+    },
+    {
+      "id": "144",
+      "description": "2233娘_怒",
+      "shortCodes": [
+        "[2233娘_怒]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/6/144.png",
+      "isHide": false,
+      "packageId": "6",
+      "meta": {
+        "packageName": "2233娘",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/f52830f0c01a4dc91457be5bb2ee49b1b5692cd5.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/f31953119c51b9748016440ac0b632f779929b37.png"
+      }
+    },
+    {
+      "id": "145",
+      "description": "2233娘_委屈",
+      "shortCodes": [
+        "[2233娘_委屈]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/6/145.png",
+      "isHide": false,
+      "packageId": "6",
+      "meta": {
+        "packageName": "2233娘",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/f52830f0c01a4dc91457be5bb2ee49b1b5692cd5.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/d9d0bf9d358af8d5761093ec66d4e3f60d963a63.png"
+      }
+    },
+    {
+      "id": "146",
+      "description": "2233娘_郁闷",
+      "shortCodes": [
+        "[2233娘_郁闷]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/6/146.png",
+      "isHide": false,
+      "packageId": "6",
+      "meta": {
+        "packageName": "2233娘",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/f52830f0c01a4dc91457be5bb2ee49b1b5692cd5.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/485203fe7100f2c8fc40b2800a18fe20b35f2f1a.png"
+      }
+    },
+    {
+      "id": "147",
+      "description": "2233娘_第一",
+      "shortCodes": [
+        "[2233娘_第一]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/6/147.png",
+      "isHide": false,
+      "packageId": "6",
+      "meta": {
+        "packageName": "2233娘",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/f52830f0c01a4dc91457be5bb2ee49b1b5692cd5.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/3754ee6e5985bd0bd7dfb668981f2a8733398ebd.png"
+      }
+    },
+    {
+      "id": "148",
+      "description": "2233娘_喝水",
+      "shortCodes": [
+        "[2233娘_喝水]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/6/148.png",
+      "isHide": false,
+      "packageId": "6",
+      "meta": {
+        "packageName": "2233娘",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/f52830f0c01a4dc91457be5bb2ee49b1b5692cd5.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/695bf5429472049b52c1e0de586f8a2511195a23.png"
+      }
+    },
+    {
+      "id": "149",
+      "description": "2233娘_吐魂",
+      "shortCodes": [
+        "[2233娘_吐魂]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/6/149.png",
+      "isHide": false,
+      "packageId": "6",
+      "meta": {
+        "packageName": "2233娘",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/f52830f0c01a4dc91457be5bb2ee49b1b5692cd5.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/e999af499edf38a91ca68b1a9d2f97042c1d6734.png"
+      }
+    },
+    {
+      "id": "150",
+      "description": "2233娘_无言",
+      "shortCodes": [
+        "[2233娘_无言]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/6/150.png",
+      "isHide": false,
+      "packageId": "6",
+      "meta": {
+        "packageName": "2233娘",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/f52830f0c01a4dc91457be5bb2ee49b1b5692cd5.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/fdb5870f32cfaf7949e0f88a13f6feba4a48b719.png"
+      }
+    }
+  ]
+}

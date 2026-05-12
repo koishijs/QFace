@@ -1,0 +1,157 @@
+{
+  "id": "596",
+  "name": "妹子与科学",
+  "coverUrl": "http://i0.hdslb.com/bfs/emote/9781ddecdf3af3a20082a1c8bee806b1f1d8e3c1.png",
+  "emojis": [
+    {
+      "id": "10832",
+      "description": "妹子与科学_傲娇",
+      "shortCodes": [
+        "[妹子与科学_傲娇]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/596/10832.png",
+      "isHide": false,
+      "packageId": "596",
+      "meta": {
+        "packageName": "妹子与科学",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/9781ddecdf3af3a20082a1c8bee806b1f1d8e3c1.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/bf251e2460e4172053f11d7d7d07bc25a3e5029c.png"
+      }
+    },
+    {
+      "id": "10833",
+      "description": "妹子与科学_哈？",
+      "shortCodes": [
+        "[妹子与科学_哈？]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/596/10833.png",
+      "isHide": false,
+      "packageId": "596",
+      "meta": {
+        "packageName": "妹子与科学",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/9781ddecdf3af3a20082a1c8bee806b1f1d8e3c1.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/32be7a08d54e0e078127cfd81fda49649187e6ba.png"
+      }
+    },
+    {
+      "id": "10834",
+      "description": "妹子与科学_害羞",
+      "shortCodes": [
+        "[妹子与科学_害羞]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/596/10834.png",
+      "isHide": false,
+      "packageId": "596",
+      "meta": {
+        "packageName": "妹子与科学",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/9781ddecdf3af3a20082a1c8bee806b1f1d8e3c1.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/2adeea8bc839e70002f66b67b467db3f4a5c3868.png"
+      }
+    },
+    {
+      "id": "10835",
+      "description": "妹子与科学_惊呆",
+      "shortCodes": [
+        "[妹子与科学_惊呆]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/596/10835.png",
+      "isHide": false,
+      "packageId": "596",
+      "meta": {
+        "packageName": "妹子与科学",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/9781ddecdf3af3a20082a1c8bee806b1f1d8e3c1.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/6b3e3330ae0f0c15474f2cca7b794f723cad6b58.png"
+      }
+    },
+    {
+      "id": "10836",
+      "description": "妹子与科学_叹气",
+      "shortCodes": [
+        "[妹子与科学_叹气]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/596/10836.png",
+      "isHide": false,
+      "packageId": "596",
+      "meta": {
+        "packageName": "妹子与科学",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/9781ddecdf3af3a20082a1c8bee806b1f1d8e3c1.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/ee7d452c73859bf0be230c75aaba9213adeb648a.png"
+      }
+    },
+    {
+      "id": "10837",
+      "description": "妹子与科学_吐了",
+      "shortCodes": [
+        "[妹子与科学_吐了]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/596/10837.png",
+      "isHide": false,
+      "packageId": "596",
+      "meta": {
+        "packageName": "妹子与科学",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/9781ddecdf3af3a20082a1c8bee806b1f1d8e3c1.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/b4cafcf2d9939f5ea3c8629ae9abe306056b9579.png"
+      }
+    },
+    {
+      "id": "10838",
+      "description": "妹子与科学_哇",
+      "shortCodes": [
+        "[妹子与科学_哇]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/596/10838.png",
+      "isHide": false,
+      "packageId": "596",
+      "meta": {
+        "packageName": "妹子与科学",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/9781ddecdf3af3a20082a1c8bee806b1f1d8e3c1.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/60cae2cbbe879a38d479b1152bf346dd7918916b.png"
+      }
+    },
+    {
+      "id": "10839",
+      "description": "妹子与科学_委屈",
+      "shortCodes": [
+        "[妹子与科学_委屈]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/596/10839.png",
+      "isHide": false,
+      "packageId": "596",
+      "meta": {
+        "packageName": "妹子与科学",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/9781ddecdf3af3a20082a1c8bee806b1f1d8e3c1.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/4b89fb7d775f94749b71613266f661c6e0de6590.png"
+      }
+    },
+    {
+      "id": "10840",
+      "description": "妹子与科学_心碎",
+      "shortCodes": [
+        "[妹子与科学_心碎]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/596/10840.png",
+      "isHide": false,
+      "packageId": "596",
+      "meta": {
+        "packageName": "妹子与科学",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/9781ddecdf3af3a20082a1c8bee806b1f1d8e3c1.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/4ef2281bf698466d3deac6408c44bdab9d4ab028.png"
+      }
+    },
+    {
+      "id": "10841",
+      "description": "妹子与科学_震惊",
+      "shortCodes": [
+        "[妹子与科学_震惊]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/596/10841.png",
+      "isHide": false,
+      "packageId": "596",
+      "meta": {
+        "packageName": "妹子与科学",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/9781ddecdf3af3a20082a1c8bee806b1f1d8e3c1.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/aabffcdf77cb462f7ac3d9fe7610be3a014bcd4f.png"
+      }
+    }
+  ]
+}

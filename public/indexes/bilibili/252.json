@@ -1,0 +1,157 @@
+{
+  "id": "252",
+  "name": "两不疑",
+  "coverUrl": "http://i0.hdslb.com/bfs/emote/66245be4c07a15872cda715119fd0f87e8e58ee0.png",
+  "emojis": [
+    {
+      "id": "4189",
+      "description": "两不疑_无语",
+      "shortCodes": [
+        "[两不疑_无语]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/252/4189.png",
+      "isHide": false,
+      "packageId": "252",
+      "meta": {
+        "packageName": "两不疑",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/66245be4c07a15872cda715119fd0f87e8e58ee0.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/f8808212b7985a10e57ee0a4c0aeb9c6b440c0f2.png"
+      }
+    },
+    {
+      "id": "4190",
+      "description": "两不疑_得意",
+      "shortCodes": [
+        "[两不疑_得意]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/252/4190.png",
+      "isHide": false,
+      "packageId": "252",
+      "meta": {
+        "packageName": "两不疑",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/66245be4c07a15872cda715119fd0f87e8e58ee0.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/12576919f7d216bb1eee238f0779279415d68012.png"
+      }
+    },
+    {
+      "id": "4191",
+      "description": "两不疑_疑惑",
+      "shortCodes": [
+        "[两不疑_疑惑]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/252/4191.png",
+      "isHide": false,
+      "packageId": "252",
+      "meta": {
+        "packageName": "两不疑",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/66245be4c07a15872cda715119fd0f87e8e58ee0.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/8cfb0f144cc1abf6f2c2be2f0e404f0f4bbe3214.png"
+      }
+    },
+    {
+      "id": "4192",
+      "description": "两不疑_拒绝",
+      "shortCodes": [
+        "[两不疑_拒绝]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/252/4192.png",
+      "isHide": false,
+      "packageId": "252",
+      "meta": {
+        "packageName": "两不疑",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/66245be4c07a15872cda715119fd0f87e8e58ee0.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/b0ae79a15cbbc36ded8c54fe623d308affdc3d67.png"
+      }
+    },
+    {
+      "id": "4193",
+      "description": "两不疑_开心",
+      "shortCodes": [
+        "[两不疑_开心]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/252/4193.png",
+      "isHide": false,
+      "packageId": "252",
+      "meta": {
+        "packageName": "两不疑",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/66245be4c07a15872cda715119fd0f87e8e58ee0.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/430ccc6f179e42c0f13479c10df6c72e5680824d.png"
+      }
+    },
+    {
+      "id": "4194",
+      "description": "两不疑_委屈",
+      "shortCodes": [
+        "[两不疑_委屈]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/252/4194.png",
+      "isHide": false,
+      "packageId": "252",
+      "meta": {
+        "packageName": "两不疑",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/66245be4c07a15872cda715119fd0f87e8e58ee0.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/0907a24ae7338184de7afb8e93ab89b693ab8554.png"
+      }
+    },
+    {
+      "id": "4195",
+      "description": "两不疑_痛啊",
+      "shortCodes": [
+        "[两不疑_痛啊]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/252/4195.png",
+      "isHide": false,
+      "packageId": "252",
+      "meta": {
+        "packageName": "两不疑",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/66245be4c07a15872cda715119fd0f87e8e58ee0.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/6fc6504150bdffc886818fb8efe92189e1466264.png"
+      }
+    },
+    {
+      "id": "4196",
+      "description": "两不疑_颤抖",
+      "shortCodes": [
+        "[两不疑_颤抖]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/252/4196.png",
+      "isHide": false,
+      "packageId": "252",
+      "meta": {
+        "packageName": "两不疑",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/66245be4c07a15872cda715119fd0f87e8e58ee0.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/10d2abc111c5555a6bc3611921c73f803aeabbc8.png"
+      }
+    },
+    {
+      "id": "4197",
+      "description": "两不疑_苦恼",
+      "shortCodes": [
+        "[两不疑_苦恼]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/252/4197.png",
+      "isHide": false,
+      "packageId": "252",
+      "meta": {
+        "packageName": "两不疑",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/66245be4c07a15872cda715119fd0f87e8e58ee0.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/eb0bfdc975ecb93557f53606f8d466cff1c186c3.png"
+      }
+    },
+    {
+      "id": "4198",
+      "description": "两不疑_嗑拉了",
+      "shortCodes": [
+        "[两不疑_嗑拉了]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/252/4198.png",
+      "isHide": false,
+      "packageId": "252",
+      "meta": {
+        "packageName": "两不疑",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/66245be4c07a15872cda715119fd0f87e8e58ee0.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/b58c0bbba072b13596f3c49143b96aea37d7fbee.png"
+      }
+    }
+  ]
+}

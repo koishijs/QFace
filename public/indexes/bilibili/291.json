@@ -1,0 +1,157 @@
+{
+  "id": "291",
+  "name": "FPX战队",
+  "coverUrl": "http://i0.hdslb.com/bfs/emote/6b4774bf46701d79e74c52520b4fa6726cc62ad7.png",
+  "emojis": [
+    {
+      "id": "4812",
+      "description": "FPX_666",
+      "shortCodes": [
+        "[FPX_666]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/291/4812.png",
+      "isHide": false,
+      "packageId": "291",
+      "meta": {
+        "packageName": "FPX战队",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/6b4774bf46701d79e74c52520b4fa6726cc62ad7.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/ea6cff727095ab212dc0758e15e697a45a6e2624.png"
+      }
+    },
+    {
+      "id": "4813",
+      "description": "FPX_出征",
+      "shortCodes": [
+        "[FPX_出征]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/291/4813.png",
+      "isHide": false,
+      "packageId": "291",
+      "meta": {
+        "packageName": "FPX战队",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/6b4774bf46701d79e74c52520b4fa6726cc62ad7.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/3ef84457a72a7c8b369c41d62518d5f34545611f.png"
+      }
+    },
+    {
+      "id": "4814",
+      "description": "FPX_加油",
+      "shortCodes": [
+        "[FPX_加油]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/291/4814.png",
+      "isHide": false,
+      "packageId": "291",
+      "meta": {
+        "packageName": "FPX战队",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/6b4774bf46701d79e74c52520b4fa6726cc62ad7.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/1393207f1bfce6c797b20bb323353ae5d1395acb.png"
+      }
+    },
+    {
+      "id": "4815",
+      "description": "FPX_哭哭",
+      "shortCodes": [
+        "[FPX_哭哭]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/291/4815.png",
+      "isHide": false,
+      "packageId": "291",
+      "meta": {
+        "packageName": "FPX战队",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/6b4774bf46701d79e74c52520b4fa6726cc62ad7.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/3de14648a7dceb0dd27bfe561ad7e471511d97a5.png"
+      }
+    },
+    {
+      "id": "4816",
+      "description": "FPX_凌晨战神",
+      "shortCodes": [
+        "[FPX_凌晨战神]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/291/4816.png",
+      "isHide": false,
+      "packageId": "291",
+      "meta": {
+        "packageName": "FPX战队",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/6b4774bf46701d79e74c52520b4fa6726cc62ad7.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/d43a0fcbd12c639cfd9d57f24028ec1f1dfebbda.png"
+      }
+    },
+    {
+      "id": "4817",
+      "description": "FPX_撕破伤口",
+      "shortCodes": [
+        "[FPX_撕破伤口]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/291/4817.png",
+      "isHide": false,
+      "packageId": "291",
+      "meta": {
+        "packageName": "FPX战队",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/6b4774bf46701d79e74c52520b4fa6726cc62ad7.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/f2b3637068762928353e56564862d151478ba3c2.png"
+      }
+    },
+    {
+      "id": "4818",
+      "description": "FPX_踏火重鸣",
+      "shortCodes": [
+        "[FPX_踏火重鸣]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/291/4818.png",
+      "isHide": false,
+      "packageId": "291",
+      "meta": {
+        "packageName": "FPX战队",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/6b4774bf46701d79e74c52520b4fa6726cc62ad7.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/4d6d36f57197d6f3ca975b91ff229f541bade230.png"
+      }
+    },
+    {
+      "id": "4819",
+      "description": "FPX_无语",
+      "shortCodes": [
+        "[FPX_无语]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/291/4819.png",
+      "isHide": false,
+      "packageId": "291",
+      "meta": {
+        "packageName": "FPX战队",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/6b4774bf46701d79e74c52520b4fa6726cc62ad7.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/e3d37d57688db0c222ac274dbc3a585c39cc689c.png"
+      }
+    },
+    {
+      "id": "4820",
+      "description": "FPX_武运昌隆",
+      "shortCodes": [
+        "[FPX_武运昌隆]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/291/4820.png",
+      "isHide": false,
+      "packageId": "291",
+      "meta": {
+        "packageName": "FPX战队",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/6b4774bf46701d79e74c52520b4fa6726cc62ad7.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/81dc122c89a4ca00eb234d3b34671f03db50cb84.png"
+      }
+    },
+    {
+      "id": "4821",
+      "description": "FPX_FPX",
+      "shortCodes": [
+        "[FPX_FPX]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/291/4821.png",
+      "isHide": false,
+      "packageId": "291",
+      "meta": {
+        "packageName": "FPX战队",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/6b4774bf46701d79e74c52520b4fa6726cc62ad7.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/a044ce301d2fc5feddd547398eb44037b4b50d77.png"
+      }
+    }
+  ]
+}

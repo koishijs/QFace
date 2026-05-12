@@ -1,0 +1,382 @@
+{
+  "id": "353",
+  "name": "枕边童话",
+  "coverUrl": "http://i0.hdslb.com/bfs/emote/28994ba4d1d2de902b0f44436b3e2de5e947847a.png",
+  "emojis": [
+    {
+      "id": "5791",
+      "description": "枕边童话_？？？",
+      "shortCodes": [
+        "[枕边童话_？？？]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/353/5791.png",
+      "isHide": false,
+      "packageId": "353",
+      "meta": {
+        "packageName": "枕边童话",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/28994ba4d1d2de902b0f44436b3e2de5e947847a.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/60a09dbf5b4006b5920e501a2711a7528ba0dec2.png"
+      }
+    },
+    {
+      "id": "5792",
+      "description": "枕边童话_ok",
+      "shortCodes": [
+        "[枕边童话_ok]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/353/5792.png",
+      "isHide": false,
+      "packageId": "353",
+      "meta": {
+        "packageName": "枕边童话",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/28994ba4d1d2de902b0f44436b3e2de5e947847a.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/f54c5a26dacc359aeacc71cc035960770efa8f28.png"
+      }
+    },
+    {
+      "id": "5793",
+      "description": "枕边童话_rua",
+      "shortCodes": [
+        "[枕边童话_rua]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/353/5793.png",
+      "isHide": false,
+      "packageId": "353",
+      "meta": {
+        "packageName": "枕边童话",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/28994ba4d1d2de902b0f44436b3e2de5e947847a.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/f8a8c1a5ebec18b7ce96d513b0581399fca7bd0c.png"
+      }
+    },
+    {
+      "id": "5794",
+      "description": "枕边童话_欸",
+      "shortCodes": [
+        "[枕边童话_欸]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/353/5794.png",
+      "isHide": false,
+      "packageId": "353",
+      "meta": {
+        "packageName": "枕边童话",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/28994ba4d1d2de902b0f44436b3e2de5e947847a.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/947a01fd910fa1a1b67b41278ba67e0edc587048.png"
+      }
+    },
+    {
+      "id": "5795",
+      "description": "枕边童话_拜拜",
+      "shortCodes": [
+        "[枕边童话_拜拜]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/353/5795.png",
+      "isHide": false,
+      "packageId": "353",
+      "meta": {
+        "packageName": "枕边童话",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/28994ba4d1d2de902b0f44436b3e2de5e947847a.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/29d430da961a5ec2e1fa5eda199a5426333955dc.png"
+      }
+    },
+    {
+      "id": "5796",
+      "description": "枕边童话_抱抱",
+      "shortCodes": [
+        "[枕边童话_抱抱]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/353/5796.png",
+      "isHide": false,
+      "packageId": "353",
+      "meta": {
+        "packageName": "枕边童话",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/28994ba4d1d2de902b0f44436b3e2de5e947847a.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/52b5d191e4732a2aa162d24436bc1d4ee2abb50f.png"
+      }
+    },
+    {
+      "id": "5797",
+      "description": "枕边童话_比心",
+      "shortCodes": [
+        "[枕边童话_比心]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/353/5797.png",
+      "isHide": false,
+      "packageId": "353",
+      "meta": {
+        "packageName": "枕边童话",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/28994ba4d1d2de902b0f44436b3e2de5e947847a.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/40c6c3eda1c3b9305dd8cf4d8225dfc240ada780.png"
+      }
+    },
+    {
+      "id": "5798",
+      "description": "枕边童话_比心2",
+      "shortCodes": [
+        "[枕边童话_比心2]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/353/5798.png",
+      "isHide": false,
+      "packageId": "353",
+      "meta": {
+        "packageName": "枕边童话",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/28994ba4d1d2de902b0f44436b3e2de5e947847a.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/e11853e0052f7374a2a99499125b87767c16dcdc.png"
+      }
+    },
+    {
+      "id": "5799",
+      "description": "枕边童话_吃瓜",
+      "shortCodes": [
+        "[枕边童话_吃瓜]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/353/5799.png",
+      "isHide": false,
+      "packageId": "353",
+      "meta": {
+        "packageName": "枕边童话",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/28994ba4d1d2de902b0f44436b3e2de5e947847a.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/3771260af2506ab32db4ee5f0c22f645df7935bb.png"
+      }
+    },
+    {
+      "id": "5800",
+      "description": "枕边童话_戳",
+      "shortCodes": [
+        "[枕边童话_戳]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/353/5800.png",
+      "isHide": false,
+      "packageId": "353",
+      "meta": {
+        "packageName": "枕边童话",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/28994ba4d1d2de902b0f44436b3e2de5e947847a.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/d8ad069aff555c1db9a8439647cffe87b029bcd4.png"
+      }
+    },
+    {
+      "id": "5801",
+      "description": "枕边童话_戳2",
+      "shortCodes": [
+        "[枕边童话_戳2]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/353/5801.png",
+      "isHide": false,
+      "packageId": "353",
+      "meta": {
+        "packageName": "枕边童话",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/28994ba4d1d2de902b0f44436b3e2de5e947847a.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/af8a01f15d8a281b8effd85392e46d0a9135fc36.png"
+      }
+    },
+    {
+      "id": "5802",
+      "description": "枕边童话_果咩捏",
+      "shortCodes": [
+        "[枕边童话_果咩捏]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/353/5802.png",
+      "isHide": false,
+      "packageId": "353",
+      "meta": {
+        "packageName": "枕边童话",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/28994ba4d1d2de902b0f44436b3e2de5e947847a.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/ce7c2dec6cd12b78a61543362624637155e84d26.png"
+      }
+    },
+    {
+      "id": "5803",
+      "description": "枕边童话_哈哈哈",
+      "shortCodes": [
+        "[枕边童话_哈哈哈]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/353/5803.png",
+      "isHide": false,
+      "packageId": "353",
+      "meta": {
+        "packageName": "枕边童话",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/28994ba4d1d2de902b0f44436b3e2de5e947847a.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/c4dfb64e47263ce7cc2a66c65fc42b7940d73058.png"
+      }
+    },
+    {
+      "id": "5804",
+      "description": "枕边童话_嘿嘿嘿",
+      "shortCodes": [
+        "[枕边童话_嘿嘿嘿]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/353/5804.png",
+      "isHide": false,
+      "packageId": "353",
+      "meta": {
+        "packageName": "枕边童话",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/28994ba4d1d2de902b0f44436b3e2de5e947847a.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/f4f9be5359384679566c2a99dbdf80ef6e43e3c5.png"
+      }
+    },
+    {
+      "id": "5805",
+      "description": "枕边童话_气气",
+      "shortCodes": [
+        "[枕边童话_气气]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/353/5805.png",
+      "isHide": false,
+      "packageId": "353",
+      "meta": {
+        "packageName": "枕边童话",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/28994ba4d1d2de902b0f44436b3e2de5e947847a.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/2d62b3eb8cb293ce54e5e84fe4c14bd38b6d5017.png"
+      }
+    },
+    {
+      "id": "5806",
+      "description": "枕边童话_敲打",
+      "shortCodes": [
+        "[枕边童话_敲打]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/353/5806.png",
+      "isHide": false,
+      "packageId": "353",
+      "meta": {
+        "packageName": "枕边童话",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/28994ba4d1d2de902b0f44436b3e2de5e947847a.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/74a4d87a9cad8827748df37a7b2e6ba6669607c3.png"
+      }
+    },
+    {
+      "id": "5807",
+      "description": "枕边童话_探头",
+      "shortCodes": [
+        "[枕边童话_探头]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/353/5807.png",
+      "isHide": false,
+      "packageId": "353",
+      "meta": {
+        "packageName": "枕边童话",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/28994ba4d1d2de902b0f44436b3e2de5e947847a.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/83ed39267d4251528f43350f462240b4f6b98ec6.png"
+      }
+    },
+    {
+      "id": "5808",
+      "description": "枕边童话_贴贴",
+      "shortCodes": [
+        "[枕边童话_贴贴]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/353/5808.png",
+      "isHide": false,
+      "packageId": "353",
+      "meta": {
+        "packageName": "枕边童话",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/28994ba4d1d2de902b0f44436b3e2de5e947847a.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/048da7aca2177ebebf208be9d48eb56cc48c6f8b.png"
+      }
+    },
+    {
+      "id": "5809",
+      "description": "枕边童话_歪脑",
+      "shortCodes": [
+        "[枕边童话_歪脑]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/353/5809.png",
+      "isHide": false,
+      "packageId": "353",
+      "meta": {
+        "packageName": "枕边童话",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/28994ba4d1d2de902b0f44436b3e2de5e947847a.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/7aefeef5fc7f22c3634f1123caf760d74a6aff9a.png"
+      }
+    },
+    {
+      "id": "5810",
+      "description": "枕边童话_歪头",
+      "shortCodes": [
+        "[枕边童话_歪头]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/353/5810.png",
+      "isHide": false,
+      "packageId": "353",
+      "meta": {
+        "packageName": "枕边童话",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/28994ba4d1d2de902b0f44436b3e2de5e947847a.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/06fd02d8131c92c4e5ddde3ff4f982c566268bed.png"
+      }
+    },
+    {
+      "id": "5811",
+      "description": "枕边童话_晚安",
+      "shortCodes": [
+        "[枕边童话_晚安]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/353/5811.png",
+      "isHide": false,
+      "packageId": "353",
+      "meta": {
+        "packageName": "枕边童话",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/28994ba4d1d2de902b0f44436b3e2de5e947847a.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/4837f7e7c377187391e709fe4b307a0b6a984cdc.png"
+      }
+    },
+    {
+      "id": "5812",
+      "description": "枕边童话_委屈巴巴",
+      "shortCodes": [
+        "[枕边童话_委屈巴巴]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/353/5812.png",
+      "isHide": false,
+      "packageId": "353",
+      "meta": {
+        "packageName": "枕边童话",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/28994ba4d1d2de902b0f44436b3e2de5e947847a.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/2764082f438a306d1fb3974c04d3e64eac0adefa.png"
+      }
+    },
+    {
+      "id": "5813",
+      "description": "枕边童话_呜呜",
+      "shortCodes": [
+        "[枕边童话_呜呜]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/353/5813.png",
+      "isHide": false,
+      "packageId": "353",
+      "meta": {
+        "packageName": "枕边童话",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/28994ba4d1d2de902b0f44436b3e2de5e947847a.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/9a7dd66dd0485be62847f8859982e1cd7ece6e09.png"
+      }
+    },
+    {
+      "id": "5814",
+      "description": "枕边童话_小米星",
+      "shortCodes": [
+        "[枕边童话_小米星]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/353/5814.png",
+      "isHide": false,
+      "packageId": "353",
+      "meta": {
+        "packageName": "枕边童话",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/28994ba4d1d2de902b0f44436b3e2de5e947847a.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/ef3426dd39367396845c96b45797f8369acafe39.png"
+      }
+    },
+    {
+      "id": "5815",
+      "description": "枕边童话_小绵花",
+      "shortCodes": [
+        "[枕边童话_小绵花]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/353/5815.png",
+      "isHide": false,
+      "packageId": "353",
+      "meta": {
+        "packageName": "枕边童话",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/28994ba4d1d2de902b0f44436b3e2de5e947847a.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/abd175090e75b484064088036f41ae9ba90684b9.png"
+      }
+    }
+  ]
+}

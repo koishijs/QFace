@@ -1,0 +1,157 @@
+{
+  "id": "321",
+  "name": "银杏鎏金",
+  "coverUrl": "http://i0.hdslb.com/bfs/emote/cf804f8b987bc88f6abfda36a603cbf4062eab98.png",
+  "emojis": [
+    {
+      "id": "5265",
+      "description": "银杏鎏金_6",
+      "shortCodes": [
+        "[银杏鎏金_6]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/321/5265.png",
+      "isHide": false,
+      "packageId": "321",
+      "meta": {
+        "packageName": "银杏鎏金",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/cf804f8b987bc88f6abfda36a603cbf4062eab98.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/97c203e69ae4aefd5a5a014fb2b60a93126e12e0.png"
+      }
+    },
+    {
+      "id": "5266",
+      "description": "银杏鎏金_彩虹屁",
+      "shortCodes": [
+        "[银杏鎏金_彩虹屁]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/321/5266.png",
+      "isHide": false,
+      "packageId": "321",
+      "meta": {
+        "packageName": "银杏鎏金",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/cf804f8b987bc88f6abfda36a603cbf4062eab98.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/08a444c06f4b12a7b78a2bd979ac619d98343aaf.png"
+      }
+    },
+    {
+      "id": "5267",
+      "description": "银杏鎏金_巅峰",
+      "shortCodes": [
+        "[银杏鎏金_巅峰]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/321/5267.png",
+      "isHide": false,
+      "packageId": "321",
+      "meta": {
+        "packageName": "银杏鎏金",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/cf804f8b987bc88f6abfda36a603cbf4062eab98.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/e9f4364491c53f128b6f04b2ea2f29a7e8311083.png"
+      }
+    },
+    {
+      "id": "5268",
+      "description": "银杏鎏金_记住了",
+      "shortCodes": [
+        "[银杏鎏金_记住了]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/321/5268.png",
+      "isHide": false,
+      "packageId": "321",
+      "meta": {
+        "packageName": "银杏鎏金",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/cf804f8b987bc88f6abfda36a603cbf4062eab98.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/df3aed355619c47cc9b0ccb6c8ce20ab08e1b147.png"
+      }
+    },
+    {
+      "id": "5269",
+      "description": "银杏鎏金_可怜巴巴",
+      "shortCodes": [
+        "[银杏鎏金_可怜巴巴]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/321/5269.png",
+      "isHide": false,
+      "packageId": "321",
+      "meta": {
+        "packageName": "银杏鎏金",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/cf804f8b987bc88f6abfda36a603cbf4062eab98.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/924fcaaa4b16fa5e0abb30195cfa9cb34932720b.png"
+      }
+    },
+    {
+      "id": "5270",
+      "description": "银杏鎏金_乐开花",
+      "shortCodes": [
+        "[银杏鎏金_乐开花]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/321/5270.png",
+      "isHide": false,
+      "packageId": "321",
+      "meta": {
+        "packageName": "银杏鎏金",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/cf804f8b987bc88f6abfda36a603cbf4062eab98.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/f42ee37cad1bd4aff14d2663af396de774224873.png"
+      }
+    },
+    {
+      "id": "5271",
+      "description": "银杏鎏金_期待",
+      "shortCodes": [
+        "[银杏鎏金_期待]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/321/5271.png",
+      "isHide": false,
+      "packageId": "321",
+      "meta": {
+        "packageName": "银杏鎏金",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/cf804f8b987bc88f6abfda36a603cbf4062eab98.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/a4a6cfc210ee4b3c7e9e658b5afb06d489635e54.png"
+      }
+    },
+    {
+      "id": "5272",
+      "description": "银杏鎏金_幸运喷雾",
+      "shortCodes": [
+        "[银杏鎏金_幸运喷雾]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/321/5272.png",
+      "isHide": false,
+      "packageId": "321",
+      "meta": {
+        "packageName": "银杏鎏金",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/cf804f8b987bc88f6abfda36a603cbf4062eab98.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/89e550f628333fe35f0b010337bdc5c4bf713cfc.png"
+      }
+    },
+    {
+      "id": "5273",
+      "description": "银杏鎏金_欧皇再现",
+      "shortCodes": [
+        "[银杏鎏金_欧皇再现]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/321/5273.png",
+      "isHide": false,
+      "packageId": "321",
+      "meta": {
+        "packageName": "银杏鎏金",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/cf804f8b987bc88f6abfda36a603cbf4062eab98.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/381e369c043a16d034de15e6677b3b2a44abd89a.png"
+      }
+    },
+    {
+      "id": "5274",
+      "description": "银杏鎏金_欧里欧气",
+      "shortCodes": [
+        "[银杏鎏金_欧里欧气]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/321/5274.png",
+      "isHide": false,
+      "packageId": "321",
+      "meta": {
+        "packageName": "银杏鎏金",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/cf804f8b987bc88f6abfda36a603cbf4062eab98.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/a59a1e0963f8f5f9568d0ae4c0429ceac165a592.png"
+      }
+    }
+  ]
+}

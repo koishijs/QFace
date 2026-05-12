@@ -1,0 +1,232 @@
+{
+  "id": "303",
+  "name": "MEIKO",
+  "coverUrl": "http://i0.hdslb.com/bfs/emote/73e54eb3e52b0514e8bcb05073d67a9d8946305e.png",
+  "emojis": [
+    {
+      "id": "4974",
+      "description": "MEIKO_Hi",
+      "shortCodes": [
+        "[MEIKO_Hi]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/303/4974.png",
+      "isHide": false,
+      "packageId": "303",
+      "meta": {
+        "packageName": "MEIKO",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/73e54eb3e52b0514e8bcb05073d67a9d8946305e.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/e1d1f84de2aaaa3037006fb5345aec615bebee97.png"
+      }
+    },
+    {
+      "id": "4975",
+      "description": "MEIKO_YES",
+      "shortCodes": [
+        "[MEIKO_YES]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/303/4975.png",
+      "isHide": false,
+      "packageId": "303",
+      "meta": {
+        "packageName": "MEIKO",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/73e54eb3e52b0514e8bcb05073d67a9d8946305e.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/5379a22247d9bca57d22ffbad7520a60ae71d855.png"
+      }
+    },
+    {
+      "id": "4976",
+      "description": "MEIKO_安静",
+      "shortCodes": [
+        "[MEIKO_安静]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/303/4976.png",
+      "isHide": false,
+      "packageId": "303",
+      "meta": {
+        "packageName": "MEIKO",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/73e54eb3e52b0514e8bcb05073d67a9d8946305e.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/d9e3ed2537b16b2b4a6980c2ed749319d71c9a08.png"
+      }
+    },
+    {
+      "id": "4977",
+      "description": "MEIKO_抱抱",
+      "shortCodes": [
+        "[MEIKO_抱抱]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/303/4977.png",
+      "isHide": false,
+      "packageId": "303",
+      "meta": {
+        "packageName": "MEIKO",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/73e54eb3e52b0514e8bcb05073d67a9d8946305e.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/a42ef87f2d1058e847bc6ea1da2a3f61f53e0886.png"
+      }
+    },
+    {
+      "id": "4978",
+      "description": "MEIKO_冲鸭",
+      "shortCodes": [
+        "[MEIKO_冲鸭]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/303/4978.png",
+      "isHide": false,
+      "packageId": "303",
+      "meta": {
+        "packageName": "MEIKO",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/73e54eb3e52b0514e8bcb05073d67a9d8946305e.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/65cae9d6e4cc9c938eb570393f978050d6eb6b2c.png"
+      }
+    },
+    {
+      "id": "4979",
+      "description": "MEIKO_达咩",
+      "shortCodes": [
+        "[MEIKO_达咩]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/303/4979.png",
+      "isHide": false,
+      "packageId": "303",
+      "meta": {
+        "packageName": "MEIKO",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/73e54eb3e52b0514e8bcb05073d67a9d8946305e.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/ec5e047251dbdee5988bed0e921a1ae3315f498f.png"
+      }
+    },
+    {
+      "id": "4980",
+      "description": "MEIKO_好的",
+      "shortCodes": [
+        "[MEIKO_好的]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/303/4980.png",
+      "isHide": false,
+      "packageId": "303",
+      "meta": {
+        "packageName": "MEIKO",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/73e54eb3e52b0514e8bcb05073d67a9d8946305e.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/4b76c8942903a254ce4d5ccace9e1fe50b804fe3.png"
+      }
+    },
+    {
+      "id": "4981",
+      "description": "MEIKO_坏笑",
+      "shortCodes": [
+        "[MEIKO_坏笑]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/303/4981.png",
+      "isHide": false,
+      "packageId": "303",
+      "meta": {
+        "packageName": "MEIKO",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/73e54eb3e52b0514e8bcb05073d67a9d8946305e.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/03212517ca00c67fcc37729ddbee19594d1df1ef.png"
+      }
+    },
+    {
+      "id": "4982",
+      "description": "MEIKO_加油",
+      "shortCodes": [
+        "[MEIKO_加油]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/303/4982.png",
+      "isHide": false,
+      "packageId": "303",
+      "meta": {
+        "packageName": "MEIKO",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/73e54eb3e52b0514e8bcb05073d67a9d8946305e.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/d4145ad42f155d984ca2abb75d7a017b0ea3decc.png"
+      }
+    },
+    {
+      "id": "4983",
+      "description": "MEIKO_就这",
+      "shortCodes": [
+        "[MEIKO_就这]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/303/4983.png",
+      "isHide": false,
+      "packageId": "303",
+      "meta": {
+        "packageName": "MEIKO",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/73e54eb3e52b0514e8bcb05073d67a9d8946305e.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/29bc5ebb206242f276f60e3c93943182f9ad7f46.png"
+      }
+    },
+    {
+      "id": "4984",
+      "description": "MEIKO_困扰",
+      "shortCodes": [
+        "[MEIKO_困扰]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/303/4984.png",
+      "isHide": false,
+      "packageId": "303",
+      "meta": {
+        "packageName": "MEIKO",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/73e54eb3e52b0514e8bcb05073d67a9d8946305e.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/eeb11eab81e194d2bc6dad2e673ae9a23e451362.png"
+      }
+    },
+    {
+      "id": "4985",
+      "description": "MEIKO_您请",
+      "shortCodes": [
+        "[MEIKO_您请]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/303/4985.png",
+      "isHide": false,
+      "packageId": "303",
+      "meta": {
+        "packageName": "MEIKO",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/73e54eb3e52b0514e8bcb05073d67a9d8946305e.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/09b9faba7b6b61711d56c711c912c82e4d090044.png"
+      }
+    },
+    {
+      "id": "4986",
+      "description": "MEIKO_神气",
+      "shortCodes": [
+        "[MEIKO_神气]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/303/4986.png",
+      "isHide": false,
+      "packageId": "303",
+      "meta": {
+        "packageName": "MEIKO",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/73e54eb3e52b0514e8bcb05073d67a9d8946305e.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/623787a2d77f8a4bde53353ce991e102b49e4ee2.png"
+      }
+    },
+    {
+      "id": "4987",
+      "description": "MEIKO_无奈叹气",
+      "shortCodes": [
+        "[MEIKO_无奈叹气]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/303/4987.png",
+      "isHide": false,
+      "packageId": "303",
+      "meta": {
+        "packageName": "MEIKO",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/73e54eb3e52b0514e8bcb05073d67a9d8946305e.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/305b994d3e529137f811c3d8e28b0fda1e08085a.png"
+      }
+    },
+    {
+      "id": "4988",
+      "description": "MEIKO_震惊",
+      "shortCodes": [
+        "[MEIKO_震惊]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/303/4988.png",
+      "isHide": false,
+      "packageId": "303",
+      "meta": {
+        "packageName": "MEIKO",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/73e54eb3e52b0514e8bcb05073d67a9d8946305e.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/0294b3bbda847d855085372d6ca4203f14c0457a.png"
+      }
+    }
+  ]
+}

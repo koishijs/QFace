@@ -1,0 +1,232 @@
+{
+  "id": "284",
+  "name": "星座特典",
+  "coverUrl": "http://i0.hdslb.com/bfs/emote/0bd329fde4e2868221628eb7481200e97fba354b.png",
+  "emojis": [
+    {
+      "id": "4727",
+      "description": "星座特典_惩罚",
+      "shortCodes": [
+        "[星座特典_惩罚]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/284/4727.png",
+      "isHide": false,
+      "packageId": "284",
+      "meta": {
+        "packageName": "星座特典",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/0bd329fde4e2868221628eb7481200e97fba354b.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/b4393eecad93fa6b0275d056a4dcb3a4090c50a1.png"
+      }
+    },
+    {
+      "id": "4728",
+      "description": "星座特典_秤赞",
+      "shortCodes": [
+        "[星座特典_秤赞]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/284/4728.png",
+      "isHide": false,
+      "packageId": "284",
+      "meta": {
+        "packageName": "星座特典",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/0bd329fde4e2868221628eb7481200e97fba354b.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/db618b33c95264afb83f32748ed57e98686ec63a.png"
+      }
+    },
+    {
+      "id": "4729",
+      "description": "星座特典_宠溺",
+      "shortCodes": [
+        "[星座特典_宠溺]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/284/4729.png",
+      "isHide": false,
+      "packageId": "284",
+      "meta": {
+        "packageName": "星座特典",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/0bd329fde4e2868221628eb7481200e97fba354b.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/6a0d61c9b5337dd6b48f3379af70034551005ba2.png"
+      }
+    },
+    {
+      "id": "4730",
+      "description": "星座特典_调皮",
+      "shortCodes": [
+        "[星座特典_调皮]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/284/4730.png",
+      "isHide": false,
+      "packageId": "284",
+      "meta": {
+        "packageName": "星座特典",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/0bd329fde4e2868221628eb7481200e97fba354b.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/546f69d098f1a4c36bf87f1a20a9eeda030c5c2b.png"
+      }
+    },
+    {
+      "id": "4731",
+      "description": "星座特典_发射爱心",
+      "shortCodes": [
+        "[星座特典_发射爱心]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/284/4731.png",
+      "isHide": false,
+      "packageId": "284",
+      "meta": {
+        "packageName": "星座特典",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/0bd329fde4e2868221628eb7481200e97fba354b.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/3a858bd76662f38445606110a11a043d2ce9815a.png"
+      }
+    },
+    {
+      "id": "4732",
+      "description": "星座特典_害羞",
+      "shortCodes": [
+        "[星座特典_害羞]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/284/4732.png",
+      "isHide": false,
+      "packageId": "284",
+      "meta": {
+        "packageName": "星座特典",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/0bd329fde4e2868221628eb7481200e97fba354b.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/d9e2c72ef03322ab71d670dc317365ea9e251ced.png"
+      }
+    },
+    {
+      "id": "4733",
+      "description": "星座特典_好运来",
+      "shortCodes": [
+        "[星座特典_好运来]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/284/4733.png",
+      "isHide": false,
+      "packageId": "284",
+      "meta": {
+        "packageName": "星座特典",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/0bd329fde4e2868221628eb7481200e97fba354b.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/e0bb64e254df073837f50a79ffa0cc9cc08de8aa.png"
+      }
+    },
+    {
+      "id": "4734",
+      "description": "星座特典_捧在手心",
+      "shortCodes": [
+        "[星座特典_捧在手心]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/284/4734.png",
+      "isHide": false,
+      "packageId": "284",
+      "meta": {
+        "packageName": "星座特典",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/0bd329fde4e2868221628eb7481200e97fba354b.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/99b7fdda0d9958970796509afacfc326aaf5a08d.png"
+      }
+    },
+    {
+      "id": "4735",
+      "description": "星座特典_起飞",
+      "shortCodes": [
+        "[星座特典_起飞]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/284/4735.png",
+      "isHide": false,
+      "packageId": "284",
+      "meta": {
+        "packageName": "星座特典",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/0bd329fde4e2868221628eb7481200e97fba354b.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/3f201707d699a072a71f3e51dc11c6aff521c0b6.png"
+      }
+    },
+    {
+      "id": "4736",
+      "description": "星座特典_撒花",
+      "shortCodes": [
+        "[星座特典_撒花]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/284/4736.png",
+      "isHide": false,
+      "packageId": "284",
+      "meta": {
+        "packageName": "星座特典",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/0bd329fde4e2868221628eb7481200e97fba354b.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/b39006acb0036aaa9baf2087add13ee07c8b2d36.png"
+      }
+    },
+    {
+      "id": "4737",
+      "description": "星座特典_晒娃",
+      "shortCodes": [
+        "[星座特典_晒娃]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/284/4737.png",
+      "isHide": false,
+      "packageId": "284",
+      "meta": {
+        "packageName": "星座特典",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/0bd329fde4e2868221628eb7481200e97fba354b.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/626cd857c520e79bd5e6eee06aa1c496f17f0e89.png"
+      }
+    },
+    {
+      "id": "4738",
+      "description": "星座特典_贴贴",
+      "shortCodes": [
+        "[星座特典_贴贴]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/284/4738.png",
+      "isHide": false,
+      "packageId": "284",
+      "meta": {
+        "packageName": "星座特典",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/0bd329fde4e2868221628eb7481200e97fba354b.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/892b13d99591c02e0eae2471b69ec15a78cb9260.png"
+      }
+    },
+    {
+      "id": "4739",
+      "description": "星座特典_投喂",
+      "shortCodes": [
+        "[星座特典_投喂]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/284/4739.png",
+      "isHide": false,
+      "packageId": "284",
+      "meta": {
+        "packageName": "星座特典",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/0bd329fde4e2868221628eb7481200e97fba354b.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/7ca1887ef8ac4a5548f8c62b62b17133b3cf06f9.png"
+      }
+    },
+    {
+      "id": "4740",
+      "description": "星座特典_仙女落泪",
+      "shortCodes": [
+        "[星座特典_仙女落泪]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/284/4740.png",
+      "isHide": false,
+      "packageId": "284",
+      "meta": {
+        "packageName": "星座特典",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/0bd329fde4e2868221628eb7481200e97fba354b.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/596568c06f77b3345c24a811ffa51c0e1fb45300.png"
+      }
+    },
+    {
+      "id": "4741",
+      "description": "星座特典_星座史册",
+      "shortCodes": [
+        "[星座特典_星座史册]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/284/4741.png",
+      "isHide": false,
+      "packageId": "284",
+      "meta": {
+        "packageName": "星座特典",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/0bd329fde4e2868221628eb7481200e97fba354b.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/3d7dd2eadcd36ce110f514bf0b059ff65680effd.png"
+      }
+    }
+  ]
+}

@@ -1,0 +1,382 @@
+{
+  "id": "546",
+  "name": "守望先锋",
+  "coverUrl": "http://i0.hdslb.com/bfs/emote/8742bce7d7ab81f7ead041c6f83d3b1574758c60.png",
+  "emojis": [
+    {
+      "id": "10029",
+      "description": "守望先锋_BWEEE",
+      "shortCodes": [
+        "[守望先锋_BWEEE]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/546/10029.png",
+      "isHide": false,
+      "packageId": "546",
+      "meta": {
+        "packageName": "守望先锋",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/8742bce7d7ab81f7ead041c6f83d3b1574758c60.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/7070e0a508eba00bba27eeea80d4397d81607d0d.png"
+      }
+    },
+    {
+      "id": "10030",
+      "description": "守望先锋_OK",
+      "shortCodes": [
+        "[守望先锋_OK]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/546/10030.png",
+      "isHide": false,
+      "packageId": "546",
+      "meta": {
+        "packageName": "守望先锋",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/8742bce7d7ab81f7ead041c6f83d3b1574758c60.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/df2b92b2058d5b78789c737520e02b3a9517dc12.png"
+      }
+    },
+    {
+      "id": "10031",
+      "description": "守望先锋_拜拜",
+      "shortCodes": [
+        "[守望先锋_拜拜]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/546/10031.png",
+      "isHide": false,
+      "packageId": "546",
+      "meta": {
+        "packageName": "守望先锋",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/8742bce7d7ab81f7ead041c6f83d3b1574758c60.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/dae2d5099451ab1938964597fe25b983fb3c9eab.png"
+      }
+    },
+    {
+      "id": "10032",
+      "description": "守望先锋_交给我吧",
+      "shortCodes": [
+        "[守望先锋_交给我吧]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/546/10032.png",
+      "isHide": false,
+      "packageId": "546",
+      "meta": {
+        "packageName": "守望先锋",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/8742bce7d7ab81f7ead041c6f83d3b1574758c60.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/4b03dc860c8c96f799190109e15b9e4921e94770.png"
+      }
+    },
+    {
+      "id": "10033",
+      "description": "守望先锋_打扰一下",
+      "shortCodes": [
+        "[守望先锋_打扰一下]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/546/10033.png",
+      "isHide": false,
+      "packageId": "546",
+      "meta": {
+        "packageName": "守望先锋",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/8742bce7d7ab81f7ead041c6f83d3b1574758c60.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/74163f9adb23bcfe88112310bc96efe92f56449c.png"
+      }
+    },
+    {
+      "id": "10034",
+      "description": "守望先锋_冻住",
+      "shortCodes": [
+        "[守望先锋_冻住]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/546/10034.png",
+      "isHide": false,
+      "packageId": "546",
+      "meta": {
+        "packageName": "守望先锋",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/8742bce7d7ab81f7ead041c6f83d3b1574758c60.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/f7286b8ca25ca7490761107427e43fdd5f0706cd.png"
+      }
+    },
+    {
+      "id": "10035",
+      "description": "守望先锋_飞吻",
+      "shortCodes": [
+        "[守望先锋_飞吻]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/546/10035.png",
+      "isHide": false,
+      "packageId": "546",
+      "meta": {
+        "packageName": "守望先锋",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/8742bce7d7ab81f7ead041c6f83d3b1574758c60.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/1ddc2771f4d3eb5a65257d93f50248d3fc3500dc.png"
+      }
+    },
+    {
+      "id": "10036",
+      "description": "守望先锋_感受宁静",
+      "shortCodes": [
+        "[守望先锋_感受宁静]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/546/10036.png",
+      "isHide": false,
+      "packageId": "546",
+      "meta": {
+        "packageName": "守望先锋",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/8742bce7d7ab81f7ead041c6f83d3b1574758c60.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/3f1891cdeeccf3bd3a4d793d63b666fca42541a9.png"
+      }
+    },
+    {
+      "id": "10037",
+      "description": "守望先锋_嗨起来",
+      "shortCodes": [
+        "[守望先锋_嗨起来]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/546/10037.png",
+      "isHide": false,
+      "packageId": "546",
+      "meta": {
+        "packageName": "守望先锋",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/8742bce7d7ab81f7ead041c6f83d3b1574758c60.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/5702f56e4c79e54d2e89049a027d26d7722cd550.png"
+      }
+    },
+    {
+      "id": "10038",
+      "description": "守望先锋_惊讶",
+      "shortCodes": [
+        "[守望先锋_惊讶]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/546/10038.png",
+      "isHide": false,
+      "packageId": "546",
+      "meta": {
+        "packageName": "守望先锋",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/8742bce7d7ab81f7ead041c6f83d3b1574758c60.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/2a91034cac39b21b1c7b295fdd4f971cf28100aa.png"
+      }
+    },
+    {
+      "id": "10039",
+      "description": "守望先锋_看风景呢",
+      "shortCodes": [
+        "[守望先锋_看风景呢]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/546/10039.png",
+      "isHide": false,
+      "packageId": "546",
+      "meta": {
+        "packageName": "守望先锋",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/8742bce7d7ab81f7ead041c6f83d3b1574758c60.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/290c61678ea3c7f1fdeef306448320702c5239bf.png"
+      }
+    },
+    {
+      "id": "10040",
+      "description": "守望先锋_猎空谢谢",
+      "shortCodes": [
+        "[守望先锋_猎空谢谢]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/546/10040.png",
+      "isHide": false,
+      "packageId": "546",
+      "meta": {
+        "packageName": "守望先锋",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/8742bce7d7ab81f7ead041c6f83d3b1574758c60.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/87b7c6f3d2f2ce507ef146385f9465b919c82809.png"
+      }
+    },
+    {
+      "id": "10041",
+      "description": "守望先锋_对的",
+      "shortCodes": [
+        "[守望先锋_对的]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/546/10041.png",
+      "isHide": false,
+      "packageId": "546",
+      "meta": {
+        "packageName": "守望先锋",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/8742bce7d7ab81f7ead041c6f83d3b1574758c60.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/b6d944e9042addc86ace8ff4109654a1a7681869.png"
+      }
+    },
+    {
+      "id": "10042",
+      "description": "守望先锋_卖萌",
+      "shortCodes": [
+        "[守望先锋_卖萌]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/546/10042.png",
+      "isHide": false,
+      "packageId": "546",
+      "meta": {
+        "packageName": "守望先锋",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/8742bce7d7ab81f7ead041c6f83d3b1574758c60.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/761401494efa5200272b7b95d6b5fc020afeea1f.png"
+      }
+    },
+    {
+      "id": "10043",
+      "description": "守望先锋_哪里跑",
+      "shortCodes": [
+        "[守望先锋_哪里跑]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/546/10043.png",
+      "isHide": false,
+      "packageId": "546",
+      "meta": {
+        "packageName": "守望先锋",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/8742bce7d7ab81f7ead041c6f83d3b1574758c60.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/6271d078d093b5f5950afc94242f4286fb5bdea9.png"
+      }
+    },
+    {
+      "id": "10044",
+      "description": "守望先锋_奶我",
+      "shortCodes": [
+        "[守望先锋_奶我]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/546/10044.png",
+      "isHide": false,
+      "packageId": "546",
+      "meta": {
+        "packageName": "守望先锋",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/8742bce7d7ab81f7ead041c6f83d3b1574758c60.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/d4b4282dbac6a5d40fdf3a9ffe1918f659530694.png"
+      }
+    },
+    {
+      "id": "10045",
+      "description": "守望先锋_你被强化了",
+      "shortCodes": [
+        "[守望先锋_你被强化了]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/546/10045.png",
+      "isHide": false,
+      "packageId": "546",
+      "meta": {
+        "packageName": "守望先锋",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/8742bce7d7ab81f7ead041c6f83d3b1574758c60.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/7d30f82844731ba1eb9e3f8a2758aade64e1cf89.png"
+      }
+    },
+    {
+      "id": "10046",
+      "description": "守望先锋_贴贴",
+      "shortCodes": [
+        "[守望先锋_贴贴]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/546/10046.png",
+      "isHide": false,
+      "packageId": "546",
+      "meta": {
+        "packageName": "守望先锋",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/8742bce7d7ab81f7ead041c6f83d3b1574758c60.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/1fc75fb93c40873a0346a24b0c3605e4756d01c8.png"
+      }
+    },
+    {
+      "id": "10047",
+      "description": "守望先锋_完美",
+      "shortCodes": [
+        "[守望先锋_完美]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/546/10047.png",
+      "isHide": false,
+      "packageId": "546",
+      "meta": {
+        "packageName": "守望先锋",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/8742bce7d7ab81f7ead041c6f83d3b1574758c60.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/9df17e9ac1c89ee9a6d108a9edf2d52258202eb8.png"
+      }
+    },
+    {
+      "id": "10048",
+      "description": "守望先锋_我看到你了",
+      "shortCodes": [
+        "[守望先锋_我看到你了]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/546/10048.png",
+      "isHide": false,
+      "packageId": "546",
+      "meta": {
+        "packageName": "守望先锋",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/8742bce7d7ab81f7ead041c6f83d3b1574758c60.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/280c88f1fc66d3ea1e93f6822e08dc5a1d3107e1.png"
+      }
+    },
+    {
+      "id": "10049",
+      "description": "守望先锋_午时已到",
+      "shortCodes": [
+        "[守望先锋_午时已到]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/546/10049.png",
+      "isHide": false,
+      "packageId": "546",
+      "meta": {
+        "packageName": "守望先锋",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/8742bce7d7ab81f7ead041c6f83d3b1574758c60.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/ccad24cb68cd02d8848e0199ec124985255a63e0.png"
+      }
+    },
+    {
+      "id": "10050",
+      "description": "守望先锋_强壮",
+      "shortCodes": [
+        "[守望先锋_强壮]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/546/10050.png",
+      "isHide": false,
+      "packageId": "546",
+      "meta": {
+        "packageName": "守望先锋",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/8742bce7d7ab81f7ead041c6f83d3b1574758c60.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/b767ecccaa216ac629562a44e10d21d8685a834c.png"
+      }
+    },
+    {
+      "id": "10051",
+      "description": "守望先锋_疑惑",
+      "shortCodes": [
+        "[守望先锋_疑惑]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/546/10051.png",
+      "isHide": false,
+      "packageId": "546",
+      "meta": {
+        "packageName": "守望先锋",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/8742bce7d7ab81f7ead041c6f83d3b1574758c60.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/f5799115425e58e2037759fef3b5ed4a566ef458.png"
+      }
+    },
+    {
+      "id": "10052",
+      "description": "守望先锋_英雄不朽",
+      "shortCodes": [
+        "[守望先锋_英雄不朽]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/546/10052.png",
+      "isHide": false,
+      "packageId": "546",
+      "meta": {
+        "packageName": "守望先锋",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/8742bce7d7ab81f7ead041c6f83d3b1574758c60.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/08b39dd0ca68ce627927db5b82be283aeb2ad663.png"
+      }
+    },
+    {
+      "id": "10053",
+      "description": "守望先锋_在这里集合",
+      "shortCodes": [
+        "[守望先锋_在这里集合]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/546/10053.png",
+      "isHide": false,
+      "packageId": "546",
+      "meta": {
+        "packageName": "守望先锋",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/8742bce7d7ab81f7ead041c6f83d3b1574758c60.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/67d9973f4018ba8d1be0307afc98250da10f59e7.png"
+      }
+    }
+  ]
+}

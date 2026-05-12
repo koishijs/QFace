@@ -1,0 +1,157 @@
+{
+  "id": "251",
+  "name": "魔法学院",
+  "coverUrl": "http://i0.hdslb.com/bfs/emote/c84f4f4432a34e41415427788de09ee8bc2b3e81.png",
+  "emojis": [
+    {
+      "id": "4162",
+      "description": "魔法学院_bye",
+      "shortCodes": [
+        "[魔法学院_bye]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/251/4162.png",
+      "isHide": false,
+      "packageId": "251",
+      "meta": {
+        "packageName": "魔法学院",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/c84f4f4432a34e41415427788de09ee8bc2b3e81.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/3334d431d61c0639d6469aa689f19d4496fb2d9a.png"
+      }
+    },
+    {
+      "id": "4163",
+      "description": "魔法学院_giegie",
+      "shortCodes": [
+        "[魔法学院_giegie]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/251/4163.png",
+      "isHide": false,
+      "packageId": "251",
+      "meta": {
+        "packageName": "魔法学院",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/c84f4f4432a34e41415427788de09ee8bc2b3e81.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/92ae02814999bd8c6ec0e54f04c4cc3a015497d8.png"
+      }
+    },
+    {
+      "id": "4164",
+      "description": "魔法学院_变猪",
+      "shortCodes": [
+        "[魔法学院_变猪]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/251/4164.png",
+      "isHide": false,
+      "packageId": "251",
+      "meta": {
+        "packageName": "魔法学院",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/c84f4f4432a34e41415427788de09ee8bc2b3e81.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/e6a25ace75324b25e33a124211a5bcce8d7ce434.png"
+      }
+    },
+    {
+      "id": "4165",
+      "description": "魔法学院_冲",
+      "shortCodes": [
+        "[魔法学院_冲]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/251/4165.png",
+      "isHide": false,
+      "packageId": "251",
+      "meta": {
+        "packageName": "魔法学院",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/c84f4f4432a34e41415427788de09ee8bc2b3e81.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/3bce0c8cafd52aabf058f696e5bd6d9646b4bab2.png"
+      }
+    },
+    {
+      "id": "4166",
+      "description": "魔法学院_打咩",
+      "shortCodes": [
+        "[魔法学院_打咩]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/251/4166.png",
+      "isHide": false,
+      "packageId": "251",
+      "meta": {
+        "packageName": "魔法学院",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/c84f4f4432a34e41415427788de09ee8bc2b3e81.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/8ed6123a9ae7d1a81ca045250269aa0e886ce4e4.png"
+      }
+    },
+    {
+      "id": "4167",
+      "description": "魔法学院_干饭",
+      "shortCodes": [
+        "[魔法学院_干饭]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/251/4167.png",
+      "isHide": false,
+      "packageId": "251",
+      "meta": {
+        "packageName": "魔法学院",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/c84f4f4432a34e41415427788de09ee8bc2b3e81.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/920f30aaabccbfe93d55ef45c18b40d944eca49b.png"
+      }
+    },
+    {
+      "id": "4168",
+      "description": "魔法学院_好厉害",
+      "shortCodes": [
+        "[魔法学院_好厉害]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/251/4168.png",
+      "isHide": false,
+      "packageId": "251",
+      "meta": {
+        "packageName": "魔法学院",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/c84f4f4432a34e41415427788de09ee8bc2b3e81.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/f3ee211eea2e6691c51a55e68dccc0884e6078ae.png"
+      }
+    },
+    {
+      "id": "4169",
+      "description": "魔法学院_好耶",
+      "shortCodes": [
+        "[魔法学院_好耶]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/251/4169.png",
+      "isHide": false,
+      "packageId": "251",
+      "meta": {
+        "packageName": "魔法学院",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/c84f4f4432a34e41415427788de09ee8bc2b3e81.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/d23c48ab6ab88f74f6c3246567109963883a41b6.png"
+      }
+    },
+    {
+      "id": "4170",
+      "description": "魔法学院_那我走",
+      "shortCodes": [
+        "[魔法学院_那我走]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/251/4170.png",
+      "isHide": false,
+      "packageId": "251",
+      "meta": {
+        "packageName": "魔法学院",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/c84f4f4432a34e41415427788de09ee8bc2b3e81.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/8bf5b9901d8f63e94ff8a318f2a7a29d5218aa98.png"
+      }
+    },
+    {
+      "id": "4171",
+      "description": "魔法学院_瘫",
+      "shortCodes": [
+        "[魔法学院_瘫]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/251/4171.png",
+      "isHide": false,
+      "packageId": "251",
+      "meta": {
+        "packageName": "魔法学院",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/c84f4f4432a34e41415427788de09ee8bc2b3e81.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/d5d5734ae657fc82a1ccbc578e36faaedb720466.png"
+      }
+    }
+  ]
+}

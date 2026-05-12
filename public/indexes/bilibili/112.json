@@ -1,0 +1,232 @@
+{
+  "id": "112",
+  "name": "湊-阿库娅",
+  "coverUrl": "http://i0.hdslb.com/bfs/emote/90a8ce6b29768cc59333ac426bb062d7d52758af.png",
+  "emojis": [
+    {
+      "id": "2358",
+      "description": "阿库娅_才女才女",
+      "shortCodes": [
+        "[阿库娅_才女才女]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/112/2358.png",
+      "isHide": false,
+      "packageId": "112",
+      "meta": {
+        "packageName": "湊-阿库娅",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/90a8ce6b29768cc59333ac426bb062d7d52758af.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/17a7afaabf31847bfe9b6a876f9abbab5c772197.png"
+      }
+    },
+    {
+      "id": "2359",
+      "description": "阿库娅_害羞",
+      "shortCodes": [
+        "[阿库娅_害羞]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/112/2359.png",
+      "isHide": false,
+      "packageId": "112",
+      "meta": {
+        "packageName": "湊-阿库娅",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/90a8ce6b29768cc59333ac426bb062d7d52758af.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/8953fa1c257c48c9ad62363cd6e2de103d77fa85.png"
+      }
+    },
+    {
+      "id": "2360",
+      "description": "阿库娅_不关我事",
+      "shortCodes": [
+        "[阿库娅_不关我事]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/112/2360.png",
+      "isHide": false,
+      "packageId": "112",
+      "meta": {
+        "packageName": "湊-阿库娅",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/90a8ce6b29768cc59333ac426bb062d7d52758af.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/2d4dbec9642e9a76859a33eef49705aa0957ba85.png"
+      }
+    },
+    {
+      "id": "2361",
+      "description": "阿库娅_惊讶",
+      "shortCodes": [
+        "[阿库娅_惊讶]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/112/2361.png",
+      "isHide": false,
+      "packageId": "112",
+      "meta": {
+        "packageName": "湊-阿库娅",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/90a8ce6b29768cc59333ac426bb062d7d52758af.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/01c6134e28b3de73b7af38dad8f6176523604830.png"
+      }
+    },
+    {
+      "id": "2362",
+      "description": "阿库娅_余裕余裕",
+      "shortCodes": [
+        "[阿库娅_余裕余裕]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/112/2362.png",
+      "isHide": false,
+      "packageId": "112",
+      "meta": {
+        "packageName": "湊-阿库娅",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/90a8ce6b29768cc59333ac426bb062d7d52758af.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/dd86f209f72c687c72a8485a1f533c01b61ca1b7.png"
+      }
+    },
+    {
+      "id": "2363",
+      "description": "阿库娅_哭了",
+      "shortCodes": [
+        "[阿库娅_哭了]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/112/2363.png",
+      "isHide": false,
+      "packageId": "112",
+      "meta": {
+        "packageName": "湊-阿库娅",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/90a8ce6b29768cc59333ac426bb062d7d52758af.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/9fe8cc425e8e46ab9d2fc2868a4dcb1c1f8bd62e.png"
+      }
+    },
+    {
+      "id": "2364",
+      "description": "阿库娅_理解理解",
+      "shortCodes": [
+        "[阿库娅_理解理解]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/112/2364.png",
+      "isHide": false,
+      "packageId": "112",
+      "meta": {
+        "packageName": "湊-阿库娅",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/90a8ce6b29768cc59333ac426bb062d7d52758af.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/7a93d37df6cbeb7c340400ad6aa761c2769a3477.png"
+      }
+    },
+    {
+      "id": "2365",
+      "description": "阿库娅_生气",
+      "shortCodes": [
+        "[阿库娅_生气]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/112/2365.png",
+      "isHide": false,
+      "packageId": "112",
+      "meta": {
+        "packageName": "湊-阿库娅",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/90a8ce6b29768cc59333ac426bb062d7d52758af.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/d6d5abe555c97ceaa0e7d822fa6c55e4dfcd7057.png"
+      }
+    },
+    {
+      "id": "2366",
+      "description": "阿库娅_无语",
+      "shortCodes": [
+        "[阿库娅_无语]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/112/2366.png",
+      "isHide": false,
+      "packageId": "112",
+      "meta": {
+        "packageName": "湊-阿库娅",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/90a8ce6b29768cc59333ac426bb062d7d52758af.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/b686e3064484ec1d38747d7f9dc9a5e2a6275fde.png"
+      }
+    },
+    {
+      "id": "2367",
+      "description": "阿库娅_Rua！",
+      "shortCodes": [
+        "[阿库娅_Rua！]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/112/2367.png",
+      "isHide": false,
+      "packageId": "112",
+      "meta": {
+        "packageName": "湊-阿库娅",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/90a8ce6b29768cc59333ac426bb062d7d52758af.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/cbcda2a1c728f578d8b941e742fe65345c529fee.png"
+      }
+    },
+    {
+      "id": "2368",
+      "description": "阿库娅_nice",
+      "shortCodes": [
+        "[阿库娅_nice]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/112/2368.png",
+      "isHide": false,
+      "packageId": "112",
+      "meta": {
+        "packageName": "湊-阿库娅",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/90a8ce6b29768cc59333ac426bb062d7d52758af.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/78dfe9ee6058ac7cf43af82665b5d6f6fc265dcf.png"
+      }
+    },
+    {
+      "id": "2369",
+      "description": "阿库娅_喜欢",
+      "shortCodes": [
+        "[阿库娅_喜欢]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/112/2369.png",
+      "isHide": false,
+      "packageId": "112",
+      "meta": {
+        "packageName": "湊-阿库娅",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/90a8ce6b29768cc59333ac426bb062d7d52758af.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/f97b2d05b7cd127b58ed93ebf92fdfc80d6d9366.png"
+      }
+    },
+    {
+      "id": "2370",
+      "description": "阿库娅_对不起",
+      "shortCodes": [
+        "[阿库娅_对不起]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/112/2370.png",
+      "isHide": false,
+      "packageId": "112",
+      "meta": {
+        "packageName": "湊-阿库娅",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/90a8ce6b29768cc59333ac426bb062d7d52758af.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/046207b5eba4c71ecd98ac369b6d299b5f9f1ea1.png"
+      }
+    },
+    {
+      "id": "2371",
+      "description": "阿库娅_嫌弃",
+      "shortCodes": [
+        "[阿库娅_嫌弃]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/112/2371.png",
+      "isHide": false,
+      "packageId": "112",
+      "meta": {
+        "packageName": "湊-阿库娅",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/90a8ce6b29768cc59333ac426bb062d7d52758af.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/e73c8366b6a7121f8eeeecbe2db9407d03ccd325.png"
+      }
+    },
+    {
+      "id": "2372",
+      "description": "阿库娅_洋葱问号",
+      "shortCodes": [
+        "[阿库娅_洋葱问号]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/112/2372.png",
+      "isHide": false,
+      "packageId": "112",
+      "meta": {
+        "packageName": "湊-阿库娅",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/90a8ce6b29768cc59333ac426bb062d7d52758af.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/cd8ece00df1c19075077187bfb3aeb259678a5c5.png"
+      }
+    }
+  ]
+}

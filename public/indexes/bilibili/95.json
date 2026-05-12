@@ -1,0 +1,217 @@
+{
+  "id": "95",
+  "name": "双生视界·花嫁",
+  "coverUrl": "http://i0.hdslb.com/bfs/emote/8e447dcd42d4e653a1d04e39190ce6a2c999bf98.png",
+  "emojis": [
+    {
+      "id": "2111",
+      "description": "双生视界_星星眼",
+      "shortCodes": [
+        "[双生视界_星星眼]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/95/2111.png",
+      "isHide": false,
+      "packageId": "95",
+      "meta": {
+        "packageName": "双生视界·花嫁",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/8e447dcd42d4e653a1d04e39190ce6a2c999bf98.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/8660b2eeb15d9cf6a7ecb4fdad66b15366623a33.png"
+      }
+    },
+    {
+      "id": "2112",
+      "description": "双生视界_二胡爱豆",
+      "shortCodes": [
+        "[双生视界_二胡爱豆]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/95/2112.png",
+      "isHide": false,
+      "packageId": "95",
+      "meta": {
+        "packageName": "双生视界·花嫁",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/8e447dcd42d4e653a1d04e39190ce6a2c999bf98.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/9dcf4bc97143b64574cbb1865c74850eda5f554a.png"
+      }
+    },
+    {
+      "id": "2113",
+      "description": "双生视界_惊讶",
+      "shortCodes": [
+        "[双生视界_惊讶]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/95/2113.png",
+      "isHide": false,
+      "packageId": "95",
+      "meta": {
+        "packageName": "双生视界·花嫁",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/8e447dcd42d4e653a1d04e39190ce6a2c999bf98.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/67dd0a4443eaf2ec43d90bdcfd3011d9ed84dbf8.png"
+      }
+    },
+    {
+      "id": "2114",
+      "description": "双生视界_问号",
+      "shortCodes": [
+        "[双生视界_问号]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/95/2114.png",
+      "isHide": false,
+      "packageId": "95",
+      "meta": {
+        "packageName": "双生视界·花嫁",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/8e447dcd42d4e653a1d04e39190ce6a2c999bf98.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/018e9f627a5f0ae5fd8a54cd6c0b6f368b38b59c.png"
+      }
+    },
+    {
+      "id": "2115",
+      "description": "双生视界_为友谊干杯",
+      "shortCodes": [
+        "[双生视界_为友谊干杯]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/95/2115.png",
+      "isHide": false,
+      "packageId": "95",
+      "meta": {
+        "packageName": "双生视界·花嫁",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/8e447dcd42d4e653a1d04e39190ce6a2c999bf98.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/587dc47855c47f5147689d7fd2cabd65ed878243.png"
+      }
+    },
+    {
+      "id": "2116",
+      "description": "双生视界_无所谓",
+      "shortCodes": [
+        "[双生视界_无所谓]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/95/2116.png",
+      "isHide": false,
+      "packageId": "95",
+      "meta": {
+        "packageName": "双生视界·花嫁",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/8e447dcd42d4e653a1d04e39190ce6a2c999bf98.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/cad0261d1b8afee6b26c6044bb0f89a16c313554.png"
+      }
+    },
+    {
+      "id": "2117",
+      "description": "双生视界_傲娇脸",
+      "shortCodes": [
+        "[双生视界_傲娇脸]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/95/2117.png",
+      "isHide": false,
+      "packageId": "95",
+      "meta": {
+        "packageName": "双生视界·花嫁",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/8e447dcd42d4e653a1d04e39190ce6a2c999bf98.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/d33421f2b2d8e07359c2468579155dc2609b326a.png"
+      }
+    },
+    {
+      "id": "2118",
+      "description": "双生视界_叹气",
+      "shortCodes": [
+        "[双生视界_叹气]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/95/2118.png",
+      "isHide": false,
+      "packageId": "95",
+      "meta": {
+        "packageName": "双生视界·花嫁",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/8e447dcd42d4e653a1d04e39190ce6a2c999bf98.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/d471550062990d2aab313756b314ed1dcd0eef01.png"
+      }
+    },
+    {
+      "id": "2119",
+      "description": "双生视界_暗中观察",
+      "shortCodes": [
+        "[双生视界_暗中观察]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/95/2119.png",
+      "isHide": false,
+      "packageId": "95",
+      "meta": {
+        "packageName": "双生视界·花嫁",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/8e447dcd42d4e653a1d04e39190ce6a2c999bf98.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/f47dcd2d6c5902ff050a59b60b705222c3fbc041.png"
+      }
+    },
+    {
+      "id": "2120",
+      "description": "双生视界_推眼镜",
+      "shortCodes": [
+        "[双生视界_推眼镜]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/95/2120.png",
+      "isHide": false,
+      "packageId": "95",
+      "meta": {
+        "packageName": "双生视界·花嫁",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/8e447dcd42d4e653a1d04e39190ce6a2c999bf98.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/e602c2d6248b394fdfed808f8d82ef59e907ab38.png"
+      }
+    },
+    {
+      "id": "2121",
+      "description": "双生视界_祈祷",
+      "shortCodes": [
+        "[双生视界_祈祷]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/95/2121.png",
+      "isHide": false,
+      "packageId": "95",
+      "meta": {
+        "packageName": "双生视界·花嫁",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/8e447dcd42d4e653a1d04e39190ce6a2c999bf98.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/9159c23e7d3f7f52852b4dd8b3d8090f3c8c6365.png"
+      }
+    },
+    {
+      "id": "2122",
+      "description": "双生视界_加油",
+      "shortCodes": [
+        "[双生视界_加油]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/95/2122.png",
+      "isHide": false,
+      "packageId": "95",
+      "meta": {
+        "packageName": "双生视界·花嫁",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/8e447dcd42d4e653a1d04e39190ce6a2c999bf98.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/0f9bc49ee7bea906014dabab5925b9e94d5f4e04.png"
+      }
+    },
+    {
+      "id": "2123",
+      "description": "双生视界_摸头",
+      "shortCodes": [
+        "[双生视界_摸头]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/95/2123.png",
+      "isHide": false,
+      "packageId": "95",
+      "meta": {
+        "packageName": "双生视界·花嫁",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/8e447dcd42d4e653a1d04e39190ce6a2c999bf98.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/055949523a71fd36902e164840baa99d56bfa7be.png"
+      }
+    },
+    {
+      "id": "2124",
+      "description": "双生视界_比心",
+      "shortCodes": [
+        "[双生视界_比心]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/95/2124.png",
+      "isHide": false,
+      "packageId": "95",
+      "meta": {
+        "packageName": "双生视界·花嫁",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/8e447dcd42d4e653a1d04e39190ce6a2c999bf98.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/9c9cc7f0be191832c8edfc6f9f72f66ea016f26b.png"
+      }
+    }
+  ]
+}

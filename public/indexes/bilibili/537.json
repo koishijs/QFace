@@ -1,0 +1,307 @@
+{
+  "id": "537",
+  "name": "DOTA2 dodo",
+  "coverUrl": "http://i0.hdslb.com/bfs/emote/a483bb54e57cd60b2bb61e547c9486d6c7439ff6.png",
+  "emojis": [
+    {
+      "id": "9812",
+      "description": "DOTA2 dodo_吃面",
+      "shortCodes": [
+        "[DOTA2 dodo_吃面]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/537/9812.png",
+      "isHide": false,
+      "packageId": "537",
+      "meta": {
+        "packageName": "DOTA2 dodo",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/a483bb54e57cd60b2bb61e547c9486d6c7439ff6.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/7f5d5141a773bcd78eb81de5b379311ae9b0fbda.png"
+      }
+    },
+    {
+      "id": "9813",
+      "description": "DOTA2 dodo_酬勤",
+      "shortCodes": [
+        "[DOTA2 dodo_酬勤]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/537/9813.png",
+      "isHide": false,
+      "packageId": "537",
+      "meta": {
+        "packageName": "DOTA2 dodo",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/a483bb54e57cd60b2bb61e547c9486d6c7439ff6.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/b1cb296bac38f1860b7de02456aae978c6c75583.png"
+      }
+    },
+    {
+      "id": "9814",
+      "description": "DOTA2 dodo_大爱心眼",
+      "shortCodes": [
+        "[DOTA2 dodo_大爱心眼]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/537/9814.png",
+      "isHide": false,
+      "packageId": "537",
+      "meta": {
+        "packageName": "DOTA2 dodo",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/a483bb54e57cd60b2bb61e547c9486d6c7439ff6.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/ab39f56a565063235e995ed94728cd6aa4078174.png"
+      }
+    },
+    {
+      "id": "9815",
+      "description": "DOTA2 dodo_大笑",
+      "shortCodes": [
+        "[DOTA2 dodo_大笑]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/537/9815.png",
+      "isHide": false,
+      "packageId": "537",
+      "meta": {
+        "packageName": "DOTA2 dodo",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/a483bb54e57cd60b2bb61e547c9486d6c7439ff6.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/b7521ce59015a4285959f3dc4b95cd6c3bf730aa.png"
+      }
+    },
+    {
+      "id": "9816",
+      "description": "DOTA2 dodo_盖小被",
+      "shortCodes": [
+        "[DOTA2 dodo_盖小被]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/537/9816.png",
+      "isHide": false,
+      "packageId": "537",
+      "meta": {
+        "packageName": "DOTA2 dodo",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/a483bb54e57cd60b2bb61e547c9486d6c7439ff6.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/51fb3e757c74a8f0c6531dc8607b0eb13999d61f.png"
+      }
+    },
+    {
+      "id": "9817",
+      "description": "DOTA2 dodo_鼓掌",
+      "shortCodes": [
+        "[DOTA2 dodo_鼓掌]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/537/9817.png",
+      "isHide": false,
+      "packageId": "537",
+      "meta": {
+        "packageName": "DOTA2 dodo",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/a483bb54e57cd60b2bb61e547c9486d6c7439ff6.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/6ed7d0599b86c8cda9f43491dab84429ec4a48d8.png"
+      }
+    },
+    {
+      "id": "9818",
+      "description": "DOTA2 dodo_僵住",
+      "shortCodes": [
+        "[DOTA2 dodo_僵住]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/537/9818.png",
+      "isHide": false,
+      "packageId": "537",
+      "meta": {
+        "packageName": "DOTA2 dodo",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/a483bb54e57cd60b2bb61e547c9486d6c7439ff6.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/4e68961acea941c4a271aab58b89ce6d0602101e.png"
+      }
+    },
+    {
+      "id": "9819",
+      "description": "DOTA2 dodo_紧张",
+      "shortCodes": [
+        "[DOTA2 dodo_紧张]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/537/9819.png",
+      "isHide": false,
+      "packageId": "537",
+      "meta": {
+        "packageName": "DOTA2 dodo",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/a483bb54e57cd60b2bb61e547c9486d6c7439ff6.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/afa2c7e61f873f4c81fa2a8618e5111c93df11e4.png"
+      }
+    },
+    {
+      "id": "9820",
+      "description": "DOTA2 dodo_卡兵了",
+      "shortCodes": [
+        "[DOTA2 dodo_卡兵了]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/537/9820.png",
+      "isHide": false,
+      "packageId": "537",
+      "meta": {
+        "packageName": "DOTA2 dodo",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/a483bb54e57cd60b2bb61e547c9486d6c7439ff6.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/9d1a1cab920a74d61d88ec29298f18b43abeca82.png"
+      }
+    },
+    {
+      "id": "9821",
+      "description": "DOTA2 dodo_开心",
+      "shortCodes": [
+        "[DOTA2 dodo_开心]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/537/9821.png",
+      "isHide": false,
+      "packageId": "537",
+      "meta": {
+        "packageName": "DOTA2 dodo",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/a483bb54e57cd60b2bb61e547c9486d6c7439ff6.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/3d4cf6bfa7044d3448fbdeb3682b7babbb788e9d.png"
+      }
+    },
+    {
+      "id": "9822",
+      "description": "DOTA2 dodo_哭哭",
+      "shortCodes": [
+        "[DOTA2 dodo_哭哭]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/537/9822.png",
+      "isHide": false,
+      "packageId": "537",
+      "meta": {
+        "packageName": "DOTA2 dodo",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/a483bb54e57cd60b2bb61e547c9486d6c7439ff6.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/5970bde6ab648d8d096a1e09daa3032878e5a2fc.png"
+      }
+    },
+    {
+      "id": "9823",
+      "description": "DOTA2 dodo_愣住",
+      "shortCodes": [
+        "[DOTA2 dodo_愣住]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/537/9823.png",
+      "isHide": false,
+      "packageId": "537",
+      "meta": {
+        "packageName": "DOTA2 dodo",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/a483bb54e57cd60b2bb61e547c9486d6c7439ff6.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/453587c15ee9d4da0f96ecdf8e57a88a5a938b32.png"
+      }
+    },
+    {
+      "id": "9824",
+      "description": "DOTA2 dodo_两眼一黑",
+      "shortCodes": [
+        "[DOTA2 dodo_两眼一黑]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/537/9824.png",
+      "isHide": false,
+      "packageId": "537",
+      "meta": {
+        "packageName": "DOTA2 dodo",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/a483bb54e57cd60b2bb61e547c9486d6c7439ff6.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/21fd17a5852cf9b8b7afd2799e913816931245f1.png"
+      }
+    },
+    {
+      "id": "9825",
+      "description": "DOTA2 dodo_牛牛",
+      "shortCodes": [
+        "[DOTA2 dodo_牛牛]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/537/9825.png",
+      "isHide": false,
+      "packageId": "537",
+      "meta": {
+        "packageName": "DOTA2 dodo",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/a483bb54e57cd60b2bb61e547c9486d6c7439ff6.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/09082caa97a3366772b901bd3de9df35b7b17942.png"
+      }
+    },
+    {
+      "id": "9826",
+      "description": "DOTA2 dodo_上分",
+      "shortCodes": [
+        "[DOTA2 dodo_上分]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/537/9826.png",
+      "isHide": false,
+      "packageId": "537",
+      "meta": {
+        "packageName": "DOTA2 dodo",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/a483bb54e57cd60b2bb61e547c9486d6c7439ff6.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/fc00f55bb93d5d579e83959e77ab3b26d9632936.png"
+      }
+    },
+    {
+      "id": "9827",
+      "description": "DOTA2 dodo_生气",
+      "shortCodes": [
+        "[DOTA2 dodo_生气]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/537/9827.png",
+      "isHide": false,
+      "packageId": "537",
+      "meta": {
+        "packageName": "DOTA2 dodo",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/a483bb54e57cd60b2bb61e547c9486d6c7439ff6.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/909e7848f187a044543511df41d1deadd188250a.png"
+      }
+    },
+    {
+      "id": "9828",
+      "description": "DOTA2 dodo_省略号",
+      "shortCodes": [
+        "[DOTA2 dodo_省略号]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/537/9828.png",
+      "isHide": false,
+      "packageId": "537",
+      "meta": {
+        "packageName": "DOTA2 dodo",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/a483bb54e57cd60b2bb61e547c9486d6c7439ff6.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/4936d6e0484f2bf1d6f2c19fcd82206404fc0756.png"
+      }
+    },
+    {
+      "id": "9829",
+      "description": "DOTA2 dodo_问号",
+      "shortCodes": [
+        "[DOTA2 dodo_问号]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/537/9829.png",
+      "isHide": false,
+      "packageId": "537",
+      "meta": {
+        "packageName": "DOTA2 dodo",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/a483bb54e57cd60b2bb61e547c9486d6c7439ff6.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/f5a0bd650cbed13013404bc1d26ada70563288de.png"
+      }
+    },
+    {
+      "id": "9830",
+      "description": "DOTA2 dodo_阴险坏笑 ",
+      "shortCodes": [
+        "[DOTA2 dodo_阴险坏笑 ]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/537/9830.png",
+      "isHide": false,
+      "packageId": "537",
+      "meta": {
+        "packageName": "DOTA2 dodo",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/a483bb54e57cd60b2bb61e547c9486d6c7439ff6.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/069acb245f62ca1924e675b4f0007915ac782cc4.png"
+      }
+    },
+    {
+      "id": "9831",
+      "description": "DOTA2 dodo_自闭",
+      "shortCodes": [
+        "[DOTA2 dodo_自闭]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/537/9831.png",
+      "isHide": false,
+      "packageId": "537",
+      "meta": {
+        "packageName": "DOTA2 dodo",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/a483bb54e57cd60b2bb61e547c9486d6c7439ff6.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/6ff6349a97fa2249a0ec7a2ebdbafda6281ebdf5.png"
+      }
+    }
+  ]
+}

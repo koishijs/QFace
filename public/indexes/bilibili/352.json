@@ -1,0 +1,232 @@
+{
+  "id": "352",
+  "name": "巡音流歌",
+  "coverUrl": "http://i0.hdslb.com/bfs/emote/cb3fbf0097db0adc34b5798e73ffe5db6e2fa6d2.png",
+  "emojis": [
+    {
+      "id": "5776",
+      "description": "巡音流歌_啊咧",
+      "shortCodes": [
+        "[巡音流歌_啊咧]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/352/5776.png",
+      "isHide": false,
+      "packageId": "352",
+      "meta": {
+        "packageName": "巡音流歌",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/cb3fbf0097db0adc34b5798e73ffe5db6e2fa6d2.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/473286ea28141a5eeea2a67500c16a64657e696c.png"
+      }
+    },
+    {
+      "id": "5777",
+      "description": "巡音流歌_哎嘿",
+      "shortCodes": [
+        "[巡音流歌_哎嘿]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/352/5777.png",
+      "isHide": false,
+      "packageId": "352",
+      "meta": {
+        "packageName": "巡音流歌",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/cb3fbf0097db0adc34b5798e73ffe5db6e2fa6d2.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/eab88bd5862782e186392c36ddc40e8ef079179c.png"
+      }
+    },
+    {
+      "id": "5778",
+      "description": "巡音流歌_抱抱",
+      "shortCodes": [
+        "[巡音流歌_抱抱]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/352/5778.png",
+      "isHide": false,
+      "packageId": "352",
+      "meta": {
+        "packageName": "巡音流歌",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/cb3fbf0097db0adc34b5798e73ffe5db6e2fa6d2.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/c9afd34a06e07324c7b65525a7494f370ab4502f.png"
+      }
+    },
+    {
+      "id": "5779",
+      "description": "巡音流歌_比心",
+      "shortCodes": [
+        "[巡音流歌_比心]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/352/5779.png",
+      "isHide": false,
+      "packageId": "352",
+      "meta": {
+        "packageName": "巡音流歌",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/cb3fbf0097db0adc34b5798e73ffe5db6e2fa6d2.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/3b91cdff6386bb9dc3df3f865b65044c19443da1.png"
+      }
+    },
+    {
+      "id": "5780",
+      "description": "巡音流歌_不愧是我",
+      "shortCodes": [
+        "[巡音流歌_不愧是我]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/352/5780.png",
+      "isHide": false,
+      "packageId": "352",
+      "meta": {
+        "packageName": "巡音流歌",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/cb3fbf0097db0adc34b5798e73ffe5db6e2fa6d2.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/36f8f78fc2c4d09664ab47163c949ca8b174e9b2.png"
+      }
+    },
+    {
+      "id": "5781",
+      "description": "巡音流歌_达咩",
+      "shortCodes": [
+        "[巡音流歌_达咩]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/352/5781.png",
+      "isHide": false,
+      "packageId": "352",
+      "meta": {
+        "packageName": "巡音流歌",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/cb3fbf0097db0adc34b5798e73ffe5db6e2fa6d2.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/944f6f506fe3c90f97475037cace69c20a4f9859.png"
+      }
+    },
+    {
+      "id": "5782",
+      "description": "巡音流歌_对手指",
+      "shortCodes": [
+        "[巡音流歌_对手指]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/352/5782.png",
+      "isHide": false,
+      "packageId": "352",
+      "meta": {
+        "packageName": "巡音流歌",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/cb3fbf0097db0adc34b5798e73ffe5db6e2fa6d2.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/5ee6c0484513e0e50b16e480011801962be8fc8e.png"
+      }
+    },
+    {
+      "id": "5783",
+      "description": "巡音流歌_歌唱",
+      "shortCodes": [
+        "[巡音流歌_歌唱]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/352/5783.png",
+      "isHide": false,
+      "packageId": "352",
+      "meta": {
+        "packageName": "巡音流歌",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/cb3fbf0097db0adc34b5798e73ffe5db6e2fa6d2.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/c5e4790c3f22367fc38e85d99a70d268677fc050.png"
+      }
+    },
+    {
+      "id": "5784",
+      "description": "巡音流歌_好耶",
+      "shortCodes": [
+        "[巡音流歌_好耶]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/352/5784.png",
+      "isHide": false,
+      "packageId": "352",
+      "meta": {
+        "packageName": "巡音流歌",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/cb3fbf0097db0adc34b5798e73ffe5db6e2fa6d2.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/aae45aae7067f33fa68ed8f8025830659b41ba59.png"
+      }
+    },
+    {
+      "id": "5785",
+      "description": "巡音流歌_泪眼",
+      "shortCodes": [
+        "[巡音流歌_泪眼]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/352/5785.png",
+      "isHide": false,
+      "packageId": "352",
+      "meta": {
+        "packageName": "巡音流歌",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/cb3fbf0097db0adc34b5798e73ffe5db6e2fa6d2.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/ebff55df410a00d489e32ccd1650af46ad820325.png"
+      }
+    },
+    {
+      "id": "5786",
+      "description": "巡音流歌_趴",
+      "shortCodes": [
+        "[巡音流歌_趴]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/352/5786.png",
+      "isHide": false,
+      "packageId": "352",
+      "meta": {
+        "packageName": "巡音流歌",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/cb3fbf0097db0adc34b5798e73ffe5db6e2fa6d2.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/089c56d9b6c7e82adb1f88c0b348ab5520da897a.png"
+      }
+    },
+    {
+      "id": "5787",
+      "description": "巡音流歌_生气",
+      "shortCodes": [
+        "[巡音流歌_生气]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/352/5787.png",
+      "isHide": false,
+      "packageId": "352",
+      "meta": {
+        "packageName": "巡音流歌",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/cb3fbf0097db0adc34b5798e73ffe5db6e2fa6d2.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/cf24e3c8610faaba6167cab5cbc2b109fe76ff3e.png"
+      }
+    },
+    {
+      "id": "5788",
+      "description": "巡音流歌_摊手",
+      "shortCodes": [
+        "[巡音流歌_摊手]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/352/5788.png",
+      "isHide": false,
+      "packageId": "352",
+      "meta": {
+        "packageName": "巡音流歌",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/cb3fbf0097db0adc34b5798e73ffe5db6e2fa6d2.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/627473d46bfd5c9e5d846e37c743695d0ef39c34.png"
+      }
+    },
+    {
+      "id": "5789",
+      "description": "巡音流歌_托脸",
+      "shortCodes": [
+        "[巡音流歌_托脸]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/352/5789.png",
+      "isHide": false,
+      "packageId": "352",
+      "meta": {
+        "packageName": "巡音流歌",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/cb3fbf0097db0adc34b5798e73ffe5db6e2fa6d2.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/97440d6eb989abb3a1807aa47158832b94149f3d.png"
+      }
+    },
+    {
+      "id": "5790",
+      "description": "巡音流歌_wink",
+      "shortCodes": [
+        "[巡音流歌_wink]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/352/5790.png",
+      "isHide": false,
+      "packageId": "352",
+      "meta": {
+        "packageName": "巡音流歌",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/cb3fbf0097db0adc34b5798e73ffe5db6e2fa6d2.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/a0d1ca048ff88d81e907a82825f1d7ed1365d46c.png"
+      }
+    }
+  ]
+}

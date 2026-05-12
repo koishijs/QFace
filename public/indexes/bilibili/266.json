@@ -1,0 +1,307 @@
+{
+  "id": "266",
+  "name": "早稻叽",
+  "coverUrl": "http://i0.hdslb.com/bfs/emote/cfb11556f3cc040ee760b8b35fb72a766213aba2.png",
+  "emojis": [
+    {
+      "id": "4430",
+      "description": "早稻叽_AWSL",
+      "shortCodes": [
+        "[早稻叽_AWSL]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/266/4430.png",
+      "isHide": false,
+      "packageId": "266",
+      "meta": {
+        "packageName": "早稻叽",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/cfb11556f3cc040ee760b8b35fb72a766213aba2.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/a9248d92564ee4df5b4a2b9e640ac011ac1d1873.png"
+      }
+    },
+    {
+      "id": "4431",
+      "description": "早稻叽_no",
+      "shortCodes": [
+        "[早稻叽_no]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/266/4431.png",
+      "isHide": false,
+      "packageId": "266",
+      "meta": {
+        "packageName": "早稻叽",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/cfb11556f3cc040ee760b8b35fb72a766213aba2.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/ca71fa98b3c607eff563237bf300c62eef7fea3f.png"
+      }
+    },
+    {
+      "id": "4432",
+      "description": "早稻叽_YES!",
+      "shortCodes": [
+        "[早稻叽_YES!]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/266/4432.png",
+      "isHide": false,
+      "packageId": "266",
+      "meta": {
+        "packageName": "早稻叽",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/cfb11556f3cc040ee760b8b35fb72a766213aba2.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/1fff7c327eecde37450e3ea95e4cd86490239fd7.png"
+      }
+    },
+    {
+      "id": "4433",
+      "description": "早稻叽_馋",
+      "shortCodes": [
+        "[早稻叽_馋]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/266/4433.png",
+      "isHide": false,
+      "packageId": "266",
+      "meta": {
+        "packageName": "早稻叽",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/cfb11556f3cc040ee760b8b35fb72a766213aba2.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/03f5b4701892409a56fef5f5dbe49961a123dc3b.png"
+      }
+    },
+    {
+      "id": "4434",
+      "description": "早稻叽_嘲笑",
+      "shortCodes": [
+        "[早稻叽_嘲笑]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/266/4434.png",
+      "isHide": false,
+      "packageId": "266",
+      "meta": {
+        "packageName": "早稻叽",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/cfb11556f3cc040ee760b8b35fb72a766213aba2.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/25da932dfbdb0dc3e6f9c7f0fe62998da4d32237.png"
+      }
+    },
+    {
+      "id": "4435",
+      "description": "早稻叽_冲鸭",
+      "shortCodes": [
+        "[早稻叽_冲鸭]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/266/4435.png",
+      "isHide": false,
+      "packageId": "266",
+      "meta": {
+        "packageName": "早稻叽",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/cfb11556f3cc040ee760b8b35fb72a766213aba2.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/9a4548405d65bedacafe4e5ec3780d30c1901074.png"
+      }
+    },
+    {
+      "id": "4436",
+      "description": "早稻叽_薅呆毛",
+      "shortCodes": [
+        "[早稻叽_薅呆毛]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/266/4436.png",
+      "isHide": false,
+      "packageId": "266",
+      "meta": {
+        "packageName": "早稻叽",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/cfb11556f3cc040ee760b8b35fb72a766213aba2.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/5034d436bd693463f467421600f9dc940bcf373a.png"
+      }
+    },
+    {
+      "id": "4437",
+      "description": "早稻叽_老婆",
+      "shortCodes": [
+        "[早稻叽_老婆]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/266/4437.png",
+      "isHide": false,
+      "packageId": "266",
+      "meta": {
+        "packageName": "早稻叽",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/cfb11556f3cc040ee760b8b35fb72a766213aba2.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/e3d98dfb6d2573b6aa6736fec81948b538cb7f42.png"
+      }
+    },
+    {
+      "id": "4438",
+      "description": "早稻叽_泪目",
+      "shortCodes": [
+        "[早稻叽_泪目]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/266/4438.png",
+      "isHide": false,
+      "packageId": "266",
+      "meta": {
+        "packageName": "早稻叽",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/cfb11556f3cc040ee760b8b35fb72a766213aba2.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/0e661271a7e057593d5de2553cedb53d8795323d.png"
+      }
+    },
+    {
+      "id": "4439",
+      "description": "早稻叽_冒头",
+      "shortCodes": [
+        "[早稻叽_冒头]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/266/4439.png",
+      "isHide": false,
+      "packageId": "266",
+      "meta": {
+        "packageName": "早稻叽",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/cfb11556f3cc040ee760b8b35fb72a766213aba2.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/5e571b79019bd83a6a43c160c3be36d58d919a90.png"
+      }
+    },
+    {
+      "id": "4440",
+      "description": "早稻叽_生气",
+      "shortCodes": [
+        "[早稻叽_生气]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/266/4440.png",
+      "isHide": false,
+      "packageId": "266",
+      "meta": {
+        "packageName": "早稻叽",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/cfb11556f3cc040ee760b8b35fb72a766213aba2.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/3c181a5b1272b78a9e2c62fe94122853467f4ef9.png"
+      }
+    },
+    {
+      "id": "4441",
+      "description": "早稻叽_瘫",
+      "shortCodes": [
+        "[早稻叽_瘫]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/266/4441.png",
+      "isHide": false,
+      "packageId": "266",
+      "meta": {
+        "packageName": "早稻叽",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/cfb11556f3cc040ee760b8b35fb72a766213aba2.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/25f41df16a9180b367a544a7be7a84e46f11dd27.png"
+      }
+    },
+    {
+      "id": "4442",
+      "description": "早稻叽_打嗝",
+      "shortCodes": [
+        "[早稻叽_打嗝]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/266/4442.png",
+      "isHide": false,
+      "packageId": "266",
+      "meta": {
+        "packageName": "早稻叽",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/cfb11556f3cc040ee760b8b35fb72a766213aba2.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/60c9cf2c10fa9d3ed861042eba452795640b2da2.png"
+      }
+    },
+    {
+      "id": "4443",
+      "description": "早稻叽_元气满满",
+      "shortCodes": [
+        "[早稻叽_元气满满]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/266/4443.png",
+      "isHide": false,
+      "packageId": "266",
+      "meta": {
+        "packageName": "早稻叽",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/cfb11556f3cc040ee760b8b35fb72a766213aba2.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/646c585ba5ee70314ca8253f1116f1bfd6784ef0.png"
+      }
+    },
+    {
+      "id": "4444",
+      "description": "早稻叽_比心",
+      "shortCodes": [
+        "[早稻叽_比心]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/266/4444.png",
+      "isHide": false,
+      "packageId": "266",
+      "meta": {
+        "packageName": "早稻叽",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/cfb11556f3cc040ee760b8b35fb72a766213aba2.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/ab403bbd217f2c0d7c1a0d3e8e93a68630a2f899.png"
+      }
+    },
+    {
+      "id": "4445",
+      "description": "早稻叽_戳",
+      "shortCodes": [
+        "[早稻叽_戳]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/266/4445.png",
+      "isHide": false,
+      "packageId": "266",
+      "meta": {
+        "packageName": "早稻叽",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/cfb11556f3cc040ee760b8b35fb72a766213aba2.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/20207b079413be77bd24c9c208e7a1a997ababc6.png"
+      }
+    },
+    {
+      "id": "4446",
+      "description": "早稻叽_牛啊",
+      "shortCodes": [
+        "[早稻叽_牛啊]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/266/4446.png",
+      "isHide": false,
+      "packageId": "266",
+      "meta": {
+        "packageName": "早稻叽",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/cfb11556f3cc040ee760b8b35fb72a766213aba2.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/18f0ec451668845738b0fb211cbc7de1fc554709.png"
+      }
+    },
+    {
+      "id": "4447",
+      "description": "早稻叽_亲亲",
+      "shortCodes": [
+        "[早稻叽_亲亲]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/266/4447.png",
+      "isHide": false,
+      "packageId": "266",
+      "meta": {
+        "packageName": "早稻叽",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/cfb11556f3cc040ee760b8b35fb72a766213aba2.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/40ec9fbe3e7d084d94192f7686efe6c0dbe8af1f.png"
+      }
+    },
+    {
+      "id": "4448",
+      "description": "早稻叽_无语",
+      "shortCodes": [
+        "[早稻叽_无语]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/266/4448.png",
+      "isHide": false,
+      "packageId": "266",
+      "meta": {
+        "packageName": "早稻叽",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/cfb11556f3cc040ee760b8b35fb72a766213aba2.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/be7c3d0e309df2b207946e2509bd1b7c73ba2b68.png"
+      }
+    },
+    {
+      "id": "4449",
+      "description": "早稻叽_亿点点",
+      "shortCodes": [
+        "[早稻叽_亿点点]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/266/4449.png",
+      "isHide": false,
+      "packageId": "266",
+      "meta": {
+        "packageName": "早稻叽",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/cfb11556f3cc040ee760b8b35fb72a766213aba2.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/4e7db9af32b3b64f8a7d46e6ebe96823e11843e7.png"
+      }
+    }
+  ]
+}

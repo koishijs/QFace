@@ -1,0 +1,157 @@
+{
+  "id": "171",
+  "name": "星座系列：水瓶座",
+  "coverUrl": "http://i0.hdslb.com/bfs/emote/7892fdd85d0b1e8ab7f1c127a659a0e61347a16d.png",
+  "emojis": [
+    {
+      "id": "3131",
+      "description": "水瓶座_捕捉",
+      "shortCodes": [
+        "[水瓶座_捕捉]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/171/3131.png",
+      "isHide": false,
+      "packageId": "171",
+      "meta": {
+        "packageName": "星座系列：水瓶座",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/7892fdd85d0b1e8ab7f1c127a659a0e61347a16d.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/1a49d0152e3839825cc271212c581673a345e552.png"
+      }
+    },
+    {
+      "id": "3132",
+      "description": "水瓶座_灌水",
+      "shortCodes": [
+        "[水瓶座_灌水]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/171/3132.png",
+      "isHide": false,
+      "packageId": "171",
+      "meta": {
+        "packageName": "星座系列：水瓶座",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/7892fdd85d0b1e8ab7f1c127a659a0e61347a16d.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/57b277a56c5833460c8399c4a7b317eb98831095.png"
+      }
+    },
+    {
+      "id": "3133",
+      "description": "水瓶座_好冷",
+      "shortCodes": [
+        "[水瓶座_好冷]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/171/3133.png",
+      "isHide": false,
+      "packageId": "171",
+      "meta": {
+        "packageName": "星座系列：水瓶座",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/7892fdd85d0b1e8ab7f1c127a659a0e61347a16d.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/4dfe3493c5c713937d8ec865185b234290af82eb.png"
+      }
+    },
+    {
+      "id": "3134",
+      "description": "水瓶座_喝热水",
+      "shortCodes": [
+        "[水瓶座_喝热水]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/171/3134.png",
+      "isHide": false,
+      "packageId": "171",
+      "meta": {
+        "packageName": "星座系列：水瓶座",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/7892fdd85d0b1e8ab7f1c127a659a0e61347a16d.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/bcaf5d12dc4048d3f4ae58d214080d8c88f317cf.png"
+      }
+    },
+    {
+      "id": "3135",
+      "description": "水瓶座_哭哭",
+      "shortCodes": [
+        "[水瓶座_哭哭]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/171/3135.png",
+      "isHide": false,
+      "packageId": "171",
+      "meta": {
+        "packageName": "星座系列：水瓶座",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/7892fdd85d0b1e8ab7f1c127a659a0e61347a16d.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/cbb33224752856ed76bc56369730d424a5063544.png"
+      }
+    },
+    {
+      "id": "3136",
+      "description": "水瓶座_困了",
+      "shortCodes": [
+        "[水瓶座_困了]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/171/3136.png",
+      "isHide": false,
+      "packageId": "171",
+      "meta": {
+        "packageName": "星座系列：水瓶座",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/7892fdd85d0b1e8ab7f1c127a659a0e61347a16d.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/e6e1c75d4c1b2030c92d0ab9cef390e25250d844.png"
+      }
+    },
+    {
+      "id": "3137",
+      "description": "水瓶座_水平真高",
+      "shortCodes": [
+        "[水瓶座_水平真高]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/171/3137.png",
+      "isHide": false,
+      "packageId": "171",
+      "meta": {
+        "packageName": "星座系列：水瓶座",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/7892fdd85d0b1e8ab7f1c127a659a0e61347a16d.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/67d015392c7cd038816d123ecb7618b189ba47db.png"
+      }
+    },
+    {
+      "id": "3138",
+      "description": "水瓶座_贴贴",
+      "shortCodes": [
+        "[水瓶座_贴贴]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/171/3138.png",
+      "isHide": false,
+      "packageId": "171",
+      "meta": {
+        "packageName": "星座系列：水瓶座",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/7892fdd85d0b1e8ab7f1c127a659a0e61347a16d.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/bd7d67307fbcb85495a8d76b27c29c461348a5f1.png"
+      }
+    },
+    {
+      "id": "3139",
+      "description": "水瓶座_糟了！！",
+      "shortCodes": [
+        "[水瓶座_糟了！！]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/171/3139.png",
+      "isHide": false,
+      "packageId": "171",
+      "meta": {
+        "packageName": "星座系列：水瓶座",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/7892fdd85d0b1e8ab7f1c127a659a0e61347a16d.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/c0550e0d8e3b7ca3ce752aef9ec66860392dbaee.png"
+      }
+    },
+    {
+      "id": "3140",
+      "description": "水瓶座_住口",
+      "shortCodes": [
+        "[水瓶座_住口]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/171/3140.png",
+      "isHide": false,
+      "packageId": "171",
+      "meta": {
+        "packageName": "星座系列：水瓶座",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/7892fdd85d0b1e8ab7f1c127a659a0e61347a16d.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/533614a263c97087afd7985ec834adb5ecf45c6b.png"
+      }
+    }
+  ]
+}

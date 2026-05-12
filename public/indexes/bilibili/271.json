@@ -1,0 +1,157 @@
+{
+  "id": "271",
+  "name": "星座系列：处女座",
+  "coverUrl": "http://i0.hdslb.com/bfs/emote/0815c9f32f363abc53d8d958f9d121906225b909.png",
+  "emojis": [
+    {
+      "id": "4501",
+      "description": "处女座_nice",
+      "shortCodes": [
+        "[处女座_nice]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/271/4501.png",
+      "isHide": false,
+      "packageId": "271",
+      "meta": {
+        "packageName": "星座系列：处女座",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/0815c9f32f363abc53d8d958f9d121906225b909.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/18bf3fb727902a2ece5c480726a2e1bf833a2899.png"
+      }
+    },
+    {
+      "id": "4502",
+      "description": "处女座_sos",
+      "shortCodes": [
+        "[处女座_sos]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/271/4502.png",
+      "isHide": false,
+      "packageId": "271",
+      "meta": {
+        "packageName": "星座系列：处女座",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/0815c9f32f363abc53d8d958f9d121906225b909.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/e6bd380d3d2e4182fa4c64021f88da77fa6c1665.png"
+      }
+    },
+    {
+      "id": "4503",
+      "description": "处女座_啊呀呀",
+      "shortCodes": [
+        "[处女座_啊呀呀]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/271/4503.png",
+      "isHide": false,
+      "packageId": "271",
+      "meta": {
+        "packageName": "星座系列：处女座",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/0815c9f32f363abc53d8d958f9d121906225b909.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/a85c8542976162c59f789bc22a3093320992aa63.png"
+      }
+    },
+    {
+      "id": "4504",
+      "description": "处女座_净化",
+      "shortCodes": [
+        "[处女座_净化]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/271/4504.png",
+      "isHide": false,
+      "packageId": "271",
+      "meta": {
+        "packageName": "星座系列：处女座",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/0815c9f32f363abc53d8d958f9d121906225b909.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/ca2cb2ef5741d52feda2a63f9efd7510a101d05a.png"
+      }
+    },
+    {
+      "id": "4505",
+      "description": "处女座_拿来吧你",
+      "shortCodes": [
+        "[处女座_拿来吧你]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/271/4505.png",
+      "isHide": false,
+      "packageId": "271",
+      "meta": {
+        "packageName": "星座系列：处女座",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/0815c9f32f363abc53d8d958f9d121906225b909.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/0f33795cd299c491ab12f2a8a94ad66d31cd8b71.png"
+      }
+    },
+    {
+      "id": "4506",
+      "description": "处女座_让我康康",
+      "shortCodes": [
+        "[处女座_让我康康]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/271/4506.png",
+      "isHide": false,
+      "packageId": "271",
+      "meta": {
+        "packageName": "星座系列：处女座",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/0815c9f32f363abc53d8d958f9d121906225b909.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/f63d78a07f6e1ef7d7b6b08e43d3c6ef3f2a71b6.png"
+      }
+    },
+    {
+      "id": "4507",
+      "description": "处女座_贴贴",
+      "shortCodes": [
+        "[处女座_贴贴]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/271/4507.png",
+      "isHide": false,
+      "packageId": "271",
+      "meta": {
+        "packageName": "星座系列：处女座",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/0815c9f32f363abc53d8d958f9d121906225b909.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/f51ba50b6432e6f7410571c4d3a963b60ecbfcd9.png"
+      }
+    },
+    {
+      "id": "4508",
+      "description": "处女座_呜呜",
+      "shortCodes": [
+        "[处女座_呜呜]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/271/4508.png",
+      "isHide": false,
+      "packageId": "271",
+      "meta": {
+        "packageName": "星座系列：处女座",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/0815c9f32f363abc53d8d958f9d121906225b909.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/fb5d7e2edb969f571898948f0cc00d1e8d9b6f42.png"
+      }
+    },
+    {
+      "id": "4509",
+      "description": "处女座_优雅",
+      "shortCodes": [
+        "[处女座_优雅]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/271/4509.png",
+      "isHide": false,
+      "packageId": "271",
+      "meta": {
+        "packageName": "星座系列：处女座",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/0815c9f32f363abc53d8d958f9d121906225b909.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/d7120c1ffe9d52b8edb4e23398cd6cd212d68a5e.png"
+      }
+    },
+    {
+      "id": "4510",
+      "description": "处女座_啊？",
+      "shortCodes": [
+        "[处女座_啊？]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/271/4510.png",
+      "isHide": false,
+      "packageId": "271",
+      "meta": {
+        "packageName": "星座系列：处女座",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/0815c9f32f363abc53d8d958f9d121906225b909.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/b3d607664171ca08e91b82559a7e081cad82ce09.png"
+      }
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "id": "145",
+  "name": "星座系列：射手座",
+  "coverUrl": "http://i0.hdslb.com/bfs/emote/f7979b308d6d7db016ee9a8aef921e600b839b96.png",
+  "emojis": [
+    {
+      "id": "2776",
+      "description": "射手座_好家伙",
+      "shortCodes": [
+        "[射手座_好家伙]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/145/2776.png",
+      "isHide": false,
+      "packageId": "145",
+      "meta": {
+        "packageName": "星座系列：射手座",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/f7979b308d6d7db016ee9a8aef921e600b839b96.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/502ca4fb456486d9584d23959a9c381b4246422d.png"
+      }
+    },
+    {
+      "id": "2777",
+      "description": "射手座_浪起来！",
+      "shortCodes": [
+        "[射手座_浪起来！]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/145/2777.png",
+      "isHide": false,
+      "packageId": "145",
+      "meta": {
+        "packageName": "星座系列：射手座",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/f7979b308d6d7db016ee9a8aef921e600b839b96.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/6339c7ff60c31cdb42af96e94552c790a03401f6.png"
+      }
+    },
+    {
+      "id": "2778",
+      "description": "射手座_乐观",
+      "shortCodes": [
+        "[射手座_乐观]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/145/2778.png",
+      "isHide": false,
+      "packageId": "145",
+      "meta": {
+        "packageName": "星座系列：射手座",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/f7979b308d6d7db016ee9a8aef921e600b839b96.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/1c0a87af0351c1ec4b9bdc884795b467320e2b15.png"
+      }
+    },
+    {
+      "id": "2779",
+      "description": "射手座_撩你",
+      "shortCodes": [
+        "[射手座_撩你]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/145/2779.png",
+      "isHide": false,
+      "packageId": "145",
+      "meta": {
+        "packageName": "星座系列：射手座",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/f7979b308d6d7db016ee9a8aef921e600b839b96.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/b99cc10e1e9be92f25079adc861cf9ba27b01852.png"
+      }
+    },
+    {
+      "id": "2780",
+      "description": "射手座_认识一下",
+      "shortCodes": [
+        "[射手座_认识一下]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/145/2780.png",
+      "isHide": false,
+      "packageId": "145",
+      "meta": {
+        "packageName": "星座系列：射手座",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/f7979b308d6d7db016ee9a8aef921e600b839b96.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/b63cc2582b42d4ae77c8316f4cb8473882582983.png"
+      }
+    },
+    {
+      "id": "2781",
+      "description": "射手座_随便",
+      "shortCodes": [
+        "[射手座_随便]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/145/2781.png",
+      "isHide": false,
+      "packageId": "145",
+      "meta": {
+        "packageName": "星座系列：射手座",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/f7979b308d6d7db016ee9a8aef921e600b839b96.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/5a77ddb68e4b6551b1a22fb2d5b02be7f757f38c.png"
+      }
+    },
+    {
+      "id": "2782",
+      "description": "射手座_贴贴",
+      "shortCodes": [
+        "[射手座_贴贴]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/145/2782.png",
+      "isHide": false,
+      "packageId": "145",
+      "meta": {
+        "packageName": "星座系列：射手座",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/f7979b308d6d7db016ee9a8aef921e600b839b96.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/1cd18280f2e54d7383178795e90ffc3b929c5ea1.png"
+      }
+    },
+    {
+      "id": "2783",
+      "description": "射手座_突然消失",
+      "shortCodes": [
+        "[射手座_突然消失]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/145/2783.png",
+      "isHide": false,
+      "packageId": "145",
+      "meta": {
+        "packageName": "星座系列：射手座",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/f7979b308d6d7db016ee9a8aef921e600b839b96.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/af955884bb59435feca2888526bb1bd0b308ad38.png"
+      }
+    },
+    {
+      "id": "2784",
+      "description": "射手座_真麻烦",
+      "shortCodes": [
+        "[射手座_真麻烦]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/145/2784.png",
+      "isHide": false,
+      "packageId": "145",
+      "meta": {
+        "packageName": "星座系列：射手座",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/f7979b308d6d7db016ee9a8aef921e600b839b96.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/a5752f6e0d1c4967c9634e87ff12fcea1f33f558.png"
+      }
+    },
+    {
+      "id": "2785",
+      "description": "射手座_自由万岁！",
+      "shortCodes": [
+        "[射手座_自由万岁！]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/145/2785.png",
+      "isHide": false,
+      "packageId": "145",
+      "meta": {
+        "packageName": "星座系列：射手座",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/f7979b308d6d7db016ee9a8aef921e600b839b96.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/f04543bb7fd70351d152dfde8a9fd39d69c047bf.png"
+      }
+    }
+  ]
+}

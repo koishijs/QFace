@@ -1,0 +1,457 @@
+{
+  "id": "84",
+  "name": "崩坏3",
+  "coverUrl": "https://i0.hdslb.com/bfs/emote/6581762537c911217b7a877a959133addabb5b89.png",
+  "emojis": [
+    {
+      "id": "1907",
+      "description": "崩坏3_点赞",
+      "shortCodes": [
+        "[崩坏3_点赞]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/84/1907.png",
+      "isHide": false,
+      "packageId": "84",
+      "meta": {
+        "packageName": "崩坏3",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/6581762537c911217b7a877a959133addabb5b89.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/055a130541fe95e20aa541db5a5a48d0cbc728b6.png"
+      }
+    },
+    {
+      "id": "1908",
+      "description": "崩坏3_入欧",
+      "shortCodes": [
+        "[崩坏3_入欧]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/84/1908.png",
+      "isHide": false,
+      "packageId": "84",
+      "meta": {
+        "packageName": "崩坏3",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/6581762537c911217b7a877a959133addabb5b89.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/5d532eab104881e7dd63be1083a78ab36878c3b4.png"
+      }
+    },
+    {
+      "id": "1909",
+      "description": "崩坏3_脱非",
+      "shortCodes": [
+        "[崩坏3_脱非]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/84/1909.png",
+      "isHide": false,
+      "packageId": "84",
+      "meta": {
+        "packageName": "崩坏3",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/6581762537c911217b7a877a959133addabb5b89.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/ac31b7219032b6e714c189d65a669ca3ca2d3e77.png"
+      }
+    },
+    {
+      "id": "1910",
+      "description": "崩坏3_快乐",
+      "shortCodes": [
+        "[崩坏3_快乐]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/84/1910.png",
+      "isHide": false,
+      "packageId": "84",
+      "meta": {
+        "packageName": "崩坏3",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/6581762537c911217b7a877a959133addabb5b89.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/a3ec46f1255dbf96d413231862399b939dc2110e.png"
+      }
+    },
+    {
+      "id": "1911",
+      "description": "崩坏3_注入灵魂",
+      "shortCodes": [
+        "[崩坏3_注入灵魂]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/84/1911.png",
+      "isHide": false,
+      "packageId": "84",
+      "meta": {
+        "packageName": "崩坏3",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/6581762537c911217b7a877a959133addabb5b89.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/5bf261f6fb91463e1ff1c80dd0fefd6bcd31aedf.png"
+      }
+    },
+    {
+      "id": "1912",
+      "description": "崩坏3_危险",
+      "shortCodes": [
+        "[崩坏3_危险]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/84/1912.png",
+      "isHide": false,
+      "packageId": "84",
+      "meta": {
+        "packageName": "崩坏3",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/6581762537c911217b7a877a959133addabb5b89.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/3a6af29282b6e09ce7881c9aebc187d03268b25f.png"
+      }
+    },
+    {
+      "id": "1913",
+      "description": "崩坏3_吃瓜",
+      "shortCodes": [
+        "[崩坏3_吃瓜]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/84/1913.png",
+      "isHide": false,
+      "packageId": "84",
+      "meta": {
+        "packageName": "崩坏3",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/6581762537c911217b7a877a959133addabb5b89.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/9ecead2805adf05a308e1093fb8d4941d0366189.png"
+      }
+    },
+    {
+      "id": "1914",
+      "description": "崩坏3_糖葫芦",
+      "shortCodes": [
+        "[崩坏3_糖葫芦]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/84/1914.png",
+      "isHide": false,
+      "packageId": "84",
+      "meta": {
+        "packageName": "崩坏3",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/6581762537c911217b7a877a959133addabb5b89.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/f54e160beaf3f7b55a87d0da9a6eccefc7bd70d6.png"
+      }
+    },
+    {
+      "id": "1915",
+      "description": "崩坏3_路过",
+      "shortCodes": [
+        "[崩坏3_路过]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/84/1915.png",
+      "isHide": false,
+      "packageId": "84",
+      "meta": {
+        "packageName": "崩坏3",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/6581762537c911217b7a877a959133addabb5b89.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/13a7f9e81f4005c29466e8d65eabbf3167902f9d.png"
+      }
+    },
+    {
+      "id": "1916",
+      "description": "崩坏3_魔法少女",
+      "shortCodes": [
+        "[崩坏3_魔法少女]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/84/1916.png",
+      "isHide": false,
+      "packageId": "84",
+      "meta": {
+        "packageName": "崩坏3",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/6581762537c911217b7a877a959133addabb5b89.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/da063804b5b8d44c288dd2c45f472741c00c8625.png"
+      }
+    },
+    {
+      "id": "1917",
+      "description": "崩坏3_特效",
+      "shortCodes": [
+        "[崩坏3_特效]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/84/1917.png",
+      "isHide": false,
+      "packageId": "84",
+      "meta": {
+        "packageName": "崩坏3",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/6581762537c911217b7a877a959133addabb5b89.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/a1bb1caf129b5e28f2c331667f9e38808050e8a8.png"
+      }
+    },
+    {
+      "id": "1918",
+      "description": "崩坏3_唢呐",
+      "shortCodes": [
+        "[崩坏3_唢呐]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/84/1918.png",
+      "isHide": false,
+      "packageId": "84",
+      "meta": {
+        "packageName": "崩坏3",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/6581762537c911217b7a877a959133addabb5b89.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/032301ad0e61395a266e7f9b4ebcf83bd2acca03.png"
+      }
+    },
+    {
+      "id": "1919",
+      "description": "崩坏3_琵琶",
+      "shortCodes": [
+        "[崩坏3_琵琶]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/84/1919.png",
+      "isHide": false,
+      "packageId": "84",
+      "meta": {
+        "packageName": "崩坏3",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/6581762537c911217b7a877a959133addabb5b89.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/13c3e61eec3a61a3e0ae2883a488ce9b45cddecc.png"
+      }
+    },
+    {
+      "id": "1920",
+      "description": "崩坏3_二胡",
+      "shortCodes": [
+        "[崩坏3_二胡]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/84/1920.png",
+      "isHide": false,
+      "packageId": "84",
+      "meta": {
+        "packageName": "崩坏3",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/6581762537c911217b7a877a959133addabb5b89.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/b2e3acfba545c61c334eacf5a5b7694e071d834f.png"
+      }
+    },
+    {
+      "id": "1921",
+      "description": "崩坏3_笛子",
+      "shortCodes": [
+        "[崩坏3_笛子]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/84/1921.png",
+      "isHide": false,
+      "packageId": "84",
+      "meta": {
+        "packageName": "崩坏3",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/6581762537c911217b7a877a959133addabb5b89.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/3dae79d5ce1d826d6d16404dff7bf22474c7015b.png"
+      }
+    },
+    {
+      "id": "1922",
+      "description": "崩坏3_镲",
+      "shortCodes": [
+        "[崩坏3_镲]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/84/1922.png",
+      "isHide": false,
+      "packageId": "84",
+      "meta": {
+        "packageName": "崩坏3",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/6581762537c911217b7a877a959133addabb5b89.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/dcce1ad4d53a25c52946821c0d3a4b7dd80e5a42.png"
+      }
+    },
+    {
+      "id": "1923",
+      "description": "崩坏3_红包",
+      "shortCodes": [
+        "[崩坏3_红包]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/84/1923.png",
+      "isHide": false,
+      "packageId": "84",
+      "meta": {
+        "packageName": "崩坏3",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/6581762537c911217b7a877a959133addabb5b89.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/4bd80539d828ad6894ccb099b5b04769820d49d6.png"
+      }
+    },
+    {
+      "id": "1924",
+      "description": "崩坏3_谈话",
+      "shortCodes": [
+        "[崩坏3_谈话]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/84/1924.png",
+      "isHide": false,
+      "packageId": "84",
+      "meta": {
+        "packageName": "崩坏3",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/6581762537c911217b7a877a959133addabb5b89.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/4794f82d166b1f8bfae7783859913e03fe42ae81.png"
+      }
+    },
+    {
+      "id": "1925",
+      "description": "崩坏3_无辜",
+      "shortCodes": [
+        "[崩坏3_无辜]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/84/1925.png",
+      "isHide": false,
+      "packageId": "84",
+      "meta": {
+        "packageName": "崩坏3",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/6581762537c911217b7a877a959133addabb5b89.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/4e1f4e9a375beaa4e93d057a4e285c924635235f.png"
+      }
+    },
+    {
+      "id": "1926",
+      "description": "崩坏3_星星眼",
+      "shortCodes": [
+        "[崩坏3_星星眼]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/84/1926.png",
+      "isHide": false,
+      "packageId": "84",
+      "meta": {
+        "packageName": "崩坏3",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/6581762537c911217b7a877a959133addabb5b89.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/b5fffeead2dc05c7f902f1c7136178c6a63e508a.png"
+      }
+    },
+    {
+      "id": "1927",
+      "description": "崩坏3_微笑",
+      "shortCodes": [
+        "[崩坏3_微笑]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/84/1927.png",
+      "isHide": false,
+      "packageId": "84",
+      "meta": {
+        "packageName": "崩坏3",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/6581762537c911217b7a877a959133addabb5b89.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/c2c6c0604af985b745322954814863e47f6fb6d5.png"
+      }
+    },
+    {
+      "id": "1928",
+      "description": "崩坏3_开心",
+      "shortCodes": [
+        "[崩坏3_开心]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/84/1928.png",
+      "isHide": false,
+      "packageId": "84",
+      "meta": {
+        "packageName": "崩坏3",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/6581762537c911217b7a877a959133addabb5b89.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/3657a825b87ec063d6e2a3c201da2056e45db938.png"
+      }
+    },
+    {
+      "id": "1929",
+      "description": "崩坏3_幸福",
+      "shortCodes": [
+        "[崩坏3_幸福]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/84/1929.png",
+      "isHide": false,
+      "packageId": "84",
+      "meta": {
+        "packageName": "崩坏3",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/6581762537c911217b7a877a959133addabb5b89.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/714cc90d3485a003f53eecec336bea8a0b2dc12d.png"
+      }
+    },
+    {
+      "id": "1930",
+      "description": "崩坏3_吃",
+      "shortCodes": [
+        "[崩坏3_吃]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/84/1930.png",
+      "isHide": false,
+      "packageId": "84",
+      "meta": {
+        "packageName": "崩坏3",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/6581762537c911217b7a877a959133addabb5b89.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/c26ae762270b756b68a7f5c63d43078e874fbead.png"
+      }
+    },
+    {
+      "id": "1931",
+      "description": "崩坏3_口水",
+      "shortCodes": [
+        "[崩坏3_口水]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/84/1931.png",
+      "isHide": false,
+      "packageId": "84",
+      "meta": {
+        "packageName": "崩坏3",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/6581762537c911217b7a877a959133addabb5b89.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/7a66d7e1902b766a2b930009687be5171018f1ff.png"
+      }
+    },
+    {
+      "id": "1932",
+      "description": "崩坏3_惊",
+      "shortCodes": [
+        "[崩坏3_惊]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/84/1932.png",
+      "isHide": false,
+      "packageId": "84",
+      "meta": {
+        "packageName": "崩坏3",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/6581762537c911217b7a877a959133addabb5b89.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/672ab0cac8e29270a0ea1788df5711ce716b6942.png"
+      }
+    },
+    {
+      "id": "1933",
+      "description": "崩坏3_哭哭",
+      "shortCodes": [
+        "[崩坏3_哭哭]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/84/1933.png",
+      "isHide": false,
+      "packageId": "84",
+      "meta": {
+        "packageName": "崩坏3",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/6581762537c911217b7a877a959133addabb5b89.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/f432d349d44aad9873da18b27a6367c3ea7cfebc.png"
+      }
+    },
+    {
+      "id": "1934",
+      "description": "崩坏3_纠结",
+      "shortCodes": [
+        "[崩坏3_纠结]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/84/1934.png",
+      "isHide": false,
+      "packageId": "84",
+      "meta": {
+        "packageName": "崩坏3",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/6581762537c911217b7a877a959133addabb5b89.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/864ff2ef1546534f5b53b279332e3950a86cf008.png"
+      }
+    },
+    {
+      "id": "1935",
+      "description": "崩坏3_疑问",
+      "shortCodes": [
+        "[崩坏3_疑问]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/84/1935.png",
+      "isHide": false,
+      "packageId": "84",
+      "meta": {
+        "packageName": "崩坏3",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/6581762537c911217b7a877a959133addabb5b89.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/bdda506f56f5a42e365b6f2f8d2128f799f8310e.png"
+      }
+    },
+    {
+      "id": "1936",
+      "description": "崩坏3_有主意了",
+      "shortCodes": [
+        "[崩坏3_有主意了]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/84/1936.png",
+      "isHide": false,
+      "packageId": "84",
+      "meta": {
+        "packageName": "崩坏3",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/6581762537c911217b7a877a959133addabb5b89.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/38676ebb4c51fdda6302a5cb131ae94d35be4f8b.png"
+      }
+    }
+  ]
+}

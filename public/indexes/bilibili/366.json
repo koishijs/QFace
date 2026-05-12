@@ -1,0 +1,307 @@
+{
+  "id": "366",
+  "name": "崩坏学园2",
+  "coverUrl": "http://i0.hdslb.com/bfs/emote/12f91154c20bdbb906de1ec1da2720185e99b5e1.png",
+  "emojis": [
+    {
+      "id": "6022",
+      "description": "崩坏学园2_震惊",
+      "shortCodes": [
+        "[崩坏学园2_震惊]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/366/6022.png",
+      "isHide": false,
+      "packageId": "366",
+      "meta": {
+        "packageName": "崩坏学园2",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/12f91154c20bdbb906de1ec1da2720185e99b5e1.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/348c462a8a469a5f59ddfee36c79e67f443f40d3.png"
+      }
+    },
+    {
+      "id": "6023",
+      "description": "崩坏学园2_记仇",
+      "shortCodes": [
+        "[崩坏学园2_记仇]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/366/6023.png",
+      "isHide": false,
+      "packageId": "366",
+      "meta": {
+        "packageName": "崩坏学园2",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/12f91154c20bdbb906de1ec1da2720185e99b5e1.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/2410b93a2bf616b4fea4a43250aa82af5878ff89.png"
+      }
+    },
+    {
+      "id": "6024",
+      "description": "崩坏学园2_花痴",
+      "shortCodes": [
+        "[崩坏学园2_花痴]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/366/6024.png",
+      "isHide": false,
+      "packageId": "366",
+      "meta": {
+        "packageName": "崩坏学园2",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/12f91154c20bdbb906de1ec1da2720185e99b5e1.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/12f91154c20bdbb906de1ec1da2720185e99b5e1.png"
+      }
+    },
+    {
+      "id": "6025",
+      "description": "崩坏学园2_绷住",
+      "shortCodes": [
+        "[崩坏学园2_绷住]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/366/6025.png",
+      "isHide": false,
+      "packageId": "366",
+      "meta": {
+        "packageName": "崩坏学园2",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/12f91154c20bdbb906de1ec1da2720185e99b5e1.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/31c5e7e74121d1f375d71a359ccd3f72982b1c92.png"
+      }
+    },
+    {
+      "id": "6026",
+      "description": "崩坏学园2_绷不住了",
+      "shortCodes": [
+        "[崩坏学园2_绷不住了]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/366/6026.png",
+      "isHide": false,
+      "packageId": "366",
+      "meta": {
+        "packageName": "崩坏学园2",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/12f91154c20bdbb906de1ec1da2720185e99b5e1.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/8df93ef25a50dc96148b6de7546daef46da2ced9.png"
+      }
+    },
+    {
+      "id": "6027",
+      "description": "崩坏学园2_白眼",
+      "shortCodes": [
+        "[崩坏学园2_白眼]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/366/6027.png",
+      "isHide": false,
+      "packageId": "366",
+      "meta": {
+        "packageName": "崩坏学园2",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/12f91154c20bdbb906de1ec1da2720185e99b5e1.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/cb97b8208e46f9389ff3edaefa899662566b7ca1.png"
+      }
+    },
+    {
+      "id": "6028",
+      "description": "崩坏学园2_满头问号",
+      "shortCodes": [
+        "[崩坏学园2_满头问号]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/366/6028.png",
+      "isHide": false,
+      "packageId": "366",
+      "meta": {
+        "packageName": "崩坏学园2",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/12f91154c20bdbb906de1ec1da2720185e99b5e1.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/b9087a8e36100821372037e1a37b61bd92f35261.png"
+      }
+    },
+    {
+      "id": "6029",
+      "description": "崩坏学园2_流汗",
+      "shortCodes": [
+        "[崩坏学园2_流汗]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/366/6029.png",
+      "isHide": false,
+      "packageId": "366",
+      "meta": {
+        "packageName": "崩坏学园2",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/12f91154c20bdbb906de1ec1da2720185e99b5e1.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/18517ea738257039594aa147bc04aeec9146f6eb.png"
+      }
+    },
+    {
+      "id": "6030",
+      "description": "崩坏学园2_有一说一",
+      "shortCodes": [
+        "[崩坏学园2_有一说一]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/366/6030.png",
+      "isHide": false,
+      "packageId": "366",
+      "meta": {
+        "packageName": "崩坏学园2",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/12f91154c20bdbb906de1ec1da2720185e99b5e1.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/65f0f9171004c71e11745319431e2d40a94b152f.png"
+      }
+    },
+    {
+      "id": "6031",
+      "description": "崩坏学园2_晚安",
+      "shortCodes": [
+        "[崩坏学园2_晚安]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/366/6031.png",
+      "isHide": false,
+      "packageId": "366",
+      "meta": {
+        "packageName": "崩坏学园2",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/12f91154c20bdbb906de1ec1da2720185e99b5e1.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/60184cdfb305fe840cf0cc3556fce689909d2b48.png"
+      }
+    },
+    {
+      "id": "6032",
+      "description": "崩坏学园2_心碎",
+      "shortCodes": [
+        "[崩坏学园2_心碎]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/366/6032.png",
+      "isHide": false,
+      "packageId": "366",
+      "meta": {
+        "packageName": "崩坏学园2",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/12f91154c20bdbb906de1ec1da2720185e99b5e1.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/9e0fd6c5a7a5a6fb89ecba749dbde465743371c3.png"
+      }
+    },
+    {
+      "id": "6033",
+      "description": "崩坏学园2_就这",
+      "shortCodes": [
+        "[崩坏学园2_就这]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/366/6033.png",
+      "isHide": false,
+      "packageId": "366",
+      "meta": {
+        "packageName": "崩坏学园2",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/12f91154c20bdbb906de1ec1da2720185e99b5e1.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/df94b05a11a3dcf0edd42ca65dd1c2739bd2d474.png"
+      }
+    },
+    {
+      "id": "6034",
+      "description": "崩坏学园2_害羞",
+      "shortCodes": [
+        "[崩坏学园2_害羞]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/366/6034.png",
+      "isHide": false,
+      "packageId": "366",
+      "meta": {
+        "packageName": "崩坏学园2",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/12f91154c20bdbb906de1ec1da2720185e99b5e1.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/c34bd8d51720f6e5120b595726a735ef6e7aea68.png"
+      }
+    },
+    {
+      "id": "6035",
+      "description": "崩坏学园2_好耶",
+      "shortCodes": [
+        "[崩坏学园2_好耶]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/366/6035.png",
+      "isHide": false,
+      "packageId": "366",
+      "meta": {
+        "packageName": "崩坏学园2",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/12f91154c20bdbb906de1ec1da2720185e99b5e1.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/f1fe88c6d201f2b5d91ad70bcad15288d4569f00.png"
+      }
+    },
+    {
+      "id": "6036",
+      "description": "崩坏学园2_哭哭",
+      "shortCodes": [
+        "[崩坏学园2_哭哭]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/366/6036.png",
+      "isHide": false,
+      "packageId": "366",
+      "meta": {
+        "packageName": "崩坏学园2",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/12f91154c20bdbb906de1ec1da2720185e99b5e1.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/6598b91cde4265f912797b4eae36116e04772680.png"
+      }
+    },
+    {
+      "id": "6037",
+      "description": "崩坏学园2_和善",
+      "shortCodes": [
+        "[崩坏学园2_和善]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/366/6037.png",
+      "isHide": false,
+      "packageId": "366",
+      "meta": {
+        "packageName": "崩坏学园2",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/12f91154c20bdbb906de1ec1da2720185e99b5e1.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/893d833502059a1e500254177508950671980694.png"
+      }
+    },
+    {
+      "id": "6038",
+      "description": "崩坏学园2_吃瓜",
+      "shortCodes": [
+        "[崩坏学园2_吃瓜]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/366/6038.png",
+      "isHide": false,
+      "packageId": "366",
+      "meta": {
+        "packageName": "崩坏学园2",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/12f91154c20bdbb906de1ec1da2720185e99b5e1.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/018d7f9addeb7789a5604ddbd9c51c2f8cfa26b8.png"
+      }
+    },
+    {
+      "id": "6039",
+      "description": "崩坏学园2_偷瞄",
+      "shortCodes": [
+        "[崩坏学园2_偷瞄]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/366/6039.png",
+      "isHide": false,
+      "packageId": "366",
+      "meta": {
+        "packageName": "崩坏学园2",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/12f91154c20bdbb906de1ec1da2720185e99b5e1.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/31406161e268ab3a3ae24befacc64ab9812d478b.png"
+      }
+    },
+    {
+      "id": "6040",
+      "description": "崩坏学园2_乖巧",
+      "shortCodes": [
+        "[崩坏学园2_乖巧]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/366/6040.png",
+      "isHide": false,
+      "packageId": "366",
+      "meta": {
+        "packageName": "崩坏学园2",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/12f91154c20bdbb906de1ec1da2720185e99b5e1.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/fb397421eaea8f271acfe135a8dc49bffa7605be.png"
+      }
+    },
+    {
+      "id": "6051",
+      "description": "崩坏学园2_满头叹号",
+      "shortCodes": [
+        "[崩坏学园2_满头叹号]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/366/6051.png",
+      "isHide": false,
+      "packageId": "366",
+      "meta": {
+        "packageName": "崩坏学园2",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/12f91154c20bdbb906de1ec1da2720185e99b5e1.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/3301310cf90c701729cbd9a44dc7b607a39f2282.png"
+      }
+    }
+  ]
+}

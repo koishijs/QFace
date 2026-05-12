@@ -1,0 +1,382 @@
+{
+  "id": "592",
+  "name": "虞莫MOMO",
+  "coverUrl": "https://i0.hdslb.com/bfs/emote/02939ba6146fe192165984ebb356e89c212acf96.png",
+  "emojis": [
+    {
+      "id": "10743",
+      "description": "虞莫MOMO_别拍别拍",
+      "shortCodes": [
+        "[虞莫MOMO_别拍别拍]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/592/10743.png",
+      "isHide": false,
+      "packageId": "592",
+      "meta": {
+        "packageName": "虞莫MOMO",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/02939ba6146fe192165984ebb356e89c212acf96.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/68ee8461cdb0485c2be9ce86163f6e80126bc93e.png"
+      }
+    },
+    {
+      "id": "10744",
+      "description": "虞莫MOMO_不吃主食",
+      "shortCodes": [
+        "[虞莫MOMO_不吃主食]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/592/10744.png",
+      "isHide": false,
+      "packageId": "592",
+      "meta": {
+        "packageName": "虞莫MOMO",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/02939ba6146fe192165984ebb356e89c212acf96.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/864721977d3b0a6a884e9545ea50a44012c9989e.png"
+      }
+    },
+    {
+      "id": "10745",
+      "description": "虞莫MOMO_嗨起来",
+      "shortCodes": [
+        "[虞莫MOMO_嗨起来]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/592/10745.png",
+      "isHide": false,
+      "packageId": "592",
+      "meta": {
+        "packageName": "虞莫MOMO",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/02939ba6146fe192165984ebb356e89c212acf96.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/6e5a3c3cdb224fef6f0a3592711c8c32c7788aaa.png"
+      }
+    },
+    {
+      "id": "10746",
+      "description": "虞莫MOMO_害怕",
+      "shortCodes": [
+        "[虞莫MOMO_害怕]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/592/10746.png",
+      "isHide": false,
+      "packageId": "592",
+      "meta": {
+        "packageName": "虞莫MOMO",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/02939ba6146fe192165984ebb356e89c212acf96.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/d04d988cb8567f3ee2eececc00c8a682b296223b.png"
+      }
+    },
+    {
+      "id": "10747",
+      "description": "虞莫MOMO_紧张",
+      "shortCodes": [
+        "[虞莫MOMO_紧张]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/592/10747.png",
+      "isHide": false,
+      "packageId": "592",
+      "meta": {
+        "packageName": "虞莫MOMO",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/02939ba6146fe192165984ebb356e89c212acf96.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/37f04392480507dfb7b4ad31a2b4cf4073c0b7df.png"
+      }
+    },
+    {
+      "id": "10748",
+      "description": "虞莫MOMO_开心",
+      "shortCodes": [
+        "[虞莫MOMO_开心]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/592/10748.png",
+      "isHide": false,
+      "packageId": "592",
+      "meta": {
+        "packageName": "虞莫MOMO",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/02939ba6146fe192165984ebb356e89c212acf96.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/f7d048519006798fedb1fc160ac4a0edc635df6b.png"
+      }
+    },
+    {
+      "id": "10749",
+      "description": "虞莫MOMO_哭泣",
+      "shortCodes": [
+        "[虞莫MOMO_哭泣]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/592/10749.png",
+      "isHide": false,
+      "packageId": "592",
+      "meta": {
+        "packageName": "虞莫MOMO",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/02939ba6146fe192165984ebb356e89c212acf96.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/49de7e1cdf8ec9ccf3a847bdf35fbf50e8b888ff.png"
+      }
+    },
+    {
+      "id": "10750",
+      "description": "虞莫MOMO_买买买",
+      "shortCodes": [
+        "[虞莫MOMO_买买买]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/592/10750.png",
+      "isHide": false,
+      "packageId": "592",
+      "meta": {
+        "packageName": "虞莫MOMO",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/02939ba6146fe192165984ebb356e89c212acf96.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/b04900951954050a8a93e4cbf312bd4cafdfe5e3.png"
+      }
+    },
+    {
+      "id": "10751",
+      "description": "虞莫MOMO_没钱",
+      "shortCodes": [
+        "[虞莫MOMO_没钱]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/592/10751.png",
+      "isHide": false,
+      "packageId": "592",
+      "meta": {
+        "packageName": "虞莫MOMO",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/02939ba6146fe192165984ebb356e89c212acf96.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/3f75e47733be78bc1143c767b2e230673522b18a.png"
+      }
+    },
+    {
+      "id": "10752",
+      "description": "虞莫MOMO_美人虞",
+      "shortCodes": [
+        "[虞莫MOMO_美人虞]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/592/10752.png",
+      "isHide": false,
+      "packageId": "592",
+      "meta": {
+        "packageName": "虞莫MOMO",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/02939ba6146fe192165984ebb356e89c212acf96.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/71a94bd0dc35b1e8b14be9f9acad17ea57eac498.png"
+      }
+    },
+    {
+      "id": "10753",
+      "description": "虞莫MOMO_茄步",
+      "shortCodes": [
+        "[虞莫MOMO_茄步]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/592/10753.png",
+      "isHide": false,
+      "packageId": "592",
+      "meta": {
+        "packageName": "虞莫MOMO",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/02939ba6146fe192165984ebb356e89c212acf96.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/2045145b25c23d6f4b8d76895fa9d9ed3c6e31d2.png"
+      }
+    },
+    {
+      "id": "10754",
+      "description": "虞莫MOMO_茄子",
+      "shortCodes": [
+        "[虞莫MOMO_茄子]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/592/10754.png",
+      "isHide": false,
+      "packageId": "592",
+      "meta": {
+        "packageName": "虞莫MOMO",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/02939ba6146fe192165984ebb356e89c212acf96.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/e487d5da1819ca852ff6567c7e343c4dc51b571d.png"
+      }
+    },
+    {
+      "id": "10755",
+      "description": "虞莫MOMO_扔飞镖",
+      "shortCodes": [
+        "[虞莫MOMO_扔飞镖]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/592/10755.png",
+      "isHide": false,
+      "packageId": "592",
+      "meta": {
+        "packageName": "虞莫MOMO",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/02939ba6146fe192165984ebb356e89c212acf96.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/90b008d24cc25684f3ba07215fe6282014cf3ea1.png"
+      }
+    },
+    {
+      "id": "10756",
+      "description": "虞莫MOMO_生气",
+      "shortCodes": [
+        "[虞莫MOMO_生气]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/592/10756.png",
+      "isHide": false,
+      "packageId": "592",
+      "meta": {
+        "packageName": "虞莫MOMO",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/02939ba6146fe192165984ebb356e89c212acf96.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/4f55b4a6940c28a422e232d90bfcaf0712c0f910.png"
+      }
+    },
+    {
+      "id": "10757",
+      "description": "虞莫MOMO_舞担",
+      "shortCodes": [
+        "[虞莫MOMO_舞担]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/592/10757.png",
+      "isHide": false,
+      "packageId": "592",
+      "meta": {
+        "packageName": "虞莫MOMO",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/02939ba6146fe192165984ebb356e89c212acf96.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/18e911c979f191f2b90e9a08d172362850397dad.png"
+      }
+    },
+    {
+      "id": "14372",
+      "description": "虞莫MOMO_打牌",
+      "shortCodes": [
+        "[虞莫MOMO_打牌]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/592/14372.png",
+      "isHide": false,
+      "packageId": "592",
+      "meta": {
+        "packageName": "虞莫MOMO",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/02939ba6146fe192165984ebb356e89c212acf96.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/4901800dd8af6507cbb1afbaed7683305fd5b25a.png"
+      }
+    },
+    {
+      "id": "14373",
+      "description": "虞莫MOMO_卡住了",
+      "shortCodes": [
+        "[虞莫MOMO_卡住了]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/592/14373.png",
+      "isHide": false,
+      "packageId": "592",
+      "meta": {
+        "packageName": "虞莫MOMO",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/02939ba6146fe192165984ebb356e89c212acf96.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/c062177fbe325d244e727320999e1b34b22b6287.png"
+      }
+    },
+    {
+      "id": "14374",
+      "description": "虞莫MOMO_来了",
+      "shortCodes": [
+        "[虞莫MOMO_来了]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/592/14374.png",
+      "isHide": false,
+      "packageId": "592",
+      "meta": {
+        "packageName": "虞莫MOMO",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/02939ba6146fe192165984ebb356e89c212acf96.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/4e29c368f948add2e22641a82729a7f0d1a6f4e7.png"
+      }
+    },
+    {
+      "id": "14375",
+      "description": "虞莫MOMO_买它",
+      "shortCodes": [
+        "[虞莫MOMO_买它]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/592/14375.png",
+      "isHide": false,
+      "packageId": "592",
+      "meta": {
+        "packageName": "虞莫MOMO",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/02939ba6146fe192165984ebb356e89c212acf96.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/756eea4e76b6fe1b5f4b0d537b75d3cf87a9d0d1.png"
+      }
+    },
+    {
+      "id": "14376",
+      "description": "虞莫MOMO_茄皇",
+      "shortCodes": [
+        "[虞莫MOMO_茄皇]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/592/14376.png",
+      "isHide": false,
+      "packageId": "592",
+      "meta": {
+        "packageName": "虞莫MOMO",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/02939ba6146fe192165984ebb356e89c212acf96.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/8cba5ae83652b192522a314846b3c726c36a45b8.png"
+      }
+    },
+    {
+      "id": "14377",
+      "description": "虞莫MOMO_投降",
+      "shortCodes": [
+        "[虞莫MOMO_投降]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/592/14377.png",
+      "isHide": false,
+      "packageId": "592",
+      "meta": {
+        "packageName": "虞莫MOMO",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/02939ba6146fe192165984ebb356e89c212acf96.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/b88fa1d24fbfe4a672c894c106ef4a1d0429c54c.png"
+      }
+    },
+    {
+      "id": "14378",
+      "description": "虞莫MOMO_我们是",
+      "shortCodes": [
+        "[虞莫MOMO_我们是]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/592/14378.png",
+      "isHide": false,
+      "packageId": "592",
+      "meta": {
+        "packageName": "虞莫MOMO",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/02939ba6146fe192165984ebb356e89c212acf96.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/f5fe36c29f87f18b5cad090ee522e6021a83f781.png"
+      }
+    },
+    {
+      "id": "14379",
+      "description": "虞莫MOMO_现充",
+      "shortCodes": [
+        "[虞莫MOMO_现充]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/592/14379.png",
+      "isHide": false,
+      "packageId": "592",
+      "meta": {
+        "packageName": "虞莫MOMO",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/02939ba6146fe192165984ebb356e89c212acf96.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/37e0a2b64a9b9d764fa01e579d56c6aac4b2aefe.png"
+      }
+    },
+    {
+      "id": "14380",
+      "description": "虞莫MOMO_嘴硬",
+      "shortCodes": [
+        "[虞莫MOMO_嘴硬]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/592/14380.png",
+      "isHide": false,
+      "packageId": "592",
+      "meta": {
+        "packageName": "虞莫MOMO",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/02939ba6146fe192165984ebb356e89c212acf96.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/2a2b122efe66f2458053983fe7cb95a1bb6e0a56.png"
+      }
+    },
+    {
+      "id": "14381",
+      "description": "虞莫MOMO_摇花手",
+      "shortCodes": [
+        "[虞莫MOMO_摇花手]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/592/14381.png",
+      "isHide": false,
+      "packageId": "592",
+      "meta": {
+        "packageName": "虞莫MOMO",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/02939ba6146fe192165984ebb356e89c212acf96.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/dedc8bf6602ad4703e505f1ca007c3717d80b771.png"
+      }
+    }
+  ]
+}

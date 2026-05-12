@@ -1,0 +1,232 @@
+{
+  "id": "181",
+  "name": "良辰美景·不问天",
+  "coverUrl": "https://i0.hdslb.com/bfs/emote/1c455847f5f1521345b108bdbc1761715850a15e.png",
+  "emojis": [
+    {
+      "id": "3276",
+      "description": "不问天_大哭",
+      "shortCodes": [
+        "[不问天_大哭]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/181/3276.png",
+      "isHide": false,
+      "packageId": "181",
+      "meta": {
+        "packageName": "良辰美景·不问天",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/1c455847f5f1521345b108bdbc1761715850a15e.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/aea0c17a62f825621a1273f100c17330180b7b01.png"
+      }
+    },
+    {
+      "id": "3277",
+      "description": "不问天_飞吻",
+      "shortCodes": [
+        "[不问天_飞吻]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/181/3277.png",
+      "isHide": false,
+      "packageId": "181",
+      "meta": {
+        "packageName": "良辰美景·不问天",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/1c455847f5f1521345b108bdbc1761715850a15e.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/e7073d3ef612d3dc48967b2b63011d2da7d08e37.png"
+      }
+    },
+    {
+      "id": "3278",
+      "description": "不问天_好耶",
+      "shortCodes": [
+        "[不问天_好耶]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/181/3278.png",
+      "isHide": false,
+      "packageId": "181",
+      "meta": {
+        "packageName": "良辰美景·不问天",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/1c455847f5f1521345b108bdbc1761715850a15e.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/6e5287f87da280d6963d175e4fd58332448aac7b.png"
+      }
+    },
+    {
+      "id": "3279",
+      "description": "不问天_大笑",
+      "shortCodes": [
+        "[不问天_大笑]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/181/3279.png",
+      "isHide": false,
+      "packageId": "181",
+      "meta": {
+        "packageName": "良辰美景·不问天",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/1c455847f5f1521345b108bdbc1761715850a15e.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/0d47c0053c9cfc660c7fa96ed2236c98035d4003.png"
+      }
+    },
+    {
+      "id": "3280",
+      "description": "不问天_prpr",
+      "shortCodes": [
+        "[不问天_prpr]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/181/3280.png",
+      "isHide": false,
+      "packageId": "181",
+      "meta": {
+        "packageName": "良辰美景·不问天",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/1c455847f5f1521345b108bdbc1761715850a15e.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/7a7bb778d9effea72fbca19467d5d9fbb8cb2efe.png"
+      }
+    },
+    {
+      "id": "3281",
+      "description": "不问天_和我结婚",
+      "shortCodes": [
+        "[不问天_和我结婚]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/181/3281.png",
+      "isHide": false,
+      "packageId": "181",
+      "meta": {
+        "packageName": "良辰美景·不问天",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/1c455847f5f1521345b108bdbc1761715850a15e.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/9bff694ea979c930160b4dde6f6e0a0e1bc18ede.png"
+      }
+    },
+    {
+      "id": "3282",
+      "description": "不问天_啊这",
+      "shortCodes": [
+        "[不问天_啊这]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/181/3282.png",
+      "isHide": false,
+      "packageId": "181",
+      "meta": {
+        "packageName": "良辰美景·不问天",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/1c455847f5f1521345b108bdbc1761715850a15e.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/176ea6acf48aa2ead691b9a2ffec558ce4814f93.png"
+      }
+    },
+    {
+      "id": "3283",
+      "description": "不问天_吃瓜",
+      "shortCodes": [
+        "[不问天_吃瓜]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/181/3283.png",
+      "isHide": false,
+      "packageId": "181",
+      "meta": {
+        "packageName": "良辰美景·不问天",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/1c455847f5f1521345b108bdbc1761715850a15e.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/8fbe862940ab4880ea4cd0412141c79ed22fed24.png"
+      }
+    },
+    {
+      "id": "3284",
+      "description": "不问天_干杯",
+      "shortCodes": [
+        "[不问天_干杯]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/181/3284.png",
+      "isHide": false,
+      "packageId": "181",
+      "meta": {
+        "packageName": "良辰美景·不问天",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/1c455847f5f1521345b108bdbc1761715850a15e.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/87f4a85293353dbf9ffa3feaee03f73faf582a67.png"
+      }
+    },
+    {
+      "id": "3285",
+      "description": "不问天_喜喜",
+      "shortCodes": [
+        "[不问天_喜喜]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/181/3285.png",
+      "isHide": false,
+      "packageId": "181",
+      "meta": {
+        "packageName": "良辰美景·不问天",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/1c455847f5f1521345b108bdbc1761715850a15e.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/90a934088ceb2e38c1365a3aca2088a79a0075a6.png"
+      }
+    },
+    {
+      "id": "3286",
+      "description": "不问天_害羞",
+      "shortCodes": [
+        "[不问天_害羞]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/181/3286.png",
+      "isHide": false,
+      "packageId": "181",
+      "meta": {
+        "packageName": "良辰美景·不问天",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/1c455847f5f1521345b108bdbc1761715850a15e.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/c37bbbf89fa80085082081ea6b3d8f535da358f4.png"
+      }
+    },
+    {
+      "id": "3287",
+      "description": "不问天_问号",
+      "shortCodes": [
+        "[不问天_问号]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/181/3287.png",
+      "isHide": false,
+      "packageId": "181",
+      "meta": {
+        "packageName": "良辰美景·不问天",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/1c455847f5f1521345b108bdbc1761715850a15e.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/fa0b20c24523ec3bd20598801ef392a4b64ccb58.png"
+      }
+    },
+    {
+      "id": "3288",
+      "description": "不问天_感叹号",
+      "shortCodes": [
+        "[不问天_感叹号]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/181/3288.png",
+      "isHide": false,
+      "packageId": "181",
+      "meta": {
+        "packageName": "良辰美景·不问天",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/1c455847f5f1521345b108bdbc1761715850a15e.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/2a5ca51bb3480997933ce1e592675a482682d8f4.png"
+      }
+    },
+    {
+      "id": "3289",
+      "description": "不问天_赞",
+      "shortCodes": [
+        "[不问天_赞]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/181/3289.png",
+      "isHide": false,
+      "packageId": "181",
+      "meta": {
+        "packageName": "良辰美景·不问天",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/1c455847f5f1521345b108bdbc1761715850a15e.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/667ee5cc4471eb8d38b2817e5359e2c604882268.png"
+      }
+    },
+    {
+      "id": "3290",
+      "description": "不问天_来了！",
+      "shortCodes": [
+        "[不问天_来了！]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/181/3290.png",
+      "isHide": false,
+      "packageId": "181",
+      "meta": {
+        "packageName": "良辰美景·不问天",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/1c455847f5f1521345b108bdbc1761715850a15e.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/ef818821d7d572f83bba851d3c7ae457754413c1.png"
+      }
+    }
+  ]
+}

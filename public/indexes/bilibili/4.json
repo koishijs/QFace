@@ -1,0 +1,787 @@
+{
+  "id": "4",
+  "name": "颜文字",
+  "coverUrl": "https://i0.hdslb.com/bfs/emote/07c5bb57e45270c139172f6a590349d1c5aa9eb9.png",
+  "emojis": [
+    {
+      "id": "2185",
+      "description": "( ゜- ゜)つロ",
+      "shortCodes": [
+        "( ゜- ゜)つロ"
+      ],
+      "staticUrl": "( ゜- ゜)つロ",
+      "isHide": false,
+      "packageId": "4",
+      "meta": {
+        "packageName": "颜文字",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/07c5bb57e45270c139172f6a590349d1c5aa9eb9.png",
+        "originalUrl": "( ゜- ゜)つロ"
+      }
+    },
+    {
+      "id": "2201",
+      "description": "_(:з」∠)_",
+      "shortCodes": [
+        "_(:з」∠)_"
+      ],
+      "staticUrl": "_(:з」∠)_",
+      "isHide": false,
+      "packageId": "4",
+      "meta": {
+        "packageName": "颜文字",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/07c5bb57e45270c139172f6a590349d1c5aa9eb9.png",
+        "originalUrl": "_(:з」∠)_"
+      }
+    },
+    {
+      "id": "93",
+      "description": "（⌒▽⌒）",
+      "shortCodes": [
+        "（⌒▽⌒）"
+      ],
+      "staticUrl": "（⌒▽⌒）",
+      "isHide": false,
+      "packageId": "4",
+      "meta": {
+        "packageName": "颜文字",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/07c5bb57e45270c139172f6a590349d1c5aa9eb9.png",
+        "originalUrl": "（⌒▽⌒）"
+      }
+    },
+    {
+      "id": "94",
+      "description": "（￣▽￣）",
+      "shortCodes": [
+        "（￣▽￣）"
+      ],
+      "staticUrl": "（￣▽￣）",
+      "isHide": false,
+      "packageId": "4",
+      "meta": {
+        "packageName": "颜文字",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/07c5bb57e45270c139172f6a590349d1c5aa9eb9.png",
+        "originalUrl": "（￣▽￣）"
+      }
+    },
+    {
+      "id": "52227",
+      "description": "⌓‿⌓",
+      "shortCodes": [
+        "⌓‿⌓"
+      ],
+      "staticUrl": "⌓‿⌓",
+      "isHide": false,
+      "packageId": "4",
+      "meta": {
+        "packageName": "颜文字",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/07c5bb57e45270c139172f6a590349d1c5aa9eb9.png",
+        "originalUrl": "⌓‿⌓"
+      }
+    },
+    {
+      "id": "95",
+      "description": "(=・ω・=)",
+      "shortCodes": [
+        "(=・ω・=)"
+      ],
+      "staticUrl": "(=・ω・=)",
+      "isHide": false,
+      "packageId": "4",
+      "meta": {
+        "packageName": "颜文字",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/07c5bb57e45270c139172f6a590349d1c5aa9eb9.png",
+        "originalUrl": "(=・ω・=)"
+      }
+    },
+    {
+      "id": "2180",
+      "description": "(*°▽°*)八(*°▽°*)♪",
+      "shortCodes": [
+        "(*°▽°*)八(*°▽°*)♪"
+      ],
+      "staticUrl": "(*°▽°*)八(*°▽°*)♪",
+      "isHide": false,
+      "packageId": "4",
+      "meta": {
+        "packageName": "颜文字",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/07c5bb57e45270c139172f6a590349d1c5aa9eb9.png",
+        "originalUrl": "(*°▽°*)八(*°▽°*)♪"
+      }
+    },
+    {
+      "id": "2181",
+      "description": "✿ヽ(°▽°)ノ✿",
+      "shortCodes": [
+        "✿ヽ(°▽°)ノ✿"
+      ],
+      "staticUrl": "✿ヽ(°▽°)ノ✿",
+      "isHide": false,
+      "packageId": "4",
+      "meta": {
+        "packageName": "颜文字",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/07c5bb57e45270c139172f6a590349d1c5aa9eb9.png",
+        "originalUrl": "✿ヽ(°▽°)ノ✿"
+      }
+    },
+    {
+      "id": "2179",
+      "description": "(¦3【▓▓】",
+      "shortCodes": [
+        "(¦3【▓▓】"
+      ],
+      "staticUrl": "(¦3【▓▓】",
+      "isHide": false,
+      "packageId": "4",
+      "meta": {
+        "packageName": "颜文字",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/07c5bb57e45270c139172f6a590349d1c5aa9eb9.png",
+        "originalUrl": "(¦3【▓▓】"
+      }
+    },
+    {
+      "id": "2189",
+      "description": "눈_눈",
+      "shortCodes": [
+        "눈_눈"
+      ],
+      "staticUrl": "눈_눈",
+      "isHide": false,
+      "packageId": "4",
+      "meta": {
+        "packageName": "颜文字",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/07c5bb57e45270c139172f6a590349d1c5aa9eb9.png",
+        "originalUrl": "눈_눈"
+      }
+    },
+    {
+      "id": "2195",
+      "description": "(ಡωಡ)",
+      "shortCodes": [
+        "(ಡωಡ)"
+      ],
+      "staticUrl": "(ಡωಡ)",
+      "isHide": false,
+      "packageId": "4",
+      "meta": {
+        "packageName": "颜文字",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/07c5bb57e45270c139172f6a590349d1c5aa9eb9.png",
+        "originalUrl": "(ಡωಡ)"
+      }
+    },
+    {
+      "id": "2193",
+      "description": "_(≧∇≦」∠)_",
+      "shortCodes": [
+        "_(≧∇≦」∠)_"
+      ],
+      "staticUrl": "_(≧∇≦」∠)_",
+      "isHide": false,
+      "packageId": "4",
+      "meta": {
+        "packageName": "颜文字",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/07c5bb57e45270c139172f6a590349d1c5aa9eb9.png",
+        "originalUrl": "_(≧∇≦」∠)_"
+      }
+    },
+    {
+      "id": "2182",
+      "description": "━━━∑(ﾟ□ﾟ*川━",
+      "shortCodes": [
+        "━━━∑(ﾟ□ﾟ*川━"
+      ],
+      "staticUrl": "━━━∑(ﾟ□ﾟ*川━",
+      "isHide": false,
+      "packageId": "4",
+      "meta": {
+        "packageName": "颜文字",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/07c5bb57e45270c139172f6a590349d1c5aa9eb9.png",
+        "originalUrl": "━━━∑(ﾟ□ﾟ*川━"
+      }
+    },
+    {
+      "id": "96",
+      "description": "(｀・ω・´)",
+      "shortCodes": [
+        "(｀・ω・´)"
+      ],
+      "staticUrl": "(｀・ω・´)",
+      "isHide": false,
+      "packageId": "4",
+      "meta": {
+        "packageName": "颜文字",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/07c5bb57e45270c139172f6a590349d1c5aa9eb9.png",
+        "originalUrl": "(｀・ω・´)"
+      }
+    },
+    {
+      "id": "100",
+      "description": "(￣3￣)",
+      "shortCodes": [
+        "(￣3￣)"
+      ],
+      "staticUrl": "(￣3￣)",
+      "isHide": false,
+      "packageId": "4",
+      "meta": {
+        "packageName": "颜文字",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/07c5bb57e45270c139172f6a590349d1c5aa9eb9.png",
+        "originalUrl": "(￣3￣)"
+      }
+    },
+    {
+      "id": "2183",
+      "description": "✧(≖ ◡ ≖✿)",
+      "shortCodes": [
+        "✧(≖ ◡ ≖✿)"
+      ],
+      "staticUrl": "✧(≖ ◡ ≖✿)",
+      "isHide": false,
+      "packageId": "4",
+      "meta": {
+        "packageName": "颜文字",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/07c5bb57e45270c139172f6a590349d1c5aa9eb9.png",
+        "originalUrl": "✧(≖ ◡ ≖✿)"
+      }
+    },
+    {
+      "id": "98",
+      "description": "(･∀･)",
+      "shortCodes": [
+        "(･∀･)"
+      ],
+      "staticUrl": "(･∀･)",
+      "isHide": false,
+      "packageId": "4",
+      "meta": {
+        "packageName": "颜文字",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/07c5bb57e45270c139172f6a590349d1c5aa9eb9.png",
+        "originalUrl": "(･∀･)"
+      }
+    },
+    {
+      "id": "97",
+      "description": "(〜￣△￣)〜",
+      "shortCodes": [
+        "(〜￣△￣)〜"
+      ],
+      "staticUrl": "(〜￣△￣)〜",
+      "isHide": false,
+      "packageId": "4",
+      "meta": {
+        "packageName": "颜文字",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/07c5bb57e45270c139172f6a590349d1c5aa9eb9.png",
+        "originalUrl": "(〜￣△￣)〜"
+      }
+    },
+    {
+      "id": "103",
+      "description": "→_→",
+      "shortCodes": [
+        "→_→"
+      ],
+      "staticUrl": "→_→",
+      "isHide": false,
+      "packageId": "4",
+      "meta": {
+        "packageName": "颜文字",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/07c5bb57e45270c139172f6a590349d1c5aa9eb9.png",
+        "originalUrl": "→_→"
+      }
+    },
+    {
+      "id": "99",
+      "description": "(°∀°)ﾉ",
+      "shortCodes": [
+        "(°∀°)ﾉ"
+      ],
+      "staticUrl": "(°∀°)ﾉ",
+      "isHide": false,
+      "packageId": "4",
+      "meta": {
+        "packageName": "颜文字",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/07c5bb57e45270c139172f6a590349d1c5aa9eb9.png",
+        "originalUrl": "(°∀°)ﾉ"
+      }
+    },
+    {
+      "id": "101",
+      "description": "╮(￣▽￣)╭",
+      "shortCodes": [
+        "╮(￣▽￣)╭"
+      ],
+      "staticUrl": "╮(￣▽￣)╭",
+      "isHide": false,
+      "packageId": "4",
+      "meta": {
+        "packageName": "颜文字",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/07c5bb57e45270c139172f6a590349d1c5aa9eb9.png",
+        "originalUrl": "╮(￣▽￣)╭"
+      }
+    },
+    {
+      "id": "102",
+      "description": "( ´_ゝ｀)",
+      "shortCodes": [
+        "( ´_ゝ｀)"
+      ],
+      "staticUrl": "( ´_ゝ｀)",
+      "isHide": false,
+      "packageId": "4",
+      "meta": {
+        "packageName": "颜文字",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/07c5bb57e45270c139172f6a590349d1c5aa9eb9.png",
+        "originalUrl": "( ´_ゝ｀)"
+      }
+    },
+    {
+      "id": "104",
+      "description": "←_←",
+      "shortCodes": [
+        "←_←"
+      ],
+      "staticUrl": "←_←",
+      "isHide": false,
+      "packageId": "4",
+      "meta": {
+        "packageName": "颜文字",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/07c5bb57e45270c139172f6a590349d1c5aa9eb9.png",
+        "originalUrl": "←_←"
+      }
+    },
+    {
+      "id": "105",
+      "description": "(;¬_¬)",
+      "shortCodes": [
+        "(;¬_¬)"
+      ],
+      "staticUrl": "(;¬_¬)",
+      "isHide": false,
+      "packageId": "4",
+      "meta": {
+        "packageName": "颜文字",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/07c5bb57e45270c139172f6a590349d1c5aa9eb9.png",
+        "originalUrl": "(;¬_¬)"
+      }
+    },
+    {
+      "id": "106",
+      "description": "(ﾟДﾟ≡ﾟдﾟ)!?",
+      "shortCodes": [
+        "(ﾟДﾟ≡ﾟдﾟ)!?"
+      ],
+      "staticUrl": "(ﾟДﾟ≡ﾟдﾟ)!?",
+      "isHide": false,
+      "packageId": "4",
+      "meta": {
+        "packageName": "颜文字",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/07c5bb57e45270c139172f6a590349d1c5aa9eb9.png",
+        "originalUrl": "(ﾟДﾟ≡ﾟдﾟ)!?"
+      }
+    },
+    {
+      "id": "2184",
+      "description": "( ´･･)ﾉ(._.`)",
+      "shortCodes": [
+        "( ´･･)ﾉ(._.`)"
+      ],
+      "staticUrl": "( ´･･)ﾉ(._.`)",
+      "isHide": false,
+      "packageId": "4",
+      "meta": {
+        "packageName": "颜文字",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/07c5bb57e45270c139172f6a590349d1c5aa9eb9.png",
+        "originalUrl": "( ´･･)ﾉ(._.`)"
+      }
+    },
+    {
+      "id": "107",
+      "description": "Σ(ﾟдﾟ;)",
+      "shortCodes": [
+        "Σ(ﾟдﾟ;)"
+      ],
+      "staticUrl": "Σ(ﾟдﾟ;)",
+      "isHide": false,
+      "packageId": "4",
+      "meta": {
+        "packageName": "颜文字",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/07c5bb57e45270c139172f6a590349d1c5aa9eb9.png",
+        "originalUrl": "Σ(ﾟдﾟ;)"
+      }
+    },
+    {
+      "id": "108",
+      "description": "Σ( ￣□￣||)<",
+      "shortCodes": [
+        "Σ( ￣□￣||)<"
+      ],
+      "staticUrl": "Σ( ￣□￣||)<",
+      "isHide": false,
+      "packageId": "4",
+      "meta": {
+        "packageName": "颜文字",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/07c5bb57e45270c139172f6a590349d1c5aa9eb9.png",
+        "originalUrl": "Σ( ￣□￣||)<"
+      }
+    },
+    {
+      "id": "109",
+      "description": "(´；ω；`)",
+      "shortCodes": [
+        "(´；ω；`)"
+      ],
+      "staticUrl": "(´；ω；`)",
+      "isHide": false,
+      "packageId": "4",
+      "meta": {
+        "packageName": "颜文字",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/07c5bb57e45270c139172f6a590349d1c5aa9eb9.png",
+        "originalUrl": "(´；ω；`)"
+      }
+    },
+    {
+      "id": "110",
+      "description": "（/TДT)/",
+      "shortCodes": [
+        "（/TДT)/"
+      ],
+      "staticUrl": "（/TДT)/",
+      "isHide": false,
+      "packageId": "4",
+      "meta": {
+        "packageName": "颜文字",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/07c5bb57e45270c139172f6a590349d1c5aa9eb9.png",
+        "originalUrl": "（/TДT)/"
+      }
+    },
+    {
+      "id": "111",
+      "description": "(^・ω・^)",
+      "shortCodes": [
+        "(^・ω・^)"
+      ],
+      "staticUrl": "(^・ω・^)",
+      "isHide": false,
+      "packageId": "4",
+      "meta": {
+        "packageName": "颜文字",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/07c5bb57e45270c139172f6a590349d1c5aa9eb9.png",
+        "originalUrl": "(^・ω・^)"
+      }
+    },
+    {
+      "id": "112",
+      "description": "(｡･ω･｡)",
+      "shortCodes": [
+        "(｡･ω･｡)"
+      ],
+      "staticUrl": "(｡･ω･｡)",
+      "isHide": false,
+      "packageId": "4",
+      "meta": {
+        "packageName": "颜文字",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/07c5bb57e45270c139172f6a590349d1c5aa9eb9.png",
+        "originalUrl": "(｡･ω･｡)"
+      }
+    },
+    {
+      "id": "113",
+      "description": "(●￣(ｴ)￣●)",
+      "shortCodes": [
+        "(●￣(ｴ)￣●)"
+      ],
+      "staticUrl": "(●￣(ｴ)￣●)",
+      "isHide": false,
+      "packageId": "4",
+      "meta": {
+        "packageName": "颜文字",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/07c5bb57e45270c139172f6a590349d1c5aa9eb9.png",
+        "originalUrl": "(●￣(ｴ)￣●)"
+      }
+    },
+    {
+      "id": "114",
+      "description": "ε=ε=(ノ≧∇≦)ノ",
+      "shortCodes": [
+        "ε=ε=(ノ≧∇≦)ノ"
+      ],
+      "staticUrl": "ε=ε=(ノ≧∇≦)ノ",
+      "isHide": false,
+      "packageId": "4",
+      "meta": {
+        "packageName": "颜文字",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/07c5bb57e45270c139172f6a590349d1c5aa9eb9.png",
+        "originalUrl": "ε=ε=(ノ≧∇≦)ノ"
+      }
+    },
+    {
+      "id": "115",
+      "description": "(´･_･`)",
+      "shortCodes": [
+        "(´･_･`)"
+      ],
+      "staticUrl": "(´･_･`)",
+      "isHide": false,
+      "packageId": "4",
+      "meta": {
+        "packageName": "颜文字",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/07c5bb57e45270c139172f6a590349d1c5aa9eb9.png",
+        "originalUrl": "(´･_･`)"
+      }
+    },
+    {
+      "id": "116",
+      "description": "(-_-#)",
+      "shortCodes": [
+        "(-_-#)"
+      ],
+      "staticUrl": "(-_-#)",
+      "isHide": false,
+      "packageId": "4",
+      "meta": {
+        "packageName": "颜文字",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/07c5bb57e45270c139172f6a590349d1c5aa9eb9.png",
+        "originalUrl": "(-_-#)"
+      }
+    },
+    {
+      "id": "117",
+      "description": "（￣へ￣）",
+      "shortCodes": [
+        "（￣へ￣）"
+      ],
+      "staticUrl": "（￣へ￣）",
+      "isHide": false,
+      "packageId": "4",
+      "meta": {
+        "packageName": "颜文字",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/07c5bb57e45270c139172f6a590349d1c5aa9eb9.png",
+        "originalUrl": "（￣へ￣）"
+      }
+    },
+    {
+      "id": "118",
+      "description": "(￣ε(#￣) Σ",
+      "shortCodes": [
+        "(￣ε(#￣) Σ"
+      ],
+      "staticUrl": "(￣ε(#￣) Σ",
+      "isHide": false,
+      "packageId": "4",
+      "meta": {
+        "packageName": "颜文字",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/07c5bb57e45270c139172f6a590349d1c5aa9eb9.png",
+        "originalUrl": "(￣ε(#￣) Σ"
+      }
+    },
+    {
+      "id": "120",
+      "description": "(╯°口°)╯(┴—┴",
+      "shortCodes": [
+        "(╯°口°)╯(┴—┴"
+      ],
+      "staticUrl": "(╯°口°)╯(┴—┴",
+      "isHide": false,
+      "packageId": "4",
+      "meta": {
+        "packageName": "颜文字",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/07c5bb57e45270c139172f6a590349d1c5aa9eb9.png",
+        "originalUrl": "(╯°口°)╯(┴—┴"
+      }
+    },
+    {
+      "id": "119",
+      "description": "ヽ(`Д´)ﾉ",
+      "shortCodes": [
+        "ヽ(`Д´)ﾉ"
+      ],
+      "staticUrl": "ヽ(`Д´)ﾉ",
+      "isHide": false,
+      "packageId": "4",
+      "meta": {
+        "packageName": "颜文字",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/07c5bb57e45270c139172f6a590349d1c5aa9eb9.png",
+        "originalUrl": "ヽ(`Д´)ﾉ"
+      }
+    },
+    {
+      "id": "2085",
+      "description": "(\"▔□▔)/",
+      "shortCodes": [
+        "(\"▔□▔)/"
+      ],
+      "staticUrl": "(\"▔□▔)/",
+      "isHide": false,
+      "packageId": "4",
+      "meta": {
+        "packageName": "颜文字",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/07c5bb57e45270c139172f6a590349d1c5aa9eb9.png",
+        "originalUrl": "(\"▔□▔)/"
+      }
+    },
+    {
+      "id": "2186",
+      "description": "(º﹃º )",
+      "shortCodes": [
+        "(º﹃º )"
+      ],
+      "staticUrl": "(º﹃º )",
+      "isHide": false,
+      "packageId": "4",
+      "meta": {
+        "packageName": "颜文字",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/07c5bb57e45270c139172f6a590349d1c5aa9eb9.png",
+        "originalUrl": "(º﹃º )"
+      }
+    },
+    {
+      "id": "2187",
+      "description": "(๑>؂<๑）",
+      "shortCodes": [
+        "(๑>؂<๑）"
+      ],
+      "staticUrl": "(๑>؂<๑）",
+      "isHide": false,
+      "packageId": "4",
+      "meta": {
+        "packageName": "颜文字",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/07c5bb57e45270c139172f6a590349d1c5aa9eb9.png",
+        "originalUrl": "(๑>؂<๑）"
+      }
+    },
+    {
+      "id": "2190",
+      "description": "｡ﾟ(ﾟ´Д｀)ﾟ｡",
+      "shortCodes": [
+        "｡ﾟ(ﾟ´Д｀)ﾟ｡"
+      ],
+      "staticUrl": "｡ﾟ(ﾟ´Д｀)ﾟ｡",
+      "isHide": false,
+      "packageId": "4",
+      "meta": {
+        "packageName": "颜文字",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/07c5bb57e45270c139172f6a590349d1c5aa9eb9.png",
+        "originalUrl": "｡ﾟ(ﾟ´Д｀)ﾟ｡"
+      }
+    },
+    {
+      "id": "2191",
+      "description": "(∂ω∂)",
+      "shortCodes": [
+        "(∂ω∂)"
+      ],
+      "staticUrl": "(∂ω∂)",
+      "isHide": false,
+      "packageId": "4",
+      "meta": {
+        "packageName": "颜文字",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/07c5bb57e45270c139172f6a590349d1c5aa9eb9.png",
+        "originalUrl": "(∂ω∂)"
+      }
+    },
+    {
+      "id": "2192",
+      "description": "(┯_┯)",
+      "shortCodes": [
+        "(┯_┯)"
+      ],
+      "staticUrl": "(┯_┯)",
+      "isHide": false,
+      "packageId": "4",
+      "meta": {
+        "packageName": "颜文字",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/07c5bb57e45270c139172f6a590349d1c5aa9eb9.png",
+        "originalUrl": "(┯_┯)"
+      }
+    },
+    {
+      "id": "2194",
+      "description": "(・ω< )★",
+      "shortCodes": [
+        "(・ω< )★"
+      ],
+      "staticUrl": "(・ω< )★",
+      "isHide": false,
+      "packageId": "4",
+      "meta": {
+        "packageName": "颜文字",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/07c5bb57e45270c139172f6a590349d1c5aa9eb9.png",
+        "originalUrl": "(・ω< )★"
+      }
+    },
+    {
+      "id": "2196",
+      "description": "( ๑ˊ•̥▵•)੭₎₎",
+      "shortCodes": [
+        "( ๑ˊ•̥▵•)੭₎₎"
+      ],
+      "staticUrl": "( ๑ˊ•̥▵•)੭₎₎",
+      "isHide": false,
+      "packageId": "4",
+      "meta": {
+        "packageName": "颜文字",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/07c5bb57e45270c139172f6a590349d1c5aa9eb9.png",
+        "originalUrl": "( ๑ˊ•̥▵•)੭₎₎"
+      }
+    },
+    {
+      "id": "2197",
+      "description": "¥ㄟ(´･ᴗ･`)ノ¥",
+      "shortCodes": [
+        "¥ㄟ(´･ᴗ･`)ノ¥"
+      ],
+      "staticUrl": "¥ㄟ(´･ᴗ･`)ノ¥",
+      "isHide": false,
+      "packageId": "4",
+      "meta": {
+        "packageName": "颜文字",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/07c5bb57e45270c139172f6a590349d1c5aa9eb9.png",
+        "originalUrl": "¥ㄟ(´･ᴗ･`)ノ¥"
+      }
+    },
+    {
+      "id": "2198",
+      "description": "Σ_(꒪ཀ꒪」∠)_",
+      "shortCodes": [
+        "Σ_(꒪ཀ꒪」∠)_"
+      ],
+      "staticUrl": "Σ_(꒪ཀ꒪」∠)_",
+      "isHide": false,
+      "packageId": "4",
+      "meta": {
+        "packageName": "颜文字",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/07c5bb57e45270c139172f6a590349d1c5aa9eb9.png",
+        "originalUrl": "Σ_(꒪ཀ꒪」∠)_"
+      }
+    },
+    {
+      "id": "2199",
+      "description": "٩(๛ ˘ ³˘)۶❤",
+      "shortCodes": [
+        "٩(๛ ˘ ³˘)۶❤"
+      ],
+      "staticUrl": "٩(๛ ˘ ³˘)۶❤",
+      "isHide": false,
+      "packageId": "4",
+      "meta": {
+        "packageName": "颜文字",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/07c5bb57e45270c139172f6a590349d1c5aa9eb9.png",
+        "originalUrl": "٩(๛ ˘ ³˘)۶❤"
+      }
+    },
+    {
+      "id": "2200",
+      "description": "(๑‾᷅^‾᷅๑)",
+      "shortCodes": [
+        "(๑‾᷅^‾᷅๑)"
+      ],
+      "staticUrl": "(๑‾᷅^‾᷅๑)",
+      "isHide": false,
+      "packageId": "4",
+      "meta": {
+        "packageName": "颜文字",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/07c5bb57e45270c139172f6a590349d1c5aa9eb9.png",
+        "originalUrl": "(๑‾᷅^‾᷅๑)"
+      }
+    }
+  ]
+}

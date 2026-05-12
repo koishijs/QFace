@@ -1,0 +1,232 @@
+{
+  "id": "12",
+  "name": "正经人",
+  "coverUrl": "http://i0.hdslb.com/bfs/emote/0b43d9a2e44ceda54242599713c04f0d1d0328a6.png",
+  "emojis": [
+    {
+      "id": "248",
+      "description": "正经人_欢呼",
+      "shortCodes": [
+        "[正经人_欢呼]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/12/248.png",
+      "isHide": false,
+      "packageId": "12",
+      "meta": {
+        "packageName": "正经人",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/0b43d9a2e44ceda54242599713c04f0d1d0328a6.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/3cd297676b2a08a896deab91ed7f139a8bc7c46c.png"
+      }
+    },
+    {
+      "id": "249",
+      "description": "正经人_火",
+      "shortCodes": [
+        "[正经人_火]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/12/249.png",
+      "isHide": false,
+      "packageId": "12",
+      "meta": {
+        "packageName": "正经人",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/0b43d9a2e44ceda54242599713c04f0d1d0328a6.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/78579a24b156501c0b5583121beb42a72e9229b5.png"
+      }
+    },
+    {
+      "id": "250",
+      "description": "正经人_挤",
+      "shortCodes": [
+        "[正经人_挤]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/12/250.png",
+      "isHide": false,
+      "packageId": "12",
+      "meta": {
+        "packageName": "正经人",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/0b43d9a2e44ceda54242599713c04f0d1d0328a6.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/7a3e753fcb876753800424edd2fa3563005abf4a.png"
+      }
+    },
+    {
+      "id": "251",
+      "description": "正经人_惊",
+      "shortCodes": [
+        "[正经人_惊]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/12/251.png",
+      "isHide": false,
+      "packageId": "12",
+      "meta": {
+        "packageName": "正经人",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/0b43d9a2e44ceda54242599713c04f0d1d0328a6.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/233b14fd3803a5078f79d31fecd5d7a60524e330.png"
+      }
+    },
+    {
+      "id": "252",
+      "description": "正经人_放屁",
+      "shortCodes": [
+        "[正经人_放屁]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/12/252.png",
+      "isHide": false,
+      "packageId": "12",
+      "meta": {
+        "packageName": "正经人",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/0b43d9a2e44ceda54242599713c04f0d1d0328a6.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/b590df4714084b012e9a5dfab03a3a13936dff48.png"
+      }
+    },
+    {
+      "id": "253",
+      "description": "正经人_ok",
+      "shortCodes": [
+        "[正经人_ok]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/12/253.png",
+      "isHide": false,
+      "packageId": "12",
+      "meta": {
+        "packageName": "正经人",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/0b43d9a2e44ceda54242599713c04f0d1d0328a6.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/21e069065373be45b227a4ffdbe9570d309e3d05.png"
+      }
+    },
+    {
+      "id": "254",
+      "description": "正经人_趴",
+      "shortCodes": [
+        "[正经人_趴]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/12/254.png",
+      "isHide": false,
+      "packageId": "12",
+      "meta": {
+        "packageName": "正经人",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/0b43d9a2e44ceda54242599713c04f0d1d0328a6.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/39156acb0afcbde9cf73ac1657adff62d3a84af7.png"
+      }
+    },
+    {
+      "id": "255",
+      "description": "正经人_开始",
+      "shortCodes": [
+        "[正经人_开始]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/12/255.png",
+      "isHide": false,
+      "packageId": "12",
+      "meta": {
+        "packageName": "正经人",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/0b43d9a2e44ceda54242599713c04f0d1d0328a6.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/4f745fad9a77f2f41ea63c2214af0739ab7ea8f1.png"
+      }
+    },
+    {
+      "id": "256",
+      "description": "正经人_揉脸",
+      "shortCodes": [
+        "[正经人_揉脸]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/12/256.png",
+      "isHide": false,
+      "packageId": "12",
+      "meta": {
+        "packageName": "正经人",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/0b43d9a2e44ceda54242599713c04f0d1d0328a6.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/a9d5376d6d79482c4447eb5a169385fa91f39ddd.png"
+      }
+    },
+    {
+      "id": "257",
+      "description": "正经人_躺",
+      "shortCodes": [
+        "[正经人_躺]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/12/257.png",
+      "isHide": false,
+      "packageId": "12",
+      "meta": {
+        "packageName": "正经人",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/0b43d9a2e44ceda54242599713c04f0d1d0328a6.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/c135f76ad7ec50a7414095cf7c633eb5551c9fe3.png"
+      }
+    },
+    {
+      "id": "258",
+      "description": "正经人_拉",
+      "shortCodes": [
+        "[正经人_拉]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/12/258.png",
+      "isHide": false,
+      "packageId": "12",
+      "meta": {
+        "packageName": "正经人",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/0b43d9a2e44ceda54242599713c04f0d1d0328a6.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/03e7319b34763e9c82c2ae93b1fd8f613335d90a.png"
+      }
+    },
+    {
+      "id": "259",
+      "description": "正经人_心",
+      "shortCodes": [
+        "[正经人_心]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/12/259.png",
+      "isHide": false,
+      "packageId": "12",
+      "meta": {
+        "packageName": "正经人",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/0b43d9a2e44ceda54242599713c04f0d1d0328a6.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/536561d0806f8b181473fd89bba15e71cb8d585e.png"
+      }
+    },
+    {
+      "id": "260",
+      "description": "正经人_悠闲",
+      "shortCodes": [
+        "[正经人_悠闲]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/12/260.png",
+      "isHide": false,
+      "packageId": "12",
+      "meta": {
+        "packageName": "正经人",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/0b43d9a2e44ceda54242599713c04f0d1d0328a6.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/17542aaef102f28508e30fed8895cc1afeaf70f0.png"
+      }
+    },
+    {
+      "id": "261",
+      "description": "正经人_赞",
+      "shortCodes": [
+        "[正经人_赞]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/12/261.png",
+      "isHide": false,
+      "packageId": "12",
+      "meta": {
+        "packageName": "正经人",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/0b43d9a2e44ceda54242599713c04f0d1d0328a6.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/589816d36c5b7c2f2bc78cb162d6ac90fda948f2.png"
+      }
+    },
+    {
+      "id": "262",
+      "description": "正经人_哭",
+      "shortCodes": [
+        "[正经人_哭]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/12/262.png",
+      "isHide": false,
+      "packageId": "12",
+      "meta": {
+        "packageName": "正经人",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/0b43d9a2e44ceda54242599713c04f0d1d0328a6.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/b9882f0679b4ae24624660412464f1f88bda48fe.png"
+      }
+    }
+  ]
+}

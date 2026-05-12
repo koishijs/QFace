@@ -1,0 +1,232 @@
+{
+  "id": "137",
+  "name": "花园Serena",
+  "coverUrl": "http://i0.hdslb.com/bfs/emote/820418f280b38919a403179d6657e68f820c3f26.png",
+  "emojis": [
+    {
+      "id": "2703",
+      "description": "花园Serena_？？？",
+      "shortCodes": [
+        "[花园Serena_？？？]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/137/2703.png",
+      "isHide": false,
+      "packageId": "137",
+      "meta": {
+        "packageName": "花园Serena",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/820418f280b38919a403179d6657e68f820c3f26.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/42f7ab2a562d000929979976d30669bec042662f.png"
+      }
+    },
+    {
+      "id": "2704",
+      "description": "花园Serena_安详去世",
+      "shortCodes": [
+        "[花园Serena_安详去世]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/137/2704.png",
+      "isHide": false,
+      "packageId": "137",
+      "meta": {
+        "packageName": "花园Serena",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/820418f280b38919a403179d6657e68f820c3f26.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/cdf595646132b98dcf1d230d351b2738d68f49c3.png"
+      }
+    },
+    {
+      "id": "2705",
+      "description": "花园Serena_mua",
+      "shortCodes": [
+        "[花园Serena_mua]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/137/2705.png",
+      "isHide": false,
+      "packageId": "137",
+      "meta": {
+        "packageName": "花园Serena",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/820418f280b38919a403179d6657e68f820c3f26.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/20319d3948da83f666a643b2c8103e6da0e36721.png"
+      }
+    },
+    {
+      "id": "2706",
+      "description": "花园Serena_啊！",
+      "shortCodes": [
+        "[花园Serena_啊！]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/137/2706.png",
+      "isHide": false,
+      "packageId": "137",
+      "meta": {
+        "packageName": "花园Serena",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/820418f280b38919a403179d6657e68f820c3f26.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/a2e620950d577a4bae7f52f2143cf23aaa033f9d.png"
+      }
+    },
+    {
+      "id": "2707",
+      "description": "花园Serena_唉",
+      "shortCodes": [
+        "[花园Serena_唉]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/137/2707.png",
+      "isHide": false,
+      "packageId": "137",
+      "meta": {
+        "packageName": "花园Serena",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/820418f280b38919a403179d6657e68f820c3f26.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/2d046cbbabd4fc39c01cfb268adf4b56fe69d276.png"
+      }
+    },
+    {
+      "id": "2708",
+      "description": "花园Serena_到点了",
+      "shortCodes": [
+        "[花园Serena_到点了]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/137/2708.png",
+      "isHide": false,
+      "packageId": "137",
+      "meta": {
+        "packageName": "花园Serena",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/820418f280b38919a403179d6657e68f820c3f26.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/af2f6c0dd1155f4aefb610cc6d09c135df9e6752.png"
+      }
+    },
+    {
+      "id": "2709",
+      "description": "花园Serena_恭喜",
+      "shortCodes": [
+        "[花园Serena_恭喜]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/137/2709.png",
+      "isHide": false,
+      "packageId": "137",
+      "meta": {
+        "packageName": "花园Serena",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/820418f280b38919a403179d6657e68f820c3f26.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/c1d8361755bb135d24b3b4680fe6ba03c086b395.png"
+      }
+    },
+    {
+      "id": "2710",
+      "description": "花园Serena_画好了",
+      "shortCodes": [
+        "[花园Serena_画好了]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/137/2710.png",
+      "isHide": false,
+      "packageId": "137",
+      "meta": {
+        "packageName": "花园Serena",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/820418f280b38919a403179d6657e68f820c3f26.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/07db01e9df3376e659e8e80915dbe469f63939ff.png"
+      }
+    },
+    {
+      "id": "2711",
+      "description": "花园Serena_哭哭",
+      "shortCodes": [
+        "[花园Serena_哭哭]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/137/2711.png",
+      "isHide": false,
+      "packageId": "137",
+      "meta": {
+        "packageName": "花园Serena",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/820418f280b38919a403179d6657e68f820c3f26.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/c7e1684e94ca8a1e7dd770df427ce7aa3d106f5b.png"
+      }
+    },
+    {
+      "id": "2712",
+      "description": "花园Serena_猫菜瘾大",
+      "shortCodes": [
+        "[花园Serena_猫菜瘾大]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/137/2712.png",
+      "isHide": false,
+      "packageId": "137",
+      "meta": {
+        "packageName": "花园Serena",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/820418f280b38919a403179d6657e68f820c3f26.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/b7cc65d17b93ebb50b9a218d8a05dd2a63bccabc.png"
+      }
+    },
+    {
+      "id": "2713",
+      "description": "花园Serena_猫猫祟祟",
+      "shortCodes": [
+        "[花园Serena_猫猫祟祟]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/137/2713.png",
+      "isHide": false,
+      "packageId": "137",
+      "meta": {
+        "packageName": "花园Serena",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/820418f280b38919a403179d6657e68f820c3f26.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/3fc4273a3cb4b189b473f0e1db51d7c064ae19c3.png"
+      }
+    },
+    {
+      "id": "2714",
+      "description": "花园Serena_喵",
+      "shortCodes": [
+        "[花园Serena_喵]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/137/2714.png",
+      "isHide": false,
+      "packageId": "137",
+      "meta": {
+        "packageName": "花园Serena",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/820418f280b38919a403179d6657e68f820c3f26.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/4159859e6c9c2e0476299454b6015c2659149e3c.png"
+      }
+    },
+    {
+      "id": "2715",
+      "description": "花园Serena_神奇按钮",
+      "shortCodes": [
+        "[花园Serena_神奇按钮]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/137/2715.png",
+      "isHide": false,
+      "packageId": "137",
+      "meta": {
+        "packageName": "花园Serena",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/820418f280b38919a403179d6657e68f820c3f26.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/d9a1f82dac9133cf7b569c5bcb6fb09595b9f4fa.png"
+      }
+    },
+    {
+      "id": "2716",
+      "description": "花园Serena_睡",
+      "shortCodes": [
+        "[花园Serena_睡]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/137/2716.png",
+      "isHide": false,
+      "packageId": "137",
+      "meta": {
+        "packageName": "花园Serena",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/820418f280b38919a403179d6657e68f820c3f26.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/ae8ad8fd2a8d14e53938ba7dc7ca22681143dc09.png"
+      }
+    },
+    {
+      "id": "2717",
+      "description": "花园Serena_头脑发热",
+      "shortCodes": [
+        "[花园Serena_头脑发热]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/137/2717.png",
+      "isHide": false,
+      "packageId": "137",
+      "meta": {
+        "packageName": "花园Serena",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/820418f280b38919a403179d6657e68f820c3f26.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/4c18c565ff57a7eb8f3e43a742653ee5d5a514c2.png"
+      }
+    }
+  ]
+}

@@ -1,0 +1,382 @@
+{
+  "id": "591",
+  "name": "柚恩不加糖",
+  "coverUrl": "https://i0.hdslb.com/bfs/emote/379c7bda99ecb6920adeb8496e29ae5871c58f86.png",
+  "emojis": [
+    {
+      "id": "10728",
+      "description": "柚恩不加糖_SSW",
+      "shortCodes": [
+        "[柚恩不加糖_SSW]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/591/10728.png",
+      "isHide": false,
+      "packageId": "591",
+      "meta": {
+        "packageName": "柚恩不加糖",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/379c7bda99ecb6920adeb8496e29ae5871c58f86.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/269c1110d391b1c066613a2d93487637c43e7aff.png"
+      }
+    },
+    {
+      "id": "10729",
+      "description": "柚恩不加糖_呆滞",
+      "shortCodes": [
+        "[柚恩不加糖_呆滞]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/591/10729.png",
+      "isHide": false,
+      "packageId": "591",
+      "meta": {
+        "packageName": "柚恩不加糖",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/379c7bda99ecb6920adeb8496e29ae5871c58f86.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/30cd00ec1990de08420f386b9ba42bf4be3338dc.png"
+      }
+    },
+    {
+      "id": "10730",
+      "description": "柚恩不加糖_腹黑",
+      "shortCodes": [
+        "[柚恩不加糖_腹黑]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/591/10730.png",
+      "isHide": false,
+      "packageId": "591",
+      "meta": {
+        "packageName": "柚恩不加糖",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/379c7bda99ecb6920adeb8496e29ae5871c58f86.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/101e027420e8876dc8da0a24ae1d379efef66ca0.png"
+      }
+    },
+    {
+      "id": "10731",
+      "description": "柚恩不加糖_古神语",
+      "shortCodes": [
+        "[柚恩不加糖_古神语]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/591/10731.png",
+      "isHide": false,
+      "packageId": "591",
+      "meta": {
+        "packageName": "柚恩不加糖",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/379c7bda99ecb6920adeb8496e29ae5871c58f86.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/c1e1ae06300dfbca3ecbef99ac55c58491d2ad9c.png"
+      }
+    },
+    {
+      "id": "10732",
+      "description": "柚恩不加糖_航海",
+      "shortCodes": [
+        "[柚恩不加糖_航海]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/591/10732.png",
+      "isHide": false,
+      "packageId": "591",
+      "meta": {
+        "packageName": "柚恩不加糖",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/379c7bda99ecb6920adeb8496e29ae5871c58f86.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/9ebb8509bd0fb9bb9f53947de5fc5b5df0451177.png"
+      }
+    },
+    {
+      "id": "10733",
+      "description": "柚恩不加糖_嘿嘿",
+      "shortCodes": [
+        "[柚恩不加糖_嘿嘿]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/591/10733.png",
+      "isHide": false,
+      "packageId": "591",
+      "meta": {
+        "packageName": "柚恩不加糖",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/379c7bda99ecb6920adeb8496e29ae5871c58f86.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/34e5da810e7622cdfa696d0f1c6a874c844804ef.png"
+      }
+    },
+    {
+      "id": "10734",
+      "description": "柚恩不加糖_卷",
+      "shortCodes": [
+        "[柚恩不加糖_卷]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/591/10734.png",
+      "isHide": false,
+      "packageId": "591",
+      "meta": {
+        "packageName": "柚恩不加糖",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/379c7bda99ecb6920adeb8496e29ae5871c58f86.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/48c73b557f7e36c99aa2bc3c8addbbb515950d71.png"
+      }
+    },
+    {
+      "id": "10735",
+      "description": "柚恩不加糖_开心",
+      "shortCodes": [
+        "[柚恩不加糖_开心]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/591/10735.png",
+      "isHide": false,
+      "packageId": "591",
+      "meta": {
+        "packageName": "柚恩不加糖",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/379c7bda99ecb6920adeb8496e29ae5871c58f86.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/9636edb14e98211577ae9e6010bfa41aeea6c85f.png"
+      }
+    },
+    {
+      "id": "10736",
+      "description": "柚恩不加糖_撇嘴",
+      "shortCodes": [
+        "[柚恩不加糖_撇嘴]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/591/10736.png",
+      "isHide": false,
+      "packageId": "591",
+      "meta": {
+        "packageName": "柚恩不加糖",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/379c7bda99ecb6920adeb8496e29ae5871c58f86.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/80335249badcef6ce440168286752c85db411dc8.png"
+      }
+    },
+    {
+      "id": "10737",
+      "description": "柚恩不加糖_生气",
+      "shortCodes": [
+        "[柚恩不加糖_生气]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/591/10737.png",
+      "isHide": false,
+      "packageId": "591",
+      "meta": {
+        "packageName": "柚恩不加糖",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/379c7bda99ecb6920adeb8496e29ae5871c58f86.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/e16845770a90b5120e334d2236971f90575f813a.png"
+      }
+    },
+    {
+      "id": "10738",
+      "description": "柚恩不加糖_哇",
+      "shortCodes": [
+        "[柚恩不加糖_哇]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/591/10738.png",
+      "isHide": false,
+      "packageId": "591",
+      "meta": {
+        "packageName": "柚恩不加糖",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/379c7bda99ecb6920adeb8496e29ae5871c58f86.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/6e54a00a9e7720505955d848424fb122e7d3b1bd.png"
+      }
+    },
+    {
+      "id": "10739",
+      "description": "柚恩不加糖_温柔",
+      "shortCodes": [
+        "[柚恩不加糖_温柔]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/591/10739.png",
+      "isHide": false,
+      "packageId": "591",
+      "meta": {
+        "packageName": "柚恩不加糖",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/379c7bda99ecb6920adeb8496e29ae5871c58f86.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/07125a4ed16db3407e630261ac2c6c885af9d64a.png"
+      }
+    },
+    {
+      "id": "10740",
+      "description": "柚恩不加糖_无语",
+      "shortCodes": [
+        "[柚恩不加糖_无语]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/591/10740.png",
+      "isHide": false,
+      "packageId": "591",
+      "meta": {
+        "packageName": "柚恩不加糖",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/379c7bda99ecb6920adeb8496e29ae5871c58f86.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/04cbb3c1b488b56cd0a6ea791c7520844f7e88a8.png"
+      }
+    },
+    {
+      "id": "10741",
+      "description": "柚恩不加糖_要抱抱",
+      "shortCodes": [
+        "[柚恩不加糖_要抱抱]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/591/10741.png",
+      "isHide": false,
+      "packageId": "591",
+      "meta": {
+        "packageName": "柚恩不加糖",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/379c7bda99ecb6920adeb8496e29ae5871c58f86.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/ca3e91de070d37e7a8afddc730a426f4b0c5e3cb.png"
+      }
+    },
+    {
+      "id": "10742",
+      "description": "柚恩不加糖_柚恩蜜",
+      "shortCodes": [
+        "[柚恩不加糖_柚恩蜜]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/591/10742.png",
+      "isHide": false,
+      "packageId": "591",
+      "meta": {
+        "packageName": "柚恩不加糖",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/379c7bda99ecb6920adeb8496e29ae5871c58f86.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/2c7302a5abf7c752b2a724cd91ae21b0c4967ee3.png"
+      }
+    },
+    {
+      "id": "14402",
+      "description": "柚恩不加糖_出去",
+      "shortCodes": [
+        "[柚恩不加糖_出去]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/591/14402.png",
+      "isHide": false,
+      "packageId": "591",
+      "meta": {
+        "packageName": "柚恩不加糖",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/379c7bda99ecb6920adeb8496e29ae5871c58f86.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/ad6d8e3f13a2ac2ca907534f03313a7576411995.png"
+      }
+    },
+    {
+      "id": "14403",
+      "description": "柚恩不加糖_对不起",
+      "shortCodes": [
+        "[柚恩不加糖_对不起]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/591/14403.png",
+      "isHide": false,
+      "packageId": "591",
+      "meta": {
+        "packageName": "柚恩不加糖",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/379c7bda99ecb6920adeb8496e29ae5871c58f86.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/929ec4bd3fb8db603312146c4cfd83ecfbf0e6d5.png"
+      }
+    },
+    {
+      "id": "14404",
+      "description": "柚恩不加糖_回来",
+      "shortCodes": [
+        "[柚恩不加糖_回来]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/591/14404.png",
+      "isHide": false,
+      "packageId": "591",
+      "meta": {
+        "packageName": "柚恩不加糖",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/379c7bda99ecb6920adeb8496e29ae5871c58f86.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/a32f3d21a4393fedf65580c7e361889692b155e9.png"
+      }
+    },
+    {
+      "id": "14405",
+      "description": "柚恩不加糖_急的长痘痘",
+      "shortCodes": [
+        "[柚恩不加糖_急的长痘痘]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/591/14405.png",
+      "isHide": false,
+      "packageId": "591",
+      "meta": {
+        "packageName": "柚恩不加糖",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/379c7bda99ecb6920adeb8496e29ae5871c58f86.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/7df55bfd1f16633e05c79cae93ba11d9a6dd3d41.png"
+      }
+    },
+    {
+      "id": "14406",
+      "description": "柚恩不加糖_饺子皮",
+      "shortCodes": [
+        "[柚恩不加糖_饺子皮]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/591/14406.png",
+      "isHide": false,
+      "packageId": "591",
+      "meta": {
+        "packageName": "柚恩不加糖",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/379c7bda99ecb6920adeb8496e29ae5871c58f86.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/6a6390bd468c779c38a4f7bed29c8bc8d54496c2.png"
+      }
+    },
+    {
+      "id": "14407",
+      "description": "柚恩不加糖_可爱",
+      "shortCodes": [
+        "[柚恩不加糖_可爱]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/591/14407.png",
+      "isHide": false,
+      "packageId": "591",
+      "meta": {
+        "packageName": "柚恩不加糖",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/379c7bda99ecb6920adeb8496e29ae5871c58f86.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/013bee3543534b990dcc88743005cfca08a3fda3.png"
+      }
+    },
+    {
+      "id": "14408",
+      "description": "柚恩不加糖_下雪",
+      "shortCodes": [
+        "[柚恩不加糖_下雪]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/591/14408.png",
+      "isHide": false,
+      "packageId": "591",
+      "meta": {
+        "packageName": "柚恩不加糖",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/379c7bda99ecb6920adeb8496e29ae5871c58f86.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/7b52b4416184e010a17d52acef5c547677f25264.png"
+      }
+    },
+    {
+      "id": "14409",
+      "description": "柚恩不加糖_柚师傅",
+      "shortCodes": [
+        "[柚恩不加糖_柚师傅]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/591/14409.png",
+      "isHide": false,
+      "packageId": "591",
+      "meta": {
+        "packageName": "柚恩不加糖",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/379c7bda99ecb6920adeb8496e29ae5871c58f86.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/0081ba5a0add01dcb681b46796c84fd72b2f2c76.png"
+      }
+    },
+    {
+      "id": "14410",
+      "description": "柚恩不加糖_知道道歉吗",
+      "shortCodes": [
+        "[柚恩不加糖_知道道歉吗]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/591/14410.png",
+      "isHide": false,
+      "packageId": "591",
+      "meta": {
+        "packageName": "柚恩不加糖",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/379c7bda99ecb6920adeb8496e29ae5871c58f86.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/00ea9687dfd7b7656475186f3f7676ee0402077f.png"
+      }
+    },
+    {
+      "id": "14411",
+      "description": "柚恩不加糖_EOE",
+      "shortCodes": [
+        "[柚恩不加糖_EOE]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/591/14411.png",
+      "isHide": false,
+      "packageId": "591",
+      "meta": {
+        "packageName": "柚恩不加糖",
+        "packageCover": "https://i0.hdslb.com/bfs/emote/379c7bda99ecb6920adeb8496e29ae5871c58f86.png",
+        "originalUrl": "https://i0.hdslb.com/bfs/emote/3ebfde6a3cb4495a117522839bf3af0c39e99ee0.png"
+      }
+    }
+  ]
+}

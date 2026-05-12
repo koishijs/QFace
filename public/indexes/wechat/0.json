@@ -1,0 +1,2944 @@
+{
+  "id": "0",
+  "name": "微信表情",
+  "emojis": [
+    {
+      "id": "0",
+      "description": "qqemoji:0",
+      "shortCodes": [
+        "qqemoji:0"
+      ],
+      "staticUrl": "assets/wechat_emoji/qqemoji/0.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "qqemoji:0",
+        "cnValue": "",
+        "qqValue": "qqemoji:0",
+        "enValue": "",
+        "twValue": "",
+        "thValue": "",
+        "fileName": "0.png"
+      }
+    },
+    {
+      "id": "1",
+      "description": "qqemoji:1",
+      "shortCodes": [
+        "qqemoji:1"
+      ],
+      "staticUrl": "assets/wechat_emoji/qqemoji/1.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "qqemoji:1",
+        "cnValue": "",
+        "qqValue": "qqemoji:1",
+        "enValue": "",
+        "twValue": "",
+        "thValue": "",
+        "fileName": "1.png"
+      }
+    },
+    {
+      "id": "2",
+      "description": "qqemoji:2",
+      "shortCodes": [
+        "qqemoji:2"
+      ],
+      "staticUrl": "assets/wechat_emoji/qqemoji/2.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "qqemoji:2",
+        "cnValue": "",
+        "qqValue": "qqemoji:2",
+        "enValue": "",
+        "twValue": "",
+        "thValue": "",
+        "fileName": "2.png"
+      }
+    },
+    {
+      "id": "3",
+      "description": "qqemoji:3",
+      "shortCodes": [
+        "qqemoji:3"
+      ],
+      "staticUrl": "assets/wechat_emoji/qqemoji/3.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "qqemoji:3",
+        "cnValue": "",
+        "qqValue": "qqemoji:3",
+        "enValue": "",
+        "twValue": "",
+        "thValue": "",
+        "fileName": "3.png"
+      }
+    },
+    {
+      "id": "4",
+      "description": "qqemoji:4",
+      "shortCodes": [
+        "qqemoji:4"
+      ],
+      "staticUrl": "assets/wechat_emoji/qqemoji/4.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "qqemoji:4",
+        "cnValue": "",
+        "qqValue": "qqemoji:4",
+        "enValue": "",
+        "twValue": "",
+        "thValue": "",
+        "fileName": "4.png"
+      }
+    },
+    {
+      "id": "5",
+      "description": "qqemoji:5",
+      "shortCodes": [
+        "qqemoji:5"
+      ],
+      "staticUrl": "assets/wechat_emoji/qqemoji/5.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "qqemoji:5",
+        "cnValue": "",
+        "qqValue": "qqemoji:5",
+        "enValue": "",
+        "twValue": "",
+        "thValue": "",
+        "fileName": "5.png"
+      }
+    },
+    {
+      "id": "6",
+      "description": "qqemoji:6",
+      "shortCodes": [
+        "qqemoji:6"
+      ],
+      "staticUrl": "assets/wechat_emoji/qqemoji/6.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "qqemoji:6",
+        "cnValue": "",
+        "qqValue": "qqemoji:6",
+        "enValue": "",
+        "twValue": "",
+        "thValue": "",
+        "fileName": "6.png"
+      }
+    },
+    {
+      "id": "7",
+      "description": "qqemoji:7",
+      "shortCodes": [
+        "qqemoji:7"
+      ],
+      "staticUrl": "assets/wechat_emoji/qqemoji/7.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "qqemoji:7",
+        "cnValue": "",
+        "qqValue": "qqemoji:7",
+        "enValue": "",
+        "twValue": "",
+        "thValue": "",
+        "fileName": "7.png"
+      }
+    },
+    {
+      "id": "8",
+      "description": "qqemoji:8",
+      "shortCodes": [
+        "qqemoji:8"
+      ],
+      "staticUrl": "assets/wechat_emoji/qqemoji/8.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "qqemoji:8",
+        "cnValue": "",
+        "qqValue": "qqemoji:8",
+        "enValue": "",
+        "twValue": "",
+        "thValue": "",
+        "fileName": "8.png"
+      }
+    },
+    {
+      "id": "9",
+      "description": "qqemoji:9",
+      "shortCodes": [
+        "qqemoji:9"
+      ],
+      "staticUrl": "assets/wechat_emoji/qqemoji/9.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "qqemoji:9",
+        "cnValue": "",
+        "qqValue": "qqemoji:9",
+        "enValue": "",
+        "twValue": "",
+        "thValue": "",
+        "fileName": "9.png"
+      }
+    },
+    {
+      "id": "10",
+      "description": "qqemoji:10",
+      "shortCodes": [
+        "qqemoji:10"
+      ],
+      "staticUrl": "assets/wechat_emoji/qqemoji/10.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "qqemoji:10",
+        "cnValue": "",
+        "qqValue": "qqemoji:10",
+        "enValue": "",
+        "twValue": "",
+        "thValue": "",
+        "fileName": "10.png"
+      }
+    },
+    {
+      "id": "11",
+      "description": "qqemoji:11",
+      "shortCodes": [
+        "qqemoji:11"
+      ],
+      "staticUrl": "assets/wechat_emoji/qqemoji/11.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "qqemoji:11",
+        "cnValue": "",
+        "qqValue": "qqemoji:11",
+        "enValue": "",
+        "twValue": "",
+        "thValue": "",
+        "fileName": "11.png"
+      }
+    },
+    {
+      "id": "12",
+      "description": "qqemoji:12",
+      "shortCodes": [
+        "qqemoji:12"
+      ],
+      "staticUrl": "assets/wechat_emoji/qqemoji/12.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "qqemoji:12",
+        "cnValue": "",
+        "qqValue": "qqemoji:12",
+        "enValue": "",
+        "twValue": "",
+        "thValue": "",
+        "fileName": "12.png"
+      }
+    },
+    {
+      "id": "13",
+      "description": "qqemoji:13",
+      "shortCodes": [
+        "qqemoji:13"
+      ],
+      "staticUrl": "assets/wechat_emoji/qqemoji/13.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "qqemoji:13",
+        "cnValue": "",
+        "qqValue": "qqemoji:13",
+        "enValue": "",
+        "twValue": "",
+        "thValue": "",
+        "fileName": "13.png"
+      }
+    },
+    {
+      "id": "14",
+      "description": "qqemoji:14",
+      "shortCodes": [
+        "qqemoji:14"
+      ],
+      "staticUrl": "assets/wechat_emoji/qqemoji/14.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "qqemoji:14",
+        "cnValue": "",
+        "qqValue": "qqemoji:14",
+        "enValue": "",
+        "twValue": "",
+        "thValue": "",
+        "fileName": "14.png"
+      }
+    },
+    {
+      "id": "15",
+      "description": "qqemoji:15",
+      "shortCodes": [
+        "qqemoji:15"
+      ],
+      "staticUrl": "assets/wechat_emoji/qqemoji/15.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "qqemoji:15",
+        "cnValue": "",
+        "qqValue": "qqemoji:15",
+        "enValue": "",
+        "twValue": "",
+        "thValue": "",
+        "fileName": "15.png"
+      }
+    },
+    {
+      "id": "16",
+      "description": "qqemoji:16",
+      "shortCodes": [
+        "qqemoji:16"
+      ],
+      "staticUrl": "assets/wechat_emoji/qqemoji/16.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "qqemoji:16",
+        "cnValue": "",
+        "qqValue": "qqemoji:16",
+        "enValue": "",
+        "twValue": "",
+        "thValue": "",
+        "fileName": "16.png"
+      }
+    },
+    {
+      "id": "17",
+      "description": "qqemoji:17",
+      "shortCodes": [
+        "qqemoji:17"
+      ],
+      "staticUrl": "assets/wechat_emoji/qqemoji/17.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "qqemoji:17",
+        "cnValue": "",
+        "qqValue": "qqemoji:17",
+        "enValue": "",
+        "twValue": "",
+        "thValue": "",
+        "fileName": "17.png"
+      }
+    },
+    {
+      "id": "18",
+      "description": "qqemoji:18",
+      "shortCodes": [
+        "qqemoji:18"
+      ],
+      "staticUrl": "assets/wechat_emoji/qqemoji/18.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "qqemoji:18",
+        "cnValue": "",
+        "qqValue": "qqemoji:18",
+        "enValue": "",
+        "twValue": "",
+        "thValue": "",
+        "fileName": "18.png"
+      }
+    },
+    {
+      "id": "19",
+      "description": "qqemoji:19",
+      "shortCodes": [
+        "qqemoji:19"
+      ],
+      "staticUrl": "assets/wechat_emoji/qqemoji/19.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "qqemoji:19",
+        "cnValue": "",
+        "qqValue": "qqemoji:19",
+        "enValue": "",
+        "twValue": "",
+        "thValue": "",
+        "fileName": "19.png"
+      }
+    },
+    {
+      "id": "20",
+      "description": "qqemoji:20",
+      "shortCodes": [
+        "qqemoji:20"
+      ],
+      "staticUrl": "assets/wechat_emoji/qqemoji/20.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "qqemoji:20",
+        "cnValue": "",
+        "qqValue": "qqemoji:20",
+        "enValue": "",
+        "twValue": "",
+        "thValue": "",
+        "fileName": "20.png"
+      }
+    },
+    {
+      "id": "21",
+      "description": "qqemoji:21",
+      "shortCodes": [
+        "qqemoji:21"
+      ],
+      "staticUrl": "assets/wechat_emoji/qqemoji/21.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "qqemoji:21",
+        "cnValue": "",
+        "qqValue": "qqemoji:21",
+        "enValue": "",
+        "twValue": "",
+        "thValue": "",
+        "fileName": "21.png"
+      }
+    },
+    {
+      "id": "22",
+      "description": "qqemoji:22",
+      "shortCodes": [
+        "qqemoji:22"
+      ],
+      "staticUrl": "assets/wechat_emoji/qqemoji/22.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "qqemoji:22",
+        "cnValue": "",
+        "qqValue": "qqemoji:22",
+        "enValue": "",
+        "twValue": "",
+        "thValue": "",
+        "fileName": "22.png"
+      }
+    },
+    {
+      "id": "23",
+      "description": "qqemoji:23",
+      "shortCodes": [
+        "qqemoji:23"
+      ],
+      "staticUrl": "assets/wechat_emoji/qqemoji/23.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "qqemoji:23",
+        "cnValue": "",
+        "qqValue": "qqemoji:23",
+        "enValue": "",
+        "twValue": "",
+        "thValue": "",
+        "fileName": "23.png"
+      }
+    },
+    {
+      "id": "24",
+      "description": "qqemoji:24",
+      "shortCodes": [
+        "qqemoji:24"
+      ],
+      "staticUrl": "assets/wechat_emoji/qqemoji/24.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "qqemoji:24",
+        "cnValue": "",
+        "qqValue": "qqemoji:24",
+        "enValue": "",
+        "twValue": "",
+        "thValue": "",
+        "fileName": "24.png"
+      }
+    },
+    {
+      "id": "25",
+      "description": "qqemoji:25",
+      "shortCodes": [
+        "qqemoji:25"
+      ],
+      "staticUrl": "assets/wechat_emoji/qqemoji/25.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "qqemoji:25",
+        "cnValue": "",
+        "qqValue": "qqemoji:25",
+        "enValue": "",
+        "twValue": "",
+        "thValue": "",
+        "fileName": "25.png"
+      }
+    },
+    {
+      "id": "26",
+      "description": "qqemoji:26",
+      "shortCodes": [
+        "qqemoji:26"
+      ],
+      "staticUrl": "assets/wechat_emoji/qqemoji/26.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "qqemoji:26",
+        "cnValue": "",
+        "qqValue": "qqemoji:26",
+        "enValue": "",
+        "twValue": "",
+        "thValue": "",
+        "fileName": "26.png"
+      }
+    },
+    {
+      "id": "27",
+      "description": "qqemoji:27",
+      "shortCodes": [
+        "qqemoji:27"
+      ],
+      "staticUrl": "assets/wechat_emoji/qqemoji/27.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "qqemoji:27",
+        "cnValue": "",
+        "qqValue": "qqemoji:27",
+        "enValue": "",
+        "twValue": "",
+        "thValue": "",
+        "fileName": "27.png"
+      }
+    },
+    {
+      "id": "28",
+      "description": "qqemoji:28",
+      "shortCodes": [
+        "qqemoji:28"
+      ],
+      "staticUrl": "assets/wechat_emoji/qqemoji/28.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "qqemoji:28",
+        "cnValue": "",
+        "qqValue": "qqemoji:28",
+        "enValue": "",
+        "twValue": "",
+        "thValue": "",
+        "fileName": "28.png"
+      }
+    },
+    {
+      "id": "29",
+      "description": "qqemoji:29",
+      "shortCodes": [
+        "qqemoji:29"
+      ],
+      "staticUrl": "assets/wechat_emoji/qqemoji/29.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "qqemoji:29",
+        "cnValue": "",
+        "qqValue": "qqemoji:29",
+        "enValue": "",
+        "twValue": "",
+        "thValue": "",
+        "fileName": "29.png"
+      }
+    },
+    {
+      "id": "30",
+      "description": "qqemoji:30",
+      "shortCodes": [
+        "qqemoji:30"
+      ],
+      "staticUrl": "assets/wechat_emoji/qqemoji/30.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "qqemoji:30",
+        "cnValue": "",
+        "qqValue": "qqemoji:30",
+        "enValue": "",
+        "twValue": "",
+        "thValue": "",
+        "fileName": "30.png"
+      }
+    },
+    {
+      "id": "31",
+      "description": "qqemoji:31",
+      "shortCodes": [
+        "qqemoji:31"
+      ],
+      "staticUrl": "assets/wechat_emoji/qqemoji/31.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "qqemoji:31",
+        "cnValue": "",
+        "qqValue": "qqemoji:31",
+        "enValue": "",
+        "twValue": "",
+        "thValue": "",
+        "fileName": "31.png"
+      }
+    },
+    {
+      "id": "32",
+      "description": "qqemoji:32",
+      "shortCodes": [
+        "qqemoji:32"
+      ],
+      "staticUrl": "assets/wechat_emoji/qqemoji/32.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "qqemoji:32",
+        "cnValue": "",
+        "qqValue": "qqemoji:32",
+        "enValue": "",
+        "twValue": "",
+        "thValue": "",
+        "fileName": "32.png"
+      }
+    },
+    {
+      "id": "33",
+      "description": "qqemoji:33",
+      "shortCodes": [
+        "qqemoji:33"
+      ],
+      "staticUrl": "assets/wechat_emoji/qqemoji/33.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "qqemoji:33",
+        "cnValue": "",
+        "qqValue": "qqemoji:33",
+        "enValue": "",
+        "twValue": "",
+        "thValue": "",
+        "fileName": "33.png"
+      }
+    },
+    {
+      "id": "34",
+      "description": "qqemoji:34",
+      "shortCodes": [
+        "qqemoji:34"
+      ],
+      "staticUrl": "assets/wechat_emoji/qqemoji/34.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "qqemoji:34",
+        "cnValue": "",
+        "qqValue": "qqemoji:34",
+        "enValue": "",
+        "twValue": "",
+        "thValue": "",
+        "fileName": "34.png"
+      }
+    },
+    {
+      "id": "35",
+      "description": "qqemoji:35",
+      "shortCodes": [
+        "qqemoji:35"
+      ],
+      "staticUrl": "assets/wechat_emoji/qqemoji/35.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "qqemoji:35",
+        "cnValue": "",
+        "qqValue": "qqemoji:35",
+        "enValue": "",
+        "twValue": "",
+        "thValue": "",
+        "fileName": "35.png"
+      }
+    },
+    {
+      "id": "36",
+      "description": "qqemoji:36",
+      "shortCodes": [
+        "qqemoji:36"
+      ],
+      "staticUrl": "assets/wechat_emoji/qqemoji/36.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "qqemoji:36",
+        "cnValue": "",
+        "qqValue": "qqemoji:36",
+        "enValue": "",
+        "twValue": "",
+        "thValue": "",
+        "fileName": "36.png"
+      }
+    },
+    {
+      "id": "37",
+      "description": "qqemoji:37",
+      "shortCodes": [
+        "qqemoji:37"
+      ],
+      "staticUrl": "assets/wechat_emoji/qqemoji/37.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "qqemoji:37",
+        "cnValue": "",
+        "qqValue": "qqemoji:37",
+        "enValue": "",
+        "twValue": "",
+        "thValue": "",
+        "fileName": "37.png"
+      }
+    },
+    {
+      "id": "38",
+      "description": "qqemoji:38",
+      "shortCodes": [
+        "qqemoji:38"
+      ],
+      "staticUrl": "assets/wechat_emoji/qqemoji/38.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "qqemoji:38",
+        "cnValue": "",
+        "qqValue": "qqemoji:38",
+        "enValue": "",
+        "twValue": "",
+        "thValue": "",
+        "fileName": "38.png"
+      }
+    },
+    {
+      "id": "39",
+      "description": "qqemoji:39",
+      "shortCodes": [
+        "qqemoji:39"
+      ],
+      "staticUrl": "assets/wechat_emoji/qqemoji/39.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "qqemoji:39",
+        "cnValue": "",
+        "qqValue": "qqemoji:39",
+        "enValue": "",
+        "twValue": "",
+        "thValue": "",
+        "fileName": "39.png"
+      }
+    },
+    {
+      "id": "40",
+      "description": "qqemoji:40",
+      "shortCodes": [
+        "qqemoji:40"
+      ],
+      "staticUrl": "assets/wechat_emoji/qqemoji/40.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "qqemoji:40",
+        "cnValue": "",
+        "qqValue": "qqemoji:40",
+        "enValue": "",
+        "twValue": "",
+        "thValue": "",
+        "fileName": "40.png"
+      }
+    },
+    {
+      "id": "41",
+      "description": "qqemoji:41",
+      "shortCodes": [
+        "qqemoji:41"
+      ],
+      "staticUrl": "assets/wechat_emoji/qqemoji/41.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "qqemoji:41",
+        "cnValue": "",
+        "qqValue": "qqemoji:41",
+        "enValue": "",
+        "twValue": "",
+        "thValue": "",
+        "fileName": "41.png"
+      }
+    },
+    {
+      "id": "42",
+      "description": "qqemoji:42",
+      "shortCodes": [
+        "qqemoji:42"
+      ],
+      "staticUrl": "assets/wechat_emoji/qqemoji/42.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "qqemoji:42",
+        "cnValue": "",
+        "qqValue": "qqemoji:42",
+        "enValue": "",
+        "twValue": "",
+        "thValue": "",
+        "fileName": "42.png"
+      }
+    },
+    {
+      "id": "43",
+      "description": "qqemoji:43",
+      "shortCodes": [
+        "qqemoji:43"
+      ],
+      "staticUrl": "assets/wechat_emoji/qqemoji/43.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "qqemoji:43",
+        "cnValue": "",
+        "qqValue": "qqemoji:43",
+        "enValue": "",
+        "twValue": "",
+        "thValue": "",
+        "fileName": "43.png"
+      }
+    },
+    {
+      "id": "44",
+      "description": "qqemoji:44",
+      "shortCodes": [
+        "qqemoji:44"
+      ],
+      "staticUrl": "assets/wechat_emoji/qqemoji/44.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "qqemoji:44",
+        "cnValue": "",
+        "qqValue": "qqemoji:44",
+        "enValue": "",
+        "twValue": "",
+        "thValue": "",
+        "fileName": "44.png"
+      }
+    },
+    {
+      "id": "45",
+      "description": "qqemoji:45",
+      "shortCodes": [
+        "qqemoji:45"
+      ],
+      "staticUrl": "assets/wechat_emoji/qqemoji/45.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "qqemoji:45",
+        "cnValue": "",
+        "qqValue": "qqemoji:45",
+        "enValue": "",
+        "twValue": "",
+        "thValue": "",
+        "fileName": "45.png"
+      }
+    },
+    {
+      "id": "46",
+      "description": "qqemoji:46",
+      "shortCodes": [
+        "qqemoji:46"
+      ],
+      "staticUrl": "assets/wechat_emoji/qqemoji/46.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "qqemoji:46",
+        "cnValue": "",
+        "qqValue": "qqemoji:46",
+        "enValue": "",
+        "twValue": "",
+        "thValue": "",
+        "fileName": "46.png"
+      }
+    },
+    {
+      "id": "47",
+      "description": "qqemoji:47",
+      "shortCodes": [
+        "qqemoji:47"
+      ],
+      "staticUrl": "assets/wechat_emoji/qqemoji/47.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "qqemoji:47",
+        "cnValue": "",
+        "qqValue": "qqemoji:47",
+        "enValue": "",
+        "twValue": "",
+        "thValue": "",
+        "fileName": "47.png"
+      }
+    },
+    {
+      "id": "48",
+      "description": "qqemoji:48",
+      "shortCodes": [
+        "qqemoji:48"
+      ],
+      "staticUrl": "assets/wechat_emoji/qqemoji/48.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "qqemoji:48",
+        "cnValue": "",
+        "qqValue": "qqemoji:48",
+        "enValue": "",
+        "twValue": "",
+        "thValue": "",
+        "fileName": "48.png"
+      }
+    },
+    {
+      "id": "49",
+      "description": "qqemoji:49",
+      "shortCodes": [
+        "qqemoji:49"
+      ],
+      "staticUrl": "assets/wechat_emoji/qqemoji/49.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "qqemoji:49",
+        "cnValue": "",
+        "qqValue": "qqemoji:49",
+        "enValue": "",
+        "twValue": "",
+        "thValue": "",
+        "fileName": "49.png"
+      }
+    },
+    {
+      "id": "50",
+      "description": "qqemoji:50",
+      "shortCodes": [
+        "qqemoji:50"
+      ],
+      "staticUrl": "assets/wechat_emoji/qqemoji/50.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "qqemoji:50",
+        "cnValue": "",
+        "qqValue": "qqemoji:50",
+        "enValue": "",
+        "twValue": "",
+        "thValue": "",
+        "fileName": "50.png"
+      }
+    },
+    {
+      "id": "51",
+      "description": "qqemoji:51",
+      "shortCodes": [
+        "qqemoji:51"
+      ],
+      "staticUrl": "assets/wechat_emoji/qqemoji/51.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "qqemoji:51",
+        "cnValue": "",
+        "qqValue": "qqemoji:51",
+        "enValue": "",
+        "twValue": "",
+        "thValue": "",
+        "fileName": "51.png"
+      }
+    },
+    {
+      "id": "52",
+      "description": "qqemoji:52",
+      "shortCodes": [
+        "qqemoji:52"
+      ],
+      "staticUrl": "assets/wechat_emoji/qqemoji/52.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "qqemoji:52",
+        "cnValue": "",
+        "qqValue": "qqemoji:52",
+        "enValue": "",
+        "twValue": "",
+        "thValue": "",
+        "fileName": "52.png"
+      }
+    },
+    {
+      "id": "53",
+      "description": "qqemoji:53",
+      "shortCodes": [
+        "qqemoji:53"
+      ],
+      "staticUrl": "assets/wechat_emoji/qqemoji/53.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "qqemoji:53",
+        "cnValue": "",
+        "qqValue": "qqemoji:53",
+        "enValue": "",
+        "twValue": "",
+        "thValue": "",
+        "fileName": "53.png"
+      }
+    },
+    {
+      "id": "54",
+      "description": "qqemoji:54",
+      "shortCodes": [
+        "qqemoji:54"
+      ],
+      "staticUrl": "assets/wechat_emoji/qqemoji/54.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "qqemoji:54",
+        "cnValue": "",
+        "qqValue": "qqemoji:54",
+        "enValue": "",
+        "twValue": "",
+        "thValue": "",
+        "fileName": "54.png"
+      }
+    },
+    {
+      "id": "55",
+      "description": "qqemoji:55",
+      "shortCodes": [
+        "qqemoji:55"
+      ],
+      "staticUrl": "assets/wechat_emoji/qqemoji/55.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "qqemoji:55",
+        "cnValue": "",
+        "qqValue": "qqemoji:55",
+        "enValue": "",
+        "twValue": "",
+        "thValue": "",
+        "fileName": "55.png"
+      }
+    },
+    {
+      "id": "56",
+      "description": "qqemoji:56",
+      "shortCodes": [
+        "qqemoji:56"
+      ],
+      "staticUrl": "assets/wechat_emoji/qqemoji/56.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "qqemoji:56",
+        "cnValue": "",
+        "qqValue": "qqemoji:56",
+        "enValue": "",
+        "twValue": "",
+        "thValue": "",
+        "fileName": "56.png"
+      }
+    },
+    {
+      "id": "57",
+      "description": "qqemoji:57",
+      "shortCodes": [
+        "qqemoji:57"
+      ],
+      "staticUrl": "assets/wechat_emoji/qqemoji/57.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "qqemoji:57",
+        "cnValue": "",
+        "qqValue": "qqemoji:57",
+        "enValue": "",
+        "twValue": "",
+        "thValue": "",
+        "fileName": "57.png"
+      }
+    },
+    {
+      "id": "58",
+      "description": "qqemoji:58",
+      "shortCodes": [
+        "qqemoji:58"
+      ],
+      "staticUrl": "assets/wechat_emoji/qqemoji/58.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "qqemoji:58",
+        "cnValue": "",
+        "qqValue": "qqemoji:58",
+        "enValue": "",
+        "twValue": "",
+        "thValue": "",
+        "fileName": "58.png"
+      }
+    },
+    {
+      "id": "59",
+      "description": "qqemoji:59",
+      "shortCodes": [
+        "qqemoji:59"
+      ],
+      "staticUrl": "assets/wechat_emoji/qqemoji/59.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "qqemoji:59",
+        "cnValue": "",
+        "qqValue": "qqemoji:59",
+        "enValue": "",
+        "twValue": "",
+        "thValue": "",
+        "fileName": "59.png"
+      }
+    },
+    {
+      "id": "60",
+      "description": "qqemoji:60",
+      "shortCodes": [
+        "qqemoji:60"
+      ],
+      "staticUrl": "assets/wechat_emoji/qqemoji/60.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "qqemoji:60",
+        "cnValue": "",
+        "qqValue": "qqemoji:60",
+        "enValue": "",
+        "twValue": "",
+        "thValue": "",
+        "fileName": "60.png"
+      }
+    },
+    {
+      "id": "61",
+      "description": "qqemoji:61",
+      "shortCodes": [
+        "qqemoji:61"
+      ],
+      "staticUrl": "assets/wechat_emoji/qqemoji/61.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "qqemoji:61",
+        "cnValue": "",
+        "qqValue": "qqemoji:61",
+        "enValue": "",
+        "twValue": "",
+        "thValue": "",
+        "fileName": "61.png"
+      }
+    },
+    {
+      "id": "62",
+      "description": "qqemoji:62",
+      "shortCodes": [
+        "qqemoji:62"
+      ],
+      "staticUrl": "assets/wechat_emoji/qqemoji/62.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "qqemoji:62",
+        "cnValue": "",
+        "qqValue": "qqemoji:62",
+        "enValue": "",
+        "twValue": "",
+        "thValue": "",
+        "fileName": "62.png"
+      }
+    },
+    {
+      "id": "63",
+      "description": "qqemoji:63",
+      "shortCodes": [
+        "qqemoji:63"
+      ],
+      "staticUrl": "assets/wechat_emoji/qqemoji/63.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "qqemoji:63",
+        "cnValue": "",
+        "qqValue": "qqemoji:63",
+        "enValue": "",
+        "twValue": "",
+        "thValue": "",
+        "fileName": "63.png"
+      }
+    },
+    {
+      "id": "64",
+      "description": "qqemoji:64",
+      "shortCodes": [
+        "qqemoji:64"
+      ],
+      "staticUrl": "assets/wechat_emoji/qqemoji/64.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "qqemoji:64",
+        "cnValue": "",
+        "qqValue": "qqemoji:64",
+        "enValue": "",
+        "twValue": "",
+        "thValue": "",
+        "fileName": "64.png"
+      }
+    },
+    {
+      "id": "65",
+      "description": "qqemoji:65",
+      "shortCodes": [
+        "qqemoji:65"
+      ],
+      "staticUrl": "assets/wechat_emoji/qqemoji/65.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "qqemoji:65",
+        "cnValue": "",
+        "qqValue": "qqemoji:65",
+        "enValue": "",
+        "twValue": "",
+        "thValue": "",
+        "fileName": "65.png"
+      }
+    },
+    {
+      "id": "66",
+      "description": "qqemoji:66",
+      "shortCodes": [
+        "qqemoji:66"
+      ],
+      "staticUrl": "assets/wechat_emoji/qqemoji/66.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "qqemoji:66",
+        "cnValue": "",
+        "qqValue": "qqemoji:66",
+        "enValue": "",
+        "twValue": "",
+        "thValue": "",
+        "fileName": "66.png"
+      }
+    },
+    {
+      "id": "67",
+      "description": "qqemoji:67",
+      "shortCodes": [
+        "qqemoji:67"
+      ],
+      "staticUrl": "assets/wechat_emoji/qqemoji/67.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "qqemoji:67",
+        "cnValue": "",
+        "qqValue": "qqemoji:67",
+        "enValue": "",
+        "twValue": "",
+        "thValue": "",
+        "fileName": "67.png"
+      }
+    },
+    {
+      "id": "68",
+      "description": "qqemoji:68",
+      "shortCodes": [
+        "qqemoji:68"
+      ],
+      "staticUrl": "assets/wechat_emoji/qqemoji/68.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "qqemoji:68",
+        "cnValue": "",
+        "qqValue": "qqemoji:68",
+        "enValue": "",
+        "twValue": "",
+        "thValue": "",
+        "fileName": "68.png"
+      }
+    },
+    {
+      "id": "69",
+      "description": "qqemoji:69",
+      "shortCodes": [
+        "qqemoji:69"
+      ],
+      "staticUrl": "assets/wechat_emoji/qqemoji/69.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "qqemoji:69",
+        "cnValue": "",
+        "qqValue": "qqemoji:69",
+        "enValue": "",
+        "twValue": "",
+        "thValue": "",
+        "fileName": "69.png"
+      }
+    },
+    {
+      "id": "70",
+      "description": "qqemoji:70",
+      "shortCodes": [
+        "qqemoji:70"
+      ],
+      "staticUrl": "assets/wechat_emoji/qqemoji/70.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "qqemoji:70",
+        "cnValue": "",
+        "qqValue": "qqemoji:70",
+        "enValue": "",
+        "twValue": "",
+        "thValue": "",
+        "fileName": "70.png"
+      }
+    },
+    {
+      "id": "71",
+      "description": "qqemoji:71",
+      "shortCodes": [
+        "qqemoji:71"
+      ],
+      "staticUrl": "assets/wechat_emoji/qqemoji/71.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "qqemoji:71",
+        "cnValue": "",
+        "qqValue": "qqemoji:71",
+        "enValue": "",
+        "twValue": "",
+        "thValue": "",
+        "fileName": "71.png"
+      }
+    },
+    {
+      "id": "72",
+      "description": "qqemoji:72",
+      "shortCodes": [
+        "qqemoji:72"
+      ],
+      "staticUrl": "assets/wechat_emoji/qqemoji/72.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "qqemoji:72",
+        "cnValue": "",
+        "qqValue": "qqemoji:72",
+        "enValue": "",
+        "twValue": "",
+        "thValue": "",
+        "fileName": "72.png"
+      }
+    },
+    {
+      "id": "73",
+      "description": "qqemoji:73",
+      "shortCodes": [
+        "qqemoji:73"
+      ],
+      "staticUrl": "assets/wechat_emoji/qqemoji/73.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "qqemoji:73",
+        "cnValue": "",
+        "qqValue": "qqemoji:73",
+        "enValue": "",
+        "twValue": "",
+        "thValue": "",
+        "fileName": "73.png"
+      }
+    },
+    {
+      "id": "74",
+      "description": "qqemoji:74",
+      "shortCodes": [
+        "qqemoji:74"
+      ],
+      "staticUrl": "assets/wechat_emoji/qqemoji/74.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "qqemoji:74",
+        "cnValue": "",
+        "qqValue": "qqemoji:74",
+        "enValue": "",
+        "twValue": "",
+        "thValue": "",
+        "fileName": "74.png"
+      }
+    },
+    {
+      "id": "75",
+      "description": "qqemoji:75",
+      "shortCodes": [
+        "qqemoji:75"
+      ],
+      "staticUrl": "assets/wechat_emoji/qqemoji/75.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "qqemoji:75",
+        "cnValue": "",
+        "qqValue": "qqemoji:75",
+        "enValue": "",
+        "twValue": "",
+        "thValue": "",
+        "fileName": "75.png"
+      }
+    },
+    {
+      "id": "76",
+      "description": "qqemoji:76",
+      "shortCodes": [
+        "qqemoji:76"
+      ],
+      "staticUrl": "assets/wechat_emoji/qqemoji/76.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "qqemoji:76",
+        "cnValue": "",
+        "qqValue": "qqemoji:76",
+        "enValue": "",
+        "twValue": "",
+        "thValue": "",
+        "fileName": "76.png"
+      }
+    },
+    {
+      "id": "77",
+      "description": "qqemoji:77",
+      "shortCodes": [
+        "qqemoji:77"
+      ],
+      "staticUrl": "assets/wechat_emoji/qqemoji/77.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "qqemoji:77",
+        "cnValue": "",
+        "qqValue": "qqemoji:77",
+        "enValue": "",
+        "twValue": "",
+        "thValue": "",
+        "fileName": "77.png"
+      }
+    },
+    {
+      "id": "78",
+      "description": "qqemoji:78",
+      "shortCodes": [
+        "qqemoji:78"
+      ],
+      "staticUrl": "assets/wechat_emoji/qqemoji/78.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "qqemoji:78",
+        "cnValue": "",
+        "qqValue": "qqemoji:78",
+        "enValue": "",
+        "twValue": "",
+        "thValue": "",
+        "fileName": "78.png"
+      }
+    },
+    {
+      "id": "79",
+      "description": "qqemoji:79",
+      "shortCodes": [
+        "qqemoji:79"
+      ],
+      "staticUrl": "assets/wechat_emoji/qqemoji/79.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "qqemoji:79",
+        "cnValue": "",
+        "qqValue": "qqemoji:79",
+        "enValue": "",
+        "twValue": "",
+        "thValue": "",
+        "fileName": "79.png"
+      }
+    },
+    {
+      "id": "80",
+      "description": "qqemoji:80",
+      "shortCodes": [
+        "qqemoji:80"
+      ],
+      "staticUrl": "assets/wechat_emoji/qqemoji/80.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "qqemoji:80",
+        "cnValue": "",
+        "qqValue": "qqemoji:80",
+        "enValue": "",
+        "twValue": "",
+        "thValue": "",
+        "fileName": "80.png"
+      }
+    },
+    {
+      "id": "81",
+      "description": "qqemoji:81",
+      "shortCodes": [
+        "qqemoji:81"
+      ],
+      "staticUrl": "assets/wechat_emoji/qqemoji/81.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "qqemoji:81",
+        "cnValue": "",
+        "qqValue": "qqemoji:81",
+        "enValue": "",
+        "twValue": "",
+        "thValue": "",
+        "fileName": "81.png"
+      }
+    },
+    {
+      "id": "82",
+      "description": "qqemoji:82",
+      "shortCodes": [
+        "qqemoji:82"
+      ],
+      "staticUrl": "assets/wechat_emoji/qqemoji/82.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "qqemoji:82",
+        "cnValue": "",
+        "qqValue": "qqemoji:82",
+        "enValue": "",
+        "twValue": "",
+        "thValue": "",
+        "fileName": "82.png"
+      }
+    },
+    {
+      "id": "83",
+      "description": "qqemoji:83",
+      "shortCodes": [
+        "qqemoji:83"
+      ],
+      "staticUrl": "assets/wechat_emoji/qqemoji/83.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "qqemoji:83",
+        "cnValue": "",
+        "qqValue": "qqemoji:83",
+        "enValue": "",
+        "twValue": "",
+        "thValue": "",
+        "fileName": "83.png"
+      }
+    },
+    {
+      "id": "84",
+      "description": "qqemoji:84",
+      "shortCodes": [
+        "qqemoji:84"
+      ],
+      "staticUrl": "assets/wechat_emoji/qqemoji/84.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "qqemoji:84",
+        "cnValue": "",
+        "qqValue": "qqemoji:84",
+        "enValue": "",
+        "twValue": "",
+        "thValue": "",
+        "fileName": "84.png"
+      }
+    },
+    {
+      "id": "85",
+      "description": "qqemoji:85",
+      "shortCodes": [
+        "qqemoji:85"
+      ],
+      "staticUrl": "assets/wechat_emoji/qqemoji/85.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "qqemoji:85",
+        "cnValue": "",
+        "qqValue": "qqemoji:85",
+        "enValue": "",
+        "twValue": "",
+        "thValue": "",
+        "fileName": "85.png"
+      }
+    },
+    {
+      "id": "86",
+      "description": "qqemoji:86",
+      "shortCodes": [
+        "qqemoji:86"
+      ],
+      "staticUrl": "assets/wechat_emoji/qqemoji/86.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "qqemoji:86",
+        "cnValue": "",
+        "qqValue": "qqemoji:86",
+        "enValue": "",
+        "twValue": "",
+        "thValue": "",
+        "fileName": "86.png"
+      }
+    },
+    {
+      "id": "87",
+      "description": "qqemoji:87",
+      "shortCodes": [
+        "qqemoji:87"
+      ],
+      "staticUrl": "assets/wechat_emoji/qqemoji/87.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "qqemoji:87",
+        "cnValue": "",
+        "qqValue": "qqemoji:87",
+        "enValue": "",
+        "twValue": "",
+        "thValue": "",
+        "fileName": "87.png"
+      }
+    },
+    {
+      "id": "88",
+      "description": "qqemoji:88",
+      "shortCodes": [
+        "qqemoji:88"
+      ],
+      "staticUrl": "assets/wechat_emoji/qqemoji/88.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "qqemoji:88",
+        "cnValue": "",
+        "qqValue": "qqemoji:88",
+        "enValue": "",
+        "twValue": "",
+        "thValue": "",
+        "fileName": "88.png"
+      }
+    },
+    {
+      "id": "89",
+      "description": "qqemoji:89",
+      "shortCodes": [
+        "qqemoji:89"
+      ],
+      "staticUrl": "assets/wechat_emoji/qqemoji/89.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "qqemoji:89",
+        "cnValue": "",
+        "qqValue": "qqemoji:89",
+        "enValue": "",
+        "twValue": "",
+        "thValue": "",
+        "fileName": "89.png"
+      }
+    },
+    {
+      "id": "90",
+      "description": "qqemoji:90",
+      "shortCodes": [
+        "qqemoji:90"
+      ],
+      "staticUrl": "assets/wechat_emoji/qqemoji/90.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "qqemoji:90",
+        "cnValue": "",
+        "qqValue": "qqemoji:90",
+        "enValue": "",
+        "twValue": "",
+        "thValue": "",
+        "fileName": "90.png"
+      }
+    },
+    {
+      "id": "91",
+      "description": "qqemoji:91",
+      "shortCodes": [
+        "qqemoji:91"
+      ],
+      "staticUrl": "assets/wechat_emoji/qqemoji/91.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "qqemoji:91",
+        "cnValue": "",
+        "qqValue": "qqemoji:91",
+        "enValue": "",
+        "twValue": "",
+        "thValue": "",
+        "fileName": "91.png"
+      }
+    },
+    {
+      "id": "92",
+      "description": "qqemoji:92",
+      "shortCodes": [
+        "qqemoji:92"
+      ],
+      "staticUrl": "assets/wechat_emoji/qqemoji/92.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "qqemoji:92",
+        "cnValue": "",
+        "qqValue": "qqemoji:92",
+        "enValue": "",
+        "twValue": "",
+        "thValue": "",
+        "fileName": "92.png"
+      }
+    },
+    {
+      "id": "93",
+      "description": "qqemoji:93",
+      "shortCodes": [
+        "qqemoji:93"
+      ],
+      "staticUrl": "assets/wechat_emoji/qqemoji/93.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "qqemoji:93",
+        "cnValue": "",
+        "qqValue": "qqemoji:93",
+        "enValue": "",
+        "twValue": "",
+        "thValue": "",
+        "fileName": "93.png"
+      }
+    },
+    {
+      "id": "94",
+      "description": "qqemoji:94",
+      "shortCodes": [
+        "qqemoji:94"
+      ],
+      "staticUrl": "assets/wechat_emoji/qqemoji/94.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "qqemoji:94",
+        "cnValue": "",
+        "qqValue": "qqemoji:94",
+        "enValue": "",
+        "twValue": "",
+        "thValue": "",
+        "fileName": "94.png"
+      }
+    },
+    {
+      "id": "95",
+      "description": "qqemoji:95",
+      "shortCodes": [
+        "qqemoji:95"
+      ],
+      "staticUrl": "assets/wechat_emoji/qqemoji/95.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "qqemoji:95",
+        "cnValue": "",
+        "qqValue": "qqemoji:95",
+        "enValue": "",
+        "twValue": "",
+        "thValue": "",
+        "fileName": "95.png"
+      }
+    },
+    {
+      "id": "96",
+      "description": "qqemoji:96",
+      "shortCodes": [
+        "qqemoji:96"
+      ],
+      "staticUrl": "assets/wechat_emoji/qqemoji/96.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "qqemoji:96",
+        "cnValue": "",
+        "qqValue": "qqemoji:96",
+        "enValue": "",
+        "twValue": "",
+        "thValue": "",
+        "fileName": "96.png"
+      }
+    },
+    {
+      "id": "97",
+      "description": "qqemoji:97",
+      "shortCodes": [
+        "qqemoji:97"
+      ],
+      "staticUrl": "assets/wechat_emoji/qqemoji/97.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "qqemoji:97",
+        "cnValue": "",
+        "qqValue": "qqemoji:97",
+        "enValue": "",
+        "twValue": "",
+        "thValue": "",
+        "fileName": "97.png"
+      }
+    },
+    {
+      "id": "98",
+      "description": "qqemoji:98",
+      "shortCodes": [
+        "qqemoji:98"
+      ],
+      "staticUrl": "assets/wechat_emoji/qqemoji/98.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "qqemoji:98",
+        "cnValue": "",
+        "qqValue": "qqemoji:98",
+        "enValue": "",
+        "twValue": "",
+        "thValue": "",
+        "fileName": "98.png"
+      }
+    },
+    {
+      "id": "99",
+      "description": "qqemoji:99",
+      "shortCodes": [
+        "qqemoji:99"
+      ],
+      "staticUrl": "assets/wechat_emoji/qqemoji/99.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "qqemoji:99",
+        "cnValue": "",
+        "qqValue": "qqemoji:99",
+        "enValue": "",
+        "twValue": "",
+        "thValue": "",
+        "fileName": "99.png"
+      }
+    },
+    {
+      "id": "100",
+      "description": "qqemoji:100",
+      "shortCodes": [
+        "qqemoji:100"
+      ],
+      "staticUrl": "assets/wechat_emoji/qqemoji/100.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "qqemoji:100",
+        "cnValue": "",
+        "qqValue": "qqemoji:100",
+        "enValue": "",
+        "twValue": "",
+        "thValue": "",
+        "fileName": "100.png"
+      }
+    },
+    {
+      "id": "101",
+      "description": "qqemoji:101",
+      "shortCodes": [
+        "qqemoji:101"
+      ],
+      "staticUrl": "assets/wechat_emoji/qqemoji/101.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "qqemoji:101",
+        "cnValue": "",
+        "qqValue": "qqemoji:101",
+        "enValue": "",
+        "twValue": "",
+        "thValue": "",
+        "fileName": "101.png"
+      }
+    },
+    {
+      "id": "102",
+      "description": "qqemoji:102",
+      "shortCodes": [
+        "qqemoji:102"
+      ],
+      "staticUrl": "assets/wechat_emoji/qqemoji/102.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "qqemoji:102",
+        "cnValue": "",
+        "qqValue": "qqemoji:102",
+        "enValue": "",
+        "twValue": "",
+        "thValue": "",
+        "fileName": "102.png"
+      }
+    },
+    {
+      "id": "103",
+      "description": "qqemoji:103",
+      "shortCodes": [
+        "qqemoji:103"
+      ],
+      "staticUrl": "assets/wechat_emoji/qqemoji/103.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "qqemoji:103",
+        "cnValue": "",
+        "qqValue": "qqemoji:103",
+        "enValue": "",
+        "twValue": "",
+        "thValue": "",
+        "fileName": "103.png"
+      }
+    },
+    {
+      "id": "104",
+      "description": "qqemoji:104",
+      "shortCodes": [
+        "qqemoji:104"
+      ],
+      "staticUrl": "assets/wechat_emoji/qqemoji/104.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "qqemoji:104",
+        "cnValue": "",
+        "qqValue": "qqemoji:104",
+        "enValue": "",
+        "twValue": "",
+        "thValue": "",
+        "fileName": "104.png"
+      }
+    },
+    {
+      "id": "2002",
+      "description": "[奸笑]",
+      "shortCodes": [
+        "[Smirk]",
+        "[奸笑]",
+        "[奸笑]"
+      ],
+      "staticUrl": "assets/wechat_emoji/newemoji/2_02.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "[Smirk]",
+        "cnValue": "[奸笑]",
+        "qqValue": "[奸笑]",
+        "enValue": "[Smirk]",
+        "twValue": "[奸笑]",
+        "thValue": "[Smirk]",
+        "fileName": "2_02.png"
+      }
+    },
+    {
+      "id": "2004",
+      "description": "[嘿哈]",
+      "shortCodes": [
+        "[Hey]",
+        "[嘿哈]",
+        "[嘿哈]"
+      ],
+      "staticUrl": "assets/wechat_emoji/newemoji/2_04.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "[Hey]",
+        "cnValue": "[嘿哈]",
+        "qqValue": "[嘿哈]",
+        "enValue": "[Hey]",
+        "twValue": "[吼嘿]",
+        "thValue": "[Hey]",
+        "fileName": "2_04.png"
+      }
+    },
+    {
+      "id": "2005",
+      "description": "[捂脸]",
+      "shortCodes": [
+        "[Facepalm]",
+        "[捂脸]",
+        "[捂脸]"
+      ],
+      "staticUrl": "assets/wechat_emoji/newemoji/2_05.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "[Facepalm]",
+        "cnValue": "[捂脸]",
+        "qqValue": "[捂脸]",
+        "enValue": "[Facepalm]",
+        "twValue": "[掩面]",
+        "thValue": "[Facepalm]",
+        "fileName": "2_05.png"
+      }
+    },
+    {
+      "id": "2006",
+      "description": "[机智]",
+      "shortCodes": [
+        "[Smart]",
+        "[机智]",
+        "[机智]"
+      ],
+      "staticUrl": "assets/wechat_emoji/newemoji/2_06.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "[Smart]",
+        "cnValue": "[机智]",
+        "qqValue": "[机智]",
+        "enValue": "[Smart]",
+        "twValue": "[機智]",
+        "thValue": "[Smart]",
+        "fileName": "2_06.png"
+      }
+    },
+    {
+      "id": "2007",
+      "description": "[茶]",
+      "shortCodes": [
+        "[Tea]",
+        "[茶]",
+        "[茶]"
+      ],
+      "staticUrl": "assets/wechat_emoji/newemoji/2_07.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "[Tea]",
+        "cnValue": "[茶]",
+        "qqValue": "[茶]",
+        "enValue": "[Tea]",
+        "twValue": "[茶]",
+        "thValue": "[Tea]",
+        "fileName": "2_07.png"
+      }
+    },
+    {
+      "id": "2009",
+      "description": "[红包]",
+      "shortCodes": [
+        "[Packet]",
+        "[红包]",
+        "[红包]"
+      ],
+      "staticUrl": "assets/wechat_emoji/newemoji/2_09.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "[Packet]",
+        "cnValue": "[红包]",
+        "qqValue": "[红包]",
+        "enValue": "[Packet]",
+        "twValue": "[Packet]",
+        "thValue": "[Packet]",
+        "fileName": "2_09.png"
+      }
+    },
+    {
+      "id": "2010",
+      "description": "[蜡烛]",
+      "shortCodes": [
+        "[Candle]",
+        "[蜡烛]",
+        "[蜡烛]"
+      ],
+      "staticUrl": "assets/wechat_emoji/newemoji/2_10.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "[Candle]",
+        "cnValue": "[蜡烛]",
+        "qqValue": "[蜡烛]",
+        "enValue": "[Candle]",
+        "twValue": "[蠟燭]",
+        "thValue": "[Candle]",
+        "fileName": "2_10.png"
+      }
+    },
+    {
+      "id": "2011",
+      "description": "[耶]",
+      "shortCodes": [
+        "[Yeah!]",
+        "[耶]",
+        "[耶]"
+      ],
+      "staticUrl": "assets/wechat_emoji/newemoji/2_11.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "[Yeah!]",
+        "cnValue": "[耶]",
+        "qqValue": "[耶]",
+        "enValue": "[Yeah!]",
+        "twValue": "[歐耶]",
+        "thValue": "[Yeah!]",
+        "fileName": "2_11.png"
+      }
+    },
+    {
+      "id": "2013",
+      "description": "[囧]",
+      "shortCodes": [
+        "[Blush]",
+        "[囧]",
+        "[囧]"
+      ],
+      "staticUrl": "assets/wechat_emoji/newemoji/smiley_17b.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "[Blush]",
+        "cnValue": "[囧]",
+        "qqValue": "[囧]",
+        "enValue": "[Blush]",
+        "twValue": "[囧]",
+        "thValue": "[Blush]",
+        "fileName": "smiley_17b.png"
+      }
+    },
+    {
+      "id": "2014",
+      "description": "[抱拳]",
+      "shortCodes": [
+        "[Salute]",
+        "[抱拳]",
+        "[抱拳]"
+      ],
+      "staticUrl": "assets/wechat_emoji/newemoji/smiley_83b.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "[Salute]",
+        "cnValue": "[抱拳]",
+        "qqValue": "[抱拳]",
+        "enValue": "[Salute]",
+        "twValue": "[抱拳]",
+        "thValue": "[Salute]",
+        "fileName": "smiley_83b.png"
+      }
+    },
+    {
+      "id": "2015",
+      "description": "[鸡]",
+      "shortCodes": [
+        "[Chick]",
+        "[鸡]",
+        "[鸡]"
+      ],
+      "staticUrl": "assets/wechat_emoji/newemoji/2_14.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "[Chick]",
+        "cnValue": "[鸡]",
+        "qqValue": "[鸡]",
+        "enValue": "[Chick]",
+        "twValue": "[小雞]",
+        "thValue": "[Chick]",
+        "fileName": "2_14.png"
+      }
+    },
+    {
+      "id": "2016",
+      "description": "[福]",
+      "shortCodes": [
+        "[Blessing]",
+        "[福]",
+        "[福]"
+      ],
+      "staticUrl": "assets/wechat_emoji/newemoji/2_15.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "[Blessing]",
+        "cnValue": "[福]",
+        "qqValue": "[福]",
+        "enValue": "[Blessing]",
+        "twValue": "[福]",
+        "thValue": "[Blessing]",
+        "fileName": "2_15.png"
+      }
+    },
+    {
+      "id": "2017",
+      "description": "[再见]",
+      "shortCodes": [
+        "[Bye]",
+        "[再见]",
+        "[再见]"
+      ],
+      "staticUrl": "assets/wechat_emoji/newemoji/smiley_39b.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "[Bye]",
+        "cnValue": "[再见]",
+        "qqValue": "[再见]",
+        "enValue": "[Bye]",
+        "twValue": "[再見]",
+        "thValue": "[Bye]",
+        "fileName": "smiley_39b.png"
+      }
+    },
+    {
+      "id": "2018",
+      "description": "[皱眉]",
+      "shortCodes": [
+        "[Concerned]",
+        "[皱眉]",
+        "[皱眉]"
+      ],
+      "staticUrl": "assets/wechat_emoji/newemoji/2_12.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "[Concerned]",
+        "cnValue": "[皱眉]",
+        "qqValue": "[皱眉]",
+        "enValue": "[Concerned]",
+        "twValue": "[皺眉]",
+        "thValue": "[Concerned]",
+        "fileName": "2_12.png"
+      }
+    },
+    {
+      "id": "2019",
+      "description": "[發]",
+      "shortCodes": [
+        "[Rich]",
+        "[發]",
+        "[發]"
+      ],
+      "staticUrl": "assets/wechat_emoji/newemoji/2_16.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "[Rich]",
+        "cnValue": "[發]",
+        "qqValue": "[發]",
+        "enValue": "[Rich]",
+        "twValue": "[發]",
+        "thValue": "[Rich]",
+        "fileName": "2_16.png"
+      }
+    },
+    {
+      "id": "2020",
+      "description": "[小狗]",
+      "shortCodes": [
+        "[Pup]",
+        "[小狗]",
+        "[小狗]"
+      ],
+      "staticUrl": "assets/wechat_emoji/newemoji/2_17.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "[Pup]",
+        "cnValue": "[小狗]",
+        "qqValue": "[小狗]",
+        "enValue": "[Pup]",
+        "twValue": "[小狗]",
+        "thValue": "[Pup]",
+        "fileName": "2_17.png"
+      }
+    },
+    {
+      "id": "2021",
+      "description": "[吃瓜]",
+      "shortCodes": [
+        "[Onlooker]",
+        "[吃瓜]",
+        "[吃瓜]"
+      ],
+      "staticUrl": "assets/wechat_emoji/newemoji/Watermelon.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "[Onlooker]",
+        "cnValue": "[吃瓜]",
+        "qqValue": "[吃瓜]",
+        "enValue": "[Onlooker]",
+        "twValue": "[吃西瓜]",
+        "thValue": "[Onlooker]",
+        "fileName": "Watermelon.png"
+      }
+    },
+    {
+      "id": "2022",
+      "description": "[加油]",
+      "shortCodes": [
+        "[GoForIt]",
+        "[加油]",
+        "[加油]"
+      ],
+      "staticUrl": "assets/wechat_emoji/newemoji/Addoil.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "[GoForIt]",
+        "cnValue": "[加油]",
+        "qqValue": "[加油]",
+        "enValue": "[GoForIt]",
+        "twValue": "[加油]",
+        "thValue": "[GoForIt]",
+        "fileName": "Addoil.png"
+      }
+    },
+    {
+      "id": "2023",
+      "description": "[汗]",
+      "shortCodes": [
+        "[Sweats]",
+        "[汗]",
+        "[汗]"
+      ],
+      "staticUrl": "assets/wechat_emoji/newemoji/Sweat.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "[Sweats]",
+        "cnValue": "[汗]",
+        "qqValue": "[汗]",
+        "enValue": "[Sweats]",
+        "twValue": "[汗]",
+        "thValue": "[Sweats]",
+        "fileName": "Sweat.png"
+      }
+    },
+    {
+      "id": "2025",
+      "description": "[天啊]",
+      "shortCodes": [
+        "[OMG]",
+        "[天啊]",
+        "[天啊]"
+      ],
+      "staticUrl": "assets/wechat_emoji/newemoji/Shocked!.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "[OMG]",
+        "cnValue": "[天啊]",
+        "qqValue": "[天啊]",
+        "enValue": "[OMG]",
+        "twValue": "[天啊]",
+        "thValue": "[OMG]",
+        "fileName": "Shocked!.png"
+      }
+    },
+    {
+      "id": "2027",
+      "description": "[Emm]",
+      "shortCodes": [
+        "[Emm]",
+        "[Emm]"
+      ],
+      "staticUrl": "assets/wechat_emoji/newemoji/Cold.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "[Emm]",
+        "cnValue": "[Emm]",
+        "qqValue": "[Emm]",
+        "enValue": "[Emm]",
+        "twValue": "[一言難盡]",
+        "thValue": "[Emm]",
+        "fileName": "Cold.png"
+      }
+    },
+    {
+      "id": "2028",
+      "description": "[社会社会]",
+      "shortCodes": [
+        "[Respect]",
+        "[社会社会]",
+        "[社会社会]"
+      ],
+      "staticUrl": "assets/wechat_emoji/newemoji/Social.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "[Respect]",
+        "cnValue": "[社会社会]",
+        "qqValue": "[社会社会]",
+        "enValue": "[Respect]",
+        "twValue": "[失敬失敬]",
+        "thValue": "[Respect]",
+        "fileName": "Social.png"
+      }
+    },
+    {
+      "id": "2030",
+      "description": "[旺柴]",
+      "shortCodes": [
+        "[Doge]",
+        "[旺柴]",
+        "[旺柴]"
+      ],
+      "staticUrl": "assets/wechat_emoji/newemoji/Yellowdog.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "[Doge]",
+        "cnValue": "[旺柴]",
+        "qqValue": "[旺柴]",
+        "enValue": "[Doge]",
+        "twValue": "[旺柴]",
+        "thValue": "[Doge]",
+        "fileName": "Yellowdog.png"
+      }
+    },
+    {
+      "id": "2034",
+      "description": "[好的]",
+      "shortCodes": [
+        "[NoProb]",
+        "[好的]",
+        "[好的]"
+      ],
+      "staticUrl": "assets/wechat_emoji/newemoji/NoProb.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "[NoProb]",
+        "cnValue": "[好的]",
+        "qqValue": "[好的]",
+        "enValue": "[NoProb]",
+        "twValue": "[好的]",
+        "thValue": "[NoProb]",
+        "fileName": "NoProb.png"
+      }
+    },
+    {
+      "id": "2036",
+      "description": "[打脸]",
+      "shortCodes": [
+        "[MyBad]",
+        "[打脸]",
+        "[打脸]"
+      ],
+      "staticUrl": "assets/wechat_emoji/newemoji/Slap.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "[MyBad]",
+        "cnValue": "[打脸]",
+        "qqValue": "[打脸]",
+        "enValue": "[MyBad]",
+        "twValue": "[打臉]",
+        "thValue": "[MyBad]",
+        "fileName": "Slap.png"
+      }
+    },
+    {
+      "id": "2037",
+      "description": "[哇]",
+      "shortCodes": [
+        "[Wow]",
+        "[哇]",
+        "[哇]"
+      ],
+      "staticUrl": "assets/wechat_emoji/newemoji/Wow!.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "[Wow]",
+        "cnValue": "[哇]",
+        "qqValue": "[哇]",
+        "enValue": "[Wow]",
+        "twValue": "[哇]",
+        "thValue": "[Wow]",
+        "fileName": "Wow!.png"
+      }
+    },
+    {
+      "id": "2038",
+      "description": "[加油加油]",
+      "shortCodes": [
+        "[KeepFighting]",
+        "[加油加油]",
+        "[加油加油]"
+      ],
+      "staticUrl": "assets/wechat_emoji/newemoji/KeepFighting.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "[KeepFighting]",
+        "cnValue": "[加油加油]",
+        "qqValue": "[加油加油]",
+        "enValue": "[KeepFighting]",
+        "twValue": "[加油！]",
+        "thValue": "[KeepFighting]",
+        "fileName": "KeepFighting.png"
+      }
+    },
+    {
+      "id": "2043",
+      "description": "[翻白眼]",
+      "shortCodes": [
+        "[Boring]",
+        "[翻白眼]",
+        "[翻白眼]"
+      ],
+      "staticUrl": "assets/wechat_emoji/newemoji/Boring.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "[Boring]",
+        "cnValue": "[翻白眼]",
+        "qqValue": "[翻白眼]",
+        "enValue": "[Boring]",
+        "twValue": "[翻白眼]",
+        "thValue": "[Boring]",
+        "fileName": "Boring.png"
+      }
+    },
+    {
+      "id": "2044",
+      "description": "[666]",
+      "shortCodes": [
+        "[666]",
+        "[666]"
+      ],
+      "staticUrl": "assets/wechat_emoji/newemoji/666.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "[666]",
+        "cnValue": "[666]",
+        "qqValue": "[666]",
+        "enValue": "[Awesome]",
+        "twValue": "[666]",
+        "thValue": "[Awesome]",
+        "fileName": "666.png"
+      }
+    },
+    {
+      "id": "2045",
+      "description": "[让我看看]",
+      "shortCodes": [
+        "[LetMeSee]",
+        "[让我看看]",
+        "[让我看看]"
+      ],
+      "staticUrl": "assets/wechat_emoji/newemoji/LetMeSee.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "[LetMeSee]",
+        "cnValue": "[让我看看]",
+        "qqValue": "[让我看看]",
+        "enValue": "[LetMeSee]",
+        "twValue": "[讓我看看]",
+        "thValue": "[LetMeSee]",
+        "fileName": "LetMeSee.png"
+      }
+    },
+    {
+      "id": "2046",
+      "description": "[叹气]",
+      "shortCodes": [
+        "[Sigh]",
+        "[叹气]",
+        "[叹气]"
+      ],
+      "staticUrl": "assets/wechat_emoji/newemoji/Sigh.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "[Sigh]",
+        "cnValue": "[叹气]",
+        "qqValue": "[叹气]",
+        "enValue": "[Sigh]",
+        "twValue": "[嘆息]",
+        "thValue": "[Sigh]",
+        "fileName": "Sigh.png"
+      }
+    },
+    {
+      "id": "2047",
+      "description": "[苦涩]",
+      "shortCodes": [
+        "[Hurt]",
+        "[苦涩]",
+        "[苦涩]"
+      ],
+      "staticUrl": "assets/wechat_emoji/newemoji/Hurt.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "[Hurt]",
+        "cnValue": "[苦涩]",
+        "qqValue": "[苦涩]",
+        "enValue": "[Hurt]",
+        "twValue": "[難受]",
+        "thValue": "[Hurt]",
+        "fileName": "Hurt.png"
+      }
+    },
+    {
+      "id": "2048",
+      "description": "[裂开]",
+      "shortCodes": [
+        "[Broken]",
+        "[裂开]",
+        "[裂开]"
+      ],
+      "staticUrl": "assets/wechat_emoji/newemoji/Broken.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "[Broken]",
+        "cnValue": "[裂开]",
+        "qqValue": "[裂开]",
+        "enValue": "[Broken]",
+        "twValue": "[崩潰]",
+        "thValue": "[Broken]",
+        "fileName": "Broken.png"
+      }
+    },
+    {
+      "id": "2049",
+      "description": "[脸红]",
+      "shortCodes": [
+        "[Flushed]",
+        "[脸红]",
+        "[脸红]"
+      ],
+      "staticUrl": "assets/wechat_emoji/newemoji/Flushed.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "[Flushed]",
+        "cnValue": "[脸红]",
+        "qqValue": "[脸红]",
+        "enValue": "[Flushed]",
+        "twValue": "[臉紅]",
+        "thValue": "[Flushed]",
+        "fileName": "Flushed.png"
+      }
+    },
+    {
+      "id": "2050",
+      "description": "[笑脸]",
+      "shortCodes": [
+        "[Happy]",
+        "[笑脸]",
+        "[笑脸]"
+      ],
+      "staticUrl": "assets/wechat_emoji/newemoji/Happy.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "[Happy]",
+        "cnValue": "[笑脸]",
+        "qqValue": "[笑脸]",
+        "enValue": "[Happy]",
+        "twValue": "[笑臉]",
+        "thValue": "[Happy]",
+        "fileName": "Happy.png"
+      }
+    },
+    {
+      "id": "2051",
+      "description": "[破涕为笑]",
+      "shortCodes": [
+        "[Lol]",
+        "[破涕为笑]",
+        "[破涕为笑]"
+      ],
+      "staticUrl": "assets/wechat_emoji/newemoji/Lol.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "[Lol]",
+        "cnValue": "[破涕为笑]",
+        "qqValue": "[破涕为笑]",
+        "enValue": "[Lol]",
+        "twValue": "[破涕為笑]",
+        "thValue": "[Lol]",
+        "fileName": "Lol.png"
+      }
+    },
+    {
+      "id": "2052",
+      "description": "[烟花]",
+      "shortCodes": [
+        "[Fireworks]",
+        "[烟花]",
+        "[烟花]"
+      ],
+      "staticUrl": "assets/wechat_emoji/newemoji/Fireworks.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "[Fireworks]",
+        "cnValue": "[烟花]",
+        "qqValue": "[烟花]",
+        "enValue": "[Fireworks]",
+        "twValue": "[煙花]",
+        "thValue": "[Fireworks]",
+        "fileName": "Fireworks.png"
+      }
+    },
+    {
+      "id": "2053",
+      "description": "[礼物]",
+      "shortCodes": [
+        "[gift]",
+        "[礼物]",
+        "[礼物]"
+      ],
+      "staticUrl": "assets/wechat_emoji/newemoji/Gift.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "[gift]",
+        "cnValue": "[礼物]",
+        "qqValue": "[礼物]",
+        "enValue": "[Gift]",
+        "twValue": "[禮物]",
+        "thValue": "[Gift]",
+        "fileName": "Gift.png"
+      }
+    },
+    {
+      "id": "2054",
+      "description": "[庆祝]",
+      "shortCodes": [
+        "[Party]",
+        "[庆祝]",
+        "[庆祝]"
+      ],
+      "staticUrl": "assets/wechat_emoji/newemoji/Party.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "[Party]",
+        "cnValue": "[庆祝]",
+        "qqValue": "[庆祝]",
+        "enValue": "[Party]",
+        "twValue": "[慶祝]",
+        "thValue": "[Party]",
+        "fileName": "Party.png"
+      }
+    },
+    {
+      "id": "2055",
+      "description": "[恐惧]",
+      "shortCodes": [
+        "[Terror]",
+        "[恐惧]",
+        "[恐惧]"
+      ],
+      "staticUrl": "assets/wechat_emoji/newemoji/Terror.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "[Terror]",
+        "cnValue": "[恐惧]",
+        "qqValue": "[恐惧]",
+        "enValue": "[Terror]",
+        "twValue": "[恐懼]",
+        "thValue": "[Terror]",
+        "fileName": "Terror.png"
+      }
+    },
+    {
+      "id": "2056",
+      "description": "[无语]",
+      "shortCodes": [
+        "[Duh]",
+        "[无语]",
+        "[无语]"
+      ],
+      "staticUrl": "assets/wechat_emoji/newemoji/Duh.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "[Duh]",
+        "cnValue": "[无语]",
+        "qqValue": "[无语]",
+        "enValue": "[Duh]",
+        "twValue": "[無語]",
+        "thValue": "[Duh]",
+        "fileName": "Duh.png"
+      }
+    },
+    {
+      "id": "2057",
+      "description": "[失望]",
+      "shortCodes": [
+        "[LetDown]",
+        "[失望]",
+        "[失望]"
+      ],
+      "staticUrl": "assets/wechat_emoji/newemoji/Let Down.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "[LetDown]",
+        "cnValue": "[失望]",
+        "qqValue": "[失望]",
+        "enValue": "[Let Down]",
+        "twValue": "[失望]",
+        "thValue": "[Let Down]",
+        "fileName": "Let Down.png"
+      }
+    },
+    {
+      "id": "2058",
+      "description": "[生病]",
+      "shortCodes": [
+        "[Sick]",
+        "[生病]",
+        "[生病]"
+      ],
+      "staticUrl": "assets/wechat_emoji/newemoji/Sick.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "[Sick]",
+        "cnValue": "[生病]",
+        "qqValue": "[生病]",
+        "enValue": "[Sick]",
+        "twValue": "[生病]",
+        "thValue": "[Sick]",
+        "fileName": "Sick.png"
+      }
+    },
+    {
+      "id": "2059",
+      "description": "[合十]",
+      "shortCodes": [
+        "[Worship]",
+        "[合十]",
+        "[合十]"
+      ],
+      "staticUrl": "assets/wechat_emoji/newemoji/Worship.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "[Worship]",
+        "cnValue": "[合十]",
+        "qqValue": "[合十]",
+        "enValue": "[Worship]",
+        "twValue": "[合十]",
+        "thValue": "[Worship]",
+        "fileName": "Worship.png"
+      }
+    },
+    {
+      "id": "2060",
+      "description": "[爆竹]",
+      "shortCodes": [
+        "[Firecracker]",
+        "[爆竹]",
+        "[爆竹]"
+      ],
+      "staticUrl": "assets/wechat_emoji/newemoji/Firecracker.png",
+      "isHide": false,
+      "packageId": "0",
+      "meta": {
+        "key": "[Firecracker]",
+        "cnValue": "[爆竹]",
+        "qqValue": "[爆竹]",
+        "enValue": "[Firecracker]",
+        "twValue": "[爆竹]",
+        "thValue": "[Firecracker]",
+        "fileName": "Firecracker.png"
+      }
+    }
+  ]
+}

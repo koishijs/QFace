@@ -1,0 +1,157 @@
+{
+  "id": "64",
+  "name": "如果历史是一群喵",
+  "coverUrl": "http://i0.hdslb.com/bfs/emote/9012d5f501ffd0ae15ba2cd730b0e38c25a037d8.png",
+  "emojis": [
+    {
+      "id": "1617",
+      "description": "一群喵_害羞",
+      "shortCodes": [
+        "[一群喵_害羞]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/64/1617.png",
+      "isHide": false,
+      "packageId": "64",
+      "meta": {
+        "packageName": "如果历史是一群喵",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/9012d5f501ffd0ae15ba2cd730b0e38c25a037d8.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/3247a84b6b19bef0b6d2ef466409c99c123dab3a.png"
+      }
+    },
+    {
+      "id": "1618",
+      "description": "一群喵_汗",
+      "shortCodes": [
+        "[一群喵_汗]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/64/1618.png",
+      "isHide": false,
+      "packageId": "64",
+      "meta": {
+        "packageName": "如果历史是一群喵",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/9012d5f501ffd0ae15ba2cd730b0e38c25a037d8.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/fd59662de49a1b72557d73309cf92f75f7d5529b.png"
+      }
+    },
+    {
+      "id": "1619",
+      "description": "一群喵_惊吓",
+      "shortCodes": [
+        "[一群喵_惊吓]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/64/1619.png",
+      "isHide": false,
+      "packageId": "64",
+      "meta": {
+        "packageName": "如果历史是一群喵",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/9012d5f501ffd0ae15ba2cd730b0e38c25a037d8.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/508e667dd45824afdfa54ae4170f37df335c08b9.png"
+      }
+    },
+    {
+      "id": "1620",
+      "description": "一群喵_哭",
+      "shortCodes": [
+        "[一群喵_哭]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/64/1620.png",
+      "isHide": false,
+      "packageId": "64",
+      "meta": {
+        "packageName": "如果历史是一群喵",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/9012d5f501ffd0ae15ba2cd730b0e38c25a037d8.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/b42f83284eb11a8399ac2fbda3e0912e5d00c86d.png"
+      }
+    },
+    {
+      "id": "1621",
+      "description": "一群喵_困惑",
+      "shortCodes": [
+        "[一群喵_困惑]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/64/1621.png",
+      "isHide": false,
+      "packageId": "64",
+      "meta": {
+        "packageName": "如果历史是一群喵",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/9012d5f501ffd0ae15ba2cd730b0e38c25a037d8.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/a4c3d11215a22a4d927bbffbdafb162de15f2441.png"
+      }
+    },
+    {
+      "id": "1622",
+      "description": "一群喵_生气",
+      "shortCodes": [
+        "[一群喵_生气]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/64/1622.png",
+      "isHide": false,
+      "packageId": "64",
+      "meta": {
+        "packageName": "如果历史是一群喵",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/9012d5f501ffd0ae15ba2cd730b0e38c25a037d8.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/62aba826cc67018f70ff08ab82e0841c2dd98c10.png"
+      }
+    },
+    {
+      "id": "1623",
+      "description": "一群喵_喜欢",
+      "shortCodes": [
+        "[一群喵_喜欢]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/64/1623.png",
+      "isHide": false,
+      "packageId": "64",
+      "meta": {
+        "packageName": "如果历史是一群喵",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/9012d5f501ffd0ae15ba2cd730b0e38c25a037d8.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/85245ffac6b7d70e6f3b92b7d220453dc4b1937f.png"
+      }
+    },
+    {
+      "id": "1624",
+      "description": "一群喵_笑",
+      "shortCodes": [
+        "[一群喵_笑]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/64/1624.png",
+      "isHide": false,
+      "packageId": "64",
+      "meta": {
+        "packageName": "如果历史是一群喵",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/9012d5f501ffd0ae15ba2cd730b0e38c25a037d8.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/2ba297fde036c9a165a233b70206d8f8ed80fbd4.png"
+      }
+    },
+    {
+      "id": "1625",
+      "description": "一群喵_兴奋",
+      "shortCodes": [
+        "[一群喵_兴奋]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/64/1625.png",
+      "isHide": false,
+      "packageId": "64",
+      "meta": {
+        "packageName": "如果历史是一群喵",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/9012d5f501ffd0ae15ba2cd730b0e38c25a037d8.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/17d8c9ee9ffdefcb1fc26849bf89f1cc5ff9dbeb.png"
+      }
+    },
+    {
+      "id": "1626",
+      "description": "一群喵_阴险",
+      "shortCodes": [
+        "[一群喵_阴险]"
+      ],
+      "staticUrl": "assets/bilibili_emoji/64/1626.png",
+      "isHide": false,
+      "packageId": "64",
+      "meta": {
+        "packageName": "如果历史是一群喵",
+        "packageCover": "http://i0.hdslb.com/bfs/emote/9012d5f501ffd0ae15ba2cd730b0e38c25a037d8.png",
+        "originalUrl": "http://i0.hdslb.com/bfs/emote/92d3ffb0644ad73e64e939631736879086a85cc5.png"
+      }
+    }
+  ]
+}
