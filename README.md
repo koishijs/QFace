@@ -22,7 +22,7 @@
 
 ### Generate QQNT Emoji Indexes
 
-> Currently only works on macOS.
+> 支持 macOS 和 Windows 系统。
 
 ```bash
 pnpm run gen:qqnt

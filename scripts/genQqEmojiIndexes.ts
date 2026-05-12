@@ -5,10 +5,12 @@ import {
   readdir,
   readFile,
   rename,
+  rm,
   stat,
   writeFile,
 } from 'fs/promises'
-import { resolve } from 'path'
+ import { resolve } from 'path'
+import { pathToFileURL } from 'url'
 import {
   QqSysEmojiItem,
   QqSysEmojiWithAssets,
@@ -28,13 +30,16 @@ import { homedir } from 'os'
 
 // 配置常量
 const CONFIG = {
-  PLATFORM: 'darwin' as const,
-  QQNT_APP_SUPPORT_PATH:
-    'Library/Containers/com.tencent.qq/Data/Library/Application Support/QQ',
+  QQNT_APP_SUPPORT_PATH: {
+    darwin: 'Library/Containers/com.tencent.qq/Data/Library/Application Support/QQ',
+    win32: 'Documents/Tencent Files/nt_qq',
+  } as Record<string, string>,
   FACE_CONFIG_RELATIVE_PATH:
     'global/nt_data/Emoji/emoji-resource/face_config.json',
   EMOJI_RESOURCE_RELATIVE_PATH:
     'nt_data/Emoji/BaseEmojiSyastems/EmojiSystermResource',
+  EMOJI_RESOURCE_WIN32_RELATIVE_PATH:
+    'global/nt_data/Emoji/emoji-resource/sysface_res',
   OUTPUT_RELATIVE_PATH: 'public/assets/qq_emoji',
   BACKUP_RELATIVE_PATH: '.backup',
   INDEX_FILE_NAME: '_index.json',
@@ -61,7 +66,12 @@ class PathManager {
 
   constructor() {
     this.projectRoot = resolve(import.meta.dirname, '..')
-    this.qqntAppSupportDir = resolve(homedir(), CONFIG.QQNT_APP_SUPPORT_PATH)
+    const platform = process.platform
+    const appSupportPath = CONFIG.QQNT_APP_SUPPORT_PATH[platform]
+    if (!appSupportPath) {
+      throw new Error(`不支持的操作系统: ${platform}，仅支持 macOS 和 Windows`)
+    }
+    this.qqntAppSupportDir = resolve(homedir(), appSupportPath)
     this.faceConfigFile = resolve(
       this.qqntAppSupportDir,
       CONFIG.FACE_CONFIG_RELATIVE_PATH
@@ -107,8 +117,18 @@ class PathManager {
 
   /**
    * 查找最新的 QQNT Emoji 资源目录
+   * macOS: 在 nt_qq_* 目录中查找最新的
+   * Windows: 固定路径 global/nt_data/Emoji/emoji-resource/sysface_res
    */
   async findLatestQqntEmojiAssetsDir(): Promise<string> {
+    if (process.platform === 'win32') {
+      const sysface = resolve(
+        this.qqntAppSupportDir,
+        CONFIG.EMOJI_RESOURCE_WIN32_RELATIVE_PATH
+      )
+      return sysface
+    }
+
     const dirs = await readdir(this.qqntAppSupportDir, {
       withFileTypes: true,
       recursive: false,
@@ -297,7 +317,13 @@ class FileManager {
           this.pathManager.getBackupDir(),
           `qq_emoji_${timestamp}`
         )
-        await rename(this.pathManager.getOutputDir(), backupPath)
+        try {
+          await rename(this.pathManager.getOutputDir(), backupPath)
+        } catch {
+          // rename 跨驱动器时会失败，改用 cp + rm
+          await cp(this.pathManager.getOutputDir(), backupPath, { recursive: true })
+          await rm(this.pathManager.getOutputDir(), { recursive: true, force: true })
+        }
         console.log(`已备份现有文件到: ${backupPath}`)
       }
     } catch (error) {
@@ -306,7 +332,7 @@ class FileManager {
   }
 
   /**
-   * 复制资源文件
+   * 复制资源文件 (macOS)
    */
   async copyResourceFiles(qqntEmojiAssetsDir: string): Promise<void> {
     try {
@@ -318,6 +344,58 @@ class FileManager {
       })
 
       // 复制配置文件
+      await cp(
+        this.pathManager.getFaceConfigFile(),
+        resolve(this.pathManager.getOutputDir(), CONFIG.FACE_CONFIG_FILE_NAME)
+      )
+
+      console.log('资源文件复制完成')
+    } catch (error) {
+      console.error('复制资源文件时出错:', error)
+      throw error
+    }
+  }
+
+  /**
+   * 复制资源文件 (Windows)
+   * Windows 上表情文件是扁平结构: sysface_res/apng/s{id}.png
+   * 需要重组成按 ID 分目录的结构: {id}/apng/{id}.png
+   */
+  async copyResourceFilesWin32(sysfaceResDir: string): Promise<void> {
+    try {
+      await mkdir(this.pathManager.getOutputDir(), { recursive: true })
+
+      const typeMap: Record<string, QqSysEmojiAssetType> = {
+        apng: QqSysEmojiAssetType.APNG,
+        static: QqSysEmojiAssetType.THUMB_PNG,
+      }
+
+      for (const [srcDirName, ] of Object.entries(typeMap)) {
+        const srcDir = resolve(sysfaceResDir, srcDirName)
+        if (!(await this.exists(srcDir))) continue
+
+        const destDirName = srcDirName === 'static' ? 'png' : srcDirName
+        const files = await readdir(srcDir, { withFileTypes: true })
+
+        await Promise.all(
+          files
+            .filter((f) => f.isFile() && f.name.match(/^s(\d+)\.png$/))
+            .map(async (f) => {
+              const match = f.name.match(/^s(\d+)\.png$/)
+              if (!match) return
+              const emojiId = match[1]
+              const destDir = resolve(
+                this.pathManager.getOutputDir(),
+                emojiId,
+                destDirName
+              )
+              await mkdir(destDir, { recursive: true })
+              await cp(resolve(srcDir, f.name), resolve(destDir, `${emojiId}.png`))
+            })
+        )
+      }
+
+      // 复制 face_config.json
       await cp(
         this.pathManager.getFaceConfigFile(),
         resolve(this.pathManager.getOutputDir(), CONFIG.FACE_CONFIG_FILE_NAME)
@@ -425,8 +503,9 @@ class QqEmojiGenerator {
    * 检查系统兼容性
    */
   private checkPlatformCompatibility(): void {
-    if (process.platform !== CONFIG.PLATFORM) {
-      throw new Error('此脚本仅支持 macOS 系统')
+    const supported = ['darwin', 'win32']
+    if (!supported.includes(process.platform)) {
+      throw new Error(`此脚本仅支持 macOS 和 Windows 系统，当前系统: ${process.platform}`)
     }
   }
 
@@ -452,7 +531,11 @@ class QqEmojiGenerator {
 
       // 复制资源文件
       console.log('正在复制资源文件...')
-      await this.fileManager.copyResourceFiles(qqntEmojiAssetsDir)
+      if (process.platform === 'win32') {
+        await this.fileManager.copyResourceFilesWin32(qqntEmojiAssetsDir)
+      } else {
+        await this.fileManager.copyResourceFiles(qqntEmojiAssetsDir)
+      }
 
       // 加载配置文件
       console.log('正在加载配置文件...')
@@ -483,7 +566,7 @@ async function main(): Promise<void> {
 }
 
 // 执行脚本
-if (import.meta.url === `file://${process.argv[1]}`) {
+if (import.meta.url === pathToFileURL(process.argv[1]).href) {
   main().catch((error) => {
     console.error('脚本执行失败:', error)
     process.exit(1)
