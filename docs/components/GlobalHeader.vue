@@ -11,14 +11,19 @@ header#global-header
     .nav-section
       .nav-item
         RouterLink(
+          :class='{ active: $route.path.startsWith("/bilibili") }'
+          to='/bilibili'
+        ) BiliBili
+      .nav-item
+        RouterLink(
           :class='{ active: $route.path.startsWith("/qqnt") }'
           to='/qqnt'
-        ) QQ Emoji
+        ) QQ
       .nav-item
         RouterLink(
           :class='{ active: $route.path.startsWith("/wechat") }'
           to='/wechat'
-        ) WeChat Emoji
+        ) WeChat
       .nav-item
         a(
           href='https://github.com/koishijs/QFace'

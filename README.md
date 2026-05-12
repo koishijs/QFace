@@ -41,6 +41,11 @@ What does it do?
 pnpm run gen:wechat
 ```
 
+### Generate 哔哩哔哩 Emoji Indexes
+```bash
+pnpm run gen:bilibii
+```
+
 > Currently broken.
 
 ---

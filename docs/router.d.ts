@@ -20,6 +20,7 @@ declare module 'vue-router/auto-routes' {
   export interface RouteNamedMap {
     'index': RouteRecordInfo<'index', '/', Record<never, never>, Record<never, never>>,
     ':fallback(.*)': RouteRecordInfo<':fallback(.*)', '/:fallback(.*)', { fallback: ParamValue<true> }, { fallback: ParamValue<false> }>,
+    'bilibili': RouteRecordInfo<'bilibili', '/bilibili', Record<never, never>, Record<never, never>>,
     'qqnt': RouteRecordInfo<'qqnt', '/qqnt', Record<never, never>, Record<never, never>>,
     'qqnt-:id': RouteRecordInfo<'qqnt-:id', '/qqnt/:id', { id: ParamValue<true> }, { id: ParamValue<false> }>,
     'wechat': RouteRecordInfo<'wechat', '/wechat', Record<never, never>, Record<never, never>>,
@@ -42,6 +43,10 @@ declare module 'vue-router/auto-routes' {
     }
     'docs/pages/[...fallback].vue': {
       routes: ':fallback(.*)'
+      views: never
+    }
+    'docs/pages/bilibili/index.vue': {
+      routes: 'bilibili'
       views: never
     }
     'docs/pages/qqnt/index.vue': {

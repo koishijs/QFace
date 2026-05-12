@@ -150,6 +150,7 @@ declare global {
   const useAttrs: typeof import('vue')['useAttrs']
   const useBase64: typeof import('@vueuse/core')['useBase64']
   const useBattery: typeof import('@vueuse/core')['useBattery']
+  const useBilibiliEmojiStore: typeof import('./stores/bilibili-emoji')['useBilibiliEmojiStore']
   const useBluetooth: typeof import('@vueuse/core')['useBluetooth']
   const useBreakpoints: typeof import('@vueuse/core')['useBreakpoints']
   const useBroadcastChannel: typeof import('@vueuse/core')['useBroadcastChannel']
@@ -324,6 +325,9 @@ declare global {
   export type { Component, Slot, Slots, ComponentPublicInstance, ComputedRef, DirectiveBinding, ExtractDefaultPropTypes, ExtractPropTypes, ExtractPublicPropTypes, InjectionKey, PropType, Ref, ShallowRef, MaybeRef, MaybeRefOrGetter, VNode, WritableComputedRef } from 'vue'
   import('vue')
   // @ts-ignore
+  export type { BilibiliEmoteItem, BilibiliEmotePackage, BilibiliEmojiItem } from './types/BilibiliEmoji'
+  import('./types/BilibiliEmoji')
+  // @ts-ignore
   export type { QqSysEmojiAssetType, QqSysEmojiItem, QqSysEmojiGroup, QQSysEmojiConfig, QqSysEmojiAsset, QqSysEmojiWithAssets, QqNTSystemEmojiItem } from './types/QqSysEmoji'
   import('./types/QqSysEmoji')
   // @ts-ignore
@@ -478,6 +482,7 @@ declare module 'vue' {
     readonly useAttrs: UnwrapRef<typeof import('vue')['useAttrs']>
     readonly useBase64: UnwrapRef<typeof import('@vueuse/core')['useBase64']>
     readonly useBattery: UnwrapRef<typeof import('@vueuse/core')['useBattery']>
+    readonly useBilibiliEmojiStore: UnwrapRef<typeof import('./stores/bilibili-emoji')['useBilibiliEmojiStore']>
     readonly useBluetooth: UnwrapRef<typeof import('@vueuse/core')['useBluetooth']>
     readonly useBreakpoints: UnwrapRef<typeof import('@vueuse/core')['useBreakpoints']>
     readonly useBroadcastChannel: UnwrapRef<typeof import('@vueuse/core')['useBroadcastChannel']>
