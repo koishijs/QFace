@@ -6,15 +6,24 @@
 
 > 与 macOS 版同步，由仓库维护者手动同步，可能会有一些表情缺失。
 
-- 在线预览：https://koishi.js.org/QFace/#/qqnt
-- API 接口：https://koishi.js.org/QFace/assets/qq_emoji/_index.json
+- 在线预览：https://emoji.inis.cn/qqnt
+- 原始资源索引：https://emoji.inis.cn/assets/qq_emoji/_index.json
+- 统一格式索引：https://emoji.inis.cn/indexes/qq/index.json
 
 ## 微信
 
 > 不经常更新，可能会有一些表情缺失。
 
-- 在线预览：https://koishi.js.org/QFace/#/wechat
-- API 接口：https://koishi.js.org/QFace/assets/wechat_emoji/_index.json
+- 在线预览：https://emoji.inis.cn/wechat
+- 原始资源索引：https://emoji.inis.cn/assets/wechat_emoji/_index.json
+- 统一格式索引：https://emoji.inis.cn/indexes/wechat/index.json
+
+## 哔哩哔哩
+
+- 在线预览：https://emoji.inis.cn/bilibili
+- 原始资源索引：https://emoji.inis.cn/assets/bilibili_emoji/_index.json
+- 统一格式分组列表：https://emoji.inis.cn/indexes/bilibili/index.json
+- 单分组数据（示例）：https://emoji.inis.cn/indexes/bilibili/1.json
 
 ---
 
@@ -42,11 +51,33 @@ pnpm run gen:wechat
 ```
 
 ### Generate 哔哩哔哩 Emoji Indexes
+
 ```bash
-pnpm run gen:bilibii
+pnpm run gen:bilibili
 ```
 
-> Currently broken.
+---
+
+## Unified Indexes
+
+所有表情源数据都可以通过以下命令转换为统一的 `UnifiedEmojiPackage` 格式（见 `docs/types/UnifiedEmoji.ts`）。
+
+### 输出结构
+
+每个平台生成两类文件：
+
+| 文件 | 说明 |
+|------|------|
+| `public/indexes/{name}/index.json` | 所有分组的摘要列表（id、name、coverUrl、count） |
+| `public/indexes/{name}/{id}.json` | 单个分组的完整数据（含所有 emojis） |
+
+### 生成命令
+
+```bash
+pnpm run indexes:bilibili   # → public/indexes/bilibili/
+pnpm run indexes:qq         # → public/indexes/qq/
+pnpm run indexes:wechat     # → public/indexes/wechat/
+```
 
 ---
 
