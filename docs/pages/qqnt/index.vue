@@ -14,23 +14,29 @@
   .content-section
     .section-header
       h2.section-title 表情列表
-      .search-bar
-        input(placeholder='搜索表情...' type='text' v-model='searchQuery')
-        .search-icon
-          svg(
-            fill='none'
-            height='20'
-            viewBox='0 0 24 24'
-            width='20'
-            xmlns='http://www.w3.org/2000/svg'
-          )
-            path(
-              d='M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z'
-              stroke='currentColor'
-              stroke-linecap='round'
-              stroke-linejoin='round'
-              stroke-width='2'
+      .header-right
+        button.copy-btn(
+          :class='{ copied }'
+          @click='copyConfig'
+          title='复制 QQ 表情索引 URL'
+        ) {{ copied ? '✓ 已复制' : '复制配置' }}
+        .search-bar
+          input(placeholder='搜索表情...' type='text' v-model='searchQuery')
+          .search-icon
+            svg(
+              fill='none'
+              height='20'
+              viewBox='0 0 24 24'
+              width='20'
+              xmlns='http://www.w3.org/2000/svg'
             )
+              path(
+                d='M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z'
+                stroke='currentColor'
+                stroke-linecap='round'
+                stroke-linejoin='round'
+                stroke-width='2'
+              )
     .emoji-grid(v-if='filteredEmojiList.length > 0')
       RouterLink.emoji-card-link(
         :key='item.emojiId',
@@ -67,6 +73,11 @@
 const emoji = useQqEmojiStore()
 const route = useRoute()
 const searchQuery = ref((route.query.search as string) || '')
+
+const { copy, copied } = useClipboard()
+function copyConfig() {
+  copy(`${window.location.origin}/indexes/qq/index.json`)
+}
 
 const filteredEmojiList = computed(() => {
   if (!searchQuery.value.trim()) {
@@ -167,11 +178,38 @@ onMounted(() => {
   flex-wrap: wrap
   gap: 20px
 
+.header-right
+  display: flex
+  align-items: center
+  gap: 12px
+
 .section-title
   font-size: 28px
   font-weight: 700
   color: var(--text-primary)
   margin: 0
+
+.copy-btn
+  padding: 12px 16px
+  border-radius: 12px
+  border: 1px solid var(--border-color)
+  background: transparent
+  color: var(--text-secondary)
+  font-size: 14px
+  cursor: pointer
+  transition: all 0.2s ease
+  white-space: nowrap
+  flex-shrink: 0
+
+  &:hover
+    border-color: rgba(102, 126, 234, 0.6)
+    color: #667eea
+    background: rgba(102, 126, 234, 0.08)
+
+  &.copied
+    border-color: #4ade80
+    color: #4ade80
+    background: rgba(74, 222, 128, 0.08)
 
 .search-bar
   position: relative

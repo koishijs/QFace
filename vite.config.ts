@@ -43,7 +43,7 @@ export default defineConfig({
     UnoCSS(),
   ],
   build: {
-    outDir: '.docs_dist',
+    outDir: 'release',
   },
   resolve: {
     alias: {

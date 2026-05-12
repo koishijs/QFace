@@ -47,7 +47,13 @@
             .package-meta
               .package-name {{ pkg.name }}
               .package-count {{ pkg.emojis.length }} 个表情
-          .package-toggle(:class='{ expanded: expandedIds.has(pkg.id) }')
+          .package-right
+            button.copy-btn(
+              :class='{ copied: copiedId === pkg.id }'
+              @click.stop='copyPackageUrl(pkg.id)'
+              title='复制该分组的索引 URL'
+            ) {{ copiedId === pkg.id ? '✓ 已复制' : '复制配置' }}
+            .package-toggle(:class='{ expanded: expandedIds.has(pkg.id) }')
             svg(fill='none' height='20' viewBox='0 0 24 24' width='20' xmlns='http://www.w3.org/2000/svg')
               path(d='M19 9l-7 7-7-7' stroke='currentColor' stroke-linecap='round' stroke-linejoin='round' stroke-width='2')
 
@@ -81,6 +87,17 @@ import type { BilibiliEmojiItem } from '@/types/BilibiliEmoji'
 const store = useBilibiliEmojiStore()
 const searchQuery = ref('')
 const expandedIds = ref(new Set<number>())
+const copiedId = ref<number | null>(null)
+
+function copyPackageUrl(id: number) {
+  const url = `${window.location.origin}/indexes/bilibili/${id}.json`
+  navigator.clipboard.writeText(url).then(() => {
+    copiedId.value = id
+    setTimeout(() => {
+      if (copiedId.value === id) copiedId.value = null
+    }, 2000)
+  })
+}
 
 const filteredPackages = computed(() => {
   const q = searchQuery.value.toLowerCase().trim()
@@ -243,6 +260,12 @@ onMounted(() => {
   &:hover
     background: rgba(255, 255, 255, 0.03)
 
+.package-right
+  display: flex
+  align-items: center
+  gap: 12px
+  flex-shrink: 0
+
 .package-info
   display: flex
   align-items: center
@@ -269,6 +292,28 @@ onMounted(() => {
 .package-count
   font-size: 13px
   color: var(--text-secondary)
+
+.copy-btn
+  padding: 6px 14px
+  border-radius: 8px
+  border: 1px solid var(--border-color)
+  background: transparent
+  color: var(--text-secondary)
+  font-size: 13px
+  cursor: pointer
+  transition: all 0.2s ease
+  white-space: nowrap
+  flex-shrink: 0
+
+  &:hover
+    border-color: rgba(251, 114, 153, 0.6)
+    color: #fb7299
+    background: rgba(251, 114, 153, 0.08)
+
+  &.copied
+    border-color: #4ade80
+    color: #4ade80
+    background: rgba(74, 222, 128, 0.08)
 
 .package-toggle
   color: var(--text-muted)
