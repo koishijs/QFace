@@ -1,8 +1,8 @@
-import { createRouter, createWebHashHistory } from 'vue-router'
+import { createRouter, createWebHistory } from 'vue-router'
 import { routes } from 'vue-router/auto-routes'
 
 export const router = createRouter({
-  history: createWebHashHistory(),
+  history: createWebHistory(),
   // pass the generated routes written by the plugin 🤖
   routes,
   scrollBehavior(to, from, savedPosition) {

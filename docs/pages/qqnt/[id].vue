@@ -121,7 +121,7 @@
               stroke-width='2'
             )
           span {{ isConvertingGif ? '转换中...' : '转GIF' }}
-        button.action-btn(@click='copyImage' v-if='previewImage')
+        button.action-btn(:class='{ "is-copy-success": copyStatus === "success", "is-copy-error": copyStatus === "error" }' @click='copyImage' v-if='previewImage')
           svg(
             fill='none'
             height='16'
@@ -136,7 +136,7 @@
               stroke-linejoin='round'
               stroke-width='2'
             )
-          span 复制
+          span {{ copyStatus === 'success' ? '已复制!' : copyStatus === 'error' ? '复制失败' : '复制' }}
 
     .emoji-sections
       .section-card(v-if='data.associateWords?.length')
@@ -287,6 +287,7 @@ const lottieFiles = computed(() => {
 })
 
 const isConvertingGif = ref(false)
+const copyStatus = ref<'idle' | 'success' | 'error'>('idle')
 
 const apngAsset = computed(() => {
   return (
@@ -387,7 +388,7 @@ const previewImage = computed(() => {
   return (
     posibleThumb
       .map((type) => data.value?.assets.find((asset) => asset.type === type))
-      .filter(Boolean)[0]?.path || 'assets/default.png'
+      .filter(Boolean)[0]?.path || '/assets/default.png'
   )
 })
 
@@ -410,9 +411,12 @@ async function copyImage() {
         [blob.type]: blob,
       }),
     ])
-    // 可以添加成功提示
+    copyStatus.value = 'success'
   } catch (err) {
     console.error('复制失败:', err)
+    copyStatus.value = 'error'
+  } finally {
+    setTimeout(() => { copyStatus.value = 'idle' }, 2000)
   }
 }
 
