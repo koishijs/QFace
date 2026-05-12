@@ -11,7 +11,7 @@ import {
 /**
  * 微信表情统一索引生成器
  *
- * 读取 public/assets/wechat_emoji/_index.json（WechatNewEmojiItem 平铺列表），
+ * 读取 public/assets/wechat/_index.json（WechatNewEmojiItem 平铺列表），
  * 全部归入单一分组（packageId = '0'），映射为 UnifiedEmojiPackage 格式：
  *   - public/indexes/wechat/index.json  → 包摘要列表
  *   - public/indexes/wechat/0.json      → 完整包数据（含所有 emojis）

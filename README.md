@@ -7,7 +7,7 @@
 > 与 macOS 版同步，由仓库维护者手动同步，可能会有一些表情缺失。
 
 - 在线预览：https://emoji.inis.cn/qqnt
-- 原始资源索引：https://emoji.inis.cn/assets/qq_emoji/_index.json
+- 原始资源索引：https://emoji.inis.cn/assets/qq/_index.json
 - 统一格式索引：https://emoji.inis.cn/indexes/qq/index.json
 
 ## 微信
@@ -15,13 +15,13 @@
 > 不经常更新，可能会有一些表情缺失。
 
 - 在线预览：https://emoji.inis.cn/wechat
-- 原始资源索引：https://emoji.inis.cn/assets/wechat_emoji/_index.json
+- 原始资源索引：https://emoji.inis.cn/assets/wechat/_index.json
 - 统一格式索引：https://emoji.inis.cn/indexes/wechat/index.json
 
 ## 哔哩哔哩
 
 - 在线预览：https://emoji.inis.cn/bilibili
-- 原始资源索引：https://emoji.inis.cn/assets/bilibili_emoji/_index.json
+- 原始资源索引：https://emoji.inis.cn/assets/bilibili/_index.json
 - 统一格式分组列表：https://emoji.inis.cn/indexes/bilibili/index.json
 - 单分组数据（示例）：https://emoji.inis.cn/indexes/bilibili/1.json
 
@@ -41,7 +41,7 @@ What does it do?
 
 1. Reads your `Library/Containers/com.tencent.qq/Data/Library/Application Support/QQ` for latest QQ vendor folder
 2. Find the `global/nt_data/Emoji/emoji-resource/face_config.json` and `nt_data/Emoji/BaseEmojiSyastems/EmojiSystermResource`
-3. Copy the resources to `public/assets/qq_emoji`
+3. Copy the resources to `public/assets/qq`
 4. Generate the `_index.json` file
 
 ### Generate WeChat Emoji Indexes

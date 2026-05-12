@@ -11,7 +11,7 @@ import {
 /**
  * 哔哩哔哩表情包统一索引生成器
  *
- * 读取 public/assets/bilibili_emoji/_index.json，
+ * 读取 public/assets/bilibili/_index.json，
  * 按 packageId 分组映射为 UnifiedEmojiPackage 格式：
  *   - public/indexes/bilibili/_index.json  → 所有包的摘要列表
  *   - public/indexes/bilibili/{id}.json    → 单包完整数据（含 emojis）

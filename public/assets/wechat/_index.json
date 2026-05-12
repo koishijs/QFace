@@ -8,7 +8,7 @@
     "thValue": "",
     "fileName": "0.png",
     "eggIndex": 0,
-    "path": "assets/wechat_emoji/qqemoji/0.png"
+    "path": "assets/wechat/qqemoji/0.png"
   },
   {
     "key": "qqemoji:1",
@@ -19,7 +19,7 @@
     "thValue": "",
     "fileName": "1.png",
     "eggIndex": 1,
-    "path": "assets/wechat_emoji/qqemoji/1.png"
+    "path": "assets/wechat/qqemoji/1.png"
   },
   {
     "key": "qqemoji:2",
@@ -30,7 +30,7 @@
     "thValue": "",
     "fileName": "2.png",
     "eggIndex": 2,
-    "path": "assets/wechat_emoji/qqemoji/2.png"
+    "path": "assets/wechat/qqemoji/2.png"
   },
   {
     "key": "qqemoji:3",
@@ -41,7 +41,7 @@
     "thValue": "",
     "fileName": "3.png",
     "eggIndex": 3,
-    "path": "assets/wechat_emoji/qqemoji/3.png"
+    "path": "assets/wechat/qqemoji/3.png"
   },
   {
     "key": "qqemoji:4",
@@ -52,7 +52,7 @@
     "thValue": "",
     "fileName": "4.png",
     "eggIndex": 4,
-    "path": "assets/wechat_emoji/qqemoji/4.png"
+    "path": "assets/wechat/qqemoji/4.png"
   },
   {
     "key": "qqemoji:5",
@@ -63,7 +63,7 @@
     "thValue": "",
     "fileName": "5.png",
     "eggIndex": 5,
-    "path": "assets/wechat_emoji/qqemoji/5.png"
+    "path": "assets/wechat/qqemoji/5.png"
   },
   {
     "key": "qqemoji:6",
@@ -74,7 +74,7 @@
     "thValue": "",
     "fileName": "6.png",
     "eggIndex": 6,
-    "path": "assets/wechat_emoji/qqemoji/6.png"
+    "path": "assets/wechat/qqemoji/6.png"
   },
   {
     "key": "qqemoji:7",
@@ -85,7 +85,7 @@
     "thValue": "",
     "fileName": "7.png",
     "eggIndex": 7,
-    "path": "assets/wechat_emoji/qqemoji/7.png"
+    "path": "assets/wechat/qqemoji/7.png"
   },
   {
     "key": "qqemoji:8",
@@ -96,7 +96,7 @@
     "thValue": "",
     "fileName": "8.png",
     "eggIndex": 8,
-    "path": "assets/wechat_emoji/qqemoji/8.png"
+    "path": "assets/wechat/qqemoji/8.png"
   },
   {
     "key": "qqemoji:9",
@@ -107,7 +107,7 @@
     "thValue": "",
     "fileName": "9.png",
     "eggIndex": 9,
-    "path": "assets/wechat_emoji/qqemoji/9.png"
+    "path": "assets/wechat/qqemoji/9.png"
   },
   {
     "key": "qqemoji:10",
@@ -118,7 +118,7 @@
     "thValue": "",
     "fileName": "10.png",
     "eggIndex": 10,
-    "path": "assets/wechat_emoji/qqemoji/10.png"
+    "path": "assets/wechat/qqemoji/10.png"
   },
   {
     "key": "qqemoji:11",
@@ -129,7 +129,7 @@
     "thValue": "",
     "fileName": "11.png",
     "eggIndex": 11,
-    "path": "assets/wechat_emoji/qqemoji/11.png"
+    "path": "assets/wechat/qqemoji/11.png"
   },
   {
     "key": "qqemoji:12",
@@ -140,7 +140,7 @@
     "thValue": "",
     "fileName": "12.png",
     "eggIndex": 12,
-    "path": "assets/wechat_emoji/qqemoji/12.png"
+    "path": "assets/wechat/qqemoji/12.png"
   },
   {
     "key": "qqemoji:13",
@@ -151,7 +151,7 @@
     "thValue": "",
     "fileName": "13.png",
     "eggIndex": 13,
-    "path": "assets/wechat_emoji/qqemoji/13.png"
+    "path": "assets/wechat/qqemoji/13.png"
   },
   {
     "key": "qqemoji:14",
@@ -162,7 +162,7 @@
     "thValue": "",
     "fileName": "14.png",
     "eggIndex": 14,
-    "path": "assets/wechat_emoji/qqemoji/14.png"
+    "path": "assets/wechat/qqemoji/14.png"
   },
   {
     "key": "qqemoji:15",
@@ -173,7 +173,7 @@
     "thValue": "",
     "fileName": "15.png",
     "eggIndex": 15,
-    "path": "assets/wechat_emoji/qqemoji/15.png"
+    "path": "assets/wechat/qqemoji/15.png"
   },
   {
     "key": "qqemoji:16",
@@ -184,7 +184,7 @@
     "thValue": "",
     "fileName": "16.png",
     "eggIndex": 16,
-    "path": "assets/wechat_emoji/qqemoji/16.png"
+    "path": "assets/wechat/qqemoji/16.png"
   },
   {
     "key": "qqemoji:17",
@@ -195,7 +195,7 @@
     "thValue": "",
     "fileName": "17.png",
     "eggIndex": 17,
-    "path": "assets/wechat_emoji/qqemoji/17.png"
+    "path": "assets/wechat/qqemoji/17.png"
   },
   {
     "key": "qqemoji:18",
@@ -206,7 +206,7 @@
     "thValue": "",
     "fileName": "18.png",
     "eggIndex": 18,
-    "path": "assets/wechat_emoji/qqemoji/18.png"
+    "path": "assets/wechat/qqemoji/18.png"
   },
   {
     "key": "qqemoji:19",
@@ -217,7 +217,7 @@
     "thValue": "",
     "fileName": "19.png",
     "eggIndex": 19,
-    "path": "assets/wechat_emoji/qqemoji/19.png"
+    "path": "assets/wechat/qqemoji/19.png"
   },
   {
     "key": "qqemoji:20",
@@ -228,7 +228,7 @@
     "thValue": "",
     "fileName": "20.png",
     "eggIndex": 20,
-    "path": "assets/wechat_emoji/qqemoji/20.png"
+    "path": "assets/wechat/qqemoji/20.png"
   },
   {
     "key": "qqemoji:21",
@@ -239,7 +239,7 @@
     "thValue": "",
     "fileName": "21.png",
     "eggIndex": 21,
-    "path": "assets/wechat_emoji/qqemoji/21.png"
+    "path": "assets/wechat/qqemoji/21.png"
   },
   {
     "key": "qqemoji:22",
@@ -250,7 +250,7 @@
     "thValue": "",
     "fileName": "22.png",
     "eggIndex": 22,
-    "path": "assets/wechat_emoji/qqemoji/22.png"
+    "path": "assets/wechat/qqemoji/22.png"
   },
   {
     "key": "qqemoji:23",
@@ -261,7 +261,7 @@
     "thValue": "",
     "fileName": "23.png",
     "eggIndex": 23,
-    "path": "assets/wechat_emoji/qqemoji/23.png"
+    "path": "assets/wechat/qqemoji/23.png"
   },
   {
     "key": "qqemoji:24",
@@ -272,7 +272,7 @@
     "thValue": "",
     "fileName": "24.png",
     "eggIndex": 24,
-    "path": "assets/wechat_emoji/qqemoji/24.png"
+    "path": "assets/wechat/qqemoji/24.png"
   },
   {
     "key": "qqemoji:25",
@@ -283,7 +283,7 @@
     "thValue": "",
     "fileName": "25.png",
     "eggIndex": 25,
-    "path": "assets/wechat_emoji/qqemoji/25.png"
+    "path": "assets/wechat/qqemoji/25.png"
   },
   {
     "key": "qqemoji:26",
@@ -294,7 +294,7 @@
     "thValue": "",
     "fileName": "26.png",
     "eggIndex": 26,
-    "path": "assets/wechat_emoji/qqemoji/26.png"
+    "path": "assets/wechat/qqemoji/26.png"
   },
   {
     "key": "qqemoji:27",
@@ -305,7 +305,7 @@
     "thValue": "",
     "fileName": "27.png",
     "eggIndex": 27,
-    "path": "assets/wechat_emoji/qqemoji/27.png"
+    "path": "assets/wechat/qqemoji/27.png"
   },
   {
     "key": "qqemoji:28",
@@ -316,7 +316,7 @@
     "thValue": "",
     "fileName": "28.png",
     "eggIndex": 28,
-    "path": "assets/wechat_emoji/qqemoji/28.png"
+    "path": "assets/wechat/qqemoji/28.png"
   },
   {
     "key": "qqemoji:29",
@@ -327,7 +327,7 @@
     "thValue": "",
     "fileName": "29.png",
     "eggIndex": 29,
-    "path": "assets/wechat_emoji/qqemoji/29.png"
+    "path": "assets/wechat/qqemoji/29.png"
   },
   {
     "key": "qqemoji:30",
@@ -338,7 +338,7 @@
     "thValue": "",
     "fileName": "30.png",
     "eggIndex": 30,
-    "path": "assets/wechat_emoji/qqemoji/30.png"
+    "path": "assets/wechat/qqemoji/30.png"
   },
   {
     "key": "qqemoji:31",
@@ -349,7 +349,7 @@
     "thValue": "",
     "fileName": "31.png",
     "eggIndex": 31,
-    "path": "assets/wechat_emoji/qqemoji/31.png"
+    "path": "assets/wechat/qqemoji/31.png"
   },
   {
     "key": "qqemoji:32",
@@ -360,7 +360,7 @@
     "thValue": "",
     "fileName": "32.png",
     "eggIndex": 32,
-    "path": "assets/wechat_emoji/qqemoji/32.png"
+    "path": "assets/wechat/qqemoji/32.png"
   },
   {
     "key": "qqemoji:33",
@@ -371,7 +371,7 @@
     "thValue": "",
     "fileName": "33.png",
     "eggIndex": 33,
-    "path": "assets/wechat_emoji/qqemoji/33.png"
+    "path": "assets/wechat/qqemoji/33.png"
   },
   {
     "key": "qqemoji:34",
@@ -382,7 +382,7 @@
     "thValue": "",
     "fileName": "34.png",
     "eggIndex": 34,
-    "path": "assets/wechat_emoji/qqemoji/34.png"
+    "path": "assets/wechat/qqemoji/34.png"
   },
   {
     "key": "qqemoji:35",
@@ -393,7 +393,7 @@
     "thValue": "",
     "fileName": "35.png",
     "eggIndex": 35,
-    "path": "assets/wechat_emoji/qqemoji/35.png"
+    "path": "assets/wechat/qqemoji/35.png"
   },
   {
     "key": "qqemoji:36",
@@ -404,7 +404,7 @@
     "thValue": "",
     "fileName": "36.png",
     "eggIndex": 36,
-    "path": "assets/wechat_emoji/qqemoji/36.png"
+    "path": "assets/wechat/qqemoji/36.png"
   },
   {
     "key": "qqemoji:37",
@@ -415,7 +415,7 @@
     "thValue": "",
     "fileName": "37.png",
     "eggIndex": 37,
-    "path": "assets/wechat_emoji/qqemoji/37.png"
+    "path": "assets/wechat/qqemoji/37.png"
   },
   {
     "key": "qqemoji:38",
@@ -426,7 +426,7 @@
     "thValue": "",
     "fileName": "38.png",
     "eggIndex": 38,
-    "path": "assets/wechat_emoji/qqemoji/38.png"
+    "path": "assets/wechat/qqemoji/38.png"
   },
   {
     "key": "qqemoji:39",
@@ -437,7 +437,7 @@
     "thValue": "",
     "fileName": "39.png",
     "eggIndex": 39,
-    "path": "assets/wechat_emoji/qqemoji/39.png"
+    "path": "assets/wechat/qqemoji/39.png"
   },
   {
     "key": "qqemoji:40",
@@ -448,7 +448,7 @@
     "thValue": "",
     "fileName": "40.png",
     "eggIndex": 40,
-    "path": "assets/wechat_emoji/qqemoji/40.png"
+    "path": "assets/wechat/qqemoji/40.png"
   },
   {
     "key": "qqemoji:41",
@@ -459,7 +459,7 @@
     "thValue": "",
     "fileName": "41.png",
     "eggIndex": 41,
-    "path": "assets/wechat_emoji/qqemoji/41.png"
+    "path": "assets/wechat/qqemoji/41.png"
   },
   {
     "key": "qqemoji:42",
@@ -470,7 +470,7 @@
     "thValue": "",
     "fileName": "42.png",
     "eggIndex": 42,
-    "path": "assets/wechat_emoji/qqemoji/42.png"
+    "path": "assets/wechat/qqemoji/42.png"
   },
   {
     "key": "qqemoji:43",
@@ -481,7 +481,7 @@
     "thValue": "",
     "fileName": "43.png",
     "eggIndex": 43,
-    "path": "assets/wechat_emoji/qqemoji/43.png"
+    "path": "assets/wechat/qqemoji/43.png"
   },
   {
     "key": "qqemoji:44",
@@ -492,7 +492,7 @@
     "thValue": "",
     "fileName": "44.png",
     "eggIndex": 44,
-    "path": "assets/wechat_emoji/qqemoji/44.png"
+    "path": "assets/wechat/qqemoji/44.png"
   },
   {
     "key": "qqemoji:45",
@@ -503,7 +503,7 @@
     "thValue": "",
     "fileName": "45.png",
     "eggIndex": 45,
-    "path": "assets/wechat_emoji/qqemoji/45.png"
+    "path": "assets/wechat/qqemoji/45.png"
   },
   {
     "key": "qqemoji:46",
@@ -514,7 +514,7 @@
     "thValue": "",
     "fileName": "46.png",
     "eggIndex": 46,
-    "path": "assets/wechat_emoji/qqemoji/46.png"
+    "path": "assets/wechat/qqemoji/46.png"
   },
   {
     "key": "qqemoji:47",
@@ -525,7 +525,7 @@
     "thValue": "",
     "fileName": "47.png",
     "eggIndex": 47,
-    "path": "assets/wechat_emoji/qqemoji/47.png"
+    "path": "assets/wechat/qqemoji/47.png"
   },
   {
     "key": "qqemoji:48",
@@ -536,7 +536,7 @@
     "thValue": "",
     "fileName": "48.png",
     "eggIndex": 48,
-    "path": "assets/wechat_emoji/qqemoji/48.png"
+    "path": "assets/wechat/qqemoji/48.png"
   },
   {
     "key": "qqemoji:49",
@@ -547,7 +547,7 @@
     "thValue": "",
     "fileName": "49.png",
     "eggIndex": 49,
-    "path": "assets/wechat_emoji/qqemoji/49.png"
+    "path": "assets/wechat/qqemoji/49.png"
   },
   {
     "key": "qqemoji:50",
@@ -558,7 +558,7 @@
     "thValue": "",
     "fileName": "50.png",
     "eggIndex": 50,
-    "path": "assets/wechat_emoji/qqemoji/50.png"
+    "path": "assets/wechat/qqemoji/50.png"
   },
   {
     "key": "qqemoji:51",
@@ -569,7 +569,7 @@
     "thValue": "",
     "fileName": "51.png",
     "eggIndex": 51,
-    "path": "assets/wechat_emoji/qqemoji/51.png"
+    "path": "assets/wechat/qqemoji/51.png"
   },
   {
     "key": "qqemoji:52",
@@ -580,7 +580,7 @@
     "thValue": "",
     "fileName": "52.png",
     "eggIndex": 52,
-    "path": "assets/wechat_emoji/qqemoji/52.png"
+    "path": "assets/wechat/qqemoji/52.png"
   },
   {
     "key": "qqemoji:53",
@@ -591,7 +591,7 @@
     "thValue": "",
     "fileName": "53.png",
     "eggIndex": 53,
-    "path": "assets/wechat_emoji/qqemoji/53.png"
+    "path": "assets/wechat/qqemoji/53.png"
   },
   {
     "key": "qqemoji:54",
@@ -602,7 +602,7 @@
     "thValue": "",
     "fileName": "54.png",
     "eggIndex": 54,
-    "path": "assets/wechat_emoji/qqemoji/54.png"
+    "path": "assets/wechat/qqemoji/54.png"
   },
   {
     "key": "qqemoji:55",
@@ -613,7 +613,7 @@
     "thValue": "",
     "fileName": "55.png",
     "eggIndex": 55,
-    "path": "assets/wechat_emoji/qqemoji/55.png"
+    "path": "assets/wechat/qqemoji/55.png"
   },
   {
     "key": "qqemoji:56",
@@ -624,7 +624,7 @@
     "thValue": "",
     "fileName": "56.png",
     "eggIndex": 56,
-    "path": "assets/wechat_emoji/qqemoji/56.png"
+    "path": "assets/wechat/qqemoji/56.png"
   },
   {
     "key": "qqemoji:57",
@@ -635,7 +635,7 @@
     "thValue": "",
     "fileName": "57.png",
     "eggIndex": 57,
-    "path": "assets/wechat_emoji/qqemoji/57.png"
+    "path": "assets/wechat/qqemoji/57.png"
   },
   {
     "key": "qqemoji:58",
@@ -646,7 +646,7 @@
     "thValue": "",
     "fileName": "58.png",
     "eggIndex": 58,
-    "path": "assets/wechat_emoji/qqemoji/58.png"
+    "path": "assets/wechat/qqemoji/58.png"
   },
   {
     "key": "qqemoji:59",
@@ -657,7 +657,7 @@
     "thValue": "",
     "fileName": "59.png",
     "eggIndex": 59,
-    "path": "assets/wechat_emoji/qqemoji/59.png"
+    "path": "assets/wechat/qqemoji/59.png"
   },
   {
     "key": "qqemoji:60",
@@ -668,7 +668,7 @@
     "thValue": "",
     "fileName": "60.png",
     "eggIndex": 60,
-    "path": "assets/wechat_emoji/qqemoji/60.png"
+    "path": "assets/wechat/qqemoji/60.png"
   },
   {
     "key": "qqemoji:61",
@@ -679,7 +679,7 @@
     "thValue": "",
     "fileName": "61.png",
     "eggIndex": 61,
-    "path": "assets/wechat_emoji/qqemoji/61.png"
+    "path": "assets/wechat/qqemoji/61.png"
   },
   {
     "key": "qqemoji:62",
@@ -690,7 +690,7 @@
     "thValue": "",
     "fileName": "62.png",
     "eggIndex": 62,
-    "path": "assets/wechat_emoji/qqemoji/62.png"
+    "path": "assets/wechat/qqemoji/62.png"
   },
   {
     "key": "qqemoji:63",
@@ -701,7 +701,7 @@
     "thValue": "",
     "fileName": "63.png",
     "eggIndex": 63,
-    "path": "assets/wechat_emoji/qqemoji/63.png"
+    "path": "assets/wechat/qqemoji/63.png"
   },
   {
     "key": "qqemoji:64",
@@ -712,7 +712,7 @@
     "thValue": "",
     "fileName": "64.png",
     "eggIndex": 64,
-    "path": "assets/wechat_emoji/qqemoji/64.png"
+    "path": "assets/wechat/qqemoji/64.png"
   },
   {
     "key": "qqemoji:65",
@@ -723,7 +723,7 @@
     "thValue": "",
     "fileName": "65.png",
     "eggIndex": 65,
-    "path": "assets/wechat_emoji/qqemoji/65.png"
+    "path": "assets/wechat/qqemoji/65.png"
   },
   {
     "key": "qqemoji:66",
@@ -734,7 +734,7 @@
     "thValue": "",
     "fileName": "66.png",
     "eggIndex": 66,
-    "path": "assets/wechat_emoji/qqemoji/66.png"
+    "path": "assets/wechat/qqemoji/66.png"
   },
   {
     "key": "qqemoji:67",
@@ -745,7 +745,7 @@
     "thValue": "",
     "fileName": "67.png",
     "eggIndex": 67,
-    "path": "assets/wechat_emoji/qqemoji/67.png"
+    "path": "assets/wechat/qqemoji/67.png"
   },
   {
     "key": "qqemoji:68",
@@ -756,7 +756,7 @@
     "thValue": "",
     "fileName": "68.png",
     "eggIndex": 68,
-    "path": "assets/wechat_emoji/qqemoji/68.png"
+    "path": "assets/wechat/qqemoji/68.png"
   },
   {
     "key": "qqemoji:69",
@@ -767,7 +767,7 @@
     "thValue": "",
     "fileName": "69.png",
     "eggIndex": 69,
-    "path": "assets/wechat_emoji/qqemoji/69.png"
+    "path": "assets/wechat/qqemoji/69.png"
   },
   {
     "key": "qqemoji:70",
@@ -778,7 +778,7 @@
     "thValue": "",
     "fileName": "70.png",
     "eggIndex": 70,
-    "path": "assets/wechat_emoji/qqemoji/70.png"
+    "path": "assets/wechat/qqemoji/70.png"
   },
   {
     "key": "qqemoji:71",
@@ -789,7 +789,7 @@
     "thValue": "",
     "fileName": "71.png",
     "eggIndex": 71,
-    "path": "assets/wechat_emoji/qqemoji/71.png"
+    "path": "assets/wechat/qqemoji/71.png"
   },
   {
     "key": "qqemoji:72",
@@ -800,7 +800,7 @@
     "thValue": "",
     "fileName": "72.png",
     "eggIndex": 72,
-    "path": "assets/wechat_emoji/qqemoji/72.png"
+    "path": "assets/wechat/qqemoji/72.png"
   },
   {
     "key": "qqemoji:73",
@@ -811,7 +811,7 @@
     "thValue": "",
     "fileName": "73.png",
     "eggIndex": 73,
-    "path": "assets/wechat_emoji/qqemoji/73.png"
+    "path": "assets/wechat/qqemoji/73.png"
   },
   {
     "key": "qqemoji:74",
@@ -822,7 +822,7 @@
     "thValue": "",
     "fileName": "74.png",
     "eggIndex": 74,
-    "path": "assets/wechat_emoji/qqemoji/74.png"
+    "path": "assets/wechat/qqemoji/74.png"
   },
   {
     "key": "qqemoji:75",
@@ -833,7 +833,7 @@
     "thValue": "",
     "fileName": "75.png",
     "eggIndex": 75,
-    "path": "assets/wechat_emoji/qqemoji/75.png"
+    "path": "assets/wechat/qqemoji/75.png"
   },
   {
     "key": "qqemoji:76",
@@ -844,7 +844,7 @@
     "thValue": "",
     "fileName": "76.png",
     "eggIndex": 76,
-    "path": "assets/wechat_emoji/qqemoji/76.png"
+    "path": "assets/wechat/qqemoji/76.png"
   },
   {
     "key": "qqemoji:77",
@@ -855,7 +855,7 @@
     "thValue": "",
     "fileName": "77.png",
     "eggIndex": 77,
-    "path": "assets/wechat_emoji/qqemoji/77.png"
+    "path": "assets/wechat/qqemoji/77.png"
   },
   {
     "key": "qqemoji:78",
@@ -866,7 +866,7 @@
     "thValue": "",
     "fileName": "78.png",
     "eggIndex": 78,
-    "path": "assets/wechat_emoji/qqemoji/78.png"
+    "path": "assets/wechat/qqemoji/78.png"
   },
   {
     "key": "qqemoji:79",
@@ -877,7 +877,7 @@
     "thValue": "",
     "fileName": "79.png",
     "eggIndex": 79,
-    "path": "assets/wechat_emoji/qqemoji/79.png"
+    "path": "assets/wechat/qqemoji/79.png"
   },
   {
     "key": "qqemoji:80",
@@ -888,7 +888,7 @@
     "thValue": "",
     "fileName": "80.png",
     "eggIndex": 80,
-    "path": "assets/wechat_emoji/qqemoji/80.png"
+    "path": "assets/wechat/qqemoji/80.png"
   },
   {
     "key": "qqemoji:81",
@@ -899,7 +899,7 @@
     "thValue": "",
     "fileName": "81.png",
     "eggIndex": 81,
-    "path": "assets/wechat_emoji/qqemoji/81.png"
+    "path": "assets/wechat/qqemoji/81.png"
   },
   {
     "key": "qqemoji:82",
@@ -910,7 +910,7 @@
     "thValue": "",
     "fileName": "82.png",
     "eggIndex": 82,
-    "path": "assets/wechat_emoji/qqemoji/82.png"
+    "path": "assets/wechat/qqemoji/82.png"
   },
   {
     "key": "qqemoji:83",
@@ -921,7 +921,7 @@
     "thValue": "",
     "fileName": "83.png",
     "eggIndex": 83,
-    "path": "assets/wechat_emoji/qqemoji/83.png"
+    "path": "assets/wechat/qqemoji/83.png"
   },
   {
     "key": "qqemoji:84",
@@ -932,7 +932,7 @@
     "thValue": "",
     "fileName": "84.png",
     "eggIndex": 84,
-    "path": "assets/wechat_emoji/qqemoji/84.png"
+    "path": "assets/wechat/qqemoji/84.png"
   },
   {
     "key": "qqemoji:85",
@@ -943,7 +943,7 @@
     "thValue": "",
     "fileName": "85.png",
     "eggIndex": 85,
-    "path": "assets/wechat_emoji/qqemoji/85.png"
+    "path": "assets/wechat/qqemoji/85.png"
   },
   {
     "key": "qqemoji:86",
@@ -954,7 +954,7 @@
     "thValue": "",
     "fileName": "86.png",
     "eggIndex": 86,
-    "path": "assets/wechat_emoji/qqemoji/86.png"
+    "path": "assets/wechat/qqemoji/86.png"
   },
   {
     "key": "qqemoji:87",
@@ -965,7 +965,7 @@
     "thValue": "",
     "fileName": "87.png",
     "eggIndex": 87,
-    "path": "assets/wechat_emoji/qqemoji/87.png"
+    "path": "assets/wechat/qqemoji/87.png"
   },
   {
     "key": "qqemoji:88",
@@ -976,7 +976,7 @@
     "thValue": "",
     "fileName": "88.png",
     "eggIndex": 88,
-    "path": "assets/wechat_emoji/qqemoji/88.png"
+    "path": "assets/wechat/qqemoji/88.png"
   },
   {
     "key": "qqemoji:89",
@@ -987,7 +987,7 @@
     "thValue": "",
     "fileName": "89.png",
     "eggIndex": 89,
-    "path": "assets/wechat_emoji/qqemoji/89.png"
+    "path": "assets/wechat/qqemoji/89.png"
   },
   {
     "key": "qqemoji:90",
@@ -998,7 +998,7 @@
     "thValue": "",
     "fileName": "90.png",
     "eggIndex": 90,
-    "path": "assets/wechat_emoji/qqemoji/90.png"
+    "path": "assets/wechat/qqemoji/90.png"
   },
   {
     "key": "qqemoji:91",
@@ -1009,7 +1009,7 @@
     "thValue": "",
     "fileName": "91.png",
     "eggIndex": 91,
-    "path": "assets/wechat_emoji/qqemoji/91.png"
+    "path": "assets/wechat/qqemoji/91.png"
   },
   {
     "key": "qqemoji:92",
@@ -1020,7 +1020,7 @@
     "thValue": "",
     "fileName": "92.png",
     "eggIndex": 92,
-    "path": "assets/wechat_emoji/qqemoji/92.png"
+    "path": "assets/wechat/qqemoji/92.png"
   },
   {
     "key": "qqemoji:93",
@@ -1031,7 +1031,7 @@
     "thValue": "",
     "fileName": "93.png",
     "eggIndex": 93,
-    "path": "assets/wechat_emoji/qqemoji/93.png"
+    "path": "assets/wechat/qqemoji/93.png"
   },
   {
     "key": "qqemoji:94",
@@ -1042,7 +1042,7 @@
     "thValue": "",
     "fileName": "94.png",
     "eggIndex": 94,
-    "path": "assets/wechat_emoji/qqemoji/94.png"
+    "path": "assets/wechat/qqemoji/94.png"
   },
   {
     "key": "qqemoji:95",
@@ -1053,7 +1053,7 @@
     "thValue": "",
     "fileName": "95.png",
     "eggIndex": 95,
-    "path": "assets/wechat_emoji/qqemoji/95.png"
+    "path": "assets/wechat/qqemoji/95.png"
   },
   {
     "key": "qqemoji:96",
@@ -1064,7 +1064,7 @@
     "thValue": "",
     "fileName": "96.png",
     "eggIndex": 96,
-    "path": "assets/wechat_emoji/qqemoji/96.png"
+    "path": "assets/wechat/qqemoji/96.png"
   },
   {
     "key": "qqemoji:97",
@@ -1075,7 +1075,7 @@
     "thValue": "",
     "fileName": "97.png",
     "eggIndex": 97,
-    "path": "assets/wechat_emoji/qqemoji/97.png"
+    "path": "assets/wechat/qqemoji/97.png"
   },
   {
     "key": "qqemoji:98",
@@ -1086,7 +1086,7 @@
     "thValue": "",
     "fileName": "98.png",
     "eggIndex": 98,
-    "path": "assets/wechat_emoji/qqemoji/98.png"
+    "path": "assets/wechat/qqemoji/98.png"
   },
   {
     "key": "qqemoji:99",
@@ -1097,7 +1097,7 @@
     "thValue": "",
     "fileName": "99.png",
     "eggIndex": 99,
-    "path": "assets/wechat_emoji/qqemoji/99.png"
+    "path": "assets/wechat/qqemoji/99.png"
   },
   {
     "key": "qqemoji:100",
@@ -1108,7 +1108,7 @@
     "thValue": "",
     "fileName": "100.png",
     "eggIndex": 100,
-    "path": "assets/wechat_emoji/qqemoji/100.png"
+    "path": "assets/wechat/qqemoji/100.png"
   },
   {
     "key": "qqemoji:101",
@@ -1119,7 +1119,7 @@
     "thValue": "",
     "fileName": "101.png",
     "eggIndex": 101,
-    "path": "assets/wechat_emoji/qqemoji/101.png"
+    "path": "assets/wechat/qqemoji/101.png"
   },
   {
     "key": "qqemoji:102",
@@ -1130,7 +1130,7 @@
     "thValue": "",
     "fileName": "102.png",
     "eggIndex": 102,
-    "path": "assets/wechat_emoji/qqemoji/102.png"
+    "path": "assets/wechat/qqemoji/102.png"
   },
   {
     "key": "qqemoji:103",
@@ -1141,7 +1141,7 @@
     "thValue": "",
     "fileName": "103.png",
     "eggIndex": 103,
-    "path": "assets/wechat_emoji/qqemoji/103.png"
+    "path": "assets/wechat/qqemoji/103.png"
   },
   {
     "key": "qqemoji:104",
@@ -1152,7 +1152,7 @@
     "thValue": "",
     "fileName": "104.png",
     "eggIndex": 104,
-    "path": "assets/wechat_emoji/qqemoji/104.png"
+    "path": "assets/wechat/qqemoji/104.png"
   },
   {
     "key": "[Smirk]",
@@ -1163,7 +1163,7 @@
     "thValue": "[Smirk]",
     "fileName": "2_02.png",
     "eggIndex": 2002,
-    "path": "assets/wechat_emoji/newemoji/2_02.png"
+    "path": "assets/wechat/newemoji/2_02.png"
   },
   {
     "key": "[Hey]",
@@ -1174,7 +1174,7 @@
     "thValue": "[Hey]",
     "fileName": "2_04.png",
     "eggIndex": 2004,
-    "path": "assets/wechat_emoji/newemoji/2_04.png"
+    "path": "assets/wechat/newemoji/2_04.png"
   },
   {
     "key": "[Facepalm]",
@@ -1185,7 +1185,7 @@
     "thValue": "[Facepalm]",
     "fileName": "2_05.png",
     "eggIndex": 2005,
-    "path": "assets/wechat_emoji/newemoji/2_05.png"
+    "path": "assets/wechat/newemoji/2_05.png"
   },
   {
     "key": "[Smart]",
@@ -1196,7 +1196,7 @@
     "thValue": "[Smart]",
     "fileName": "2_06.png",
     "eggIndex": 2006,
-    "path": "assets/wechat_emoji/newemoji/2_06.png"
+    "path": "assets/wechat/newemoji/2_06.png"
   },
   {
     "key": "[Tea]",
@@ -1207,7 +1207,7 @@
     "thValue": "[Tea]",
     "fileName": "2_07.png",
     "eggIndex": 2007,
-    "path": "assets/wechat_emoji/newemoji/2_07.png"
+    "path": "assets/wechat/newemoji/2_07.png"
   },
   {
     "key": "[Packet]",
@@ -1218,7 +1218,7 @@
     "thValue": "[Packet]",
     "fileName": "2_09.png",
     "eggIndex": 2009,
-    "path": "assets/wechat_emoji/newemoji/2_09.png"
+    "path": "assets/wechat/newemoji/2_09.png"
   },
   {
     "key": "[Candle]",
@@ -1229,7 +1229,7 @@
     "thValue": "[Candle]",
     "fileName": "2_10.png",
     "eggIndex": 2010,
-    "path": "assets/wechat_emoji/newemoji/2_10.png"
+    "path": "assets/wechat/newemoji/2_10.png"
   },
   {
     "key": "[Yeah!]",
@@ -1240,7 +1240,7 @@
     "thValue": "[Yeah!]",
     "fileName": "2_11.png",
     "eggIndex": 2011,
-    "path": "assets/wechat_emoji/newemoji/2_11.png"
+    "path": "assets/wechat/newemoji/2_11.png"
   },
   {
     "key": "[Blush]",
@@ -1251,7 +1251,7 @@
     "thValue": "[Blush]",
     "fileName": "smiley_17b.png",
     "eggIndex": 2013,
-    "path": "assets/wechat_emoji/newemoji/smiley_17b.png"
+    "path": "assets/wechat/newemoji/smiley_17b.png"
   },
   {
     "key": "[Salute]",
@@ -1262,7 +1262,7 @@
     "thValue": "[Salute]",
     "fileName": "smiley_83b.png",
     "eggIndex": 2014,
-    "path": "assets/wechat_emoji/newemoji/smiley_83b.png"
+    "path": "assets/wechat/newemoji/smiley_83b.png"
   },
   {
     "key": "[Chick]",
@@ -1273,7 +1273,7 @@
     "thValue": "[Chick]",
     "fileName": "2_14.png",
     "eggIndex": 2015,
-    "path": "assets/wechat_emoji/newemoji/2_14.png"
+    "path": "assets/wechat/newemoji/2_14.png"
   },
   {
     "key": "[Blessing]",
@@ -1284,7 +1284,7 @@
     "thValue": "[Blessing]",
     "fileName": "2_15.png",
     "eggIndex": 2016,
-    "path": "assets/wechat_emoji/newemoji/2_15.png"
+    "path": "assets/wechat/newemoji/2_15.png"
   },
   {
     "key": "[Bye]",
@@ -1295,7 +1295,7 @@
     "thValue": "[Bye]",
     "fileName": "smiley_39b.png",
     "eggIndex": 2017,
-    "path": "assets/wechat_emoji/newemoji/smiley_39b.png"
+    "path": "assets/wechat/newemoji/smiley_39b.png"
   },
   {
     "key": "[Concerned]",
@@ -1306,7 +1306,7 @@
     "thValue": "[Concerned]",
     "fileName": "2_12.png",
     "eggIndex": 2018,
-    "path": "assets/wechat_emoji/newemoji/2_12.png"
+    "path": "assets/wechat/newemoji/2_12.png"
   },
   {
     "key": "[Rich]",
@@ -1317,7 +1317,7 @@
     "thValue": "[Rich]",
     "fileName": "2_16.png",
     "eggIndex": 2019,
-    "path": "assets/wechat_emoji/newemoji/2_16.png"
+    "path": "assets/wechat/newemoji/2_16.png"
   },
   {
     "key": "[Pup]",
@@ -1328,7 +1328,7 @@
     "thValue": "[Pup]",
     "fileName": "2_17.png",
     "eggIndex": 2020,
-    "path": "assets/wechat_emoji/newemoji/2_17.png"
+    "path": "assets/wechat/newemoji/2_17.png"
   },
   {
     "key": "[Onlooker]",
@@ -1339,7 +1339,7 @@
     "thValue": "[Onlooker]",
     "fileName": "Watermelon.png",
     "eggIndex": 2021,
-    "path": "assets/wechat_emoji/newemoji/Watermelon.png"
+    "path": "assets/wechat/newemoji/Watermelon.png"
   },
   {
     "key": "[GoForIt]",
@@ -1350,7 +1350,7 @@
     "thValue": "[GoForIt]",
     "fileName": "Addoil.png",
     "eggIndex": 2022,
-    "path": "assets/wechat_emoji/newemoji/Addoil.png"
+    "path": "assets/wechat/newemoji/Addoil.png"
   },
   {
     "key": "[Sweats]",
@@ -1361,7 +1361,7 @@
     "thValue": "[Sweats]",
     "fileName": "Sweat.png",
     "eggIndex": 2023,
-    "path": "assets/wechat_emoji/newemoji/Sweat.png"
+    "path": "assets/wechat/newemoji/Sweat.png"
   },
   {
     "key": "[OMG]",
@@ -1372,7 +1372,7 @@
     "thValue": "[OMG]",
     "fileName": "Shocked!.png",
     "eggIndex": 2025,
-    "path": "assets/wechat_emoji/newemoji/Shocked!.png"
+    "path": "assets/wechat/newemoji/Shocked!.png"
   },
   {
     "key": "[Emm]",
@@ -1383,7 +1383,7 @@
     "thValue": "[Emm]",
     "fileName": "Cold.png",
     "eggIndex": 2027,
-    "path": "assets/wechat_emoji/newemoji/Cold.png"
+    "path": "assets/wechat/newemoji/Cold.png"
   },
   {
     "key": "[Respect]",
@@ -1394,7 +1394,7 @@
     "thValue": "[Respect]",
     "fileName": "Social.png",
     "eggIndex": 2028,
-    "path": "assets/wechat_emoji/newemoji/Social.png"
+    "path": "assets/wechat/newemoji/Social.png"
   },
   {
     "key": "[Doge]",
@@ -1405,7 +1405,7 @@
     "thValue": "[Doge]",
     "fileName": "Yellowdog.png",
     "eggIndex": 2030,
-    "path": "assets/wechat_emoji/newemoji/Yellowdog.png"
+    "path": "assets/wechat/newemoji/Yellowdog.png"
   },
   {
     "key": "[NoProb]",
@@ -1416,7 +1416,7 @@
     "thValue": "[NoProb]",
     "fileName": "NoProb.png",
     "eggIndex": 2034,
-    "path": "assets/wechat_emoji/newemoji/NoProb.png"
+    "path": "assets/wechat/newemoji/NoProb.png"
   },
   {
     "key": "[MyBad]",
@@ -1427,7 +1427,7 @@
     "thValue": "[MyBad]",
     "fileName": "Slap.png",
     "eggIndex": 2036,
-    "path": "assets/wechat_emoji/newemoji/Slap.png"
+    "path": "assets/wechat/newemoji/Slap.png"
   },
   {
     "key": "[Wow]",
@@ -1438,7 +1438,7 @@
     "thValue": "[Wow]",
     "fileName": "Wow!.png",
     "eggIndex": 2037,
-    "path": "assets/wechat_emoji/newemoji/Wow!.png"
+    "path": "assets/wechat/newemoji/Wow!.png"
   },
   {
     "key": "[KeepFighting]",
@@ -1449,7 +1449,7 @@
     "thValue": "[KeepFighting]",
     "fileName": "KeepFighting.png",
     "eggIndex": 2038,
-    "path": "assets/wechat_emoji/newemoji/KeepFighting.png"
+    "path": "assets/wechat/newemoji/KeepFighting.png"
   },
   {
     "key": "[Boring]",
@@ -1460,7 +1460,7 @@
     "thValue": "[Boring]",
     "fileName": "Boring.png",
     "eggIndex": 2043,
-    "path": "assets/wechat_emoji/newemoji/Boring.png"
+    "path": "assets/wechat/newemoji/Boring.png"
   },
   {
     "key": "[666]",
@@ -1471,7 +1471,7 @@
     "thValue": "[Awesome]",
     "fileName": "666.png",
     "eggIndex": 2044,
-    "path": "assets/wechat_emoji/newemoji/666.png"
+    "path": "assets/wechat/newemoji/666.png"
   },
   {
     "key": "[LetMeSee]",
@@ -1482,7 +1482,7 @@
     "thValue": "[LetMeSee]",
     "fileName": "LetMeSee.png",
     "eggIndex": 2045,
-    "path": "assets/wechat_emoji/newemoji/LetMeSee.png"
+    "path": "assets/wechat/newemoji/LetMeSee.png"
   },
   {
     "key": "[Sigh]",
@@ -1493,7 +1493,7 @@
     "thValue": "[Sigh]",
     "fileName": "Sigh.png",
     "eggIndex": 2046,
-    "path": "assets/wechat_emoji/newemoji/Sigh.png"
+    "path": "assets/wechat/newemoji/Sigh.png"
   },
   {
     "key": "[Hurt]",
@@ -1504,7 +1504,7 @@
     "thValue": "[Hurt]",
     "fileName": "Hurt.png",
     "eggIndex": 2047,
-    "path": "assets/wechat_emoji/newemoji/Hurt.png"
+    "path": "assets/wechat/newemoji/Hurt.png"
   },
   {
     "key": "[Broken]",
@@ -1515,7 +1515,7 @@
     "thValue": "[Broken]",
     "fileName": "Broken.png",
     "eggIndex": 2048,
-    "path": "assets/wechat_emoji/newemoji/Broken.png"
+    "path": "assets/wechat/newemoji/Broken.png"
   },
   {
     "key": "[Flushed]",
@@ -1526,7 +1526,7 @@
     "thValue": "[Flushed]",
     "fileName": "Flushed.png",
     "eggIndex": 2049,
-    "path": "assets/wechat_emoji/newemoji/Flushed.png"
+    "path": "assets/wechat/newemoji/Flushed.png"
   },
   {
     "key": "[Happy]",
@@ -1537,7 +1537,7 @@
     "thValue": "[Happy]",
     "fileName": "Happy.png",
     "eggIndex": 2050,
-    "path": "assets/wechat_emoji/newemoji/Happy.png"
+    "path": "assets/wechat/newemoji/Happy.png"
   },
   {
     "key": "[Lol]",
@@ -1548,7 +1548,7 @@
     "thValue": "[Lol]",
     "fileName": "Lol.png",
     "eggIndex": 2051,
-    "path": "assets/wechat_emoji/newemoji/Lol.png"
+    "path": "assets/wechat/newemoji/Lol.png"
   },
   {
     "key": "[Fireworks]",
@@ -1559,7 +1559,7 @@
     "thValue": "[Fireworks]",
     "fileName": "Fireworks.png",
     "eggIndex": 2052,
-    "path": "assets/wechat_emoji/newemoji/Fireworks.png"
+    "path": "assets/wechat/newemoji/Fireworks.png"
   },
   {
     "key": "[gift]",
@@ -1570,7 +1570,7 @@
     "thValue": "[Gift]",
     "fileName": "Gift.png",
     "eggIndex": 2053,
-    "path": "assets/wechat_emoji/newemoji/Gift.png"
+    "path": "assets/wechat/newemoji/Gift.png"
   },
   {
     "key": "[Party]",
@@ -1581,7 +1581,7 @@
     "thValue": "[Party]",
     "fileName": "Party.png",
     "eggIndex": 2054,
-    "path": "assets/wechat_emoji/newemoji/Party.png"
+    "path": "assets/wechat/newemoji/Party.png"
   },
   {
     "key": "[Terror]",
@@ -1592,7 +1592,7 @@
     "thValue": "[Terror]",
     "fileName": "Terror.png",
     "eggIndex": 2055,
-    "path": "assets/wechat_emoji/newemoji/Terror.png"
+    "path": "assets/wechat/newemoji/Terror.png"
   },
   {
     "key": "[Duh]",
@@ -1603,7 +1603,7 @@
     "thValue": "[Duh]",
     "fileName": "Duh.png",
     "eggIndex": 2056,
-    "path": "assets/wechat_emoji/newemoji/Duh.png"
+    "path": "assets/wechat/newemoji/Duh.png"
   },
   {
     "key": "[LetDown]",
@@ -1614,7 +1614,7 @@
     "thValue": "[Let Down]",
     "fileName": "Let Down.png",
     "eggIndex": 2057,
-    "path": "assets/wechat_emoji/newemoji/Let Down.png"
+    "path": "assets/wechat/newemoji/Let Down.png"
   },
   {
     "key": "[Sick]",
@@ -1625,7 +1625,7 @@
     "thValue": "[Sick]",
     "fileName": "Sick.png",
     "eggIndex": 2058,
-    "path": "assets/wechat_emoji/newemoji/Sick.png"
+    "path": "assets/wechat/newemoji/Sick.png"
   },
   {
     "key": "[Worship]",
@@ -1636,7 +1636,7 @@
     "thValue": "[Worship]",
     "fileName": "Worship.png",
     "eggIndex": 2059,
-    "path": "assets/wechat_emoji/newemoji/Worship.png"
+    "path": "assets/wechat/newemoji/Worship.png"
   },
   {
     "key": "[Firecracker]",
@@ -1647,6 +1647,7 @@
     "thValue": "[Firecracker]",
     "fileName": "Firecracker.png",
     "eggIndex": 2060,
-    "path": "assets/wechat_emoji/newemoji/Firecracker.png"
+    "path": "assets/wechat/newemoji/Firecracker.png"
   }
 ]
+

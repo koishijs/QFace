@@ -11,7 +11,7 @@ import {
 /**
  * QQNT 系统表情统一索引生成器
  *
- * 读取 public/assets/qq_emoji/_index.json（QqSysEmojiWithAssets 平铺列表），
+ * 读取 public/assets/qq/_index.json（QqSysEmojiWithAssets 平铺列表），
  * 全部归入单一分组（packageId = '0'），映射为 UnifiedEmojiPackage 格式：
  *   - public/indexes/qq/_index.json  → 包摘要列表
  *   - public/indexes/qq/0.json       → 完整包数据（含所有 emojis）

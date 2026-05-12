@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "0",
   "name": "QQNT 系统表情",
   "emojis": [
@@ -93,7 +93,7 @@
       "shortCodes": [
         "105"
       ],
-      "staticUrl": "assets/qq/5/png/5_0.png",
+      "staticUrl": "assets/qq/5/png/5.png",
       "animatedUrl": "assets/qq/5/apng/5.png",
       "isHide": false,
       "packageId": "0",
@@ -674,7 +674,6 @@
         "193"
       ],
       "staticUrl": "assets/qq/41/png/41.png",
-      "animatedUrl": "assets/qq/41/apng/41.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -691,7 +690,6 @@
         "190"
       ],
       "staticUrl": "assets/qq/42/png/42.png",
-      "animatedUrl": "assets/qq/42/apng/42.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -708,7 +706,6 @@
         "192"
       ],
       "staticUrl": "assets/qq/43/png/43.png",
-      "animatedUrl": "assets/qq/43/apng/43.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -772,7 +769,7 @@
       "shortCodes": [
         "168"
       ],
-      "staticUrl": "assets/qq/53/png/53_0.png",
+      "staticUrl": "assets/qq/53/png/53.png",
       "animatedUrl": "assets/qq/53/apng/53.png",
       "isHide": false,
       "packageId": "0",
@@ -983,7 +980,7 @@
       "shortCodes": [
         "176"
       ],
-      "staticUrl": "assets/qq/74/png/74_0.png",
+      "staticUrl": "assets/qq/74/png/74.png",
       "animatedUrl": "assets/qq/74/apng/74.png",
       "isHide": false,
       "packageId": "0",
@@ -1002,7 +999,7 @@
       "shortCodes": [
         "175"
       ],
-      "staticUrl": "assets/qq/75/png/75_0.png",
+      "staticUrl": "assets/qq/75/png/75.png",
       "animatedUrl": "assets/qq/75/apng/75.png",
       "isHide": false,
       "packageId": "0",
@@ -1104,7 +1101,6 @@
         "191"
       ],
       "staticUrl": "assets/qq/85/png/85.png",
-      "animatedUrl": "assets/qq/85/apng/85.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -1121,7 +1117,6 @@
         "194"
       ],
       "staticUrl": "assets/qq/86/png/86.png",
-      "animatedUrl": "assets/qq/86/apng/86.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -1458,7 +1453,7 @@
       "shortCodes": [
         "158"
       ],
-      "staticUrl": "assets/qq/114/png/114_0.png",
+      "staticUrl": "assets/qq/114/png/114.png",
       "animatedUrl": "assets/qq/114/apng/114.png",
       "isHide": false,
       "packageId": "0",
@@ -1644,7 +1639,6 @@
         "195"
       ],
       "staticUrl": "assets/qq/125/png/125.png",
-      "animatedUrl": "assets/qq/125/apng/125.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -1703,7 +1697,6 @@
         "199"
       ],
       "staticUrl": "assets/qq/129/png/129.png",
-      "animatedUrl": "assets/qq/129/apng/129.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -1817,7 +1810,7 @@
       "shortCodes": [
         "121002"
       ],
-      "staticUrl": "assets/qq/137/png/137_0.png",
+      "staticUrl": "assets/qq/137/png/137.png",
       "animatedUrl": "assets/qq/137/apng/137.png",
       "isHide": false,
       "packageId": "0",
@@ -2483,7 +2476,7 @@
       "shortCodes": [
         "251"
       ],
-      "staticUrl": "assets/qq/181/png/181_0.png",
+      "staticUrl": "assets/qq/181/png/181.png",
       "animatedUrl": "assets/qq/181/apng/181.png",
       "isHide": false,
       "packageId": "0",
@@ -3720,7 +3713,7 @@
         "10271"
       ],
       "staticUrl": "assets/qq/271/png/271.png",
-      "animatedUrl": "assets/qq/271/apng/270.png",
+      "animatedUrl": "assets/qq/271/apng/271.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -4351,7 +4344,7 @@
       "shortCodes": [
         "10311"
       ],
-      "staticUrl": "assets/qq/311/png/311_0.png",
+      "staticUrl": "assets/qq/311/png/311.png",
       "animatedUrl": "assets/qq/311/apng/311.png",
       "isHide": false,
       "packageId": "0",
@@ -4370,7 +4363,7 @@
       "shortCodes": [
         "10312"
       ],
-      "staticUrl": "assets/qq/312/png/312_0.png",
+      "staticUrl": "assets/qq/312/png/312.png",
       "animatedUrl": "assets/qq/312/apng/312.png",
       "isHide": false,
       "packageId": "0",
@@ -4404,7 +4397,7 @@
       "shortCodes": [
         "10314"
       ],
-      "staticUrl": "assets/qq/314/png/314_0.png",
+      "staticUrl": "assets/qq/314/png/314.png",
       "animatedUrl": "assets/qq/314/apng/314.png",
       "isHide": false,
       "packageId": "0",
@@ -4453,7 +4446,7 @@
       "shortCodes": [
         "10317"
       ],
-      "staticUrl": "assets/qq/317/png/317_0.png",
+      "staticUrl": "assets/qq/317/png/317.png",
       "animatedUrl": "assets/qq/317/apng/317.png",
       "isHide": false,
       "packageId": "0",
@@ -4472,7 +4465,7 @@
       "shortCodes": [
         "10318"
       ],
-      "staticUrl": "assets/qq/318/png/318_0.png",
+      "staticUrl": "assets/qq/318/png/318.png",
       "animatedUrl": "assets/qq/318/apng/318.png",
       "isHide": false,
       "packageId": "0",
@@ -4491,7 +4484,7 @@
       "shortCodes": [
         "10319"
       ],
-      "staticUrl": "assets/qq/319/png/319_0.png",
+      "staticUrl": "assets/qq/319/png/319.png",
       "animatedUrl": "assets/qq/319/apng/319.png",
       "isHide": false,
       "packageId": "0",
@@ -4510,7 +4503,7 @@
       "shortCodes": [
         "10320"
       ],
-      "staticUrl": "assets/qq/320/png/320_0.png",
+      "staticUrl": "assets/qq/320/png/320.png",
       "animatedUrl": "assets/qq/320/apng/320.png",
       "isHide": false,
       "packageId": "0",
@@ -4578,7 +4571,7 @@
       "shortCodes": [
         "10324"
       ],
-      "staticUrl": "assets/qq/324/png/324_0.png",
+      "staticUrl": "assets/qq/324/png/324.png",
       "animatedUrl": "assets/qq/324/apng/324.png",
       "isHide": false,
       "packageId": "0",
@@ -4597,7 +4590,7 @@
       "shortCodes": [
         "10325"
       ],
-      "staticUrl": "assets/qq/325/png/325_0.png",
+      "staticUrl": "assets/qq/325/png/325.png",
       "animatedUrl": "assets/qq/325/apng/325.png",
       "isHide": false,
       "packageId": "0",
@@ -4616,7 +4609,7 @@
       "shortCodes": [
         "10326"
       ],
-      "staticUrl": "assets/qq/326/png/326_0.png",
+      "staticUrl": "assets/qq/326/png/326.png",
       "animatedUrl": "assets/qq/326/apng/326.png",
       "isHide": false,
       "packageId": "0",
@@ -4727,7 +4720,7 @@
       "shortCodes": [
         "10333"
       ],
-      "staticUrl": "assets/qq/333/png/333_0.png",
+      "staticUrl": "assets/qq/333/png/333.png",
       "animatedUrl": "assets/qq/333/apng/333.png",
       "isHide": false,
       "packageId": "0",
@@ -4795,7 +4788,7 @@
       "shortCodes": [
         "10337"
       ],
-      "staticUrl": "assets/qq/337/png/337_0.png",
+      "staticUrl": "assets/qq/337/png/337.png",
       "animatedUrl": "assets/qq/337/apng/337.png",
       "isHide": false,
       "packageId": "0",
@@ -4814,7 +4807,7 @@
       "shortCodes": [
         "10338"
       ],
-      "staticUrl": "assets/qq/338/png/338_0.png",
+      "staticUrl": "assets/qq/338/png/338.png",
       "animatedUrl": "assets/qq/338/apng/338.png",
       "isHide": false,
       "packageId": "0",
@@ -4833,7 +4826,7 @@
       "shortCodes": [
         "10339"
       ],
-      "staticUrl": "assets/qq/339/png/339_0.png",
+      "staticUrl": "assets/qq/339/png/339.png",
       "animatedUrl": "assets/qq/339/apng/339.png",
       "isHide": false,
       "packageId": "0",
@@ -4867,7 +4860,7 @@
       "shortCodes": [
         "10341"
       ],
-      "staticUrl": "assets/qq/341/png/341_0.png",
+      "staticUrl": "assets/qq/341/png/341.png",
       "animatedUrl": "assets/qq/341/apng/341.png",
       "isHide": false,
       "packageId": "0",
@@ -4886,7 +4879,7 @@
       "shortCodes": [
         "10342"
       ],
-      "staticUrl": "assets/qq/342/png/342_0.png",
+      "staticUrl": "assets/qq/342/png/342.png",
       "animatedUrl": "assets/qq/342/apng/342.png",
       "isHide": false,
       "packageId": "0",
@@ -4905,7 +4898,7 @@
       "shortCodes": [
         "10343"
       ],
-      "staticUrl": "assets/qq/343/png/343_0.png",
+      "staticUrl": "assets/qq/343/png/343.png",
       "animatedUrl": "assets/qq/343/apng/343.png",
       "isHide": false,
       "packageId": "0",
@@ -4924,7 +4917,7 @@
       "shortCodes": [
         "10344"
       ],
-      "staticUrl": "assets/qq/344/png/344_0.png",
+      "staticUrl": "assets/qq/344/png/344.png",
       "animatedUrl": "assets/qq/344/apng/344.png",
       "isHide": false,
       "packageId": "0",
@@ -4943,7 +4936,7 @@
       "shortCodes": [
         "10345"
       ],
-      "staticUrl": "assets/qq/345/png/345_0.png",
+      "staticUrl": "assets/qq/345/png/345.png",
       "animatedUrl": "assets/qq/345/apng/345.png",
       "isHide": false,
       "packageId": "0",
@@ -4962,7 +4955,7 @@
       "shortCodes": [
         "10346"
       ],
-      "staticUrl": "assets/qq/346/png/346_0.png",
+      "staticUrl": "assets/qq/346/png/346.png",
       "animatedUrl": "assets/qq/346/apng/346.png",
       "isHide": false,
       "packageId": "0",
@@ -5015,7 +5008,7 @@
       "shortCodes": [
         "10349"
       ],
-      "staticUrl": "assets/qq/349/png/349_0.png",
+      "staticUrl": "assets/qq/349/png/349.png",
       "animatedUrl": "assets/qq/349/apng/349.png",
       "isHide": false,
       "packageId": "0",
@@ -5034,7 +5027,7 @@
       "shortCodes": [
         "10350"
       ],
-      "staticUrl": "assets/qq/350/png/350_0.png",
+      "staticUrl": "assets/qq/350/png/350.png",
       "animatedUrl": "assets/qq/350/apng/350.png",
       "isHide": false,
       "packageId": "0",
@@ -5053,7 +5046,7 @@
       "shortCodes": [
         "10351"
       ],
-      "staticUrl": "assets/qq/351/png/351_0.png",
+      "staticUrl": "assets/qq/351/png/351.png",
       "animatedUrl": "assets/qq/351/apng/351.png",
       "isHide": false,
       "packageId": "0",
@@ -5174,7 +5167,7 @@
       "shortCodes": [
         "10358"
       ],
-      "staticUrl": "assets/qq/358/png/358_0.png",
+      "staticUrl": "assets/qq/358/png/358.png",
       "animatedUrl": "assets/qq/358/apng/358.png",
       "isHide": true,
       "packageId": "0",
@@ -5193,7 +5186,7 @@
       "shortCodes": [
         "10359"
       ],
-      "staticUrl": "assets/qq/359/png/359_0.png",
+      "staticUrl": "assets/qq/359/png/359.png",
       "animatedUrl": "assets/qq/359/apng/359.png",
       "isHide": true,
       "packageId": "0",
@@ -5212,7 +5205,7 @@
       "shortCodes": [
         "10360"
       ],
-      "staticUrl": "assets/qq/360/png/360_0.png",
+      "staticUrl": "assets/qq/360/png/360.png",
       "animatedUrl": "assets/qq/360/apng/360.png",
       "isHide": true,
       "packageId": "0",
@@ -5231,7 +5224,7 @@
       "shortCodes": [
         "10361"
       ],
-      "staticUrl": "assets/qq/361/png/361_0.png",
+      "staticUrl": "assets/qq/361/png/361.png",
       "animatedUrl": "assets/qq/361/apng/361.png",
       "isHide": true,
       "packageId": "0",
@@ -5250,7 +5243,7 @@
       "shortCodes": [
         "10362"
       ],
-      "staticUrl": "assets/qq/362/png/362_0.png",
+      "staticUrl": "assets/qq/362/png/362.png",
       "animatedUrl": "assets/qq/362/apng/362.png",
       "isHide": true,
       "packageId": "0",
@@ -5269,7 +5262,7 @@
       "shortCodes": [
         "10363"
       ],
-      "staticUrl": "assets/qq/363/png/363_0.png",
+      "staticUrl": "assets/qq/363/png/363.png",
       "animatedUrl": "assets/qq/363/apng/363.png",
       "isHide": true,
       "packageId": "0",
@@ -5288,7 +5281,7 @@
       "shortCodes": [
         "10364"
       ],
-      "staticUrl": "assets/qq/364/png/364_0.png",
+      "staticUrl": "assets/qq/364/png/364.png",
       "animatedUrl": "assets/qq/364/apng/364.png",
       "isHide": true,
       "packageId": "0",
@@ -5307,7 +5300,7 @@
       "shortCodes": [
         "10365"
       ],
-      "staticUrl": "assets/qq/365/png/365_0.png",
+      "staticUrl": "assets/qq/365/png/365.png",
       "animatedUrl": "assets/qq/365/apng/365.png",
       "isHide": true,
       "packageId": "0",
@@ -5326,7 +5319,7 @@
       "shortCodes": [
         "10366"
       ],
-      "staticUrl": "assets/qq/366/png/366_0.png",
+      "staticUrl": "assets/qq/366/png/366.png",
       "animatedUrl": "assets/qq/366/apng/366.png",
       "isHide": true,
       "packageId": "0",
@@ -5345,7 +5338,7 @@
       "shortCodes": [
         "10367"
       ],
-      "staticUrl": "assets/qq/367/png/367_0.png",
+      "staticUrl": "assets/qq/367/png/367.png",
       "animatedUrl": "assets/qq/367/apng/367.png",
       "isHide": true,
       "packageId": "0",
@@ -5364,7 +5357,7 @@
       "shortCodes": [
         "10368"
       ],
-      "staticUrl": "assets/qq/368/png/368_0.png",
+      "staticUrl": "assets/qq/368/png/368.png",
       "animatedUrl": "assets/qq/368/apng/368.png",
       "isHide": true,
       "packageId": "0",
@@ -5383,7 +5376,7 @@
       "shortCodes": [
         "10369"
       ],
-      "staticUrl": "assets/qq/369/png/369_0.png",
+      "staticUrl": "assets/qq/369/png/369.png",
       "animatedUrl": "assets/qq/369/apng/369.png",
       "isHide": true,
       "packageId": "0",
@@ -5402,7 +5395,7 @@
       "shortCodes": [
         "10370"
       ],
-      "staticUrl": "assets/qq/370/png/370_0.png",
+      "staticUrl": "assets/qq/370/png/370.png",
       "animatedUrl": "assets/qq/370/apng/370.png",
       "isHide": true,
       "packageId": "0",
@@ -5421,7 +5414,7 @@
       "shortCodes": [
         "10371"
       ],
-      "staticUrl": "assets/qq/371/png/371_0.png",
+      "staticUrl": "assets/qq/371/png/371.png",
       "animatedUrl": "assets/qq/371/apng/371.png",
       "isHide": true,
       "packageId": "0",
@@ -5440,7 +5433,7 @@
       "shortCodes": [
         "10372"
       ],
-      "staticUrl": "assets/qq/372/png/372_0.png",
+      "staticUrl": "assets/qq/372/png/372.png",
       "animatedUrl": "assets/qq/372/apng/372.png",
       "isHide": true,
       "packageId": "0",
@@ -5459,7 +5452,7 @@
       "shortCodes": [
         "10373"
       ],
-      "staticUrl": "assets/qq/373/png/373_0.png",
+      "staticUrl": "assets/qq/373/png/373.png",
       "animatedUrl": "assets/qq/373/apng/373.png",
       "isHide": true,
       "packageId": "0",
@@ -5478,7 +5471,7 @@
       "shortCodes": [
         "10374"
       ],
-      "staticUrl": "assets/qq/374/png/374_0.png",
+      "staticUrl": "assets/qq/374/png/374.png",
       "animatedUrl": "assets/qq/374/apng/374.png",
       "isHide": true,
       "packageId": "0",
@@ -5497,7 +5490,7 @@
       "shortCodes": [
         "10375"
       ],
-      "staticUrl": "assets/qq/375/png/375_0.png",
+      "staticUrl": "assets/qq/375/png/375.png",
       "animatedUrl": "assets/qq/375/apng/375.png",
       "isHide": true,
       "packageId": "0",
@@ -5516,7 +5509,7 @@
       "shortCodes": [
         "10376"
       ],
-      "staticUrl": "assets/qq/376/png/376_0.png",
+      "staticUrl": "assets/qq/376/png/376.png",
       "animatedUrl": "assets/qq/376/apng/376.png",
       "isHide": true,
       "packageId": "0",
@@ -5535,7 +5528,7 @@
       "shortCodes": [
         "10377"
       ],
-      "staticUrl": "assets/qq/377/png/377_0.png",
+      "staticUrl": "assets/qq/377/png/377.png",
       "animatedUrl": "assets/qq/377/apng/377.png",
       "isHide": true,
       "packageId": "0",
@@ -5554,7 +5547,7 @@
       "shortCodes": [
         "10378"
       ],
-      "staticUrl": "assets/qq/378/png/378_0.png",
+      "staticUrl": "assets/qq/378/png/378.png",
       "animatedUrl": "assets/qq/378/apng/378.png",
       "isHide": true,
       "packageId": "0",
@@ -5573,7 +5566,7 @@
       "shortCodes": [
         "10379"
       ],
-      "staticUrl": "assets/qq/379/png/379_0.png",
+      "staticUrl": "assets/qq/379/png/379.png",
       "animatedUrl": "assets/qq/379/apng/379.png",
       "isHide": true,
       "packageId": "0",
@@ -5592,7 +5585,7 @@
       "shortCodes": [
         "10380"
       ],
-      "staticUrl": "assets/qq/380/png/380_0.png",
+      "staticUrl": "assets/qq/380/png/380.png",
       "animatedUrl": "assets/qq/380/apng/380.png",
       "isHide": true,
       "packageId": "0",
@@ -5611,7 +5604,7 @@
       "shortCodes": [
         "10381"
       ],
-      "staticUrl": "assets/qq/381/png/381_0.png",
+      "staticUrl": "assets/qq/381/png/381.png",
       "animatedUrl": "assets/qq/381/apng/381.png",
       "isHide": true,
       "packageId": "0",
@@ -5630,7 +5623,7 @@
       "shortCodes": [
         "10382"
       ],
-      "staticUrl": "assets/qq/382/png/382_0.png",
+      "staticUrl": "assets/qq/382/png/382.png",
       "animatedUrl": "assets/qq/382/apng/382.png",
       "isHide": true,
       "packageId": "0",
@@ -5649,7 +5642,7 @@
       "shortCodes": [
         "10383"
       ],
-      "staticUrl": "assets/qq/383/png/383_0.png",
+      "staticUrl": "assets/qq/383/png/383.png",
       "animatedUrl": "assets/qq/383/apng/383.png",
       "isHide": true,
       "packageId": "0",
@@ -5668,7 +5661,7 @@
       "shortCodes": [
         "10384"
       ],
-      "staticUrl": "assets/qq/384/png/384_0.png",
+      "staticUrl": "assets/qq/384/png/384.png",
       "animatedUrl": "assets/qq/384/apng/384.png",
       "isHide": true,
       "packageId": "0",
@@ -5687,7 +5680,7 @@
       "shortCodes": [
         "10385"
       ],
-      "staticUrl": "assets/qq/385/png/385_0.png",
+      "staticUrl": "assets/qq/385/png/385.png",
       "animatedUrl": "assets/qq/385/apng/385.png",
       "isHide": true,
       "packageId": "0",
@@ -5706,7 +5699,7 @@
       "shortCodes": [
         "10386"
       ],
-      "staticUrl": "assets/qq/386/png/386_0.png",
+      "staticUrl": "assets/qq/386/png/386.png",
       "animatedUrl": "assets/qq/386/apng/386.png",
       "isHide": true,
       "packageId": "0",
@@ -5725,7 +5718,7 @@
       "shortCodes": [
         "10387"
       ],
-      "staticUrl": "assets/qq/387/png/387_0.png",
+      "staticUrl": "assets/qq/387/png/387.png",
       "animatedUrl": "assets/qq/387/apng/387.png",
       "isHide": true,
       "packageId": "0",
@@ -5744,7 +5737,7 @@
       "shortCodes": [
         "10388"
       ],
-      "staticUrl": "assets/qq/388/png/388_0.png",
+      "staticUrl": "assets/qq/388/png/388.png",
       "animatedUrl": "assets/qq/388/apng/388.png",
       "isHide": true,
       "packageId": "0",
@@ -5763,7 +5756,7 @@
       "shortCodes": [
         "10389"
       ],
-      "staticUrl": "assets/qq/389/png/389_0.png",
+      "staticUrl": "assets/qq/389/png/389.png",
       "animatedUrl": "assets/qq/389/apng/389.png",
       "isHide": true,
       "packageId": "0",
@@ -5782,7 +5775,7 @@
       "shortCodes": [
         "10390"
       ],
-      "staticUrl": "assets/qq/390/png/390_0.png",
+      "staticUrl": "assets/qq/390/png/390.png",
       "animatedUrl": "assets/qq/390/apng/390.png",
       "isHide": true,
       "packageId": "0",
@@ -5801,7 +5794,7 @@
       "shortCodes": [
         "10391"
       ],
-      "staticUrl": "assets/qq/391/png/391_0.png",
+      "staticUrl": "assets/qq/391/png/391.png",
       "animatedUrl": "assets/qq/391/apng/391.png",
       "isHide": true,
       "packageId": "0",
@@ -5820,7 +5813,7 @@
       "shortCodes": [
         "10392"
       ],
-      "staticUrl": "assets/qq/392/png/392_0.png",
+      "staticUrl": "assets/qq/392/png/392.png",
       "animatedUrl": "assets/qq/392/apng/392.png",
       "isHide": false,
       "packageId": "0",
@@ -5839,7 +5832,7 @@
       "shortCodes": [
         "10393"
       ],
-      "staticUrl": "assets/qq/393/png/393_0.png",
+      "staticUrl": "assets/qq/393/png/393.png",
       "animatedUrl": "assets/qq/393/apng/393.png",
       "isHide": true,
       "packageId": "0",
@@ -5858,7 +5851,7 @@
       "shortCodes": [
         "10394"
       ],
-      "staticUrl": "assets/qq/394/png/394_0.png",
+      "staticUrl": "assets/qq/394/png/394.png",
       "animatedUrl": "assets/qq/394/apng/394.png",
       "isHide": true,
       "packageId": "0",
@@ -5877,7 +5870,7 @@
       "shortCodes": [
         "10395"
       ],
-      "staticUrl": "assets/qq/395/png/395_0.png",
+      "staticUrl": "assets/qq/395/png/395.png",
       "animatedUrl": "assets/qq/395/apng/395.png",
       "isHide": false,
       "packageId": "0",
@@ -5896,7 +5889,7 @@
       "shortCodes": [
         "10396"
       ],
-      "staticUrl": "assets/qq/396/png/396_0.png",
+      "staticUrl": "assets/qq/396/png/396.png",
       "animatedUrl": "assets/qq/396/apng/396.png",
       "isHide": true,
       "packageId": "0",
@@ -5915,7 +5908,7 @@
       "shortCodes": [
         "10397"
       ],
-      "staticUrl": "assets/qq/397/png/397_0.png",
+      "staticUrl": "assets/qq/397/png/397.png",
       "animatedUrl": "assets/qq/397/apng/397.png",
       "isHide": true,
       "packageId": "0",
@@ -5934,7 +5927,7 @@
       "shortCodes": [
         "10398"
       ],
-      "staticUrl": "assets/qq/398/png/398_0.png",
+      "staticUrl": "assets/qq/398/png/398.png",
       "animatedUrl": "assets/qq/398/apng/398.png",
       "isHide": true,
       "packageId": "0",
@@ -5953,7 +5946,7 @@
       "shortCodes": [
         "10399"
       ],
-      "staticUrl": "assets/qq/399/png/399_0.png",
+      "staticUrl": "assets/qq/399/png/399.png",
       "animatedUrl": "assets/qq/399/apng/399.png",
       "isHide": true,
       "packageId": "0",
@@ -5972,7 +5965,7 @@
       "shortCodes": [
         "10400"
       ],
-      "staticUrl": "assets/qq/400/png/400_0.png",
+      "staticUrl": "assets/qq/400/png/400.png",
       "animatedUrl": "assets/qq/400/apng/400.png",
       "isHide": true,
       "packageId": "0",
@@ -5991,7 +5984,7 @@
       "shortCodes": [
         "10401"
       ],
-      "staticUrl": "assets/qq/401/png/401_0.png",
+      "staticUrl": "assets/qq/401/png/401.png",
       "animatedUrl": "assets/qq/401/apng/401.png",
       "isHide": true,
       "packageId": "0",
@@ -6010,7 +6003,7 @@
       "shortCodes": [
         "10402"
       ],
-      "staticUrl": "assets/qq/402/png/402_0.png",
+      "staticUrl": "assets/qq/402/png/402.png",
       "animatedUrl": "assets/qq/402/apng/402.png",
       "isHide": true,
       "packageId": "0",
@@ -6029,7 +6022,7 @@
       "shortCodes": [
         "10403"
       ],
-      "staticUrl": "assets/qq/403/png/403_0.png",
+      "staticUrl": "assets/qq/403/png/403.png",
       "animatedUrl": "assets/qq/403/apng/403.png",
       "isHide": true,
       "packageId": "0",
@@ -6048,7 +6041,7 @@
       "shortCodes": [
         "10404"
       ],
-      "staticUrl": "assets/qq/404/png/404_0.png",
+      "staticUrl": "assets/qq/404/png/404.png",
       "animatedUrl": "assets/qq/404/apng/404.png",
       "isHide": true,
       "packageId": "0",
@@ -6067,7 +6060,7 @@
       "shortCodes": [
         "10405"
       ],
-      "staticUrl": "assets/qq/405/png/405_0.png",
+      "staticUrl": "assets/qq/405/png/405.png",
       "animatedUrl": "assets/qq/405/apng/405.png",
       "isHide": true,
       "packageId": "0",
@@ -6086,7 +6079,7 @@
       "shortCodes": [
         "10406"
       ],
-      "staticUrl": "assets/qq/406/png/406_0.png",
+      "staticUrl": "assets/qq/406/png/406.png",
       "animatedUrl": "assets/qq/406/apng/406.png",
       "isHide": true,
       "packageId": "0",
@@ -6105,7 +6098,7 @@
       "shortCodes": [
         "10407"
       ],
-      "staticUrl": "assets/qq/407/png/407_0.png",
+      "staticUrl": "assets/qq/407/png/407.png",
       "animatedUrl": "assets/qq/407/apng/407.png",
       "isHide": true,
       "packageId": "0",
@@ -6124,7 +6117,7 @@
       "shortCodes": [
         "10408"
       ],
-      "staticUrl": "assets/qq/408/png/408_0.png",
+      "staticUrl": "assets/qq/408/png/408.png",
       "animatedUrl": "assets/qq/408/apng/408.png",
       "isHide": true,
       "packageId": "0",
@@ -6143,7 +6136,7 @@
       "shortCodes": [
         "10409"
       ],
-      "staticUrl": "assets/qq/409/png/409_0.png",
+      "staticUrl": "assets/qq/409/png/409.png",
       "animatedUrl": "assets/qq/409/apng/409.png",
       "isHide": true,
       "packageId": "0",
@@ -6162,7 +6155,7 @@
       "shortCodes": [
         "10410"
       ],
-      "staticUrl": "assets/qq/410/png/410_0.png",
+      "staticUrl": "assets/qq/410/png/410.png",
       "animatedUrl": "assets/qq/410/apng/410.png",
       "isHide": true,
       "packageId": "0",
@@ -6181,7 +6174,7 @@
       "shortCodes": [
         "10411"
       ],
-      "staticUrl": "assets/qq/411/png/411_0.png",
+      "staticUrl": "assets/qq/411/png/411.png",
       "animatedUrl": "assets/qq/411/apng/411.png",
       "isHide": true,
       "packageId": "0",
@@ -6200,7 +6193,7 @@
       "shortCodes": [
         "10412"
       ],
-      "staticUrl": "assets/qq/412/png/412_0.png",
+      "staticUrl": "assets/qq/412/png/412.png",
       "animatedUrl": "assets/qq/412/apng/412.png",
       "isHide": true,
       "packageId": "0",
@@ -6219,7 +6212,7 @@
       "shortCodes": [
         "10413"
       ],
-      "staticUrl": "assets/qq/413/png/413_0.png",
+      "staticUrl": "assets/qq/413/png/413.png",
       "animatedUrl": "assets/qq/413/apng/413.png",
       "isHide": true,
       "packageId": "0",
@@ -6238,7 +6231,7 @@
       "shortCodes": [
         "10415"
       ],
-      "staticUrl": "assets/qq/415/png/415_0.png",
+      "staticUrl": "assets/qq/415/png/415.png",
       "animatedUrl": "assets/qq/415/apng/415.png",
       "isHide": false,
       "packageId": "0",
@@ -6257,7 +6250,7 @@
       "shortCodes": [
         "10416"
       ],
-      "staticUrl": "assets/qq/416/png/416_0.png",
+      "staticUrl": "assets/qq/416/png/416.png",
       "animatedUrl": "assets/qq/416/apng/416.png",
       "isHide": true,
       "packageId": "0",
@@ -6276,7 +6269,7 @@
       "shortCodes": [
         "10417"
       ],
-      "staticUrl": "assets/qq/417/png/417_0.png",
+      "staticUrl": "assets/qq/417/png/417.png",
       "animatedUrl": "assets/qq/417/apng/417.png",
       "isHide": true,
       "packageId": "0",
@@ -6287,531 +6280,6 @@
         "emojiType": 3,
         "animationWidth": 192,
         "animationHeigh": 96
-      }
-    },
-    {
-      "id": "419",
-      "description": "419",
-      "shortCodes": [],
-      "staticUrl": "assets/qq/419/png/419_0.png",
-      "animatedUrl": "assets/qq/419/apng/419.png",
-      "isHide": false,
-      "packageId": "0",
-      "meta": {
-        "qzoneCode": "",
-        "emojiType": 0,
-        "animationWidth": 0,
-        "animationHeigh": 0
-      }
-    },
-    {
-      "id": "420",
-      "description": "420",
-      "shortCodes": [],
-      "staticUrl": "assets/qq/420/png/420_0.png",
-      "animatedUrl": "assets/qq/420/apng/420.png",
-      "isHide": false,
-      "packageId": "0",
-      "meta": {
-        "qzoneCode": "",
-        "emojiType": 0,
-        "animationWidth": 0,
-        "animationHeigh": 0
-      }
-    },
-    {
-      "id": "421",
-      "description": "421",
-      "shortCodes": [],
-      "staticUrl": "assets/qq/421/png/421_0.png",
-      "animatedUrl": "assets/qq/421/apng/421.png",
-      "isHide": false,
-      "packageId": "0",
-      "meta": {
-        "qzoneCode": "",
-        "emojiType": 0,
-        "animationWidth": 0,
-        "animationHeigh": 0
-      }
-    },
-    {
-      "id": "422",
-      "description": "422",
-      "shortCodes": [],
-      "staticUrl": "assets/qq/422/png/422_0.png",
-      "animatedUrl": "assets/qq/422/apng/422.png",
-      "isHide": false,
-      "packageId": "0",
-      "meta": {
-        "qzoneCode": "",
-        "emojiType": 0,
-        "animationWidth": 0,
-        "animationHeigh": 0
-      }
-    },
-    {
-      "id": "423",
-      "description": "423",
-      "shortCodes": [],
-      "staticUrl": "assets/qq/423/png/423_0.png",
-      "animatedUrl": "assets/qq/423/apng/423.png",
-      "isHide": false,
-      "packageId": "0",
-      "meta": {
-        "qzoneCode": "",
-        "emojiType": 0,
-        "animationWidth": 0,
-        "animationHeigh": 0
-      }
-    },
-    {
-      "id": "424",
-      "description": "424",
-      "shortCodes": [],
-      "staticUrl": "assets/qq/424/png/424_0.png",
-      "animatedUrl": "assets/qq/424/apng/424.png",
-      "isHide": false,
-      "packageId": "0",
-      "meta": {
-        "qzoneCode": "",
-        "emojiType": 0,
-        "animationWidth": 0,
-        "animationHeigh": 0
-      }
-    },
-    {
-      "id": "425",
-      "description": "425",
-      "shortCodes": [],
-      "staticUrl": "assets/qq/425/png/425_0.png",
-      "animatedUrl": "assets/qq/425/apng/425.png",
-      "isHide": false,
-      "packageId": "0",
-      "meta": {
-        "qzoneCode": "",
-        "emojiType": 0,
-        "animationWidth": 0,
-        "animationHeigh": 0
-      }
-    },
-    {
-      "id": "426",
-      "description": "426",
-      "shortCodes": [],
-      "staticUrl": "assets/qq/426/png/426_0.png",
-      "animatedUrl": "assets/qq/426/apng/426.png",
-      "isHide": false,
-      "packageId": "0",
-      "meta": {
-        "qzoneCode": "",
-        "emojiType": 0,
-        "animationWidth": 0,
-        "animationHeigh": 0
-      }
-    },
-    {
-      "id": "427",
-      "description": "427",
-      "shortCodes": [],
-      "staticUrl": "assets/qq/427/png/427_0.png",
-      "animatedUrl": "assets/qq/427/apng/427.png",
-      "isHide": false,
-      "packageId": "0",
-      "meta": {
-        "qzoneCode": "",
-        "emojiType": 0,
-        "animationWidth": 0,
-        "animationHeigh": 0
-      }
-    },
-    {
-      "id": "428",
-      "description": "428",
-      "shortCodes": [],
-      "staticUrl": "assets/qq/428/png/428.png",
-      "animatedUrl": "assets/qq/428/apng/428.png",
-      "isHide": false,
-      "packageId": "0",
-      "meta": {
-        "qzoneCode": "",
-        "emojiType": 0,
-        "animationWidth": 0,
-        "animationHeigh": 0
-      }
-    },
-    {
-      "id": "429",
-      "description": "429",
-      "shortCodes": [],
-      "staticUrl": "assets/qq/429/png/429_0.png",
-      "animatedUrl": "assets/qq/429/apng/429.png",
-      "isHide": false,
-      "packageId": "0",
-      "meta": {
-        "qzoneCode": "",
-        "emojiType": 0,
-        "animationWidth": 0,
-        "animationHeigh": 0
-      }
-    },
-    {
-      "id": "430",
-      "description": "430",
-      "shortCodes": [],
-      "staticUrl": "assets/qq/430/png/430_0.png",
-      "animatedUrl": "assets/qq/430/apng/430.png",
-      "isHide": false,
-      "packageId": "0",
-      "meta": {
-        "qzoneCode": "",
-        "emojiType": 0,
-        "animationWidth": 0,
-        "animationHeigh": 0
-      }
-    },
-    {
-      "id": "431",
-      "description": "431",
-      "shortCodes": [],
-      "staticUrl": "assets/qq/431/png/431_0.png",
-      "animatedUrl": "assets/qq/431/apng/431.png",
-      "isHide": false,
-      "packageId": "0",
-      "meta": {
-        "qzoneCode": "",
-        "emojiType": 0,
-        "animationWidth": 0,
-        "animationHeigh": 0
-      }
-    },
-    {
-      "id": "432",
-      "description": "432",
-      "shortCodes": [],
-      "staticUrl": "assets/qq/432/png/432_0.png",
-      "animatedUrl": "assets/qq/432/apng/432.png",
-      "isHide": false,
-      "packageId": "0",
-      "meta": {
-        "qzoneCode": "",
-        "emojiType": 0,
-        "animationWidth": 0,
-        "animationHeigh": 0
-      }
-    },
-    {
-      "id": "450",
-      "description": "450",
-      "shortCodes": [],
-      "staticUrl": "assets/qq/450/png/450_0.png",
-      "animatedUrl": "assets/qq/450/apng/450.png",
-      "isHide": false,
-      "packageId": "0",
-      "meta": {
-        "qzoneCode": "",
-        "emojiType": 0,
-        "animationWidth": 0,
-        "animationHeigh": 0
-      }
-    },
-    {
-      "id": "451",
-      "description": "451",
-      "shortCodes": [],
-      "staticUrl": "assets/qq/451/png/451_0.png",
-      "animatedUrl": "assets/qq/451/apng/451.png",
-      "isHide": false,
-      "packageId": "0",
-      "meta": {
-        "qzoneCode": "",
-        "emojiType": 0,
-        "animationWidth": 0,
-        "animationHeigh": 0
-      }
-    },
-    {
-      "id": "452",
-      "description": "452",
-      "shortCodes": [],
-      "staticUrl": "assets/qq/452/png/452_0.png",
-      "animatedUrl": "assets/qq/452/apng/452.png",
-      "isHide": false,
-      "packageId": "0",
-      "meta": {
-        "qzoneCode": "",
-        "emojiType": 0,
-        "animationWidth": 0,
-        "animationHeigh": 0
-      }
-    },
-    {
-      "id": "453",
-      "description": "453",
-      "shortCodes": [],
-      "staticUrl": "assets/qq/453/png/453_0.png",
-      "animatedUrl": "assets/qq/453/apng/453.png",
-      "isHide": false,
-      "packageId": "0",
-      "meta": {
-        "qzoneCode": "",
-        "emojiType": 0,
-        "animationWidth": 0,
-        "animationHeigh": 0
-      }
-    },
-    {
-      "id": "454",
-      "description": "454",
-      "shortCodes": [],
-      "staticUrl": "assets/qq/454/png/454_0.png",
-      "animatedUrl": "assets/qq/454/apng/454.png",
-      "isHide": false,
-      "packageId": "0",
-      "meta": {
-        "qzoneCode": "",
-        "emojiType": 0,
-        "animationWidth": 0,
-        "animationHeigh": 0
-      }
-    },
-    {
-      "id": "455",
-      "description": "455",
-      "shortCodes": [],
-      "staticUrl": "assets/qq/455/png/455_0.png",
-      "animatedUrl": "assets/qq/455/apng/455.png",
-      "isHide": false,
-      "packageId": "0",
-      "meta": {
-        "qzoneCode": "",
-        "emojiType": 0,
-        "animationWidth": 0,
-        "animationHeigh": 0
-      }
-    },
-    {
-      "id": "456",
-      "description": "456",
-      "shortCodes": [],
-      "staticUrl": "assets/qq/456/png/456_0.png",
-      "animatedUrl": "assets/qq/456/apng/456.png",
-      "isHide": false,
-      "packageId": "0",
-      "meta": {
-        "qzoneCode": "",
-        "emojiType": 0,
-        "animationWidth": 0,
-        "animationHeigh": 0
-      }
-    },
-    {
-      "id": "457",
-      "description": "457",
-      "shortCodes": [],
-      "staticUrl": "assets/qq/457/png/457_0.png",
-      "animatedUrl": "assets/qq/457/apng/457.png",
-      "isHide": false,
-      "packageId": "0",
-      "meta": {
-        "qzoneCode": "",
-        "emojiType": 0,
-        "animationWidth": 0,
-        "animationHeigh": 0
-      }
-    },
-    {
-      "id": "458",
-      "description": "458",
-      "shortCodes": [],
-      "staticUrl": "assets/qq/458/png/458_0.png",
-      "animatedUrl": "assets/qq/458/apng/458.png",
-      "isHide": false,
-      "packageId": "0",
-      "meta": {
-        "qzoneCode": "",
-        "emojiType": 0,
-        "animationWidth": 0,
-        "animationHeigh": 0
-      }
-    },
-    {
-      "id": "459",
-      "description": "459",
-      "shortCodes": [],
-      "staticUrl": "assets/qq/459/png/459_0.png",
-      "animatedUrl": "assets/qq/459/apng/459.png",
-      "isHide": false,
-      "packageId": "0",
-      "meta": {
-        "qzoneCode": "",
-        "emojiType": 0,
-        "animationWidth": 0,
-        "animationHeigh": 0
-      }
-    },
-    {
-      "id": "460",
-      "description": "460",
-      "shortCodes": [],
-      "staticUrl": "assets/qq/460/png/460_0.png",
-      "animatedUrl": "assets/qq/460/apng/460.png",
-      "isHide": false,
-      "packageId": "0",
-      "meta": {
-        "qzoneCode": "",
-        "emojiType": 0,
-        "animationWidth": 0,
-        "animationHeigh": 0
-      }
-    },
-    {
-      "id": "461",
-      "description": "461",
-      "shortCodes": [],
-      "staticUrl": "assets/qq/461/png/461_0.png",
-      "animatedUrl": "assets/qq/461/apng/461.png",
-      "isHide": false,
-      "packageId": "0",
-      "meta": {
-        "qzoneCode": "",
-        "emojiType": 0,
-        "animationWidth": 0,
-        "animationHeigh": 0
-      }
-    },
-    {
-      "id": "462",
-      "description": "462",
-      "shortCodes": [],
-      "staticUrl": "assets/qq/462/png/462_0.png",
-      "animatedUrl": "assets/qq/462/apng/462.png",
-      "isHide": false,
-      "packageId": "0",
-      "meta": {
-        "qzoneCode": "",
-        "emojiType": 0,
-        "animationWidth": 0,
-        "animationHeigh": 0
-      }
-    },
-    {
-      "id": "463",
-      "description": "463",
-      "shortCodes": [],
-      "staticUrl": "assets/qq/463/png/463_0.png",
-      "animatedUrl": "assets/qq/463/apng/463.png",
-      "isHide": false,
-      "packageId": "0",
-      "meta": {
-        "qzoneCode": "",
-        "emojiType": 0,
-        "animationWidth": 0,
-        "animationHeigh": 0
-      }
-    },
-    {
-      "id": "464",
-      "description": "464",
-      "shortCodes": [],
-      "staticUrl": "assets/qq/464/png/464_0.png",
-      "animatedUrl": "assets/qq/464/apng/464.png",
-      "isHide": false,
-      "packageId": "0",
-      "meta": {
-        "qzoneCode": "",
-        "emojiType": 0,
-        "animationWidth": 0,
-        "animationHeigh": 0
-      }
-    },
-    {
-      "id": "465",
-      "description": "465",
-      "shortCodes": [],
-      "staticUrl": "assets/qq/465/png/465_0.png",
-      "animatedUrl": "assets/qq/465/apng/465.png",
-      "isHide": false,
-      "packageId": "0",
-      "meta": {
-        "qzoneCode": "",
-        "emojiType": 0,
-        "animationWidth": 0,
-        "animationHeigh": 0
-      }
-    },
-    {
-      "id": "466",
-      "description": "466",
-      "shortCodes": [],
-      "staticUrl": "assets/qq/466/png/466_0.png",
-      "animatedUrl": "assets/qq/466/apng/466.png",
-      "isHide": false,
-      "packageId": "0",
-      "meta": {
-        "qzoneCode": "",
-        "emojiType": 0,
-        "animationWidth": 0,
-        "animationHeigh": 0
-      }
-    },
-    {
-      "id": "467",
-      "description": "467",
-      "shortCodes": [],
-      "staticUrl": "assets/qq/467/png/467_0.png",
-      "animatedUrl": "assets/qq/467/apng/467.png",
-      "isHide": false,
-      "packageId": "0",
-      "meta": {
-        "qzoneCode": "",
-        "emojiType": 0,
-        "animationWidth": 0,
-        "animationHeigh": 0
-      }
-    },
-    {
-      "id": "468",
-      "description": "468",
-      "shortCodes": [],
-      "staticUrl": "assets/qq/468/png/468_0.png",
-      "animatedUrl": "assets/qq/468/apng/468.png",
-      "isHide": false,
-      "packageId": "0",
-      "meta": {
-        "qzoneCode": "",
-        "emojiType": 0,
-        "animationWidth": 0,
-        "animationHeigh": 0
-      }
-    },
-    {
-      "id": "469",
-      "description": "469",
-      "shortCodes": [],
-      "staticUrl": "assets/qq/469/png/469_0.png",
-      "animatedUrl": "assets/qq/469/apng/469.png",
-      "isHide": false,
-      "packageId": "0",
-      "meta": {
-        "qzoneCode": "",
-        "emojiType": 0,
-        "animationWidth": 0,
-        "animationHeigh": 0
-      }
-    },
-    {
-      "id": "470",
-      "description": "470",
-      "shortCodes": [],
-      "staticUrl": "assets/qq/470/png/470.png",
-      "animatedUrl": "assets/qq/470/apng/470.png",
-      "isHide": false,
-      "packageId": "0",
-      "meta": {
-        "qzoneCode": "",
-        "emojiType": 0,
-        "animationWidth": 0,
-        "animationHeigh": 0
       }
     },
     {
@@ -6836,7 +6304,7 @@
       "shortCodes": [
         "401328"
       ],
-      "staticUrl": "assets/qq/☀/png/☀.png",
+      "staticUrl": "",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -6900,7 +6368,7 @@
       "shortCodes": [
         "401262"
       ],
-      "staticUrl": "assets/qq/☕/png/☕.png",
+      "staticUrl": "",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -6932,7 +6400,7 @@
       "shortCodes": [
         "401181"
       ],
-      "staticUrl": "assets/qq/☺/png/☺.png",
+      "staticUrl": "",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -7076,7 +6544,7 @@
       "shortCodes": [
         "401137"
       ],
-      "staticUrl": "assets/qq/✨/png/✨.png",
+      "staticUrl": "",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -7108,7 +6576,7 @@
       "shortCodes": [
         "401145"
       ],
-      "staticUrl": "assets/qq/❔/png/❔.png",
+      "staticUrl": "",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -7236,7 +6704,7 @@
       "shortCodes": [
         "400116"
       ],
-      "staticUrl": "assets/qq/🌹/png/🌹.png",
+      "staticUrl": "",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -7252,7 +6720,7 @@
       "shortCodes": [
         "400132"
       ],
-      "staticUrl": "assets/qq/🍉/png/🍉.png",
+      "staticUrl": "",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -7284,7 +6752,7 @@
       "shortCodes": [
         "400137"
       ],
-      "staticUrl": "assets/qq/🍎/png/🍎.png",
+      "staticUrl": "",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -7300,7 +6768,7 @@
       "shortCodes": [
         "400142"
       ],
-      "staticUrl": "assets/qq/🍓/png/🍓.png",
+      "staticUrl": "",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -7364,7 +6832,7 @@
       "shortCodes": [
         "400151"
       ],
-      "staticUrl": "assets/qq/🍜/png/🍜.png",
+      "staticUrl": "",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -7396,7 +6864,7 @@
       "shortCodes": [
         "400153"
       ],
-      "staticUrl": "assets/qq/🍞/png/🍞.png",
+      "staticUrl": "",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -7444,7 +6912,7 @@
       "shortCodes": [
         "400162"
       ],
-      "staticUrl": "assets/qq/🍧/png/🍧.png",
+      "staticUrl": "",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -7492,7 +6960,7 @@
       "shortCodes": [
         "400181"
       ],
-      "staticUrl": "assets/qq/🍺/png/🍺.png",
+      "staticUrl": "",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -7508,7 +6976,7 @@
       "shortCodes": [
         "400182"
       ],
-      "staticUrl": "assets/qq/🍻/png/🍻.png",
+      "staticUrl": "",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -7588,7 +7056,7 @@
       "shortCodes": [
         "400198"
       ],
-      "staticUrl": "assets/qq/🎉/png/🎉.png",
+      "staticUrl": "",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -7764,7 +7232,7 @@
       "shortCodes": [
         "400281"
       ],
-      "staticUrl": "assets/qq/🏪/png/🏪.png",
+      "staticUrl": "",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -7780,7 +7248,7 @@
       "shortCodes": [
         "400302"
       ],
-      "staticUrl": "assets/qq/🐎/png/🐎.png",
+      "staticUrl": "",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -7796,7 +7264,7 @@
       "shortCodes": [
         "400308"
       ],
-      "staticUrl": "assets/qq/🐔/png/🐔.png",
+      "staticUrl": "",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -7844,7 +7312,7 @@
       "shortCodes": [
         "400315"
       ],
-      "staticUrl": "assets/qq/🐛/png/🐛.png",
+      "staticUrl": "",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -7940,7 +7408,7 @@
       "shortCodes": [
         "400334"
       ],
-      "staticUrl": "assets/qq/🐮/png/🐮.png",
+      "staticUrl": "",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -7972,7 +7440,7 @@
       "shortCodes": [
         "400339"
       ],
-      "staticUrl": "assets/qq/🐳/png/🐳.png",
+      "staticUrl": "",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -7988,7 +7456,7 @@
       "shortCodes": [
         "400341"
       ],
-      "staticUrl": "assets/qq/🐵/png/🐵.png",
+      "staticUrl": "",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -8004,7 +7472,7 @@
       "shortCodes": [
         "400342"
       ],
-      "staticUrl": "assets/qq/🐶/png/🐶.png",
+      "staticUrl": "",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -8020,7 +7488,7 @@
       "shortCodes": [
         "400343"
       ],
-      "staticUrl": "assets/qq/🐷/png/🐷.png",
+      "staticUrl": "",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -8036,7 +7504,7 @@
       "shortCodes": [
         "400344"
       ],
-      "staticUrl": "assets/qq/🐸/png/🐸.png",
+      "staticUrl": "",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -8052,7 +7520,7 @@
       "shortCodes": [
         "400351"
       ],
-      "staticUrl": "assets/qq/👀/png/👀.png",
+      "staticUrl": "",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -8116,7 +7584,7 @@
       "shortCodes": [
         "400366"
       ],
-      "staticUrl": "assets/qq/👆/png/👆.png",
+      "staticUrl": "",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -8180,7 +7648,7 @@
       "shortCodes": [
         "400390"
       ],
-      "staticUrl": "assets/qq/👊/png/👊.png",
+      "staticUrl": "",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -8196,7 +7664,7 @@
       "shortCodes": [
         "400402"
       ],
-      "staticUrl": "assets/qq/👌/png/👌.png",
+      "staticUrl": "",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -8212,7 +7680,7 @@
       "shortCodes": [
         "400408"
       ],
-      "staticUrl": "assets/qq/👍/png/👍.png",
+      "staticUrl": "",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -8228,7 +7696,7 @@
       "shortCodes": [
         "400414"
       ],
-      "staticUrl": "assets/qq/👎/png/👎.png",
+      "staticUrl": "",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -8244,7 +7712,7 @@
       "shortCodes": [
         "400420"
       ],
-      "staticUrl": "assets/qq/👏/png/👏.png",
+      "staticUrl": "",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -8388,7 +7856,7 @@
       "shortCodes": [
         "400449"
       ],
-      "staticUrl": "assets/qq/👢/png/👢.png",
+      "staticUrl": "",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -8420,7 +7888,7 @@
       "shortCodes": [
         "400453"
       ],
-      "staticUrl": "assets/qq/👦/png/👦.png",
+      "staticUrl": "",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -8436,7 +7904,7 @@
       "shortCodes": [
         "400459"
       ],
-      "staticUrl": "assets/qq/👧/png/👧.png",
+      "staticUrl": "",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -8484,7 +7952,7 @@
       "shortCodes": [
         "400562"
       ],
-      "staticUrl": "assets/qq/👻/png/👻.png",
+      "staticUrl": "",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -8564,7 +8032,7 @@
       "shortCodes": [
         "400611"
       ],
-      "staticUrl": "assets/qq/💉/png/💉.png",
+      "staticUrl": "",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -8612,7 +8080,7 @@
       "shortCodes": [
         "400621"
       ],
-      "staticUrl": "assets/qq/💓/png/💓.png",
+      "staticUrl": "",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -8628,7 +8096,7 @@
       "shortCodes": [
         "400631"
       ],
-      "staticUrl": "assets/qq/💝/png/💝.png",
+      "staticUrl": "",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -8644,7 +8112,7 @@
       "shortCodes": [
         "400637"
       ],
-      "staticUrl": "assets/qq/💣/png/💣.png",
+      "staticUrl": "",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -8660,7 +8128,7 @@
       "shortCodes": [
         "400638"
       ],
-      "staticUrl": "assets/qq/💤/png/💤.png",
+      "staticUrl": "",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -8676,7 +8144,7 @@
       "shortCodes": [
         "400640"
       ],
-      "staticUrl": "assets/qq/💦/png/💦.png",
+      "staticUrl": "",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -8692,7 +8160,7 @@
       "shortCodes": [
         "400642"
       ],
-      "staticUrl": "assets/qq/💨/png/💨.png",
+      "staticUrl": "",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -8708,7 +8176,7 @@
       "shortCodes": [
         "400643"
       ],
-      "staticUrl": "assets/qq/💩/png/💩.png",
+      "staticUrl": "",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -8724,7 +8192,7 @@
       "shortCodes": [
         "400644"
       ],
-      "staticUrl": "assets/qq/💪/png/💪.png",
+      "staticUrl": "",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -8804,7 +8272,7 @@
       "shortCodes": [
         "400714"
       ],
-      "staticUrl": "assets/qq/📫/png/📫.png",
+      "staticUrl": "",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -8900,7 +8368,7 @@
       "shortCodes": [
         "400768"
       ],
-      "staticUrl": "assets/qq/🔥/png/🔥.png",
+      "staticUrl": "",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -8916,7 +8384,7 @@
       "shortCodes": [
         "400774"
       ],
-      "staticUrl": "assets/qq/🔫/png/🔫.png",
+      "staticUrl": "",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -8932,7 +8400,7 @@
       "shortCodes": [
         "400823"
       ],
-      "staticUrl": "assets/qq/😁/png/😁.png",
+      "staticUrl": "",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -8948,7 +8416,7 @@
       "shortCodes": [
         "400824"
       ],
-      "staticUrl": "assets/qq/😂/png/😂.png",
+      "staticUrl": "",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -8964,7 +8432,7 @@
       "shortCodes": [
         "400826"
       ],
-      "staticUrl": "assets/qq/😄/png/😄.png",
+      "staticUrl": "",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -8996,7 +8464,7 @@
       "shortCodes": [
         "400832"
       ],
-      "staticUrl": "assets/qq/😊/png/😊.png",
+      "staticUrl": "",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -9012,7 +8480,7 @@
       "shortCodes": [
         "400834"
       ],
-      "staticUrl": "assets/qq/😌/png/😌.png",
+      "staticUrl": "",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -9028,7 +8496,7 @@
       "shortCodes": [
         "400835"
       ],
-      "staticUrl": "assets/qq/😍/png/😍.png",
+      "staticUrl": "",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -9044,7 +8512,7 @@
       "shortCodes": [
         "400837"
       ],
-      "staticUrl": "assets/qq/😏/png/😏.png",
+      "staticUrl": "",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -9060,7 +8528,7 @@
       "shortCodes": [
         "400840"
       ],
-      "staticUrl": "assets/qq/😒/png/😒.png",
+      "staticUrl": "",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -9076,7 +8544,7 @@
       "shortCodes": [
         "400841"
       ],
-      "staticUrl": "assets/qq/😓/png/😓.png",
+      "staticUrl": "",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -9092,7 +8560,7 @@
       "shortCodes": [
         "400842"
       ],
-      "staticUrl": "assets/qq/😔/png/😔.png",
+      "staticUrl": "",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -9108,7 +8576,7 @@
       "shortCodes": [
         "400846"
       ],
-      "staticUrl": "assets/qq/😘/png/😘.png",
+      "staticUrl": "",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -9124,7 +8592,7 @@
       "shortCodes": [
         "400848"
       ],
-      "staticUrl": "assets/qq/😚/png/😚.png",
+      "staticUrl": "",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -9140,7 +8608,7 @@
       "shortCodes": [
         "400850"
       ],
-      "staticUrl": "assets/qq/😜/png/😜.png",
+      "staticUrl": "",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -9156,7 +8624,7 @@
       "shortCodes": [
         "400851"
       ],
-      "staticUrl": "assets/qq/😝/png/😝.png",
+      "staticUrl": "",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -9172,7 +8640,7 @@
       "shortCodes": [
         "400867"
       ],
-      "staticUrl": "assets/qq/😭/png/😭.png",
+      "staticUrl": "",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -9188,7 +8656,7 @@
       "shortCodes": [
         "400870"
       ],
-      "staticUrl": "assets/qq/😰/png/😰.png",
+      "staticUrl": "",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -9204,7 +8672,7 @@
       "shortCodes": [
         "400871"
       ],
-      "staticUrl": "assets/qq/😱/png/😱.png",
+      "staticUrl": "",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -9220,7 +8688,7 @@
       "shortCodes": [
         "400873"
       ],
-      "staticUrl": "assets/qq/😳/png/😳.png",
+      "staticUrl": "",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -9236,7 +8704,7 @@
       "shortCodes": [
         "400396"
       ],
-      "staticUrl": "assets/qq/🙏/png/🙏.png",
+      "staticUrl": "",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -9364,7 +8832,7 @@
       "shortCodes": [
         "400987"
       ],
-      "staticUrl": "assets/qq/🚬/png/🚬.png",
+      "staticUrl": "",
       "isHide": false,
       "packageId": "0",
       "meta": {

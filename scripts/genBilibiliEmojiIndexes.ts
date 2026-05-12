@@ -9,8 +9,8 @@ import type { BilibiliEmojiItem } from '../docs/types/BilibiliEmoji'
  * 使用批量 ID 扫描的公开 API（无需登录）：
  * https://api.bilibili.com/x/emote/package?business=reply&ids=1,2,...
  *
- * 下载到 public/assets/bilibili_emoji/{packageId}/{emojiId}.{ext}
- * 生成 public/assets/bilibili_emoji/_index.json 索引文件
+ * 下载到 public/assets/bilibili/{packageId}/{emojiId}.{ext}
+ * 生成 public/assets/bilibili/_index.json 索引文件
  */
 
 const ROOT_DIR = resolve(import.meta.dirname, '..')
