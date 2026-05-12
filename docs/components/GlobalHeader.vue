@@ -26,7 +26,7 @@ header#global-header
         ) WeChat
       .nav-item
         a(
-          href='https://github.com/koishijs/QFace'
+          href='https://github.com/racns/QFace'
           rel='noopener noreferrer'
           target='_blank'
         )

@@ -12,46 +12,42 @@ footer#global-footer
         .link-group
           h4 项目
           a(
-            href='https://github.com/koishijs/QFace'
+            href='https://github.com/racns/QFace'
             rel='noopener noreferrer'
             target='_blank'
           ) GitHub
           a(
-            href='https://koishi.chat'
+            href='https://inis.cn'
             rel='noopener noreferrer'
             target='_blank'
-          ) Koishi
+          ) Inis
         .link-group
           h4 资源
-          RouterLink(to='/qqnt') QQ Emoji
-          RouterLink(to='/wechat') WeChat Emoji
+          RouterLink(to='/bilibili') BiliBili
+          RouterLink(to='/qqnt') QQ
+          RouterLink(to='/wechat') WeChat
         .link-group
           h4 支持
           a(
-            href='https://github.com/koishijs/QFace/issues'
+            href='https://github.com/racns/QFace/issues'
             rel='noopener noreferrer'
             target='_blank'
           ) 问题反馈
-          a(
-            href='https://github.com/koishijs/QFace/discussions'
-            rel='noopener noreferrer'
-            target='_blank'
-          ) 讨论区
     .footer-bottom
       .footer-copyright
-        p &copy; 2024 Koishi. 由
+        p &copy; 2026 Inis. 由
           |
           a(
-            href='https://github.com/koishijs'
+            href='https://inis.cn'
             rel='noopener noreferrer'
             target='_blank'
-          ) Koishi
+          ) Inis
           |
           | 团队维护
-        p.disclaimer 所有表情资源版权归腾讯公司所有
+        p.disclaimer 所有表情资源版权归腾讯与哔哩哔哩所有
       .footer-social
         a.social-link(
-          href='https://github.com/koishijs'
+          href='https://github.com/racns/QFace'
           rel='noopener noreferrer'
           target='_blank'
         )
