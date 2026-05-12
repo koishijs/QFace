@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "214",
   "name": "FPX凤仔",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/4f650dd70b90dddf8f9bf3cbf498502be519fe87.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[FPX凤仔_nice]"
       ],
-      "staticUrl": "assets/bilibili_emoji/214/3758.png",
+      "staticUrl": "assets/bilibili/214/3758.png",
       "isHide": false,
       "packageId": "214",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[FPX凤仔_吃瓜]"
       ],
-      "staticUrl": "assets/bilibili_emoji/214/3759.png",
+      "staticUrl": "assets/bilibili/214/3759.png",
       "isHide": false,
       "packageId": "214",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[FPX凤仔_冲呀]"
       ],
-      "staticUrl": "assets/bilibili_emoji/214/3760.png",
+      "staticUrl": "assets/bilibili/214/3760.png",
       "isHide": false,
       "packageId": "214",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[FPX凤仔_呆馋]"
       ],
-      "staticUrl": "assets/bilibili_emoji/214/3761.png",
+      "staticUrl": "assets/bilibili/214/3761.png",
       "isHide": false,
       "packageId": "214",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[FPX凤仔_嗯嗯]"
       ],
-      "staticUrl": "assets/bilibili_emoji/214/3762.png",
+      "staticUrl": "assets/bilibili/214/3762.png",
       "isHide": false,
       "packageId": "214",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[FPX凤仔_飞吻]"
       ],
-      "staticUrl": "assets/bilibili_emoji/214/3763.png",
+      "staticUrl": "assets/bilibili/214/3763.png",
       "isHide": false,
       "packageId": "214",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[FPX凤仔_嗨]"
       ],
-      "staticUrl": "assets/bilibili_emoji/214/3764.png",
+      "staticUrl": "assets/bilibili/214/3764.png",
       "isHide": false,
       "packageId": "214",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[FPX凤仔_坏笑]"
       ],
-      "staticUrl": "assets/bilibili_emoji/214/3765.png",
+      "staticUrl": "assets/bilibili/214/3765.png",
       "isHide": false,
       "packageId": "214",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[FPX凤仔_开黑]"
       ],
-      "staticUrl": "assets/bilibili_emoji/214/3766.png",
+      "staticUrl": "assets/bilibili/214/3766.png",
       "isHide": false,
       "packageId": "214",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[FPX凤仔_开心]"
       ],
-      "staticUrl": "assets/bilibili_emoji/214/3767.png",
+      "staticUrl": "assets/bilibili/214/3767.png",
       "isHide": false,
       "packageId": "214",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[FPX凤仔_冷漠]"
       ],
-      "staticUrl": "assets/bilibili_emoji/214/3768.png",
+      "staticUrl": "assets/bilibili/214/3768.png",
       "isHide": false,
       "packageId": "214",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[FPX凤仔_理直气壮]"
       ],
-      "staticUrl": "assets/bilibili_emoji/214/3769.png",
+      "staticUrl": "assets/bilibili/214/3769.png",
       "isHide": false,
       "packageId": "214",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[FPX凤仔_满头问号]"
       ],
-      "staticUrl": "assets/bilibili_emoji/214/3770.png",
+      "staticUrl": "assets/bilibili/214/3770.png",
       "isHide": false,
       "packageId": "214",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[FPX凤仔_你继续吹]"
       ],
-      "staticUrl": "assets/bilibili_emoji/214/3771.png",
+      "staticUrl": "assets/bilibili/214/3771.png",
       "isHide": false,
       "packageId": "214",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[FPX凤仔_生气]"
       ],
-      "staticUrl": "assets/bilibili_emoji/214/3772.png",
+      "staticUrl": "assets/bilibili/214/3772.png",
       "isHide": false,
       "packageId": "214",
       "meta": {
@@ -234,7 +234,7 @@
       "shortCodes": [
         "[FPX凤仔_石化]"
       ],
-      "staticUrl": "assets/bilibili_emoji/214/3773.png",
+      "staticUrl": "assets/bilibili/214/3773.png",
       "isHide": false,
       "packageId": "214",
       "meta": {
@@ -249,7 +249,7 @@
       "shortCodes": [
         "[FPX凤仔_收到]"
       ],
-      "staticUrl": "assets/bilibili_emoji/214/3774.png",
+      "staticUrl": "assets/bilibili/214/3774.png",
       "isHide": false,
       "packageId": "214",
       "meta": {
@@ -264,7 +264,7 @@
       "shortCodes": [
         "[FPX凤仔_酸了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/214/3775.png",
+      "staticUrl": "assets/bilibili/214/3775.png",
       "isHide": false,
       "packageId": "214",
       "meta": {
@@ -279,7 +279,7 @@
       "shortCodes": [
         "[FPX凤仔_晚安]"
       ],
-      "staticUrl": "assets/bilibili_emoji/214/3776.png",
+      "staticUrl": "assets/bilibili/214/3776.png",
       "isHide": false,
       "packageId": "214",
       "meta": {
@@ -294,7 +294,7 @@
       "shortCodes": [
         "[FPX凤仔_委屈巴巴]"
       ],
-      "staticUrl": "assets/bilibili_emoji/214/3777.png",
+      "staticUrl": "assets/bilibili/214/3777.png",
       "isHide": false,
       "packageId": "214",
       "meta": {
@@ -309,7 +309,7 @@
       "shortCodes": [
         "[FPX凤仔_无语]"
       ],
-      "staticUrl": "assets/bilibili_emoji/214/3778.png",
+      "staticUrl": "assets/bilibili/214/3778.png",
       "isHide": false,
       "packageId": "214",
       "meta": {
@@ -324,7 +324,7 @@
       "shortCodes": [
         "[FPX凤仔_下线]"
       ],
-      "staticUrl": "assets/bilibili_emoji/214/3779.png",
+      "staticUrl": "assets/bilibili/214/3779.png",
       "isHide": false,
       "packageId": "214",
       "meta": {
@@ -339,7 +339,7 @@
       "shortCodes": [
         "[FPX凤仔_笑着流泪]"
       ],
-      "staticUrl": "assets/bilibili_emoji/214/3780.png",
+      "staticUrl": "assets/bilibili/214/3780.png",
       "isHide": false,
       "packageId": "214",
       "meta": {
@@ -354,7 +354,7 @@
       "shortCodes": [
         "[FPX凤仔_谢谢老板]"
       ],
-      "staticUrl": "assets/bilibili_emoji/214/3781.png",
+      "staticUrl": "assets/bilibili/214/3781.png",
       "isHide": false,
       "packageId": "214",
       "meta": {

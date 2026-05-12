@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "481",
   "name": "BLG布噜噜",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/8acd98be11339f9fe32aa5f6dd9ff5ecf51aae82.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[BLG布噜噜_BLG加油]"
       ],
-      "staticUrl": "assets/bilibili_emoji/481/8511.png",
+      "staticUrl": "assets/bilibili/481/8511.png",
       "isHide": false,
       "packageId": "481",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[BLG布噜噜_暗中观察]"
       ],
-      "staticUrl": "assets/bilibili_emoji/481/8512.png",
+      "staticUrl": "assets/bilibili/481/8512.png",
       "isHide": false,
       "packageId": "481",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[BLG布噜噜_保护]"
       ],
-      "staticUrl": "assets/bilibili_emoji/481/8513.png",
+      "staticUrl": "assets/bilibili/481/8513.png",
       "isHide": false,
       "packageId": "481",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[BLG布噜噜_比心]"
       ],
-      "staticUrl": "assets/bilibili_emoji/481/8514.png",
+      "staticUrl": "assets/bilibili/481/8514.png",
       "isHide": false,
       "packageId": "481",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[BLG布噜噜_馋]"
       ],
-      "staticUrl": "assets/bilibili_emoji/481/8515.png",
+      "staticUrl": "assets/bilibili/481/8515.png",
       "isHide": false,
       "packageId": "481",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[BLG布噜噜_吃货]"
       ],
-      "staticUrl": "assets/bilibili_emoji/481/8516.png",
+      "staticUrl": "assets/bilibili/481/8516.png",
       "isHide": false,
       "packageId": "481",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[BLG布噜噜_充电中]"
       ],
-      "staticUrl": "assets/bilibili_emoji/481/8517.png",
+      "staticUrl": "assets/bilibili/481/8517.png",
       "isHide": false,
       "packageId": "481",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[BLG布噜噜_戳]"
       ],
-      "staticUrl": "assets/bilibili_emoji/481/8518.png",
+      "staticUrl": "assets/bilibili/481/8518.png",
       "isHide": false,
       "packageId": "481",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[BLG布噜噜_打游戏]"
       ],
-      "staticUrl": "assets/bilibili_emoji/481/8519.png",
+      "staticUrl": "assets/bilibili/481/8519.png",
       "isHide": false,
       "packageId": "481",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[BLG布噜噜_点赞]"
       ],
-      "staticUrl": "assets/bilibili_emoji/481/8520.png",
+      "staticUrl": "assets/bilibili/481/8520.png",
       "isHide": false,
       "packageId": "481",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[BLG布噜噜_盒里吗]"
       ],
-      "staticUrl": "assets/bilibili_emoji/481/8521.png",
+      "staticUrl": "assets/bilibili/481/8521.png",
       "isHide": false,
       "packageId": "481",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[BLG布噜噜_紧张]"
       ],
-      "staticUrl": "assets/bilibili_emoji/481/8522.png",
+      "staticUrl": "assets/bilibili/481/8522.png",
       "isHide": false,
       "packageId": "481",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[BLG布噜噜_开心]"
       ],
-      "staticUrl": "assets/bilibili_emoji/481/8523.png",
+      "staticUrl": "assets/bilibili/481/8523.png",
       "isHide": false,
       "packageId": "481",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[BLG布噜噜_累了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/481/8524.png",
+      "staticUrl": "assets/bilibili/481/8524.png",
       "isHide": false,
       "packageId": "481",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[BLG布噜噜_摸摸头]"
       ],
-      "staticUrl": "assets/bilibili_emoji/481/8525.png",
+      "staticUrl": "assets/bilibili/481/8525.png",
       "isHide": false,
       "packageId": "481",
       "meta": {
@@ -234,7 +234,7 @@
       "shortCodes": [
         "[BLG布噜噜_亲亲]"
       ],
-      "staticUrl": "assets/bilibili_emoji/481/8526.png",
+      "staticUrl": "assets/bilibili/481/8526.png",
       "isHide": false,
       "packageId": "481",
       "meta": {
@@ -249,7 +249,7 @@
       "shortCodes": [
         "[BLG布噜噜_生气]"
       ],
-      "staticUrl": "assets/bilibili_emoji/481/8527.png",
+      "staticUrl": "assets/bilibili/481/8527.png",
       "isHide": false,
       "packageId": "481",
       "meta": {
@@ -264,7 +264,7 @@
       "shortCodes": [
         "[BLG布噜噜_委屈]"
       ],
-      "staticUrl": "assets/bilibili_emoji/481/8528.png",
+      "staticUrl": "assets/bilibili/481/8528.png",
       "isHide": false,
       "packageId": "481",
       "meta": {
@@ -279,7 +279,7 @@
       "shortCodes": [
         "[BLG布噜噜_问号]"
       ],
-      "staticUrl": "assets/bilibili_emoji/481/8529.png",
+      "staticUrl": "assets/bilibili/481/8529.png",
       "isHide": false,
       "packageId": "481",
       "meta": {
@@ -294,7 +294,7 @@
       "shortCodes": [
         "[BLG布噜噜_运动]"
       ],
-      "staticUrl": "assets/bilibili_emoji/481/8530.png",
+      "staticUrl": "assets/bilibili/481/8530.png",
       "isHide": false,
       "packageId": "481",
       "meta": {

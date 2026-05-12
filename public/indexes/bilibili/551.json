@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "551",
   "name": "bili_22914509123",
   "coverUrl": "http://i0.hdslb.com/bfs/garb/17fbe603e6d61e2cb7d68cd4445698c3502aefe2.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[UPOWER_1437849928_竹子]"
       ],
-      "staticUrl": "assets/bilibili_emoji/551/10075.png",
+      "staticUrl": "assets/bilibili/551/10075.png",
       "isHide": false,
       "packageId": "551",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[UPOWER_1437849928_鲸鱼]"
       ],
-      "staticUrl": "assets/bilibili_emoji/551/10076.png",
+      "staticUrl": "assets/bilibili/551/10076.png",
       "isHide": false,
       "packageId": "551",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[UPOWER_1437849928_叶子]"
       ],
-      "staticUrl": "assets/bilibili_emoji/551/10077.png",
+      "staticUrl": "assets/bilibili/551/10077.png",
       "isHide": false,
       "packageId": "551",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[UPOWER_1437849928_握手]"
       ],
-      "staticUrl": "assets/bilibili_emoji/551/10078.png",
+      "staticUrl": "assets/bilibili/551/10078.png",
       "isHide": false,
       "packageId": "551",
       "meta": {

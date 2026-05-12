@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "291",
   "name": "FPX战队",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/6b4774bf46701d79e74c52520b4fa6726cc62ad7.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[FPX_666]"
       ],
-      "staticUrl": "assets/bilibili_emoji/291/4812.png",
+      "staticUrl": "assets/bilibili/291/4812.png",
       "isHide": false,
       "packageId": "291",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[FPX_出征]"
       ],
-      "staticUrl": "assets/bilibili_emoji/291/4813.png",
+      "staticUrl": "assets/bilibili/291/4813.png",
       "isHide": false,
       "packageId": "291",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[FPX_加油]"
       ],
-      "staticUrl": "assets/bilibili_emoji/291/4814.png",
+      "staticUrl": "assets/bilibili/291/4814.png",
       "isHide": false,
       "packageId": "291",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[FPX_哭哭]"
       ],
-      "staticUrl": "assets/bilibili_emoji/291/4815.png",
+      "staticUrl": "assets/bilibili/291/4815.png",
       "isHide": false,
       "packageId": "291",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[FPX_凌晨战神]"
       ],
-      "staticUrl": "assets/bilibili_emoji/291/4816.png",
+      "staticUrl": "assets/bilibili/291/4816.png",
       "isHide": false,
       "packageId": "291",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[FPX_撕破伤口]"
       ],
-      "staticUrl": "assets/bilibili_emoji/291/4817.png",
+      "staticUrl": "assets/bilibili/291/4817.png",
       "isHide": false,
       "packageId": "291",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[FPX_踏火重鸣]"
       ],
-      "staticUrl": "assets/bilibili_emoji/291/4818.png",
+      "staticUrl": "assets/bilibili/291/4818.png",
       "isHide": false,
       "packageId": "291",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[FPX_无语]"
       ],
-      "staticUrl": "assets/bilibili_emoji/291/4819.png",
+      "staticUrl": "assets/bilibili/291/4819.png",
       "isHide": false,
       "packageId": "291",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[FPX_武运昌隆]"
       ],
-      "staticUrl": "assets/bilibili_emoji/291/4820.png",
+      "staticUrl": "assets/bilibili/291/4820.png",
       "isHide": false,
       "packageId": "291",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[FPX_FPX]"
       ],
-      "staticUrl": "assets/bilibili_emoji/291/4821.png",
+      "staticUrl": "assets/bilibili/291/4821.png",
       "isHide": false,
       "packageId": "291",
       "meta": {

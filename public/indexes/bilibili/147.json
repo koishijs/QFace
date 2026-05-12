@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "147",
   "name": "奥利猫",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/3dd045b890b1bd207e79464fcf80b6791b15aa20.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[奥利猫_6]"
       ],
-      "staticUrl": "assets/bilibili_emoji/147/2798.png",
+      "staticUrl": "assets/bilibili/147/2798.png",
       "isHide": false,
       "packageId": "147",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[奥利猫_打招呼]"
       ],
-      "staticUrl": "assets/bilibili_emoji/147/2799.png",
+      "staticUrl": "assets/bilibili/147/2799.png",
       "isHide": false,
       "packageId": "147",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[奥利猫_可爱]"
       ],
-      "staticUrl": "assets/bilibili_emoji/147/2800.png",
+      "staticUrl": "assets/bilibili/147/2800.png",
       "isHide": false,
       "packageId": "147",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[奥利猫_哭哭]"
       ],
-      "staticUrl": "assets/bilibili_emoji/147/2801.png",
+      "staticUrl": "assets/bilibili/147/2801.png",
       "isHide": false,
       "packageId": "147",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[奥利猫_灭火右]"
       ],
-      "staticUrl": "assets/bilibili_emoji/147/2802.png",
+      "staticUrl": "assets/bilibili/147/2802.png",
       "isHide": false,
       "packageId": "147",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[奥利猫_伸手]"
       ],
-      "staticUrl": "assets/bilibili_emoji/147/2803.png",
+      "staticUrl": "assets/bilibili/147/2803.png",
       "isHide": false,
       "packageId": "147",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[奥利猫_伸爪子]"
       ],
-      "staticUrl": "assets/bilibili_emoji/147/2804.png",
+      "staticUrl": "assets/bilibili/147/2804.png",
       "isHide": false,
       "packageId": "147",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[奥利猫_生气]"
       ],
-      "staticUrl": "assets/bilibili_emoji/147/2805.png",
+      "staticUrl": "assets/bilibili/147/2805.png",
       "isHide": false,
       "packageId": "147",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[奥利猫_享受]"
       ],
-      "staticUrl": "assets/bilibili_emoji/147/2806.png",
+      "staticUrl": "assets/bilibili/147/2806.png",
       "isHide": false,
       "packageId": "147",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[奥利猫_疑问]"
       ],
-      "staticUrl": "assets/bilibili_emoji/147/2807.png",
+      "staticUrl": "assets/bilibili/147/2807.png",
       "isHide": false,
       "packageId": "147",
       "meta": {

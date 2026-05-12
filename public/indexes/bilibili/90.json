@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "90",
   "name": "百妖谱",
   "coverUrl": "https://i0.hdslb.com/bfs/emote/d4596b652fcda1c64b124ba410706de190fa1846.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[百妖谱_药不能停]"
       ],
-      "staticUrl": "assets/bilibili_emoji/90/2044.png",
+      "staticUrl": "assets/bilibili/90/2044.png",
       "isHide": false,
       "packageId": "90",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[百妖谱_干杯]"
       ],
-      "staticUrl": "assets/bilibili_emoji/90/2045.png",
+      "staticUrl": "assets/bilibili/90/2045.png",
       "isHide": false,
       "packageId": "90",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[百妖谱_快更新]"
       ],
-      "staticUrl": "assets/bilibili_emoji/90/2046.png",
+      "staticUrl": "assets/bilibili/90/2046.png",
       "isHide": false,
       "packageId": "90",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[百妖谱_没问题]"
       ],
-      "staticUrl": "assets/bilibili_emoji/90/2047.png",
+      "staticUrl": "assets/bilibili/90/2047.png",
       "isHide": false,
       "packageId": "90",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[百妖谱_秋梨膏]"
       ],
-      "staticUrl": "assets/bilibili_emoji/90/2048.png",
+      "staticUrl": "assets/bilibili/90/2048.png",
       "isHide": false,
       "packageId": "90",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[百妖谱_我太难了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/90/2049.png",
+      "staticUrl": "assets/bilibili/90/2049.png",
       "isHide": false,
       "packageId": "90",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[百妖谱_告辞]"
       ],
-      "staticUrl": "assets/bilibili_emoji/90/2050.png",
+      "staticUrl": "assets/bilibili/90/2050.png",
       "isHide": false,
       "packageId": "90",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[百妖谱_陷入思考]"
       ],
-      "staticUrl": "assets/bilibili_emoji/90/2051.png",
+      "staticUrl": "assets/bilibili/90/2051.png",
       "isHide": false,
       "packageId": "90",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[百妖谱_凶]"
       ],
-      "staticUrl": "assets/bilibili_emoji/90/2052.png",
+      "staticUrl": "assets/bilibili/90/2052.png",
       "isHide": false,
       "packageId": "90",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[百妖谱_一针见效]"
       ],
-      "staticUrl": "assets/bilibili_emoji/90/2053.png",
+      "staticUrl": "assets/bilibili/90/2053.png",
       "isHide": false,
       "packageId": "90",
       "meta": {

@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "335",
   "name": "蓝色时期",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/8e5210b644726ec901ba260028379964487643b1.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[蓝色时期_问号]"
       ],
-      "staticUrl": "assets/bilibili_emoji/335/5487.png",
+      "staticUrl": "assets/bilibili/335/5487.png",
       "isHide": false,
       "packageId": "335",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[蓝色时期_大口吃饭]"
       ],
-      "staticUrl": "assets/bilibili_emoji/335/5488.png",
+      "staticUrl": "assets/bilibili/335/5488.png",
       "isHide": false,
       "packageId": "335",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[蓝色时期_大叶の肯定]"
       ],
-      "staticUrl": "assets/bilibili_emoji/335/5489.png",
+      "staticUrl": "assets/bilibili/335/5489.png",
       "isHide": false,
       "packageId": "335",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[蓝色时期_盯]"
       ],
-      "staticUrl": "assets/bilibili_emoji/335/5490.png",
+      "staticUrl": "assets/bilibili/335/5490.png",
       "isHide": false,
       "packageId": "335",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[蓝色时期_飞吻]"
       ],
-      "staticUrl": "assets/bilibili_emoji/335/5491.png",
+      "staticUrl": "assets/bilibili/335/5491.png",
       "isHide": false,
       "packageId": "335",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[蓝色时期_赶稿ing]"
       ],
-      "staticUrl": "assets/bilibili_emoji/335/5492.png",
+      "staticUrl": "assets/bilibili/335/5492.png",
       "isHide": false,
       "packageId": "335",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[蓝色时期_感动]"
       ],
-      "staticUrl": "assets/bilibili_emoji/335/5493.png",
+      "staticUrl": "assets/bilibili/335/5493.png",
       "isHide": false,
       "packageId": "335",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[蓝色时期_干杯]"
       ],
-      "staticUrl": "assets/bilibili_emoji/335/5494.png",
+      "staticUrl": "assets/bilibili/335/5494.png",
       "isHide": false,
       "packageId": "335",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[蓝色时期_好耶]"
       ],
-      "staticUrl": "assets/bilibili_emoji/335/5495.png",
+      "staticUrl": "assets/bilibili/335/5495.png",
       "isHide": false,
       "packageId": "335",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[蓝色时期_慌张]"
       ],
-      "staticUrl": "assets/bilibili_emoji/335/5496.png",
+      "staticUrl": "assets/bilibili/335/5496.png",
       "isHide": false,
       "packageId": "335",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[蓝色时期_教我]"
       ],
-      "staticUrl": "assets/bilibili_emoji/335/5497.png",
+      "staticUrl": "assets/bilibili/335/5497.png",
       "isHide": false,
       "packageId": "335",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[蓝色时期_脸红红]"
       ],
-      "staticUrl": "assets/bilibili_emoji/335/5498.png",
+      "staticUrl": "assets/bilibili/335/5498.png",
       "isHide": false,
       "packageId": "335",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[蓝色时期_呐喊]"
       ],
-      "staticUrl": "assets/bilibili_emoji/335/5499.png",
+      "staticUrl": "assets/bilibili/335/5499.png",
       "isHide": false,
       "packageId": "335",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[蓝色时期_若有所思]"
       ],
-      "staticUrl": "assets/bilibili_emoji/335/5500.png",
+      "staticUrl": "assets/bilibili/335/5500.png",
       "isHide": false,
       "packageId": "335",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[蓝色时期_瑟瑟发抖]"
       ],
-      "staticUrl": "assets/bilibili_emoji/335/5501.png",
+      "staticUrl": "assets/bilibili/335/5501.png",
       "isHide": false,
       "packageId": "335",
       "meta": {
@@ -234,7 +234,7 @@
       "shortCodes": [
         "[蓝色时期_嫌弃]"
       ],
-      "staticUrl": "assets/bilibili_emoji/335/5502.png",
+      "staticUrl": "assets/bilibili/335/5502.png",
       "isHide": false,
       "packageId": "335",
       "meta": {
@@ -249,7 +249,7 @@
       "shortCodes": [
         "[蓝色时期_小天使]"
       ],
-      "staticUrl": "assets/bilibili_emoji/335/5503.png",
+      "staticUrl": "assets/bilibili/335/5503.png",
       "isHide": false,
       "packageId": "335",
       "meta": {
@@ -264,7 +264,7 @@
       "shortCodes": [
         "[蓝色时期_星星眼]"
       ],
-      "staticUrl": "assets/bilibili_emoji/335/5504.png",
+      "staticUrl": "assets/bilibili/335/5504.png",
       "isHide": false,
       "packageId": "335",
       "meta": {
@@ -279,7 +279,7 @@
       "shortCodes": [
         "[蓝色时期_嘘]"
       ],
-      "staticUrl": "assets/bilibili_emoji/335/5505.png",
+      "staticUrl": "assets/bilibili/335/5505.png",
       "isHide": false,
       "packageId": "335",
       "meta": {
@@ -294,7 +294,7 @@
       "shortCodes": [
         "[蓝色时期_拽]"
       ],
-      "staticUrl": "assets/bilibili_emoji/335/5506.png",
+      "staticUrl": "assets/bilibili/335/5506.png",
       "isHide": false,
       "packageId": "335",
       "meta": {

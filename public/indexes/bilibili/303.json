@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "303",
   "name": "MEIKO",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/73e54eb3e52b0514e8bcb05073d67a9d8946305e.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[MEIKO_Hi]"
       ],
-      "staticUrl": "assets/bilibili_emoji/303/4974.png",
+      "staticUrl": "assets/bilibili/303/4974.png",
       "isHide": false,
       "packageId": "303",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[MEIKO_YES]"
       ],
-      "staticUrl": "assets/bilibili_emoji/303/4975.png",
+      "staticUrl": "assets/bilibili/303/4975.png",
       "isHide": false,
       "packageId": "303",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[MEIKO_安静]"
       ],
-      "staticUrl": "assets/bilibili_emoji/303/4976.png",
+      "staticUrl": "assets/bilibili/303/4976.png",
       "isHide": false,
       "packageId": "303",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[MEIKO_抱抱]"
       ],
-      "staticUrl": "assets/bilibili_emoji/303/4977.png",
+      "staticUrl": "assets/bilibili/303/4977.png",
       "isHide": false,
       "packageId": "303",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[MEIKO_冲鸭]"
       ],
-      "staticUrl": "assets/bilibili_emoji/303/4978.png",
+      "staticUrl": "assets/bilibili/303/4978.png",
       "isHide": false,
       "packageId": "303",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[MEIKO_达咩]"
       ],
-      "staticUrl": "assets/bilibili_emoji/303/4979.png",
+      "staticUrl": "assets/bilibili/303/4979.png",
       "isHide": false,
       "packageId": "303",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[MEIKO_好的]"
       ],
-      "staticUrl": "assets/bilibili_emoji/303/4980.png",
+      "staticUrl": "assets/bilibili/303/4980.png",
       "isHide": false,
       "packageId": "303",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[MEIKO_坏笑]"
       ],
-      "staticUrl": "assets/bilibili_emoji/303/4981.png",
+      "staticUrl": "assets/bilibili/303/4981.png",
       "isHide": false,
       "packageId": "303",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[MEIKO_加油]"
       ],
-      "staticUrl": "assets/bilibili_emoji/303/4982.png",
+      "staticUrl": "assets/bilibili/303/4982.png",
       "isHide": false,
       "packageId": "303",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[MEIKO_就这]"
       ],
-      "staticUrl": "assets/bilibili_emoji/303/4983.png",
+      "staticUrl": "assets/bilibili/303/4983.png",
       "isHide": false,
       "packageId": "303",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[MEIKO_困扰]"
       ],
-      "staticUrl": "assets/bilibili_emoji/303/4984.png",
+      "staticUrl": "assets/bilibili/303/4984.png",
       "isHide": false,
       "packageId": "303",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[MEIKO_您请]"
       ],
-      "staticUrl": "assets/bilibili_emoji/303/4985.png",
+      "staticUrl": "assets/bilibili/303/4985.png",
       "isHide": false,
       "packageId": "303",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[MEIKO_神气]"
       ],
-      "staticUrl": "assets/bilibili_emoji/303/4986.png",
+      "staticUrl": "assets/bilibili/303/4986.png",
       "isHide": false,
       "packageId": "303",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[MEIKO_无奈叹气]"
       ],
-      "staticUrl": "assets/bilibili_emoji/303/4987.png",
+      "staticUrl": "assets/bilibili/303/4987.png",
       "isHide": false,
       "packageId": "303",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[MEIKO_震惊]"
       ],
-      "staticUrl": "assets/bilibili_emoji/303/4988.png",
+      "staticUrl": "assets/bilibili/303/4988.png",
       "isHide": false,
       "packageId": "303",
       "meta": {

@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "188",
   "name": "轻视频羊咩咩",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/652ea6ccdfaaf9d36ed2074c3eda458b5c5f021d.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[轻视频_呆滞]"
       ],
-      "staticUrl": "assets/bilibili_emoji/188/3389.png",
+      "staticUrl": "assets/bilibili/188/3389.png",
       "isHide": false,
       "packageId": "188",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[轻视频_点赞]"
       ],
-      "staticUrl": "assets/bilibili_emoji/188/3390.png",
+      "staticUrl": "assets/bilibili/188/3390.png",
       "isHide": false,
       "packageId": "188",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[轻视频_干杯]"
       ],
-      "staticUrl": "assets/bilibili_emoji/188/3391.png",
+      "staticUrl": "assets/bilibili/188/3391.png",
       "isHide": false,
       "packageId": "188",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[轻视频_哭哭]"
       ],
-      "staticUrl": "assets/bilibili_emoji/188/3392.png",
+      "staticUrl": "assets/bilibili/188/3392.png",
       "isHide": false,
       "packageId": "188",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[轻视频_妙啊]"
       ],
-      "staticUrl": "assets/bilibili_emoji/188/3393.png",
+      "staticUrl": "assets/bilibili/188/3393.png",
       "isHide": false,
       "packageId": "188",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[轻视频_酸了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/188/3394.png",
+      "staticUrl": "assets/bilibili/188/3394.png",
       "isHide": false,
       "packageId": "188",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[轻视频_躺枪]"
       ],
-      "staticUrl": "assets/bilibili_emoji/188/3395.png",
+      "staticUrl": "assets/bilibili/188/3395.png",
       "isHide": false,
       "packageId": "188",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[轻视频_无语]"
       ],
-      "staticUrl": "assets/bilibili_emoji/188/3396.png",
+      "staticUrl": "assets/bilibili/188/3396.png",
       "isHide": false,
       "packageId": "188",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[轻视频_想桃子]"
       ],
-      "staticUrl": "assets/bilibili_emoji/188/3397.png",
+      "staticUrl": "assets/bilibili/188/3397.png",
       "isHide": false,
       "packageId": "188",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[轻视频_中奖绝缘]"
       ],
-      "staticUrl": "assets/bilibili_emoji/188/3398.png",
+      "staticUrl": "assets/bilibili/188/3398.png",
       "isHide": false,
       "packageId": "188",
       "meta": {

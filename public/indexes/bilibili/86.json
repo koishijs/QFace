@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "86",
   "name": "大王不高兴（套装版）",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/75016eedd5d442c0ba54d735e80b618c401357d7.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[阎小罗_不简单]"
       ],
-      "staticUrl": "assets/bilibili_emoji/86/1988.png",
+      "staticUrl": "assets/bilibili/86/1988.png",
       "isHide": false,
       "packageId": "86",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[阎小罗_诶嘿]"
       ],
-      "staticUrl": "assets/bilibili_emoji/86/1989.png",
+      "staticUrl": "assets/bilibili/86/1989.png",
       "isHide": false,
       "packageId": "86",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[阎小罗_大招]"
       ],
-      "staticUrl": "assets/bilibili_emoji/86/1990.png",
+      "staticUrl": "assets/bilibili/86/1990.png",
       "isHide": false,
       "packageId": "86",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[阎小罗_尴尬]"
       ],
-      "staticUrl": "assets/bilibili_emoji/86/1991.png",
+      "staticUrl": "assets/bilibili/86/1991.png",
       "isHide": false,
       "packageId": "86",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[阎小罗_脸红]"
       ],
-      "staticUrl": "assets/bilibili_emoji/86/1992.png",
+      "staticUrl": "assets/bilibili/86/1992.png",
       "isHide": false,
       "packageId": "86",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[阎小罗_怂]"
       ],
-      "staticUrl": "assets/bilibili_emoji/86/1993.png",
+      "staticUrl": "assets/bilibili/86/1993.png",
       "isHide": false,
       "packageId": "86",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[阎小罗_瑟瑟发抖]"
       ],
-      "staticUrl": "assets/bilibili_emoji/86/1994.png",
+      "staticUrl": "assets/bilibili/86/1994.png",
       "isHide": false,
       "packageId": "86",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[阎小罗_想peach]"
       ],
-      "staticUrl": "assets/bilibili_emoji/86/1995.png",
+      "staticUrl": "assets/bilibili/86/1995.png",
       "isHide": false,
       "packageId": "86",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[阎小罗_吓哭]"
       ],
-      "staticUrl": "assets/bilibili_emoji/86/1996.png",
+      "staticUrl": "assets/bilibili/86/1996.png",
       "isHide": false,
       "packageId": "86",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[阎小罗_小秘密]"
       ],
-      "staticUrl": "assets/bilibili_emoji/86/1997.png",
+      "staticUrl": "assets/bilibili/86/1997.png",
       "isHide": false,
       "packageId": "86",
       "meta": {

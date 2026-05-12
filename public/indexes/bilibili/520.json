@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "520",
   "name": "东爱璃Lovely",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/852002c394d02536245614c58eee834077e34fc0.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[东爱璃Lovely_？]"
       ],
-      "staticUrl": "assets/bilibili_emoji/520/9459.png",
+      "staticUrl": "assets/bilibili/520/9459.png",
       "isHide": false,
       "packageId": "520",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[东爱璃Lovely_5555]"
       ],
-      "staticUrl": "assets/bilibili_emoji/520/9460.png",
+      "staticUrl": "assets/bilibili/520/9460.png",
       "isHide": false,
       "packageId": "520",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[东爱璃Lovely_比心]"
       ],
-      "staticUrl": "assets/bilibili_emoji/520/9461.png",
+      "staticUrl": "assets/bilibili/520/9461.png",
       "isHide": false,
       "packageId": "520",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[东爱璃Lovely_啵啵]"
       ],
-      "staticUrl": "assets/bilibili_emoji/520/9462.png",
+      "staticUrl": "assets/bilibili/520/9462.png",
       "isHide": false,
       "packageId": "520",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[东爱璃Lovely_馋]"
       ],
-      "staticUrl": "assets/bilibili_emoji/520/9463.png",
+      "staticUrl": "assets/bilibili/520/9463.png",
       "isHide": false,
       "packageId": "520",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[东爱璃Lovely_吃草]"
       ],
-      "staticUrl": "assets/bilibili_emoji/520/9464.png",
+      "staticUrl": "assets/bilibili/520/9464.png",
       "isHide": false,
       "packageId": "520",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[东爱璃Lovely_打call]"
       ],
-      "staticUrl": "assets/bilibili_emoji/520/9465.png",
+      "staticUrl": "assets/bilibili/520/9465.png",
       "isHide": false,
       "packageId": "520",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[东爱璃Lovely_给你一拳]"
       ],
-      "staticUrl": "assets/bilibili_emoji/520/9466.png",
+      "staticUrl": "assets/bilibili/520/9466.png",
       "isHide": false,
       "packageId": "520",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[东爱璃Lovely_好辣]"
       ],
-      "staticUrl": "assets/bilibili_emoji/520/9467.png",
+      "staticUrl": "assets/bilibili/520/9467.png",
       "isHide": false,
       "packageId": "520",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[东爱璃Lovely_可怜]"
       ],
-      "staticUrl": "assets/bilibili_emoji/520/9468.png",
+      "staticUrl": "assets/bilibili/520/9468.png",
       "isHide": false,
       "packageId": "520",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[东爱璃Lovely_理发店]"
       ],
-      "staticUrl": "assets/bilibili_emoji/520/9469.png",
+      "staticUrl": "assets/bilibili/520/9469.png",
       "isHide": false,
       "packageId": "520",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[东爱璃Lovely_流汗]"
       ],
-      "staticUrl": "assets/bilibili_emoji/520/9470.png",
+      "staticUrl": "assets/bilibili/520/9470.png",
       "isHide": false,
       "packageId": "520",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[东爱璃Lovely_略略略]"
       ],
-      "staticUrl": "assets/bilibili_emoji/520/9471.png",
+      "staticUrl": "assets/bilibili/520/9471.png",
       "isHide": false,
       "packageId": "520",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[东爱璃Lovely_挠]"
       ],
-      "staticUrl": "assets/bilibili_emoji/520/9472.png",
+      "staticUrl": "assets/bilibili/520/9472.png",
       "isHide": false,
       "packageId": "520",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[东爱璃Lovely_捏脸]"
       ],
-      "staticUrl": "assets/bilibili_emoji/520/9473.png",
+      "staticUrl": "assets/bilibili/520/9473.png",
       "isHide": false,
       "packageId": "520",
       "meta": {
@@ -234,7 +234,7 @@
       "shortCodes": [
         "[东爱璃Lovely_扭秧歌]"
       ],
-      "staticUrl": "assets/bilibili_emoji/520/9474.png",
+      "staticUrl": "assets/bilibili/520/9474.png",
       "isHide": false,
       "packageId": "520",
       "meta": {
@@ -249,7 +249,7 @@
       "shortCodes": [
         "[东爱璃Lovely_捧碗]"
       ],
-      "staticUrl": "assets/bilibili_emoji/520/9475.png",
+      "staticUrl": "assets/bilibili/520/9475.png",
       "isHide": false,
       "packageId": "520",
       "meta": {
@@ -264,7 +264,7 @@
       "shortCodes": [
         "[东爱璃Lovely_祈祷]"
       ],
-      "staticUrl": "assets/bilibili_emoji/520/9476.png",
+      "staticUrl": "assets/bilibili/520/9476.png",
       "isHide": false,
       "packageId": "520",
       "meta": {
@@ -279,7 +279,7 @@
       "shortCodes": [
         "[东爱璃Lovely_人形唢呐]"
       ],
-      "staticUrl": "assets/bilibili_emoji/520/9477.png",
+      "staticUrl": "assets/bilibili/520/9477.png",
       "isHide": false,
       "packageId": "520",
       "meta": {
@@ -294,7 +294,7 @@
       "shortCodes": [
         "[东爱璃Lovely_扔鸡蛋]"
       ],
-      "staticUrl": "assets/bilibili_emoji/520/9478.png",
+      "staticUrl": "assets/bilibili/520/9478.png",
       "isHide": false,
       "packageId": "520",
       "meta": {
@@ -309,7 +309,7 @@
       "shortCodes": [
         "[东爱璃Lovely_傻狍点赞]"
       ],
-      "staticUrl": "assets/bilibili_emoji/520/9479.png",
+      "staticUrl": "assets/bilibili/520/9479.png",
       "isHide": false,
       "packageId": "520",
       "meta": {
@@ -324,7 +324,7 @@
       "shortCodes": [
         "[东爱璃Lovely_晚安]"
       ],
-      "staticUrl": "assets/bilibili_emoji/520/9480.png",
+      "staticUrl": "assets/bilibili/520/9480.png",
       "isHide": false,
       "packageId": "520",
       "meta": {
@@ -339,7 +339,7 @@
       "shortCodes": [
         "[东爱璃Lovely_我有牙啦]"
       ],
-      "staticUrl": "assets/bilibili_emoji/520/9481.png",
+      "staticUrl": "assets/bilibili/520/9481.png",
       "isHide": false,
       "packageId": "520",
       "meta": {
@@ -354,7 +354,7 @@
       "shortCodes": [
         "[东爱璃Lovely_一起上]"
       ],
-      "staticUrl": "assets/bilibili_emoji/520/9482.png",
+      "staticUrl": "assets/bilibili/520/9482.png",
       "isHide": false,
       "packageId": "520",
       "meta": {
@@ -369,7 +369,7 @@
       "shortCodes": [
         "[东爱璃Lovely_月光]"
       ],
-      "staticUrl": "assets/bilibili_emoji/520/9483.png",
+      "staticUrl": "assets/bilibili/520/9483.png",
       "isHide": false,
       "packageId": "520",
       "meta": {

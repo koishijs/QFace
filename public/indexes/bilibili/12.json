@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "12",
   "name": "正经人",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/0b43d9a2e44ceda54242599713c04f0d1d0328a6.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[正经人_欢呼]"
       ],
-      "staticUrl": "assets/bilibili_emoji/12/248.png",
+      "staticUrl": "assets/bilibili/12/248.png",
       "isHide": false,
       "packageId": "12",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[正经人_火]"
       ],
-      "staticUrl": "assets/bilibili_emoji/12/249.png",
+      "staticUrl": "assets/bilibili/12/249.png",
       "isHide": false,
       "packageId": "12",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[正经人_挤]"
       ],
-      "staticUrl": "assets/bilibili_emoji/12/250.png",
+      "staticUrl": "assets/bilibili/12/250.png",
       "isHide": false,
       "packageId": "12",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[正经人_惊]"
       ],
-      "staticUrl": "assets/bilibili_emoji/12/251.png",
+      "staticUrl": "assets/bilibili/12/251.png",
       "isHide": false,
       "packageId": "12",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[正经人_放屁]"
       ],
-      "staticUrl": "assets/bilibili_emoji/12/252.png",
+      "staticUrl": "assets/bilibili/12/252.png",
       "isHide": false,
       "packageId": "12",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[正经人_ok]"
       ],
-      "staticUrl": "assets/bilibili_emoji/12/253.png",
+      "staticUrl": "assets/bilibili/12/253.png",
       "isHide": false,
       "packageId": "12",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[正经人_趴]"
       ],
-      "staticUrl": "assets/bilibili_emoji/12/254.png",
+      "staticUrl": "assets/bilibili/12/254.png",
       "isHide": false,
       "packageId": "12",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[正经人_开始]"
       ],
-      "staticUrl": "assets/bilibili_emoji/12/255.png",
+      "staticUrl": "assets/bilibili/12/255.png",
       "isHide": false,
       "packageId": "12",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[正经人_揉脸]"
       ],
-      "staticUrl": "assets/bilibili_emoji/12/256.png",
+      "staticUrl": "assets/bilibili/12/256.png",
       "isHide": false,
       "packageId": "12",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[正经人_躺]"
       ],
-      "staticUrl": "assets/bilibili_emoji/12/257.png",
+      "staticUrl": "assets/bilibili/12/257.png",
       "isHide": false,
       "packageId": "12",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[正经人_拉]"
       ],
-      "staticUrl": "assets/bilibili_emoji/12/258.png",
+      "staticUrl": "assets/bilibili/12/258.png",
       "isHide": false,
       "packageId": "12",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[正经人_心]"
       ],
-      "staticUrl": "assets/bilibili_emoji/12/259.png",
+      "staticUrl": "assets/bilibili/12/259.png",
       "isHide": false,
       "packageId": "12",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[正经人_悠闲]"
       ],
-      "staticUrl": "assets/bilibili_emoji/12/260.png",
+      "staticUrl": "assets/bilibili/12/260.png",
       "isHide": false,
       "packageId": "12",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[正经人_赞]"
       ],
-      "staticUrl": "assets/bilibili_emoji/12/261.png",
+      "staticUrl": "assets/bilibili/12/261.png",
       "isHide": false,
       "packageId": "12",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[正经人_哭]"
       ],
-      "staticUrl": "assets/bilibili_emoji/12/262.png",
+      "staticUrl": "assets/bilibili/12/262.png",
       "isHide": false,
       "packageId": "12",
       "meta": {

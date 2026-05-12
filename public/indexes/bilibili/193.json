@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "193",
   "name": "C酱です",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/b9a9c2d876e7f856e5fa214c3593e8c342e4fb52.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[C酱_真剑胜负]"
       ],
-      "staticUrl": "assets/bilibili_emoji/193/3445.png",
+      "staticUrl": "assets/bilibili/193/3445.png",
       "isHide": false,
       "packageId": "193",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[C酱_宅]"
       ],
-      "staticUrl": "assets/bilibili_emoji/193/3446.png",
+      "staticUrl": "assets/bilibili/193/3446.png",
       "isHide": false,
       "packageId": "193",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[C酱_再来亿把]"
       ],
-      "staticUrl": "assets/bilibili_emoji/193/3447.png",
+      "staticUrl": "assets/bilibili/193/3447.png",
       "isHide": false,
       "packageId": "193",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[C酱_一般]"
       ],
-      "staticUrl": "assets/bilibili_emoji/193/3448.png",
+      "staticUrl": "assets/bilibili/193/3448.png",
       "isHide": false,
       "packageId": "193",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[C酱_下饭]"
       ],
-      "staticUrl": "assets/bilibili_emoji/193/3449.png",
+      "staticUrl": "assets/bilibili/193/3449.png",
       "isHide": false,
       "packageId": "193",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[C酱_问号]"
       ],
-      "staticUrl": "assets/bilibili_emoji/193/3450.png",
+      "staticUrl": "assets/bilibili/193/3450.png",
       "isHide": false,
       "packageId": "193",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[C酱_警告]"
       ],
-      "staticUrl": "assets/bilibili_emoji/193/3451.png",
+      "staticUrl": "assets/bilibili/193/3451.png",
       "isHide": false,
       "packageId": "193",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[C酱_惊吓]"
       ],
-      "staticUrl": "assets/bilibili_emoji/193/3452.png",
+      "staticUrl": "assets/bilibili/193/3452.png",
       "isHide": false,
       "packageId": "193",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[C酱_好诶]"
       ],
-      "staticUrl": "assets/bilibili_emoji/193/3453.png",
+      "staticUrl": "assets/bilibili/193/3453.png",
       "isHide": false,
       "packageId": "193",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[C酱_AWSL]"
       ],
-      "staticUrl": "assets/bilibili_emoji/193/3454.png",
+      "staticUrl": "assets/bilibili/193/3454.png",
       "isHide": false,
       "packageId": "193",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[C酱_害怕]"
       ],
-      "staticUrl": "assets/bilibili_emoji/193/3455.png",
+      "staticUrl": "assets/bilibili/193/3455.png",
       "isHide": false,
       "packageId": "193",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[C酱_哈哈]"
       ],
-      "staticUrl": "assets/bilibili_emoji/193/3456.png",
+      "staticUrl": "assets/bilibili/193/3456.png",
       "isHide": false,
       "packageId": "193",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[C酱_果咩捏]"
       ],
-      "staticUrl": "assets/bilibili_emoji/193/3457.png",
+      "staticUrl": "assets/bilibili/193/3457.png",
       "isHide": false,
       "packageId": "193",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[C酱_多喝开水]"
       ],
-      "staticUrl": "assets/bilibili_emoji/193/3458.png",
+      "staticUrl": "assets/bilibili/193/3458.png",
       "isHide": false,
       "packageId": "193",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[C酱_打游戏]"
       ],
-      "staticUrl": "assets/bilibili_emoji/193/3459.png",
+      "staticUrl": "assets/bilibili/193/3459.png",
       "isHide": false,
       "packageId": "193",
       "meta": {
@@ -234,7 +234,7 @@
       "shortCodes": [
         "[C酱_超强]"
       ],
-      "staticUrl": "assets/bilibili_emoji/193/3460.png",
+      "staticUrl": "assets/bilibili/193/3460.png",
       "isHide": false,
       "packageId": "193",
       "meta": {
@@ -249,7 +249,7 @@
       "shortCodes": [
         "[C酱_嘻嘻]"
       ],
-      "staticUrl": "assets/bilibili_emoji/193/3461.png",
+      "staticUrl": "assets/bilibili/193/3461.png",
       "isHide": false,
       "packageId": "193",
       "meta": {
@@ -264,7 +264,7 @@
       "shortCodes": [
         "[C酱_秃头]"
       ],
-      "staticUrl": "assets/bilibili_emoji/193/3462.png",
+      "staticUrl": "assets/bilibili/193/3462.png",
       "isHide": false,
       "packageId": "193",
       "meta": {
@@ -279,7 +279,7 @@
       "shortCodes": [
         "[C酱_不要啊]"
       ],
-      "staticUrl": "assets/bilibili_emoji/193/3463.png",
+      "staticUrl": "assets/bilibili/193/3463.png",
       "isHide": false,
       "packageId": "193",
       "meta": {
@@ -294,7 +294,7 @@
       "shortCodes": [
         "[C酱_啊这]"
       ],
-      "staticUrl": "assets/bilibili_emoji/193/3464.png",
+      "staticUrl": "assets/bilibili/193/3464.png",
       "isHide": false,
       "packageId": "193",
       "meta": {
@@ -309,7 +309,7 @@
       "shortCodes": [
         "[C酱_KOROSUZO]"
       ],
-      "staticUrl": "assets/bilibili_emoji/193/3465.png",
+      "staticUrl": "assets/bilibili/193/3465.png",
       "isHide": false,
       "packageId": "193",
       "meta": {
@@ -324,7 +324,7 @@
       "shortCodes": [
         "[C酱_kira]"
       ],
-      "staticUrl": "assets/bilibili_emoji/193/3466.png",
+      "staticUrl": "assets/bilibili/193/3466.png",
       "isHide": false,
       "packageId": "193",
       "meta": {
@@ -339,7 +339,7 @@
       "shortCodes": [
         "[C酱_HSO]"
       ],
-      "staticUrl": "assets/bilibili_emoji/193/3467.png",
+      "staticUrl": "assets/bilibili/193/3467.png",
       "isHide": false,
       "packageId": "193",
       "meta": {
@@ -354,7 +354,7 @@
       "shortCodes": [
         "[C酱_GKD]"
       ],
-      "staticUrl": "assets/bilibili_emoji/193/3468.png",
+      "staticUrl": "assets/bilibili/193/3468.png",
       "isHide": false,
       "packageId": "193",
       "meta": {
@@ -369,7 +369,7 @@
       "shortCodes": [
         "[C酱_)—(]"
       ],
-      "staticUrl": "assets/bilibili_emoji/193/3469.png",
+      "staticUrl": "assets/bilibili/193/3469.png",
       "isHide": false,
       "packageId": "193",
       "meta": {

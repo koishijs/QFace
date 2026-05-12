@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "318",
   "name": "猫灵相册",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/f33c8859b8221f7a24664419017b2aa1e8bda046.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[猫灵相册_阿巴阿巴]"
       ],
-      "staticUrl": "assets/bilibili_emoji/318/5208.png",
+      "staticUrl": "assets/bilibili/318/5208.png",
       "isHide": false,
       "packageId": "318",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[猫灵相册_爱你]"
       ],
-      "staticUrl": "assets/bilibili_emoji/318/5209.png",
+      "staticUrl": "assets/bilibili/318/5209.png",
       "isHide": false,
       "packageId": "318",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[猫灵相册_不行]"
       ],
-      "staticUrl": "assets/bilibili_emoji/318/5210.png",
+      "staticUrl": "assets/bilibili/318/5210.png",
       "isHide": false,
       "packageId": "318",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[猫灵相册_馋]"
       ],
-      "staticUrl": "assets/bilibili_emoji/318/5211.png",
+      "staticUrl": "assets/bilibili/318/5211.png",
       "isHide": false,
       "packageId": "318",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[猫灵相册_冲]"
       ],
-      "staticUrl": "assets/bilibili_emoji/318/5212.png",
+      "staticUrl": "assets/bilibili/318/5212.png",
       "isHide": false,
       "packageId": "318",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[猫灵相册_哈喽]"
       ],
-      "staticUrl": "assets/bilibili_emoji/318/5213.png",
+      "staticUrl": "assets/bilibili/318/5213.png",
       "isHide": false,
       "packageId": "318",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[猫灵相册_好呀]"
       ],
-      "staticUrl": "assets/bilibili_emoji/318/5214.png",
+      "staticUrl": "assets/bilibili/318/5214.png",
       "isHide": false,
       "packageId": "318",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[猫灵相册_好耶]"
       ],
-      "staticUrl": "assets/bilibili_emoji/318/5215.png",
+      "staticUrl": "assets/bilibili/318/5215.png",
       "isHide": false,
       "packageId": "318",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[猫灵相册_加油]"
       ],
-      "staticUrl": "assets/bilibili_emoji/318/5216.png",
+      "staticUrl": "assets/bilibili/318/5216.png",
       "isHide": false,
       "packageId": "318",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[猫灵相册_就是你]"
       ],
-      "staticUrl": "assets/bilibili_emoji/318/5217.png",
+      "staticUrl": "assets/bilibili/318/5217.png",
       "isHide": false,
       "packageId": "318",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[猫灵相册_猫起来]"
       ],
-      "staticUrl": "assets/bilibili_emoji/318/5218.png",
+      "staticUrl": "assets/bilibili/318/5218.png",
       "isHide": false,
       "packageId": "318",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[猫灵相册_委屈]"
       ],
-      "staticUrl": "assets/bilibili_emoji/318/5219.png",
+      "staticUrl": "assets/bilibili/318/5219.png",
       "isHide": false,
       "packageId": "318",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[猫灵相册_再见]"
       ],
-      "staticUrl": "assets/bilibili_emoji/318/5220.png",
+      "staticUrl": "assets/bilibili/318/5220.png",
       "isHide": false,
       "packageId": "318",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[猫灵相册_赞]"
       ],
-      "staticUrl": "assets/bilibili_emoji/318/5221.png",
+      "staticUrl": "assets/bilibili/318/5221.png",
       "isHide": false,
       "packageId": "318",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[猫灵相册_真的吗]"
       ],
-      "staticUrl": "assets/bilibili_emoji/318/5222.png",
+      "staticUrl": "assets/bilibili/318/5222.png",
       "isHide": false,
       "packageId": "318",
       "meta": {

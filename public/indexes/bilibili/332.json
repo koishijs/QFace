@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "332",
   "name": "有栖mana",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/103b040915496a3788e32d5d2ec2a8ba3677d188.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[有栖mana_kyunkyun]"
       ],
-      "staticUrl": "assets/bilibili_emoji/332/5422.png",
+      "staticUrl": "assets/bilibili/332/5422.png",
       "isHide": false,
       "packageId": "332",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[有栖mana_悲伤]"
       ],
-      "staticUrl": "assets/bilibili_emoji/332/5423.png",
+      "staticUrl": "assets/bilibili/332/5423.png",
       "isHide": false,
       "packageId": "332",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[有栖mana_不许DD]"
       ],
-      "staticUrl": "assets/bilibili_emoji/332/5424.png",
+      "staticUrl": "assets/bilibili/332/5424.png",
       "isHide": false,
       "packageId": "332",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[有栖mana_不要]"
       ],
-      "staticUrl": "assets/bilibili_emoji/332/5425.png",
+      "staticUrl": "assets/bilibili/332/5425.png",
       "isHide": false,
       "packageId": "332",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[有栖mana_吃饭]"
       ],
-      "staticUrl": "assets/bilibili_emoji/332/5426.png",
+      "staticUrl": "assets/bilibili/332/5426.png",
       "isHide": false,
       "packageId": "332",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[有栖mana_打call]"
       ],
-      "staticUrl": "assets/bilibili_emoji/332/5427.png",
+      "staticUrl": "assets/bilibili/332/5427.png",
       "isHide": false,
       "packageId": "332",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[有栖mana_哈哈哈]"
       ],
-      "staticUrl": "assets/bilibili_emoji/332/5428.png",
+      "staticUrl": "assets/bilibili/332/5428.png",
       "isHide": false,
       "packageId": "332",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[有栖mana_喝可乐]"
       ],
-      "staticUrl": "assets/bilibili_emoji/332/5429.png",
+      "staticUrl": "assets/bilibili/332/5429.png",
       "isHide": false,
       "packageId": "332",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[有栖mana_嘿嘿嘿嘿]"
       ],
-      "staticUrl": "assets/bilibili_emoji/332/5430.png",
+      "staticUrl": "assets/bilibili/332/5430.png",
       "isHide": false,
       "packageId": "332",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[有栖mana_看戏]"
       ],
-      "staticUrl": "assets/bilibili_emoji/332/5431.png",
+      "staticUrl": "assets/bilibili/332/5431.png",
       "isHide": false,
       "packageId": "332",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[有栖mana_你好]"
       ],
-      "staticUrl": "assets/bilibili_emoji/332/5432.png",
+      "staticUrl": "assets/bilibili/332/5432.png",
       "isHide": false,
       "packageId": "332",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[有栖mana_去吧狐火]"
       ],
-      "staticUrl": "assets/bilibili_emoji/332/5433.png",
+      "staticUrl": "assets/bilibili/332/5433.png",
       "isHide": false,
       "packageId": "332",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[有栖mana_什么?]"
       ],
-      "staticUrl": "assets/bilibili_emoji/332/5434.png",
+      "staticUrl": "assets/bilibili/332/5434.png",
       "isHide": false,
       "packageId": "332",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[有栖mana_太累了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/332/5435.png",
+      "staticUrl": "assets/bilibili/332/5435.png",
       "isHide": false,
       "packageId": "332",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[有栖mana_晚安]"
       ],
-      "staticUrl": "assets/bilibili_emoji/332/5436.png",
+      "staticUrl": "assets/bilibili/332/5436.png",
       "isHide": false,
       "packageId": "332",
       "meta": {
@@ -234,7 +234,7 @@
       "shortCodes": [
         "[有栖mana_我爱你]"
       ],
-      "staticUrl": "assets/bilibili_emoji/332/5437.png",
+      "staticUrl": "assets/bilibili/332/5437.png",
       "isHide": false,
       "packageId": "332",
       "meta": {
@@ -249,7 +249,7 @@
       "shortCodes": [
         "[有栖mana_箱中狐狸]"
       ],
-      "staticUrl": "assets/bilibili_emoji/332/5438.png",
+      "staticUrl": "assets/bilibili/332/5438.png",
       "isHide": false,
       "packageId": "332",
       "meta": {
@@ -264,7 +264,7 @@
       "shortCodes": [
         "[有栖mana_辛苦了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/332/5439.png",
+      "staticUrl": "assets/bilibili/332/5439.png",
       "isHide": false,
       "packageId": "332",
       "meta": {
@@ -279,7 +279,7 @@
       "shortCodes": [
         "[有栖mana_炸毛]"
       ],
-      "staticUrl": "assets/bilibili_emoji/332/5440.png",
+      "staticUrl": "assets/bilibili/332/5440.png",
       "isHide": false,
       "packageId": "332",
       "meta": {
@@ -294,7 +294,7 @@
       "shortCodes": [
         "[有栖mana_做什么?]"
       ],
-      "staticUrl": "assets/bilibili_emoji/332/5441.png",
+      "staticUrl": "assets/bilibili/332/5441.png",
       "isHide": false,
       "packageId": "332",
       "meta": {

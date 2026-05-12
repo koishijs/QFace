@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "317",
   "name": "中老年人",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/3899de0d249e57711975ce02c988f4c34b69f4dc.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[中老年人_称赞]"
       ],
-      "staticUrl": "assets/bilibili_emoji/317/5198.png",
+      "staticUrl": "assets/bilibili/317/5198.png",
       "isHide": false,
       "packageId": "317",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[中老年人_干杯]"
       ],
-      "staticUrl": "assets/bilibili_emoji/317/5199.png",
+      "staticUrl": "assets/bilibili/317/5199.png",
       "isHide": false,
       "packageId": "317",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[中老年人_宁静致远]"
       ],
-      "staticUrl": "assets/bilibili_emoji/317/5200.png",
+      "staticUrl": "assets/bilibili/317/5200.png",
       "isHide": false,
       "packageId": "317",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[中老年人_认识你真好]"
       ],
-      "staticUrl": "assets/bilibili_emoji/317/5201.png",
+      "staticUrl": "assets/bilibili/317/5201.png",
       "isHide": false,
       "packageId": "317",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[中老年人_谢谢]"
       ],
-      "staticUrl": "assets/bilibili_emoji/317/5202.png",
+      "staticUrl": "assets/bilibili/317/5202.png",
       "isHide": false,
       "packageId": "317",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[中老年人_一生平安]"
       ],
-      "staticUrl": "assets/bilibili_emoji/317/5203.png",
+      "staticUrl": "assets/bilibili/317/5203.png",
       "isHide": false,
       "packageId": "317",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[中老年人_早上好]"
       ],
-      "staticUrl": "assets/bilibili_emoji/317/5204.png",
+      "staticUrl": "assets/bilibili/317/5204.png",
       "isHide": false,
       "packageId": "317",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[中老年人_珍惜朋友]"
       ],
-      "staticUrl": "assets/bilibili_emoji/317/5205.png",
+      "staticUrl": "assets/bilibili/317/5205.png",
       "isHide": false,
       "packageId": "317",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[中老年人_珍惜缘分]"
       ],
-      "staticUrl": "assets/bilibili_emoji/317/5206.png",
+      "staticUrl": "assets/bilibili/317/5206.png",
       "isHide": false,
       "packageId": "317",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[中老年人_祝福你]"
       ],
-      "staticUrl": "assets/bilibili_emoji/317/5207.png",
+      "staticUrl": "assets/bilibili/317/5207.png",
       "isHide": false,
       "packageId": "317",
       "meta": {

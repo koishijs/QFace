@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "2",
   "name": "tv_小电视",
   "coverUrl": "https://i0.hdslb.com/bfs/emote/f3517fc58c71236da5f0355b688ba302ae90c074.png",
@@ -9,8 +9,8 @@
       "shortCodes": [
         "[tv_白眼]"
       ],
-      "staticUrl": "assets/bilibili_emoji/2/33.png",
-      "animatedUrl": "assets/bilibili_emoji/2/33.gif",
+      "staticUrl": "assets/bilibili/2/33.png",
+      "animatedUrl": "assets/bilibili/2/33.gif",
       "isHide": false,
       "packageId": "2",
       "meta": {
@@ -25,8 +25,8 @@
       "shortCodes": [
         "[tv_doge]"
       ],
-      "staticUrl": "assets/bilibili_emoji/2/34.png",
-      "animatedUrl": "assets/bilibili_emoji/2/34.gif",
+      "staticUrl": "assets/bilibili/2/34.png",
+      "animatedUrl": "assets/bilibili/2/34.gif",
       "isHide": false,
       "packageId": "2",
       "meta": {
@@ -41,8 +41,8 @@
       "shortCodes": [
         "[tv_坏笑]"
       ],
-      "staticUrl": "assets/bilibili_emoji/2/35.png",
-      "animatedUrl": "assets/bilibili_emoji/2/35.gif",
+      "staticUrl": "assets/bilibili/2/35.png",
+      "animatedUrl": "assets/bilibili/2/35.gif",
       "isHide": false,
       "packageId": "2",
       "meta": {
@@ -57,8 +57,8 @@
       "shortCodes": [
         "[tv_难过]"
       ],
-      "staticUrl": "assets/bilibili_emoji/2/36.png",
-      "animatedUrl": "assets/bilibili_emoji/2/36.gif",
+      "staticUrl": "assets/bilibili/2/36.png",
+      "animatedUrl": "assets/bilibili/2/36.gif",
       "isHide": false,
       "packageId": "2",
       "meta": {
@@ -73,8 +73,8 @@
       "shortCodes": [
         "[tv_生气]"
       ],
-      "staticUrl": "assets/bilibili_emoji/2/37.png",
-      "animatedUrl": "assets/bilibili_emoji/2/37.gif",
+      "staticUrl": "assets/bilibili/2/37.png",
+      "animatedUrl": "assets/bilibili/2/37.gif",
       "isHide": false,
       "packageId": "2",
       "meta": {
@@ -89,8 +89,8 @@
       "shortCodes": [
         "[tv_委屈]"
       ],
-      "staticUrl": "assets/bilibili_emoji/2/38.png",
-      "animatedUrl": "assets/bilibili_emoji/2/38.gif",
+      "staticUrl": "assets/bilibili/2/38.png",
+      "animatedUrl": "assets/bilibili/2/38.gif",
       "isHide": false,
       "packageId": "2",
       "meta": {
@@ -105,8 +105,8 @@
       "shortCodes": [
         "[tv_斜眼笑]"
       ],
-      "staticUrl": "assets/bilibili_emoji/2/39.png",
-      "animatedUrl": "assets/bilibili_emoji/2/39.gif",
+      "staticUrl": "assets/bilibili/2/39.png",
+      "animatedUrl": "assets/bilibili/2/39.gif",
       "isHide": false,
       "packageId": "2",
       "meta": {
@@ -121,8 +121,8 @@
       "shortCodes": [
         "[tv_呆]"
       ],
-      "staticUrl": "assets/bilibili_emoji/2/40.png",
-      "animatedUrl": "assets/bilibili_emoji/2/40.gif",
+      "staticUrl": "assets/bilibili/2/40.png",
+      "animatedUrl": "assets/bilibili/2/40.gif",
       "isHide": false,
       "packageId": "2",
       "meta": {
@@ -137,8 +137,8 @@
       "shortCodes": [
         "[tv_发怒]"
       ],
-      "staticUrl": "assets/bilibili_emoji/2/41.png",
-      "animatedUrl": "assets/bilibili_emoji/2/41.gif",
+      "staticUrl": "assets/bilibili/2/41.png",
+      "animatedUrl": "assets/bilibili/2/41.gif",
       "isHide": false,
       "packageId": "2",
       "meta": {
@@ -153,8 +153,8 @@
       "shortCodes": [
         "[tv_惊吓]"
       ],
-      "staticUrl": "assets/bilibili_emoji/2/42.png",
-      "animatedUrl": "assets/bilibili_emoji/2/42.gif",
+      "staticUrl": "assets/bilibili/2/42.png",
+      "animatedUrl": "assets/bilibili/2/42.gif",
       "isHide": false,
       "packageId": "2",
       "meta": {
@@ -169,8 +169,8 @@
       "shortCodes": [
         "[tv_呕吐]"
       ],
-      "staticUrl": "assets/bilibili_emoji/2/43.png",
-      "animatedUrl": "assets/bilibili_emoji/2/43.gif",
+      "staticUrl": "assets/bilibili/2/43.png",
+      "animatedUrl": "assets/bilibili/2/43.gif",
       "isHide": false,
       "packageId": "2",
       "meta": {
@@ -185,8 +185,8 @@
       "shortCodes": [
         "[tv_思考]"
       ],
-      "staticUrl": "assets/bilibili_emoji/2/44.png",
-      "animatedUrl": "assets/bilibili_emoji/2/44.gif",
+      "staticUrl": "assets/bilibili/2/44.png",
+      "animatedUrl": "assets/bilibili/2/44.gif",
       "isHide": false,
       "packageId": "2",
       "meta": {
@@ -201,8 +201,8 @@
       "shortCodes": [
         "[tv_微笑]"
       ],
-      "staticUrl": "assets/bilibili_emoji/2/45.png",
-      "animatedUrl": "assets/bilibili_emoji/2/45.gif",
+      "staticUrl": "assets/bilibili/2/45.png",
+      "animatedUrl": "assets/bilibili/2/45.gif",
       "isHide": false,
       "packageId": "2",
       "meta": {
@@ -217,8 +217,8 @@
       "shortCodes": [
         "[tv_疑问]"
       ],
-      "staticUrl": "assets/bilibili_emoji/2/46.png",
-      "animatedUrl": "assets/bilibili_emoji/2/46.gif",
+      "staticUrl": "assets/bilibili/2/46.png",
+      "animatedUrl": "assets/bilibili/2/46.gif",
       "isHide": false,
       "packageId": "2",
       "meta": {
@@ -233,8 +233,8 @@
       "shortCodes": [
         "[tv_大哭]"
       ],
-      "staticUrl": "assets/bilibili_emoji/2/47.png",
-      "animatedUrl": "assets/bilibili_emoji/2/47.gif",
+      "staticUrl": "assets/bilibili/2/47.png",
+      "animatedUrl": "assets/bilibili/2/47.gif",
       "isHide": false,
       "packageId": "2",
       "meta": {
@@ -249,8 +249,8 @@
       "shortCodes": [
         "[tv_鼓掌]"
       ],
-      "staticUrl": "assets/bilibili_emoji/2/48.png",
-      "animatedUrl": "assets/bilibili_emoji/2/48.gif",
+      "staticUrl": "assets/bilibili/2/48.png",
+      "animatedUrl": "assets/bilibili/2/48.gif",
       "isHide": false,
       "packageId": "2",
       "meta": {
@@ -265,8 +265,8 @@
       "shortCodes": [
         "[tv_抠鼻]"
       ],
-      "staticUrl": "assets/bilibili_emoji/2/49.png",
-      "animatedUrl": "assets/bilibili_emoji/2/49.gif",
+      "staticUrl": "assets/bilibili/2/49.png",
+      "animatedUrl": "assets/bilibili/2/49.gif",
       "isHide": false,
       "packageId": "2",
       "meta": {
@@ -281,8 +281,8 @@
       "shortCodes": [
         "[tv_亲亲]"
       ],
-      "staticUrl": "assets/bilibili_emoji/2/50.png",
-      "animatedUrl": "assets/bilibili_emoji/2/50.gif",
+      "staticUrl": "assets/bilibili/2/50.png",
+      "animatedUrl": "assets/bilibili/2/50.gif",
       "isHide": false,
       "packageId": "2",
       "meta": {
@@ -297,8 +297,8 @@
       "shortCodes": [
         "[tv_调皮]"
       ],
-      "staticUrl": "assets/bilibili_emoji/2/51.png",
-      "animatedUrl": "assets/bilibili_emoji/2/51.gif",
+      "staticUrl": "assets/bilibili/2/51.png",
+      "animatedUrl": "assets/bilibili/2/51.gif",
       "isHide": false,
       "packageId": "2",
       "meta": {
@@ -313,8 +313,8 @@
       "shortCodes": [
         "[tv_笑哭]"
       ],
-      "staticUrl": "assets/bilibili_emoji/2/52.png",
-      "animatedUrl": "assets/bilibili_emoji/2/52.gif",
+      "staticUrl": "assets/bilibili/2/52.png",
+      "animatedUrl": "assets/bilibili/2/52.gif",
       "isHide": false,
       "packageId": "2",
       "meta": {
@@ -329,8 +329,8 @@
       "shortCodes": [
         "[tv_晕]"
       ],
-      "staticUrl": "assets/bilibili_emoji/2/53.png",
-      "animatedUrl": "assets/bilibili_emoji/2/53.gif",
+      "staticUrl": "assets/bilibili/2/53.png",
+      "animatedUrl": "assets/bilibili/2/53.gif",
       "isHide": false,
       "packageId": "2",
       "meta": {
@@ -345,8 +345,8 @@
       "shortCodes": [
         "[tv_点赞]"
       ],
-      "staticUrl": "assets/bilibili_emoji/2/54.png",
-      "animatedUrl": "assets/bilibili_emoji/2/54.gif",
+      "staticUrl": "assets/bilibili/2/54.png",
+      "animatedUrl": "assets/bilibili/2/54.gif",
       "isHide": false,
       "packageId": "2",
       "meta": {
@@ -361,8 +361,8 @@
       "shortCodes": [
         "[tv_害羞]"
       ],
-      "staticUrl": "assets/bilibili_emoji/2/55.png",
-      "animatedUrl": "assets/bilibili_emoji/2/55.gif",
+      "staticUrl": "assets/bilibili/2/55.png",
+      "animatedUrl": "assets/bilibili/2/55.gif",
       "isHide": false,
       "packageId": "2",
       "meta": {
@@ -377,8 +377,8 @@
       "shortCodes": [
         "[tv_睡着]"
       ],
-      "staticUrl": "assets/bilibili_emoji/2/56.png",
-      "animatedUrl": "assets/bilibili_emoji/2/56.gif",
+      "staticUrl": "assets/bilibili/2/56.png",
+      "animatedUrl": "assets/bilibili/2/56.gif",
       "isHide": false,
       "packageId": "2",
       "meta": {
@@ -393,8 +393,8 @@
       "shortCodes": [
         "[tv_色]"
       ],
-      "staticUrl": "assets/bilibili_emoji/2/57.png",
-      "animatedUrl": "assets/bilibili_emoji/2/57.gif",
+      "staticUrl": "assets/bilibili/2/57.png",
+      "animatedUrl": "assets/bilibili/2/57.gif",
       "isHide": false,
       "packageId": "2",
       "meta": {
@@ -409,8 +409,8 @@
       "shortCodes": [
         "[tv_吐血]"
       ],
-      "staticUrl": "assets/bilibili_emoji/2/58.png",
-      "animatedUrl": "assets/bilibili_emoji/2/58.gif",
+      "staticUrl": "assets/bilibili/2/58.png",
+      "animatedUrl": "assets/bilibili/2/58.gif",
       "isHide": false,
       "packageId": "2",
       "meta": {
@@ -425,8 +425,8 @@
       "shortCodes": [
         "[tv_无奈]"
       ],
-      "staticUrl": "assets/bilibili_emoji/2/59.png",
-      "animatedUrl": "assets/bilibili_emoji/2/59.gif",
+      "staticUrl": "assets/bilibili/2/59.png",
+      "animatedUrl": "assets/bilibili/2/59.gif",
       "isHide": false,
       "packageId": "2",
       "meta": {
@@ -441,8 +441,8 @@
       "shortCodes": [
         "[tv_再见]"
       ],
-      "staticUrl": "assets/bilibili_emoji/2/60.png",
-      "animatedUrl": "assets/bilibili_emoji/2/60.gif",
+      "staticUrl": "assets/bilibili/2/60.png",
+      "animatedUrl": "assets/bilibili/2/60.gif",
       "isHide": false,
       "packageId": "2",
       "meta": {
@@ -457,8 +457,8 @@
       "shortCodes": [
         "[tv_流汗]"
       ],
-      "staticUrl": "assets/bilibili_emoji/2/61.png",
-      "animatedUrl": "assets/bilibili_emoji/2/61.gif",
+      "staticUrl": "assets/bilibili/2/61.png",
+      "animatedUrl": "assets/bilibili/2/61.gif",
       "isHide": false,
       "packageId": "2",
       "meta": {
@@ -473,8 +473,8 @@
       "shortCodes": [
         "[tv_偷笑]"
       ],
-      "staticUrl": "assets/bilibili_emoji/2/62.png",
-      "animatedUrl": "assets/bilibili_emoji/2/62.gif",
+      "staticUrl": "assets/bilibili/2/62.png",
+      "animatedUrl": "assets/bilibili/2/62.gif",
       "isHide": false,
       "packageId": "2",
       "meta": {
@@ -489,8 +489,8 @@
       "shortCodes": [
         "[tv_抓狂]"
       ],
-      "staticUrl": "assets/bilibili_emoji/2/63.png",
-      "animatedUrl": "assets/bilibili_emoji/2/63.gif",
+      "staticUrl": "assets/bilibili/2/63.png",
+      "animatedUrl": "assets/bilibili/2/63.gif",
       "isHide": false,
       "packageId": "2",
       "meta": {
@@ -505,8 +505,8 @@
       "shortCodes": [
         "[tv_黑人问号]"
       ],
-      "staticUrl": "assets/bilibili_emoji/2/64.png",
-      "animatedUrl": "assets/bilibili_emoji/2/64.gif",
+      "staticUrl": "assets/bilibili/2/64.png",
+      "animatedUrl": "assets/bilibili/2/64.gif",
       "isHide": false,
       "packageId": "2",
       "meta": {
@@ -521,8 +521,8 @@
       "shortCodes": [
         "[tv_困]"
       ],
-      "staticUrl": "assets/bilibili_emoji/2/65.png",
-      "animatedUrl": "assets/bilibili_emoji/2/65.gif",
+      "staticUrl": "assets/bilibili/2/65.png",
+      "animatedUrl": "assets/bilibili/2/65.gif",
       "isHide": false,
       "packageId": "2",
       "meta": {
@@ -537,8 +537,8 @@
       "shortCodes": [
         "[tv_打脸]"
       ],
-      "staticUrl": "assets/bilibili_emoji/2/66.png",
-      "animatedUrl": "assets/bilibili_emoji/2/66.gif",
+      "staticUrl": "assets/bilibili/2/66.png",
+      "animatedUrl": "assets/bilibili/2/66.gif",
       "isHide": false,
       "packageId": "2",
       "meta": {
@@ -553,8 +553,8 @@
       "shortCodes": [
         "[tv_闭嘴]"
       ],
-      "staticUrl": "assets/bilibili_emoji/2/67.png",
-      "animatedUrl": "assets/bilibili_emoji/2/67.gif",
+      "staticUrl": "assets/bilibili/2/67.png",
+      "animatedUrl": "assets/bilibili/2/67.gif",
       "isHide": false,
       "packageId": "2",
       "meta": {
@@ -569,8 +569,8 @@
       "shortCodes": [
         "[tv_鄙视]"
       ],
-      "staticUrl": "assets/bilibili_emoji/2/68.png",
-      "animatedUrl": "assets/bilibili_emoji/2/68.gif",
+      "staticUrl": "assets/bilibili/2/68.png",
+      "animatedUrl": "assets/bilibili/2/68.gif",
       "isHide": false,
       "packageId": "2",
       "meta": {
@@ -585,8 +585,8 @@
       "shortCodes": [
         "[tv_腼腆]"
       ],
-      "staticUrl": "assets/bilibili_emoji/2/69.png",
-      "animatedUrl": "assets/bilibili_emoji/2/69.gif",
+      "staticUrl": "assets/bilibili/2/69.png",
+      "animatedUrl": "assets/bilibili/2/69.gif",
       "isHide": false,
       "packageId": "2",
       "meta": {
@@ -601,8 +601,8 @@
       "shortCodes": [
         "[tv_馋]"
       ],
-      "staticUrl": "assets/bilibili_emoji/2/70.png",
-      "animatedUrl": "assets/bilibili_emoji/2/70.gif",
+      "staticUrl": "assets/bilibili/2/70.png",
+      "animatedUrl": "assets/bilibili/2/70.gif",
       "isHide": false,
       "packageId": "2",
       "meta": {
@@ -617,8 +617,8 @@
       "shortCodes": [
         "[tv_可爱]"
       ],
-      "staticUrl": "assets/bilibili_emoji/2/71.png",
-      "animatedUrl": "assets/bilibili_emoji/2/71.gif",
+      "staticUrl": "assets/bilibili/2/71.png",
+      "animatedUrl": "assets/bilibili/2/71.gif",
       "isHide": false,
       "packageId": "2",
       "meta": {
@@ -633,8 +633,8 @@
       "shortCodes": [
         "[tv_发财]"
       ],
-      "staticUrl": "assets/bilibili_emoji/2/72.png",
-      "animatedUrl": "assets/bilibili_emoji/2/72.gif",
+      "staticUrl": "assets/bilibili/2/72.png",
+      "animatedUrl": "assets/bilibili/2/72.gif",
       "isHide": false,
       "packageId": "2",
       "meta": {
@@ -649,8 +649,8 @@
       "shortCodes": [
         "[tv_生病]"
       ],
-      "staticUrl": "assets/bilibili_emoji/2/73.png",
-      "animatedUrl": "assets/bilibili_emoji/2/73.gif",
+      "staticUrl": "assets/bilibili/2/73.png",
+      "animatedUrl": "assets/bilibili/2/73.gif",
       "isHide": false,
       "packageId": "2",
       "meta": {
@@ -665,8 +665,8 @@
       "shortCodes": [
         "[tv_流鼻血]"
       ],
-      "staticUrl": "assets/bilibili_emoji/2/74.png",
-      "animatedUrl": "assets/bilibili_emoji/2/74.gif",
+      "staticUrl": "assets/bilibili/2/74.png",
+      "animatedUrl": "assets/bilibili/2/74.gif",
       "isHide": false,
       "packageId": "2",
       "meta": {
@@ -681,8 +681,8 @@
       "shortCodes": [
         "[tv_尴尬]"
       ],
-      "staticUrl": "assets/bilibili_emoji/2/75.png",
-      "animatedUrl": "assets/bilibili_emoji/2/75.gif",
+      "staticUrl": "assets/bilibili/2/75.png",
+      "animatedUrl": "assets/bilibili/2/75.gif",
       "isHide": false,
       "packageId": "2",
       "meta": {
@@ -697,8 +697,8 @@
       "shortCodes": [
         "[tv_大佬]"
       ],
-      "staticUrl": "assets/bilibili_emoji/2/76.png",
-      "animatedUrl": "assets/bilibili_emoji/2/76.gif",
+      "staticUrl": "assets/bilibili/2/76.png",
+      "animatedUrl": "assets/bilibili/2/76.gif",
       "isHide": false,
       "packageId": "2",
       "meta": {
@@ -713,7 +713,7 @@
       "shortCodes": [
         "[tv_流泪]"
       ],
-      "staticUrl": "assets/bilibili_emoji/2/77.png",
+      "staticUrl": "assets/bilibili/2/77.png",
       "isHide": false,
       "packageId": "2",
       "meta": {
@@ -728,7 +728,7 @@
       "shortCodes": [
         "[tv_冷漠]"
       ],
-      "staticUrl": "assets/bilibili_emoji/2/78.png",
+      "staticUrl": "assets/bilibili/2/78.png",
       "isHide": false,
       "packageId": "2",
       "meta": {
@@ -743,7 +743,7 @@
       "shortCodes": [
         "[tv_皱眉]"
       ],
-      "staticUrl": "assets/bilibili_emoji/2/79.png",
+      "staticUrl": "assets/bilibili/2/79.png",
       "isHide": false,
       "packageId": "2",
       "meta": {
@@ -758,7 +758,7 @@
       "shortCodes": [
         "[tv_鬼脸]"
       ],
-      "staticUrl": "assets/bilibili_emoji/2/80.png",
+      "staticUrl": "assets/bilibili/2/80.png",
       "isHide": false,
       "packageId": "2",
       "meta": {
@@ -773,7 +773,7 @@
       "shortCodes": [
         "[tv_调侃]"
       ],
-      "staticUrl": "assets/bilibili_emoji/2/81.png",
+      "staticUrl": "assets/bilibili/2/81.png",
       "isHide": false,
       "packageId": "2",
       "meta": {
@@ -788,7 +788,7 @@
       "shortCodes": [
         "[tv_目瞪口呆]"
       ],
-      "staticUrl": "assets/bilibili_emoji/2/82.png",
+      "staticUrl": "assets/bilibili/2/82.png",
       "isHide": false,
       "packageId": "2",
       "meta": {

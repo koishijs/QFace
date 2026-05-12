@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "592",
   "name": "虞莫MOMO",
   "coverUrl": "https://i0.hdslb.com/bfs/emote/02939ba6146fe192165984ebb356e89c212acf96.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[虞莫MOMO_别拍别拍]"
       ],
-      "staticUrl": "assets/bilibili_emoji/592/10743.png",
+      "staticUrl": "assets/bilibili/592/10743.png",
       "isHide": false,
       "packageId": "592",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[虞莫MOMO_不吃主食]"
       ],
-      "staticUrl": "assets/bilibili_emoji/592/10744.png",
+      "staticUrl": "assets/bilibili/592/10744.png",
       "isHide": false,
       "packageId": "592",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[虞莫MOMO_嗨起来]"
       ],
-      "staticUrl": "assets/bilibili_emoji/592/10745.png",
+      "staticUrl": "assets/bilibili/592/10745.png",
       "isHide": false,
       "packageId": "592",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[虞莫MOMO_害怕]"
       ],
-      "staticUrl": "assets/bilibili_emoji/592/10746.png",
+      "staticUrl": "assets/bilibili/592/10746.png",
       "isHide": false,
       "packageId": "592",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[虞莫MOMO_紧张]"
       ],
-      "staticUrl": "assets/bilibili_emoji/592/10747.png",
+      "staticUrl": "assets/bilibili/592/10747.png",
       "isHide": false,
       "packageId": "592",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[虞莫MOMO_开心]"
       ],
-      "staticUrl": "assets/bilibili_emoji/592/10748.png",
+      "staticUrl": "assets/bilibili/592/10748.png",
       "isHide": false,
       "packageId": "592",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[虞莫MOMO_哭泣]"
       ],
-      "staticUrl": "assets/bilibili_emoji/592/10749.png",
+      "staticUrl": "assets/bilibili/592/10749.png",
       "isHide": false,
       "packageId": "592",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[虞莫MOMO_买买买]"
       ],
-      "staticUrl": "assets/bilibili_emoji/592/10750.png",
+      "staticUrl": "assets/bilibili/592/10750.png",
       "isHide": false,
       "packageId": "592",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[虞莫MOMO_没钱]"
       ],
-      "staticUrl": "assets/bilibili_emoji/592/10751.png",
+      "staticUrl": "assets/bilibili/592/10751.png",
       "isHide": false,
       "packageId": "592",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[虞莫MOMO_美人虞]"
       ],
-      "staticUrl": "assets/bilibili_emoji/592/10752.png",
+      "staticUrl": "assets/bilibili/592/10752.png",
       "isHide": false,
       "packageId": "592",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[虞莫MOMO_茄步]"
       ],
-      "staticUrl": "assets/bilibili_emoji/592/10753.png",
+      "staticUrl": "assets/bilibili/592/10753.png",
       "isHide": false,
       "packageId": "592",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[虞莫MOMO_茄子]"
       ],
-      "staticUrl": "assets/bilibili_emoji/592/10754.png",
+      "staticUrl": "assets/bilibili/592/10754.png",
       "isHide": false,
       "packageId": "592",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[虞莫MOMO_扔飞镖]"
       ],
-      "staticUrl": "assets/bilibili_emoji/592/10755.png",
+      "staticUrl": "assets/bilibili/592/10755.png",
       "isHide": false,
       "packageId": "592",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[虞莫MOMO_生气]"
       ],
-      "staticUrl": "assets/bilibili_emoji/592/10756.png",
+      "staticUrl": "assets/bilibili/592/10756.png",
       "isHide": false,
       "packageId": "592",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[虞莫MOMO_舞担]"
       ],
-      "staticUrl": "assets/bilibili_emoji/592/10757.png",
+      "staticUrl": "assets/bilibili/592/10757.png",
       "isHide": false,
       "packageId": "592",
       "meta": {
@@ -234,7 +234,7 @@
       "shortCodes": [
         "[虞莫MOMO_打牌]"
       ],
-      "staticUrl": "assets/bilibili_emoji/592/14372.png",
+      "staticUrl": "assets/bilibili/592/14372.png",
       "isHide": false,
       "packageId": "592",
       "meta": {
@@ -249,7 +249,7 @@
       "shortCodes": [
         "[虞莫MOMO_卡住了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/592/14373.png",
+      "staticUrl": "assets/bilibili/592/14373.png",
       "isHide": false,
       "packageId": "592",
       "meta": {
@@ -264,7 +264,7 @@
       "shortCodes": [
         "[虞莫MOMO_来了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/592/14374.png",
+      "staticUrl": "assets/bilibili/592/14374.png",
       "isHide": false,
       "packageId": "592",
       "meta": {
@@ -279,7 +279,7 @@
       "shortCodes": [
         "[虞莫MOMO_买它]"
       ],
-      "staticUrl": "assets/bilibili_emoji/592/14375.png",
+      "staticUrl": "assets/bilibili/592/14375.png",
       "isHide": false,
       "packageId": "592",
       "meta": {
@@ -294,7 +294,7 @@
       "shortCodes": [
         "[虞莫MOMO_茄皇]"
       ],
-      "staticUrl": "assets/bilibili_emoji/592/14376.png",
+      "staticUrl": "assets/bilibili/592/14376.png",
       "isHide": false,
       "packageId": "592",
       "meta": {
@@ -309,7 +309,7 @@
       "shortCodes": [
         "[虞莫MOMO_投降]"
       ],
-      "staticUrl": "assets/bilibili_emoji/592/14377.png",
+      "staticUrl": "assets/bilibili/592/14377.png",
       "isHide": false,
       "packageId": "592",
       "meta": {
@@ -324,7 +324,7 @@
       "shortCodes": [
         "[虞莫MOMO_我们是]"
       ],
-      "staticUrl": "assets/bilibili_emoji/592/14378.png",
+      "staticUrl": "assets/bilibili/592/14378.png",
       "isHide": false,
       "packageId": "592",
       "meta": {
@@ -339,7 +339,7 @@
       "shortCodes": [
         "[虞莫MOMO_现充]"
       ],
-      "staticUrl": "assets/bilibili_emoji/592/14379.png",
+      "staticUrl": "assets/bilibili/592/14379.png",
       "isHide": false,
       "packageId": "592",
       "meta": {
@@ -354,7 +354,7 @@
       "shortCodes": [
         "[虞莫MOMO_嘴硬]"
       ],
-      "staticUrl": "assets/bilibili_emoji/592/14380.png",
+      "staticUrl": "assets/bilibili/592/14380.png",
       "isHide": false,
       "packageId": "592",
       "meta": {
@@ -369,7 +369,7 @@
       "shortCodes": [
         "[虞莫MOMO_摇花手]"
       ],
-      "staticUrl": "assets/bilibili_emoji/592/14381.png",
+      "staticUrl": "assets/bilibili/592/14381.png",
       "isHide": false,
       "packageId": "592",
       "meta": {

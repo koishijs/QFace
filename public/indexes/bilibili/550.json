@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "550",
   "name": "杨戬",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/c0c17ef29a1ebb4bb95c1d814e2b0ca95b60beb7.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[杨戬_嘤嘤嘤]"
       ],
-      "staticUrl": "assets/bilibili_emoji/550/10073.png",
+      "staticUrl": "assets/bilibili/550/10073.png",
       "isHide": false,
       "packageId": "550",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[杨戬_撒娇]"
       ],
-      "staticUrl": "assets/bilibili_emoji/550/10068.png",
+      "staticUrl": "assets/bilibili/550/10068.png",
       "isHide": false,
       "packageId": "550",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[杨戬_比心]"
       ],
-      "staticUrl": "assets/bilibili_emoji/550/10060.png",
+      "staticUrl": "assets/bilibili/550/10060.png",
       "isHide": false,
       "packageId": "550",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[杨戬_泪目]"
       ],
-      "staticUrl": "assets/bilibili_emoji/550/10066.png",
+      "staticUrl": "assets/bilibili/550/10066.png",
       "isHide": false,
       "packageId": "550",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[杨戬_歇了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/550/10072.png",
+      "staticUrl": "assets/bilibili/550/10072.png",
       "isHide": false,
       "packageId": "550",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[杨戬_赏银来了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/550/10069.png",
+      "staticUrl": "assets/bilibili/550/10069.png",
       "isHide": false,
       "packageId": "550",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[杨戬_悠闲]"
       ],
-      "staticUrl": "assets/bilibili_emoji/550/10074.png",
+      "staticUrl": "assets/bilibili/550/10074.png",
       "isHide": false,
       "packageId": "550",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[杨戬_嘛呢]"
       ],
-      "staticUrl": "assets/bilibili_emoji/550/10065.png",
+      "staticUrl": "assets/bilibili/550/10065.png",
       "isHide": false,
       "packageId": "550",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[杨戬_看开了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/550/10063.png",
+      "staticUrl": "assets/bilibili/550/10063.png",
       "isHide": false,
       "packageId": "550",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[杨戬_生气]"
       ],
-      "staticUrl": "assets/bilibili_emoji/550/10070.png",
+      "staticUrl": "assets/bilibili/550/10070.png",
       "isHide": false,
       "packageId": "550",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[杨戬_戳]"
       ],
-      "staticUrl": "assets/bilibili_emoji/550/10061.png",
+      "staticUrl": "assets/bilibili/550/10061.png",
       "isHide": false,
       "packageId": "550",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[杨戬_媚笑]"
       ],
-      "staticUrl": "assets/bilibili_emoji/550/10067.png",
+      "staticUrl": "assets/bilibili/550/10067.png",
       "isHide": false,
       "packageId": "550",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[杨戬_退退退]"
       ],
-      "staticUrl": "assets/bilibili_emoji/550/10071.png",
+      "staticUrl": "assets/bilibili/550/10071.png",
       "isHide": false,
       "packageId": "550",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[杨戬_老脸一红]"
       ],
-      "staticUrl": "assets/bilibili_emoji/550/10064.png",
+      "staticUrl": "assets/bilibili/550/10064.png",
       "isHide": false,
       "packageId": "550",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[杨戬_干杯]"
       ],
-      "staticUrl": "assets/bilibili_emoji/550/10062.png",
+      "staticUrl": "assets/bilibili/550/10062.png",
       "isHide": false,
       "packageId": "550",
       "meta": {

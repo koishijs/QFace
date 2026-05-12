@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "174",
   "name": "多多poi",
   "coverUrl": "https://i0.hdslb.com/bfs/emote/6d29062306dadd2728ee434dae1dd2d55b81cb09.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[多多poi_吃樱桃]"
       ],
-      "staticUrl": "assets/bilibili_emoji/174/3177.png",
+      "staticUrl": "assets/bilibili/174/3177.png",
       "isHide": false,
       "packageId": "174",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[多多poi_冲冲冲]"
       ],
-      "staticUrl": "assets/bilibili_emoji/174/3178.png",
+      "staticUrl": "assets/bilibili/174/3178.png",
       "isHide": false,
       "packageId": "174",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[多多poi_大哭]"
       ],
-      "staticUrl": "assets/bilibili_emoji/174/3179.png",
+      "staticUrl": "assets/bilibili/174/3179.png",
       "isHide": false,
       "packageId": "174",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[多多poi_害羞]"
       ],
-      "staticUrl": "assets/bilibili_emoji/174/3180.png",
+      "staticUrl": "assets/bilibili/174/3180.png",
       "isHide": false,
       "packageId": "174",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[多多poi_花痴]"
       ],
-      "staticUrl": "assets/bilibili_emoji/174/3181.png",
+      "staticUrl": "assets/bilibili/174/3181.png",
       "isHide": false,
       "packageId": "174",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[多多poi_开心]"
       ],
-      "staticUrl": "assets/bilibili_emoji/174/3182.png",
+      "staticUrl": "assets/bilibili/174/3182.png",
       "isHide": false,
       "packageId": "174",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[多多poi_教我做事]"
       ],
-      "staticUrl": "assets/bilibili_emoji/174/3183.png",
+      "staticUrl": "assets/bilibili/174/3183.png",
       "isHide": false,
       "packageId": "174",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[多多poi_生气]"
       ],
-      "staticUrl": "assets/bilibili_emoji/174/3184.png",
+      "staticUrl": "assets/bilibili/174/3184.png",
       "isHide": false,
       "packageId": "174",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[多多poi_危]"
       ],
-      "staticUrl": "assets/bilibili_emoji/174/3185.png",
+      "staticUrl": "assets/bilibili/174/3185.png",
       "isHide": false,
       "packageId": "174",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[多多poi_委屈]"
       ],
-      "staticUrl": "assets/bilibili_emoji/174/3186.png",
+      "staticUrl": "assets/bilibili/174/3186.png",
       "isHide": false,
       "packageId": "174",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[多多poi_喜欢]"
       ],
-      "staticUrl": "assets/bilibili_emoji/174/3187.png",
+      "staticUrl": "assets/bilibili/174/3187.png",
       "isHide": false,
       "packageId": "174",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[多多poi_嫌弃]"
       ],
-      "staticUrl": "assets/bilibili_emoji/174/3188.png",
+      "staticUrl": "assets/bilibili/174/3188.png",
       "isHide": false,
       "packageId": "174",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[多多poi_疑问]"
       ],
-      "staticUrl": "assets/bilibili_emoji/174/3189.png",
+      "staticUrl": "assets/bilibili/174/3189.png",
       "isHide": false,
       "packageId": "174",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[多多poi_震惊]"
       ],
-      "staticUrl": "assets/bilibili_emoji/174/3190.png",
+      "staticUrl": "assets/bilibili/174/3190.png",
       "isHide": false,
       "packageId": "174",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[多多poi_升天]"
       ],
-      "staticUrl": "assets/bilibili_emoji/174/3191.png",
+      "staticUrl": "assets/bilibili/174/3191.png",
       "isHide": false,
       "packageId": "174",
       "meta": {
@@ -234,7 +234,7 @@
       "shortCodes": [
         "[多多poi_win]"
       ],
-      "staticUrl": "assets/bilibili_emoji/174/13398.png",
+      "staticUrl": "assets/bilibili/174/13398.png",
       "isHide": false,
       "packageId": "174",
       "meta": {
@@ -249,7 +249,7 @@
       "shortCodes": [
         "[多多poi_啊——]"
       ],
-      "staticUrl": "assets/bilibili_emoji/174/13399.png",
+      "staticUrl": "assets/bilibili/174/13399.png",
       "isHide": false,
       "packageId": "174",
       "meta": {
@@ -264,7 +264,7 @@
       "shortCodes": [
         "[多多poi_啊对对对]"
       ],
-      "staticUrl": "assets/bilibili_emoji/174/13400.png",
+      "staticUrl": "assets/bilibili/174/13400.png",
       "isHide": false,
       "packageId": "174",
       "meta": {
@@ -279,7 +279,7 @@
       "shortCodes": [
         "[多多poi_地铁多多]"
       ],
-      "staticUrl": "assets/bilibili_emoji/174/13401.png",
+      "staticUrl": "assets/bilibili/174/13401.png",
       "isHide": false,
       "packageId": "174",
       "meta": {
@@ -294,7 +294,7 @@
       "shortCodes": [
         "[多多poi_流汗]"
       ],
-      "staticUrl": "assets/bilibili_emoji/174/13402.png",
+      "staticUrl": "assets/bilibili/174/13402.png",
       "isHide": false,
       "packageId": "174",
       "meta": {
@@ -309,7 +309,7 @@
       "shortCodes": [
         "[多多poi_略略略]"
       ],
-      "staticUrl": "assets/bilibili_emoji/174/13403.png",
+      "staticUrl": "assets/bilibili/174/13403.png",
       "isHide": false,
       "packageId": "174",
       "meta": {
@@ -324,7 +324,7 @@
       "shortCodes": [
         "[多多poi_梦里都有]"
       ],
-      "staticUrl": "assets/bilibili_emoji/174/13404.png",
+      "staticUrl": "assets/bilibili/174/13404.png",
       "isHide": false,
       "packageId": "174",
       "meta": {
@@ -339,7 +339,7 @@
       "shortCodes": [
         "[多多poi_上号]"
       ],
-      "staticUrl": "assets/bilibili_emoji/174/13405.png",
+      "staticUrl": "assets/bilibili/174/13405.png",
       "isHide": false,
       "packageId": "174",
       "meta": {
@@ -354,7 +354,7 @@
       "shortCodes": [
         "[多多poi_思考]"
       ],
-      "staticUrl": "assets/bilibili_emoji/174/13406.png",
+      "staticUrl": "assets/bilibili/174/13406.png",
       "isHide": false,
       "packageId": "174",
       "meta": {
@@ -369,7 +369,7 @@
       "shortCodes": [
         "[多多poi_贴贴]"
       ],
-      "staticUrl": "assets/bilibili_emoji/174/13407.png",
+      "staticUrl": "assets/bilibili/174/13407.png",
       "isHide": false,
       "packageId": "174",
       "meta": {

@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "583",
   "name": "奶油兔",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/912557b0222978bb70d112b99cd95259ae941ae5.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[奶油兔_emm]"
       ],
-      "staticUrl": "assets/bilibili_emoji/583/10578.png",
+      "staticUrl": "assets/bilibili/583/10578.png",
       "isHide": false,
       "packageId": "583",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[奶油兔_什么]"
       ],
-      "staticUrl": "assets/bilibili_emoji/583/10579.png",
+      "staticUrl": "assets/bilibili/583/10579.png",
       "isHide": false,
       "packageId": "583",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[奶油兔_可爱]"
       ],
-      "staticUrl": "assets/bilibili_emoji/583/10580.png",
+      "staticUrl": "assets/bilibili/583/10580.png",
       "isHide": false,
       "packageId": "583",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[奶油兔_呜呜]"
       ],
-      "staticUrl": "assets/bilibili_emoji/583/10581.png",
+      "staticUrl": "assets/bilibili/583/10581.png",
       "isHide": false,
       "packageId": "583",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[奶油兔_品茗]"
       ],
-      "staticUrl": "assets/bilibili_emoji/583/10582.png",
+      "staticUrl": "assets/bilibili/583/10582.png",
       "isHide": false,
       "packageId": "583",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[奶油兔_嗯嗯]"
       ],
-      "staticUrl": "assets/bilibili_emoji/583/10583.png",
+      "staticUrl": "assets/bilibili/583/10583.png",
       "isHide": false,
       "packageId": "583",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[奶油兔_急了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/583/10584.png",
+      "staticUrl": "assets/bilibili/583/10584.png",
       "isHide": false,
       "packageId": "583",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[奶油兔_悠闲]"
       ],
-      "staticUrl": "assets/bilibili_emoji/583/10585.png",
+      "staticUrl": "assets/bilibili/583/10585.png",
       "isHide": false,
       "packageId": "583",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[奶油兔_我来了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/583/10586.png",
+      "staticUrl": "assets/bilibili/583/10586.png",
       "isHide": false,
       "packageId": "583",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[奶油兔_托腮]"
       ],
-      "staticUrl": "assets/bilibili_emoji/583/10587.png",
+      "staticUrl": "assets/bilibili/583/10587.png",
       "isHide": false,
       "packageId": "583",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[奶油兔_无聊]"
       ],
-      "staticUrl": "assets/bilibili_emoji/583/10588.png",
+      "staticUrl": "assets/bilibili/583/10588.png",
       "isHide": false,
       "packageId": "583",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[奶油兔_早上好]"
       ],
-      "staticUrl": "assets/bilibili_emoji/583/10589.png",
+      "staticUrl": "assets/bilibili/583/10589.png",
       "isHide": false,
       "packageId": "583",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[奶油兔_有人吗]"
       ],
-      "staticUrl": "assets/bilibili_emoji/583/10590.png",
+      "staticUrl": "assets/bilibili/583/10590.png",
       "isHide": false,
       "packageId": "583",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[奶油兔_棒]"
       ],
-      "staticUrl": "assets/bilibili_emoji/583/10591.png",
+      "staticUrl": "assets/bilibili/583/10591.png",
       "isHide": false,
       "packageId": "583",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[奶油兔_比心]"
       ],
-      "staticUrl": "assets/bilibili_emoji/583/10592.png",
+      "staticUrl": "assets/bilibili/583/10592.png",
       "isHide": false,
       "packageId": "583",
       "meta": {
@@ -234,7 +234,7 @@
       "shortCodes": [
         "[奶油兔_睡了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/583/10593.png",
+      "staticUrl": "assets/bilibili/583/10593.png",
       "isHide": false,
       "packageId": "583",
       "meta": {
@@ -249,7 +249,7 @@
       "shortCodes": [
         "[奶油兔_突然出现]"
       ],
-      "staticUrl": "assets/bilibili_emoji/583/10594.png",
+      "staticUrl": "assets/bilibili/583/10594.png",
       "isHide": false,
       "packageId": "583",
       "meta": {
@@ -264,7 +264,7 @@
       "shortCodes": [
         "[奶油兔_美味]"
       ],
-      "staticUrl": "assets/bilibili_emoji/583/10595.png",
+      "staticUrl": "assets/bilibili/583/10595.png",
       "isHide": false,
       "packageId": "583",
       "meta": {
@@ -279,7 +279,7 @@
       "shortCodes": [
         "[奶油兔_超凶]"
       ],
-      "staticUrl": "assets/bilibili_emoji/583/10597.png",
+      "staticUrl": "assets/bilibili/583/10597.png",
       "isHide": false,
       "packageId": "583",
       "meta": {
@@ -294,7 +294,7 @@
       "shortCodes": [
         "[奶油兔_达咩]"
       ],
-      "staticUrl": "assets/bilibili_emoji/583/10598.png",
+      "staticUrl": "assets/bilibili/583/10598.png",
       "isHide": false,
       "packageId": "583",
       "meta": {
@@ -309,7 +309,7 @@
       "shortCodes": [
         "[奶油兔_爆笑]"
       ],
-      "staticUrl": "assets/bilibili_emoji/583/10599.png",
+      "staticUrl": "assets/bilibili/583/10599.png",
       "isHide": false,
       "packageId": "583",
       "meta": {
@@ -324,7 +324,7 @@
       "shortCodes": [
         "[奶油兔_点个赞]"
       ],
-      "staticUrl": "assets/bilibili_emoji/583/10600.png",
+      "staticUrl": "assets/bilibili/583/10600.png",
       "isHide": false,
       "packageId": "583",
       "meta": {
@@ -339,7 +339,7 @@
       "shortCodes": [
         "[奶油兔_三连]"
       ],
-      "staticUrl": "assets/bilibili_emoji/583/10601.png",
+      "staticUrl": "assets/bilibili/583/10601.png",
       "isHide": false,
       "packageId": "583",
       "meta": {
@@ -354,7 +354,7 @@
       "shortCodes": [
         "[奶油兔_投个币]"
       ],
-      "staticUrl": "assets/bilibili_emoji/583/10602.png",
+      "staticUrl": "assets/bilibili/583/10602.png",
       "isHide": false,
       "packageId": "583",
       "meta": {
@@ -369,7 +369,7 @@
       "shortCodes": [
         "[奶油兔_自闭]"
       ],
-      "staticUrl": "assets/bilibili_emoji/583/10603.png",
+      "staticUrl": "assets/bilibili/583/10603.png",
       "isHide": false,
       "packageId": "583",
       "meta": {

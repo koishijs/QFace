@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "87",
   "name": "我开动物园那些年",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/756076b89e36f32c98dc26bc3f1d43016e5f2ad1.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[动物园_来了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/87/1999.png",
+      "staticUrl": "assets/bilibili/87/1999.png",
       "isHide": false,
       "packageId": "87",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[动物园_傲娇]"
       ],
-      "staticUrl": "assets/bilibili_emoji/87/2000.png",
+      "staticUrl": "assets/bilibili/87/2000.png",
       "isHide": false,
       "packageId": "87",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[动物园_暴躁]"
       ],
-      "staticUrl": "assets/bilibili_emoji/87/2001.png",
+      "staticUrl": "assets/bilibili/87/2001.png",
       "isHide": false,
       "packageId": "87",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[动物园_害怕]"
       ],
-      "staticUrl": "assets/bilibili_emoji/87/2002.png",
+      "staticUrl": "assets/bilibili/87/2002.png",
       "isHide": false,
       "packageId": "87",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[动物园_嘲讽]"
       ],
-      "staticUrl": "assets/bilibili_emoji/87/2003.png",
+      "staticUrl": "assets/bilibili/87/2003.png",
       "isHide": false,
       "packageId": "87",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[动物园_哦哟？]"
       ],
-      "staticUrl": "assets/bilibili_emoji/87/2004.png",
+      "staticUrl": "assets/bilibili/87/2004.png",
       "isHide": false,
       "packageId": "87",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[动物园_冷漠]"
       ],
-      "staticUrl": "assets/bilibili_emoji/87/2005.png",
+      "staticUrl": "assets/bilibili/87/2005.png",
       "isHide": false,
       "packageId": "87",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[动物园_要饭]"
       ],
-      "staticUrl": "assets/bilibili_emoji/87/2006.png",
+      "staticUrl": "assets/bilibili/87/2006.png",
       "isHide": false,
       "packageId": "87",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[动物园_害羞]"
       ],
-      "staticUrl": "assets/bilibili_emoji/87/2007.png",
+      "staticUrl": "assets/bilibili/87/2007.png",
       "isHide": false,
       "packageId": "87",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[动物园_咦]"
       ],
-      "staticUrl": "assets/bilibili_emoji/87/2008.png",
+      "staticUrl": "assets/bilibili/87/2008.png",
       "isHide": false,
       "packageId": "87",
       "meta": {

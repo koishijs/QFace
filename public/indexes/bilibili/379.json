@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "379",
   "name": "测不准的阿波连同学",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/b200ccab0f3361048630e639e86b6fc2e443fb79.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[测不准的阿波连同学_ok]"
       ],
-      "staticUrl": "assets/bilibili_emoji/379/6256.png",
+      "staticUrl": "assets/bilibili/379/6256.png",
       "isHide": false,
       "packageId": "379",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[测不准的阿波连同学_拜托了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/379/6257.png",
+      "staticUrl": "assets/bilibili/379/6257.png",
       "isHide": false,
       "packageId": "379",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[测不准的阿波连同学_颤颤巍巍]"
       ],
-      "staticUrl": "assets/bilibili_emoji/379/6258.png",
+      "staticUrl": "assets/bilibili/379/6258.png",
       "isHide": false,
       "packageId": "379",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[测不准的阿波连同学_打嗝]"
       ],
-      "staticUrl": "assets/bilibili_emoji/379/6259.png",
+      "staticUrl": "assets/bilibili/379/6259.png",
       "isHide": false,
       "packageId": "379",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[测不准的阿波连同学_盯]"
       ],
-      "staticUrl": "assets/bilibili_emoji/379/6260.png",
+      "staticUrl": "assets/bilibili/379/6260.png",
       "isHide": false,
       "packageId": "379",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[测不准的阿波连同学_发怒]"
       ],
-      "staticUrl": "assets/bilibili_emoji/379/6261.png",
+      "staticUrl": "assets/bilibili/379/6261.png",
       "isHide": false,
       "packageId": "379",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[测不准的阿波连同学_乖乖]"
       ],
-      "staticUrl": "assets/bilibili_emoji/379/6262.png",
+      "staticUrl": "assets/bilibili/379/6262.png",
       "isHide": false,
       "packageId": "379",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[测不准的阿波连同学_害怕到哭]"
       ],
-      "staticUrl": "assets/bilibili_emoji/379/6263.png",
+      "staticUrl": "assets/bilibili/379/6263.png",
       "isHide": false,
       "packageId": "379",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[测不准的阿波连同学_害羞]"
       ],
-      "staticUrl": "assets/bilibili_emoji/379/6264.png",
+      "staticUrl": "assets/bilibili/379/6264.png",
       "isHide": false,
       "packageId": "379",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[测不准的阿波连同学_好吃]"
       ],
-      "staticUrl": "assets/bilibili_emoji/379/6265.png",
+      "staticUrl": "assets/bilibili/379/6265.png",
       "isHide": false,
       "packageId": "379",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[测不准的阿波连同学_好厉害]"
       ],
-      "staticUrl": "assets/bilibili_emoji/379/6266.png",
+      "staticUrl": "assets/bilibili/379/6266.png",
       "isHide": false,
       "packageId": "379",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[测不准的阿波连同学_欢喜]"
       ],
-      "staticUrl": "assets/bilibili_emoji/379/6267.png",
+      "staticUrl": "assets/bilibili/379/6267.png",
       "isHide": false,
       "packageId": "379",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[测不准的阿波连同学_精疲力尽]"
       ],
-      "staticUrl": "assets/bilibili_emoji/379/6268.png",
+      "staticUrl": "assets/bilibili/379/6268.png",
       "isHide": false,
       "packageId": "379",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[测不准的阿波连同学_开心]"
       ],
-      "staticUrl": "assets/bilibili_emoji/379/6269.png",
+      "staticUrl": "assets/bilibili/379/6269.png",
       "isHide": false,
       "packageId": "379",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[测不准的阿波连同学_口袋空空]"
       ],
-      "staticUrl": "assets/bilibili_emoji/379/6270.png",
+      "staticUrl": "assets/bilibili/379/6270.png",
       "isHide": false,
       "packageId": "379",
       "meta": {
@@ -234,7 +234,7 @@
       "shortCodes": [
         "[测不准的阿波连同学_难道是？！]"
       ],
-      "staticUrl": "assets/bilibili_emoji/379/6271.png",
+      "staticUrl": "assets/bilibili/379/6271.png",
       "isHide": false,
       "packageId": "379",
       "meta": {
@@ -249,7 +249,7 @@
       "shortCodes": [
         "[测不准的阿波连同学_上班第一天]"
       ],
-      "staticUrl": "assets/bilibili_emoji/379/6272.png",
+      "staticUrl": "assets/bilibili/379/6272.png",
       "isHide": false,
       "packageId": "379",
       "meta": {
@@ -264,7 +264,7 @@
       "shortCodes": [
         "[测不准的阿波连同学_帅气]"
       ],
-      "staticUrl": "assets/bilibili_emoji/379/6273.png",
+      "staticUrl": "assets/bilibili/379/6273.png",
       "isHide": false,
       "packageId": "379",
       "meta": {
@@ -279,7 +279,7 @@
       "shortCodes": [
         "[测不准的阿波连同学_晚安]"
       ],
-      "staticUrl": "assets/bilibili_emoji/379/6274.png",
+      "staticUrl": "assets/bilibili/379/6274.png",
       "isHide": false,
       "packageId": "379",
       "meta": {
@@ -294,7 +294,7 @@
       "shortCodes": [
         "[测不准的阿波连同学_喂你]"
       ],
-      "staticUrl": "assets/bilibili_emoji/379/6275.png",
+      "staticUrl": "assets/bilibili/379/6275.png",
       "isHide": false,
       "packageId": "379",
       "meta": {
@@ -309,7 +309,7 @@
       "shortCodes": [
         "[测不准的阿波连同学_我是大富豪]"
       ],
-      "staticUrl": "assets/bilibili_emoji/379/6276.png",
+      "staticUrl": "assets/bilibili/379/6276.png",
       "isHide": false,
       "packageId": "379",
       "meta": {
@@ -324,7 +324,7 @@
       "shortCodes": [
         "[测不准的阿波连同学_我要报警啦]"
       ],
-      "staticUrl": "assets/bilibili_emoji/379/6277.png",
+      "staticUrl": "assets/bilibili/379/6277.png",
       "isHide": false,
       "packageId": "379",
       "meta": {
@@ -339,7 +339,7 @@
       "shortCodes": [
         "[测不准的阿波连同学_眼泪汪汪]"
       ],
-      "staticUrl": "assets/bilibili_emoji/379/6278.png",
+      "staticUrl": "assets/bilibili/379/6278.png",
       "isHide": false,
       "packageId": "379",
       "meta": {
@@ -354,7 +354,7 @@
       "shortCodes": [
         "[测不准的阿波连同学_晕]"
       ],
-      "staticUrl": "assets/bilibili_emoji/379/6279.png",
+      "staticUrl": "assets/bilibili/379/6279.png",
       "isHide": false,
       "packageId": "379",
       "meta": {
@@ -369,7 +369,7 @@
       "shortCodes": [
         "[测不准的阿波连同学_震惊]"
       ],
-      "staticUrl": "assets/bilibili_emoji/379/6280.png",
+      "staticUrl": "assets/bilibili/379/6280.png",
       "isHide": false,
       "packageId": "379",
       "meta": {

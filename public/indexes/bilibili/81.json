@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "81",
   "name": "2020拜年祭",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/b8d9389b66b9209c93a275fbd32dd97f818ec504.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[2020拜年祭_哈气]"
       ],
-      "staticUrl": "assets/bilibili_emoji/81/1856.png",
+      "staticUrl": "assets/bilibili/81/1856.png",
       "isHide": false,
       "packageId": "81",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[2020拜年祭_期待]"
       ],
-      "staticUrl": "assets/bilibili_emoji/81/1857.png",
+      "staticUrl": "assets/bilibili/81/1857.png",
       "isHide": false,
       "packageId": "81",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[2020拜年祭_吸欧气]"
       ],
-      "staticUrl": "assets/bilibili_emoji/81/1858.png",
+      "staticUrl": "assets/bilibili/81/1858.png",
       "isHide": false,
       "packageId": "81",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[2020拜年祭_领红包]"
       ],
-      "staticUrl": "assets/bilibili_emoji/81/1859.png",
+      "staticUrl": "assets/bilibili/81/1859.png",
       "isHide": false,
       "packageId": "81",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[2020拜年祭_谢谢老板]"
       ],
-      "staticUrl": "assets/bilibili_emoji/81/1860.png",
+      "staticUrl": "assets/bilibili/81/1860.png",
       "isHide": false,
       "packageId": "81",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[2020拜年祭_灯笼]"
       ],
-      "staticUrl": "assets/bilibili_emoji/81/1861.png",
+      "staticUrl": "assets/bilibili/81/1861.png",
       "isHide": false,
       "packageId": "81",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[2020拜年祭_火锅]"
       ],
-      "staticUrl": "assets/bilibili_emoji/81/1862.png",
+      "staticUrl": "assets/bilibili/81/1862.png",
       "isHide": false,
       "packageId": "81",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[2020拜年祭_2020]"
       ],
-      "staticUrl": "assets/bilibili_emoji/81/1863.png",
+      "staticUrl": "assets/bilibili/81/1863.png",
       "isHide": false,
       "packageId": "81",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[2020拜年祭_红包]"
       ],
-      "staticUrl": "assets/bilibili_emoji/81/1864.png",
+      "staticUrl": "assets/bilibili/81/1864.png",
       "isHide": false,
       "packageId": "81",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[2020拜年祭_新年好]"
       ],
-      "staticUrl": "assets/bilibili_emoji/81/1865.png",
+      "staticUrl": "assets/bilibili/81/1865.png",
       "isHide": false,
       "packageId": "81",
       "meta": {

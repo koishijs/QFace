@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "217",
   "name": "总督",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/6974c334b31cc31ebd972ad334aa42de6a775dd3.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[总督_hi]"
       ],
-      "staticUrl": "assets/bilibili_emoji/217/3785.png",
+      "staticUrl": "assets/bilibili/217/3785.png",
       "isHide": false,
       "packageId": "217",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[总督_。。。]"
       ],
-      "staticUrl": "assets/bilibili_emoji/217/3813.png",
+      "staticUrl": "assets/bilibili/217/3813.png",
       "isHide": false,
       "packageId": "217",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[总督_ok]"
       ],
-      "staticUrl": "assets/bilibili_emoji/217/3814.png",
+      "staticUrl": "assets/bilibili/217/3814.png",
       "isHide": false,
       "packageId": "217",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[总督_wink]"
       ],
-      "staticUrl": "assets/bilibili_emoji/217/3815.png",
+      "staticUrl": "assets/bilibili/217/3815.png",
       "isHide": false,
       "packageId": "217",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[总督_比心]"
       ],
-      "staticUrl": "assets/bilibili_emoji/217/3816.png",
+      "staticUrl": "assets/bilibili/217/3816.png",
       "isHide": false,
       "packageId": "217",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[总督_哈哈哈]"
       ],
-      "staticUrl": "assets/bilibili_emoji/217/3817.png",
+      "staticUrl": "assets/bilibili/217/3817.png",
       "isHide": false,
       "packageId": "217",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[总督_好耶]"
       ],
-      "staticUrl": "assets/bilibili_emoji/217/3818.png",
+      "staticUrl": "assets/bilibili/217/3818.png",
       "isHide": false,
       "packageId": "217",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[总督_很强]"
       ],
-      "staticUrl": "assets/bilibili_emoji/217/3819.png",
+      "staticUrl": "assets/bilibili/217/3819.png",
       "isHide": false,
       "packageId": "217",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[总督_裂开]"
       ],
-      "staticUrl": "assets/bilibili_emoji/217/3820.png",
+      "staticUrl": "assets/bilibili/217/3820.png",
       "isHide": false,
       "packageId": "217",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[总督_灵光一闪]"
       ],
-      "staticUrl": "assets/bilibili_emoji/217/3821.png",
+      "staticUrl": "assets/bilibili/217/3821.png",
       "isHide": false,
       "packageId": "217",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[总督_起飞]"
       ],
-      "staticUrl": "assets/bilibili_emoji/217/3822.png",
+      "staticUrl": "assets/bilibili/217/3822.png",
       "isHide": false,
       "packageId": "217",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[总督_傻了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/217/3823.png",
+      "staticUrl": "assets/bilibili/217/3823.png",
       "isHide": false,
       "packageId": "217",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[总督_咸鱼]"
       ],
-      "staticUrl": "assets/bilibili_emoji/217/3824.png",
+      "staticUrl": "assets/bilibili/217/3824.png",
       "isHide": false,
       "packageId": "217",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[总督_谢谢]"
       ],
-      "staticUrl": "assets/bilibili_emoji/217/3825.png",
+      "staticUrl": "assets/bilibili/217/3825.png",
       "isHide": false,
       "packageId": "217",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[总督_召唤好运]"
       ],
-      "staticUrl": "assets/bilibili_emoji/217/3826.png",
+      "staticUrl": "assets/bilibili/217/3826.png",
       "isHide": false,
       "packageId": "217",
       "meta": {

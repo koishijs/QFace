@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "277",
   "name": "阿梓",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/54cf032d4646e646814ce14c15b9223a626ce67e.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[阿梓_安静一下]"
       ],
-      "staticUrl": "assets/bilibili_emoji/277/4595.png",
+      "staticUrl": "assets/bilibili/277/4595.png",
       "isHide": false,
       "packageId": "277",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[阿梓_别走好吗]"
       ],
-      "staticUrl": "assets/bilibili_emoji/277/4596.png",
+      "staticUrl": "assets/bilibili/277/4596.png",
       "isHide": false,
       "packageId": "277",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[阿梓_不怕困难]"
       ],
-      "staticUrl": "assets/bilibili_emoji/277/4597.png",
+      "staticUrl": "assets/bilibili/277/4597.png",
       "isHide": false,
       "packageId": "277",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[阿梓_吹溜溜笛]"
       ],
-      "staticUrl": "assets/bilibili_emoji/277/4598.png",
+      "staticUrl": "assets/bilibili/277/4598.png",
       "isHide": false,
       "packageId": "277",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[阿梓_大家好呀]"
       ],
-      "staticUrl": "assets/bilibili_emoji/277/4599.png",
+      "staticUrl": "assets/bilibili/277/4599.png",
       "isHide": false,
       "packageId": "277",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[阿梓_就这？]"
       ],
-      "staticUrl": "assets/bilibili_emoji/277/4600.png",
+      "staticUrl": "assets/bilibili/277/4600.png",
       "isHide": false,
       "packageId": "277",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[阿梓_可爱捏]"
       ],
-      "staticUrl": "assets/bilibili_emoji/277/4601.png",
+      "staticUrl": "assets/bilibili/277/4601.png",
       "isHide": false,
       "packageId": "277",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[阿梓_哭哭]"
       ],
-      "staticUrl": "assets/bilibili_emoji/277/4602.png",
+      "staticUrl": "assets/bilibili/277/4602.png",
       "isHide": false,
       "packageId": "277",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[阿梓_拿个快递]"
       ],
-      "staticUrl": "assets/bilibili_emoji/277/4603.png",
+      "staticUrl": "assets/bilibili/277/4603.png",
       "isHide": false,
       "packageId": "277",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[阿梓_恰饱饱]"
       ],
-      "staticUrl": "assets/bilibili_emoji/277/4604.png",
+      "staticUrl": "assets/bilibili/277/4604.png",
       "isHide": false,
       "packageId": "277",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[阿梓_拳头硬了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/277/4605.png",
+      "staticUrl": "assets/bilibili/277/4605.png",
       "isHide": false,
       "packageId": "277",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[阿梓_忍者修行]"
       ],
-      "staticUrl": "assets/bilibili_emoji/277/4606.png",
+      "staticUrl": "assets/bilibili/277/4606.png",
       "isHide": false,
       "packageId": "277",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[阿梓_太破费了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/277/4607.png",
+      "staticUrl": "assets/bilibili/277/4607.png",
       "isHide": false,
       "packageId": "277",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[阿梓_歪歪歪]"
       ],
-      "staticUrl": "assets/bilibili_emoji/277/4608.png",
+      "staticUrl": "assets/bilibili/277/4608.png",
       "isHide": false,
       "packageId": "277",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[阿梓_我晒吗]"
       ],
-      "staticUrl": "assets/bilibili_emoji/277/4609.png",
+      "staticUrl": "assets/bilibili/277/4609.png",
       "isHide": false,
       "packageId": "277",
       "meta": {
@@ -234,7 +234,7 @@
       "shortCodes": [
         "[阿梓_我是楞啊]"
       ],
-      "staticUrl": "assets/bilibili_emoji/277/4610.png",
+      "staticUrl": "assets/bilibili/277/4610.png",
       "isHide": false,
       "packageId": "277",
       "meta": {
@@ -249,7 +249,7 @@
       "shortCodes": [
         "[阿梓_谢谢你呀]"
       ],
-      "staticUrl": "assets/bilibili_emoji/277/4611.png",
+      "staticUrl": "assets/bilibili/277/4611.png",
       "isHide": false,
       "packageId": "277",
       "meta": {
@@ -264,7 +264,7 @@
       "shortCodes": [
         "[阿梓_咋回事捏]"
       ],
-      "staticUrl": "assets/bilibili_emoji/277/4612.png",
+      "staticUrl": "assets/bilibili/277/4612.png",
       "isHide": false,
       "packageId": "277",
       "meta": {
@@ -279,7 +279,7 @@
       "shortCodes": [
         "[阿梓_真接受不了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/277/4613.png",
+      "staticUrl": "assets/bilibili/277/4613.png",
       "isHide": false,
       "packageId": "277",
       "meta": {
@@ -294,7 +294,7 @@
       "shortCodes": [
         "[阿梓_真牛蛙]"
       ],
-      "staticUrl": "assets/bilibili_emoji/277/4614.png",
+      "staticUrl": "assets/bilibili/277/4614.png",
       "isHide": false,
       "packageId": "277",
       "meta": {

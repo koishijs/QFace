@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "381",
   "name": "星瞳",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/21e18957e8cefe71c9693cfc0fcbfbfda3d5bd79.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[星瞳_mua]"
       ],
-      "staticUrl": "assets/bilibili_emoji/381/6306.png",
+      "staticUrl": "assets/bilibili/381/6306.png",
       "isHide": false,
       "packageId": "381",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[星瞳_钓鱼]"
       ],
-      "staticUrl": "assets/bilibili_emoji/381/6307.png",
+      "staticUrl": "assets/bilibili/381/6307.png",
       "isHide": false,
       "packageId": "381",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[星瞳_给你一拳]"
       ],
-      "staticUrl": "assets/bilibili_emoji/381/6308.png",
+      "staticUrl": "assets/bilibili/381/6308.png",
       "isHide": false,
       "packageId": "381",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[星瞳_见钱眼开]"
       ],
-      "staticUrl": "assets/bilibili_emoji/381/6309.png",
+      "staticUrl": "assets/bilibili/381/6309.png",
       "isHide": false,
       "packageId": "381",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[星瞳_敬礼]"
       ],
-      "staticUrl": "assets/bilibili_emoji/381/6310.png",
+      "staticUrl": "assets/bilibili/381/6310.png",
       "isHide": false,
       "packageId": "381",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[星瞳_口蘑]"
       ],
-      "staticUrl": "assets/bilibili_emoji/381/6311.png",
+      "staticUrl": "assets/bilibili/381/6311.png",
       "isHide": false,
       "packageId": "381",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[星瞳_流汗]"
       ],
-      "staticUrl": "assets/bilibili_emoji/381/6312.png",
+      "staticUrl": "assets/bilibili/381/6312.png",
       "isHide": false,
       "packageId": "381",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[星瞳_妈！]"
       ],
-      "staticUrl": "assets/bilibili_emoji/381/6313.png",
+      "staticUrl": "assets/bilibili/381/6313.png",
       "isHide": false,
       "packageId": "381",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[星瞳_发癫]"
       ],
-      "staticUrl": "assets/bilibili_emoji/381/6314.png",
+      "staticUrl": "assets/bilibili/381/6314.png",
       "isHide": false,
       "packageId": "381",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[星瞳_扭扭]"
       ],
-      "staticUrl": "assets/bilibili_emoji/381/6315.png",
+      "staticUrl": "assets/bilibili/381/6315.png",
       "isHide": false,
       "packageId": "381",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[星瞳_生气]"
       ],
-      "staticUrl": "assets/bilibili_emoji/381/6316.png",
+      "staticUrl": "assets/bilibili/381/6316.png",
       "isHide": false,
       "packageId": "381",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[星瞳_跳舞]"
       ],
-      "staticUrl": "assets/bilibili_emoji/381/6317.png",
+      "staticUrl": "assets/bilibili/381/6317.png",
       "isHide": false,
       "packageId": "381",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[星瞳_晚安]"
       ],
-      "staticUrl": "assets/bilibili_emoji/381/6318.png",
+      "staticUrl": "assets/bilibili/381/6318.png",
       "isHide": false,
       "packageId": "381",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[星瞳_呜呜]"
       ],
-      "staticUrl": "assets/bilibili_emoji/381/6319.png",
+      "staticUrl": "assets/bilibili/381/6319.png",
       "isHide": false,
       "packageId": "381",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[星瞳_谢谢]"
       ],
-      "staticUrl": "assets/bilibili_emoji/381/6320.png",
+      "staticUrl": "assets/bilibili/381/6320.png",
       "isHide": false,
       "packageId": "381",
       "meta": {
@@ -234,7 +234,7 @@
       "shortCodes": [
         "[星瞳_星想事成]"
       ],
-      "staticUrl": "assets/bilibili_emoji/381/6321.png",
+      "staticUrl": "assets/bilibili/381/6321.png",
       "isHide": false,
       "packageId": "381",
       "meta": {
@@ -249,7 +249,7 @@
       "shortCodes": [
         "[星瞳_咬钩]"
       ],
-      "staticUrl": "assets/bilibili_emoji/381/6322.png",
+      "staticUrl": "assets/bilibili/381/6322.png",
       "isHide": false,
       "packageId": "381",
       "meta": {
@@ -264,7 +264,7 @@
       "shortCodes": [
         "[星瞳_咬星星]"
       ],
-      "staticUrl": "assets/bilibili_emoji/381/6323.png",
+      "staticUrl": "assets/bilibili/381/6323.png",
       "isHide": false,
       "packageId": "381",
       "meta": {
@@ -279,7 +279,7 @@
       "shortCodes": [
         "[星瞳_耶]"
       ],
-      "staticUrl": "assets/bilibili_emoji/381/6324.png",
+      "staticUrl": "assets/bilibili/381/6324.png",
       "isHide": false,
       "packageId": "381",
       "meta": {
@@ -294,7 +294,7 @@
       "shortCodes": [
         "[星瞳_疑问]"
       ],
-      "staticUrl": "assets/bilibili_emoji/381/6325.png",
+      "staticUrl": "assets/bilibili/381/6325.png",
       "isHide": false,
       "packageId": "381",
       "meta": {
@@ -309,7 +309,7 @@
       "shortCodes": [
         "[星瞳_爱心]"
       ],
-      "staticUrl": "assets/bilibili_emoji/381/6382.png",
+      "staticUrl": "assets/bilibili/381/6382.png",
       "isHide": false,
       "packageId": "381",
       "meta": {
@@ -324,7 +324,7 @@
       "shortCodes": [
         "[星瞳_超级加倍]"
       ],
-      "staticUrl": "assets/bilibili_emoji/381/6383.png",
+      "staticUrl": "assets/bilibili/381/6383.png",
       "isHide": false,
       "packageId": "381",
       "meta": {
@@ -339,7 +339,7 @@
       "shortCodes": [
         "[星瞳_放过我吧]"
       ],
-      "staticUrl": "assets/bilibili_emoji/381/6384.png",
+      "staticUrl": "assets/bilibili/381/6384.png",
       "isHide": false,
       "packageId": "381",
       "meta": {
@@ -354,7 +354,7 @@
       "shortCodes": [
         "[星瞳_眉笔力量]"
       ],
-      "staticUrl": "assets/bilibili_emoji/381/6385.png",
+      "staticUrl": "assets/bilibili/381/6385.png",
       "isHide": false,
       "packageId": "381",
       "meta": {
@@ -369,7 +369,7 @@
       "shortCodes": [
         "[星瞳_小企鹅来咯]"
       ],
-      "staticUrl": "assets/bilibili_emoji/381/6386.png",
+      "staticUrl": "assets/bilibili/381/6386.png",
       "isHide": false,
       "packageId": "381",
       "meta": {

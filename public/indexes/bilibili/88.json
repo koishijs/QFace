@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "88",
   "name": "乐正绫五周年生日",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/5c7d4bbf3de5bd16c4d80e5485a88419f4513e18.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[乐正绫_爱上了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/88/2011.png",
+      "staticUrl": "assets/bilibili/88/2011.png",
       "isHide": false,
       "packageId": "88",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[乐正绫_和善]"
       ],
-      "staticUrl": "assets/bilibili_emoji/88/2012.png",
+      "staticUrl": "assets/bilibili/88/2012.png",
       "isHide": false,
       "packageId": "88",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[乐正绫_吃土]"
       ],
-      "staticUrl": "assets/bilibili_emoji/88/2013.png",
+      "staticUrl": "assets/bilibili/88/2013.png",
       "isHide": false,
       "packageId": "88",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[乐正绫_掏耳朵]"
       ],
-      "staticUrl": "assets/bilibili_emoji/88/2014.png",
+      "staticUrl": "assets/bilibili/88/2014.png",
       "isHide": false,
       "packageId": "88",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[乐正绫_冲冲冲]"
       ],
-      "staticUrl": "assets/bilibili_emoji/88/2015.png",
+      "staticUrl": "assets/bilibili/88/2015.png",
       "isHide": false,
       "packageId": "88",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[乐正绫_大师球]"
       ],
-      "staticUrl": "assets/bilibili_emoji/88/2016.png",
+      "staticUrl": "assets/bilibili/88/2016.png",
       "isHide": false,
       "packageId": "88",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[乐正绫_哼]"
       ],
-      "staticUrl": "assets/bilibili_emoji/88/2017.png",
+      "staticUrl": "assets/bilibili/88/2017.png",
       "isHide": false,
       "packageId": "88",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[乐正绫_黑恶势力]"
       ],
-      "staticUrl": "assets/bilibili_emoji/88/2018.png",
+      "staticUrl": "assets/bilibili/88/2018.png",
       "isHide": false,
       "packageId": "88",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[乐正绫_我可以]"
       ],
-      "staticUrl": "assets/bilibili_emoji/88/2019.png",
+      "staticUrl": "assets/bilibili/88/2019.png",
       "isHide": false,
       "packageId": "88",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[乐正绫_三连呢]"
       ],
-      "staticUrl": "assets/bilibili_emoji/88/2020.png",
+      "staticUrl": "assets/bilibili/88/2020.png",
       "isHide": false,
       "packageId": "88",
       "meta": {

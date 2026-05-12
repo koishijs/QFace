@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "313",
   "name": "冬日旅行",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/ae47232c9a31b50c822b0bdc5de0a2a4127ea973.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[冬日旅行_踩点]"
       ],
-      "staticUrl": "assets/bilibili_emoji/313/5158.png",
+      "staticUrl": "assets/bilibili/313/5158.png",
       "isHide": false,
       "packageId": "313",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[冬日旅行_多穿点]"
       ],
-      "staticUrl": "assets/bilibili_emoji/313/5159.png",
+      "staticUrl": "assets/bilibili/313/5159.png",
       "isHide": false,
       "packageId": "313",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[冬日旅行_好冷]"
       ],
-      "staticUrl": "assets/bilibili_emoji/313/5160.png",
+      "staticUrl": "assets/bilibili/313/5160.png",
       "isHide": false,
       "packageId": "313",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[冬日旅行_好漂亮]"
       ],
-      "staticUrl": "assets/bilibili_emoji/313/5161.png",
+      "staticUrl": "assets/bilibili/313/5161.png",
       "isHide": false,
       "packageId": "313",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[冬日旅行_寂寞]"
       ],
-      "staticUrl": "assets/bilibili_emoji/313/5162.png",
+      "staticUrl": "assets/bilibili/313/5162.png",
       "isHide": false,
       "packageId": "313",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[冬日旅行_看攻略]"
       ],
-      "staticUrl": "assets/bilibili_emoji/313/5163.png",
+      "staticUrl": "assets/bilibili/313/5163.png",
       "isHide": false,
       "packageId": "313",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[冬日旅行_暖乎]"
       ],
-      "staticUrl": "assets/bilibili_emoji/313/5164.png",
+      "staticUrl": "assets/bilibili/313/5164.png",
       "isHide": false,
       "packageId": "313",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[冬日旅行_爬山]"
       ],
-      "staticUrl": "assets/bilibili_emoji/313/5165.png",
+      "staticUrl": "assets/bilibili/313/5165.png",
       "isHide": false,
       "packageId": "313",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[冬日旅行_芜湖]"
       ],
-      "staticUrl": "assets/bilibili_emoji/313/5166.png",
+      "staticUrl": "assets/bilibili/313/5166.png",
       "isHide": false,
       "packageId": "313",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[冬日旅行_这边请]"
       ],
-      "staticUrl": "assets/bilibili_emoji/313/5167.png",
+      "staticUrl": "assets/bilibili/313/5167.png",
       "isHide": false,
       "packageId": "313",
       "meta": {

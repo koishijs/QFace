@@ -44,6 +44,19 @@ export default defineConfig({
   ],
   build: {
     outDir: 'release',
+    rollupOptions: {
+      output: {
+        entryFileNames: 'libs/[name]-[hash].js',
+        chunkFileNames: 'libs/[name]-[hash].js',
+        assetFileNames: (assetInfo) => {
+          const ext = assetInfo.names?.[0]?.split('.').pop()?.toLowerCase() ?? ''
+          if (['png', 'jpg', 'jpeg', 'gif', 'svg', 'webp', 'avif', 'ico'].includes(ext)) {
+            return 'assets/[name]-[hash][extname]'
+          }
+          return 'libs/[name]-[hash][extname]'
+        },
+      },
+    },
   },
   resolve: {
     alias: {

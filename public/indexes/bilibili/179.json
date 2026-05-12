@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "179",
   "name": "进击的冰糖",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/6f300149252d64e768c5ce86edd58e8dffcb3ba3.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[进击的冰糖_ok]"
       ],
-      "staticUrl": "assets/bilibili_emoji/179/3246.png",
+      "staticUrl": "assets/bilibili/179/3246.png",
       "isHide": false,
       "packageId": "179",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[进击的冰糖_XXBT]"
       ],
-      "staticUrl": "assets/bilibili_emoji/179/3247.png",
+      "staticUrl": "assets/bilibili/179/3247.png",
       "isHide": false,
       "packageId": "179",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[进击的冰糖_害怕]"
       ],
-      "staticUrl": "assets/bilibili_emoji/179/3248.png",
+      "staticUrl": "assets/bilibili/179/3248.png",
       "isHide": false,
       "packageId": "179",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[进击的冰糖_补充糖分]"
       ],
-      "staticUrl": "assets/bilibili_emoji/179/3249.png",
+      "staticUrl": "assets/bilibili/179/3249.png",
       "isHide": false,
       "packageId": "179",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[进击的冰糖_不愧是你]"
       ],
-      "staticUrl": "assets/bilibili_emoji/179/3250.png",
+      "staticUrl": "assets/bilibili/179/3250.png",
       "isHide": false,
       "packageId": "179",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[进击的冰糖_车门焊死]"
       ],
-      "staticUrl": "assets/bilibili_emoji/179/3251.png",
+      "staticUrl": "assets/bilibili/179/3251.png",
       "isHide": false,
       "packageId": "179",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[进击的冰糖_吃草]"
       ],
-      "staticUrl": "assets/bilibili_emoji/179/3252.png",
+      "staticUrl": "assets/bilibili/179/3252.png",
       "isHide": false,
       "packageId": "179",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[进击的冰糖_打call]"
       ],
-      "staticUrl": "assets/bilibili_emoji/179/3253.png",
+      "staticUrl": "assets/bilibili/179/3253.png",
       "isHide": false,
       "packageId": "179",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[进击的冰糖_懂得都懂]"
       ],
-      "staticUrl": "assets/bilibili_emoji/179/3254.png",
+      "staticUrl": "assets/bilibili/179/3254.png",
       "isHide": false,
       "packageId": "179",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[进击的冰糖_烤肉中]"
       ],
-      "staticUrl": "assets/bilibili_emoji/179/3255.png",
+      "staticUrl": "assets/bilibili/179/3255.png",
       "isHide": false,
       "packageId": "179",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[进击的冰糖_溜了溜了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/179/3256.png",
+      "staticUrl": "assets/bilibili/179/3256.png",
       "isHide": false,
       "packageId": "179",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[进击的冰糖_每日一D]"
       ],
-      "staticUrl": "assets/bilibili_emoji/179/3257.png",
+      "staticUrl": "assets/bilibili/179/3257.png",
       "isHide": false,
       "packageId": "179",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[进击的冰糖_你邪了门]"
       ],
-      "staticUrl": "assets/bilibili_emoji/179/3258.png",
+      "staticUrl": "assets/bilibili/179/3258.png",
       "isHide": false,
       "packageId": "179",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[进击的冰糖_清楚清楚]"
       ],
-      "staticUrl": "assets/bilibili_emoji/179/3259.png",
+      "staticUrl": "assets/bilibili/179/3259.png",
       "isHide": false,
       "packageId": "179",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[进击的冰糖_锐利的剑]"
       ],
-      "staticUrl": "assets/bilibili_emoji/179/3260.png",
+      "staticUrl": "assets/bilibili/179/3260.png",
       "isHide": false,
       "packageId": "179",
       "meta": {
@@ -234,7 +234,7 @@
       "shortCodes": [
         "[进击的冰糖_上流]"
       ],
-      "staticUrl": "assets/bilibili_emoji/179/3261.png",
+      "staticUrl": "assets/bilibili/179/3261.png",
       "isHide": false,
       "packageId": "179",
       "meta": {
@@ -249,7 +249,7 @@
       "shortCodes": [
         "[进击的冰糖_探头]"
       ],
-      "staticUrl": "assets/bilibili_emoji/179/3262.png",
+      "staticUrl": "assets/bilibili/179/3262.png",
       "isHide": false,
       "packageId": "179",
       "meta": {
@@ -264,7 +264,7 @@
       "shortCodes": [
         "[进击的冰糖_贴贴]"
       ],
-      "staticUrl": "assets/bilibili_emoji/179/3263.png",
+      "staticUrl": "assets/bilibili/179/3263.png",
       "isHide": false,
       "packageId": "179",
       "meta": {
@@ -279,7 +279,7 @@
       "shortCodes": [
         "[进击的冰糖_挺好的]"
       ],
-      "staticUrl": "assets/bilibili_emoji/179/3264.png",
+      "staticUrl": "assets/bilibili/179/3264.png",
       "isHide": false,
       "packageId": "179",
       "meta": {
@@ -294,7 +294,7 @@
       "shortCodes": [
         "[进击的冰糖_晚安]"
       ],
-      "staticUrl": "assets/bilibili_emoji/179/3265.png",
+      "staticUrl": "assets/bilibili/179/3265.png",
       "isHide": false,
       "packageId": "179",
       "meta": {

@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "135",
   "name": "说唱新世代",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/8e137cd0437ef68ed4f50c2b2623c055833d5f53.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[说唱新世代_蹭吃蹭喝]"
       ],
-      "staticUrl": "assets/bilibili_emoji/135/2663.png",
+      "staticUrl": "assets/bilibili/135/2663.png",
       "isHide": false,
       "packageId": "135",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[说唱新世代_变身]"
       ],
-      "staticUrl": "assets/bilibili_emoji/135/2664.png",
+      "staticUrl": "assets/bilibili/135/2664.png",
       "isHide": false,
       "packageId": "135",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[说唱新世代_加油]"
       ],
-      "staticUrl": "assets/bilibili_emoji/135/2665.png",
+      "staticUrl": "assets/bilibili/135/2665.png",
       "isHide": false,
       "packageId": "135",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[说唱新世代_讲文明]"
       ],
-      "staticUrl": "assets/bilibili_emoji/135/2666.png",
+      "staticUrl": "assets/bilibili/135/2666.png",
       "isHide": false,
       "packageId": "135",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[说唱新世代_痛苦面具]"
       ],
-      "staticUrl": "assets/bilibili_emoji/135/2671.png",
+      "staticUrl": "assets/bilibili/135/2671.png",
       "isHide": false,
       "packageId": "135",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[说唱新世代_脚艺人]"
       ],
-      "staticUrl": "assets/bilibili_emoji/135/2667.png",
+      "staticUrl": "assets/bilibili/135/2667.png",
       "isHide": false,
       "packageId": "135",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[说唱新世代_开门]"
       ],
-      "staticUrl": "assets/bilibili_emoji/135/2668.png",
+      "staticUrl": "assets/bilibili/135/2668.png",
       "isHide": false,
       "packageId": "135",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[说唱新世代_真漂亮]"
       ],
-      "staticUrl": "assets/bilibili_emoji/135/2676.png",
+      "staticUrl": "assets/bilibili/135/2676.png",
       "isHide": false,
       "packageId": "135",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[说唱新世代_买买买]"
       ],
-      "staticUrl": "assets/bilibili_emoji/135/2669.png",
+      "staticUrl": "assets/bilibili/135/2669.png",
       "isHide": false,
       "packageId": "135",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[说唱新世代_贞不戳]"
       ],
-      "staticUrl": "assets/bilibili_emoji/135/2675.png",
+      "staticUrl": "assets/bilibili/135/2675.png",
       "isHide": false,
       "packageId": "135",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[说唱新世代_算一下]"
       ],
-      "staticUrl": "assets/bilibili_emoji/135/2670.png",
+      "staticUrl": "assets/bilibili/135/2670.png",
       "isHide": false,
       "packageId": "135",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[说唱新世代_我想画]"
       ],
-      "staticUrl": "assets/bilibili_emoji/135/2672.png",
+      "staticUrl": "assets/bilibili/135/2672.png",
       "isHide": false,
       "packageId": "135",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[说唱新世代_无语]"
       ],
-      "staticUrl": "assets/bilibili_emoji/135/2673.png",
+      "staticUrl": "assets/bilibili/135/2673.png",
       "isHide": false,
       "packageId": "135",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[说唱新世代_小太阳]"
       ],
-      "staticUrl": "assets/bilibili_emoji/135/2674.png",
+      "staticUrl": "assets/bilibili/135/2674.png",
       "isHide": false,
       "packageId": "135",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[说唱新世代_主见]"
       ],
-      "staticUrl": "assets/bilibili_emoji/135/2677.png",
+      "staticUrl": "assets/bilibili/135/2677.png",
       "isHide": false,
       "packageId": "135",
       "meta": {
@@ -234,7 +234,7 @@
       "shortCodes": [
         "[说唱新世代_害羞]"
       ],
-      "staticUrl": "assets/bilibili_emoji/135/2698.png",
+      "staticUrl": "assets/bilibili/135/2698.png",
       "isHide": false,
       "packageId": "135",
       "meta": {
@@ -249,7 +249,7 @@
       "shortCodes": [
         "[说唱新世代_夸张]"
       ],
-      "staticUrl": "assets/bilibili_emoji/135/2699.png",
+      "staticUrl": "assets/bilibili/135/2699.png",
       "isHide": false,
       "packageId": "135",
       "meta": {
@@ -264,7 +264,7 @@
       "shortCodes": [
         "[说唱新世代_明天吧]"
       ],
-      "staticUrl": "assets/bilibili_emoji/135/2700.png",
+      "staticUrl": "assets/bilibili/135/2700.png",
       "isHide": false,
       "packageId": "135",
       "meta": {
@@ -279,7 +279,7 @@
       "shortCodes": [
         "[说唱新世代_说唱叫父]"
       ],
-      "staticUrl": "assets/bilibili_emoji/135/2701.png",
+      "staticUrl": "assets/bilibili/135/2701.png",
       "isHide": false,
       "packageId": "135",
       "meta": {
@@ -294,7 +294,7 @@
       "shortCodes": [
         "[说唱新世代_舞王]"
       ],
-      "staticUrl": "assets/bilibili_emoji/135/2702.png",
+      "staticUrl": "assets/bilibili/135/2702.png",
       "isHide": false,
       "packageId": "135",
       "meta": {

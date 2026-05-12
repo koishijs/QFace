@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "351",
   "name": "我的小铺",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/3aa23a6cc9b72eb49e1854c8b5358e976ad315db.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[我的小铺_OK]"
       ],
-      "staticUrl": "assets/bilibili_emoji/351/5761.png",
+      "staticUrl": "assets/bilibili/351/5761.png",
       "isHide": false,
       "packageId": "351",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[我的小铺_啊]"
       ],
-      "staticUrl": "assets/bilibili_emoji/351/5762.png",
+      "staticUrl": "assets/bilibili/351/5762.png",
       "isHide": false,
       "packageId": "351",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[我的小铺_比心]"
       ],
-      "staticUrl": "assets/bilibili_emoji/351/5763.png",
+      "staticUrl": "assets/bilibili/351/5763.png",
       "isHide": false,
       "packageId": "351",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[我的小铺_感谢]"
       ],
-      "staticUrl": "assets/bilibili_emoji/351/5764.png",
+      "staticUrl": "assets/bilibili/351/5764.png",
       "isHide": false,
       "packageId": "351",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[我的小铺_害羞]"
       ],
-      "staticUrl": "assets/bilibili_emoji/351/5765.png",
+      "staticUrl": "assets/bilibili/351/5765.png",
       "isHide": false,
       "packageId": "351",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[我的小铺_加油]"
       ],
-      "staticUrl": "assets/bilibili_emoji/351/5766.png",
+      "staticUrl": "assets/bilibili/351/5766.png",
       "isHide": false,
       "packageId": "351",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[我的小铺_开心]"
       ],
-      "staticUrl": "assets/bilibili_emoji/351/5767.png",
+      "staticUrl": "assets/bilibili/351/5767.png",
       "isHide": false,
       "packageId": "351",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[我的小铺_新年快乐]"
       ],
-      "staticUrl": "assets/bilibili_emoji/351/5768.png",
+      "staticUrl": "assets/bilibili/351/5768.png",
       "isHide": false,
       "packageId": "351",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[我的小铺_疑惑]"
       ],
-      "staticUrl": "assets/bilibili_emoji/351/5769.png",
+      "staticUrl": "assets/bilibili/351/5769.png",
       "isHide": false,
       "packageId": "351",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[我的小铺_在吗]"
       ],
-      "staticUrl": "assets/bilibili_emoji/351/5770.png",
+      "staticUrl": "assets/bilibili/351/5770.png",
       "isHide": false,
       "packageId": "351",
       "meta": {

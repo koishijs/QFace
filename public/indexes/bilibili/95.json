@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "95",
   "name": "双生视界·花嫁",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/8e447dcd42d4e653a1d04e39190ce6a2c999bf98.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[双生视界_星星眼]"
       ],
-      "staticUrl": "assets/bilibili_emoji/95/2111.png",
+      "staticUrl": "assets/bilibili/95/2111.png",
       "isHide": false,
       "packageId": "95",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[双生视界_二胡爱豆]"
       ],
-      "staticUrl": "assets/bilibili_emoji/95/2112.png",
+      "staticUrl": "assets/bilibili/95/2112.png",
       "isHide": false,
       "packageId": "95",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[双生视界_惊讶]"
       ],
-      "staticUrl": "assets/bilibili_emoji/95/2113.png",
+      "staticUrl": "assets/bilibili/95/2113.png",
       "isHide": false,
       "packageId": "95",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[双生视界_问号]"
       ],
-      "staticUrl": "assets/bilibili_emoji/95/2114.png",
+      "staticUrl": "assets/bilibili/95/2114.png",
       "isHide": false,
       "packageId": "95",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[双生视界_为友谊干杯]"
       ],
-      "staticUrl": "assets/bilibili_emoji/95/2115.png",
+      "staticUrl": "assets/bilibili/95/2115.png",
       "isHide": false,
       "packageId": "95",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[双生视界_无所谓]"
       ],
-      "staticUrl": "assets/bilibili_emoji/95/2116.png",
+      "staticUrl": "assets/bilibili/95/2116.png",
       "isHide": false,
       "packageId": "95",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[双生视界_傲娇脸]"
       ],
-      "staticUrl": "assets/bilibili_emoji/95/2117.png",
+      "staticUrl": "assets/bilibili/95/2117.png",
       "isHide": false,
       "packageId": "95",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[双生视界_叹气]"
       ],
-      "staticUrl": "assets/bilibili_emoji/95/2118.png",
+      "staticUrl": "assets/bilibili/95/2118.png",
       "isHide": false,
       "packageId": "95",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[双生视界_暗中观察]"
       ],
-      "staticUrl": "assets/bilibili_emoji/95/2119.png",
+      "staticUrl": "assets/bilibili/95/2119.png",
       "isHide": false,
       "packageId": "95",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[双生视界_推眼镜]"
       ],
-      "staticUrl": "assets/bilibili_emoji/95/2120.png",
+      "staticUrl": "assets/bilibili/95/2120.png",
       "isHide": false,
       "packageId": "95",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[双生视界_祈祷]"
       ],
-      "staticUrl": "assets/bilibili_emoji/95/2121.png",
+      "staticUrl": "assets/bilibili/95/2121.png",
       "isHide": false,
       "packageId": "95",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[双生视界_加油]"
       ],
-      "staticUrl": "assets/bilibili_emoji/95/2122.png",
+      "staticUrl": "assets/bilibili/95/2122.png",
       "isHide": false,
       "packageId": "95",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[双生视界_摸头]"
       ],
-      "staticUrl": "assets/bilibili_emoji/95/2123.png",
+      "staticUrl": "assets/bilibili/95/2123.png",
       "isHide": false,
       "packageId": "95",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[双生视界_比心]"
       ],
-      "staticUrl": "assets/bilibili_emoji/95/2124.png",
+      "staticUrl": "assets/bilibili/95/2124.png",
       "isHide": false,
       "packageId": "95",
       "meta": {

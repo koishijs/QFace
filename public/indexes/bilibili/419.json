@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "419",
   "name": "喜羊羊·筐出未来",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/0ef22c69b5393dd63d5d338ec4ae86013614d9a0.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[喜羊羊·筐出未来_比心]"
       ],
-      "staticUrl": "assets/bilibili_emoji/419/7074.png",
+      "staticUrl": "assets/bilibili/419/7074.png",
       "isHide": false,
       "packageId": "419",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[喜羊羊·筐出未来_吃瓜]"
       ],
-      "staticUrl": "assets/bilibili_emoji/419/7075.png",
+      "staticUrl": "assets/bilibili/419/7075.png",
       "isHide": false,
       "packageId": "419",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[喜羊羊·筐出未来_冲冲冲]"
       ],
-      "staticUrl": "assets/bilibili_emoji/419/7076.png",
+      "staticUrl": "assets/bilibili/419/7076.png",
       "isHide": false,
       "packageId": "419",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[喜羊羊·筐出未来_呆滞]"
       ],
-      "staticUrl": "assets/bilibili_emoji/419/7077.png",
+      "staticUrl": "assets/bilibili/419/7077.png",
       "isHide": false,
       "packageId": "419",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[喜羊羊·筐出未来_汗]"
       ],
-      "staticUrl": "assets/bilibili_emoji/419/7078.png",
+      "staticUrl": "assets/bilibili/419/7078.png",
       "isHide": false,
       "packageId": "419",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[喜羊羊·筐出未来_好帅呀]"
       ],
-      "staticUrl": "assets/bilibili_emoji/419/7079.png",
+      "staticUrl": "assets/bilibili/419/7079.png",
       "isHide": false,
       "packageId": "419",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[喜羊羊·筐出未来_呼呼]"
       ],
-      "staticUrl": "assets/bilibili_emoji/419/7080.png",
+      "staticUrl": "assets/bilibili/419/7080.png",
       "isHide": false,
       "packageId": "419",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[喜羊羊·筐出未来_坏笑]"
       ],
-      "staticUrl": "assets/bilibili_emoji/419/7081.png",
+      "staticUrl": "assets/bilibili/419/7081.png",
       "isHide": false,
       "packageId": "419",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[喜羊羊·筐出未来_加油]"
       ],
-      "staticUrl": "assets/bilibili_emoji/419/7082.png",
+      "staticUrl": "assets/bilibili/419/7082.png",
       "isHide": false,
       "packageId": "419",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[喜羊羊·筐出未来_惊]"
       ],
-      "staticUrl": "assets/bilibili_emoji/419/7083.png",
+      "staticUrl": "assets/bilibili/419/7083.png",
       "isHide": false,
       "packageId": "419",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[喜羊羊·筐出未来_哭了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/419/7084.png",
+      "staticUrl": "assets/bilibili/419/7084.png",
       "isHide": false,
       "packageId": "419",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[喜羊羊·筐出未来_酷]"
       ],
-      "staticUrl": "assets/bilibili_emoji/419/7085.png",
+      "staticUrl": "assets/bilibili/419/7085.png",
       "isHide": false,
       "packageId": "419",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[喜羊羊·筐出未来_溜了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/419/7086.png",
+      "staticUrl": "assets/bilibili/419/7086.png",
       "isHide": false,
       "packageId": "419",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[喜羊羊·筐出未来_问号]"
       ],
-      "staticUrl": "assets/bilibili_emoji/419/7087.png",
+      "staticUrl": "assets/bilibili/419/7087.png",
       "isHide": false,
       "packageId": "419",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[喜羊羊·筐出未来_我不听]"
       ],
-      "staticUrl": "assets/bilibili_emoji/419/7088.png",
+      "staticUrl": "assets/bilibili/419/7088.png",
       "isHide": false,
       "packageId": "419",
       "meta": {
@@ -234,7 +234,7 @@
       "shortCodes": [
         "[喜羊羊·筐出未来_捂脸]"
       ],
-      "staticUrl": "assets/bilibili_emoji/419/7089.png",
+      "staticUrl": "assets/bilibili/419/7089.png",
       "isHide": false,
       "packageId": "419",
       "meta": {
@@ -249,7 +249,7 @@
       "shortCodes": [
         "[喜羊羊·筐出未来_嘻嘻]"
       ],
-      "staticUrl": "assets/bilibili_emoji/419/7090.png",
+      "staticUrl": "assets/bilibili/419/7090.png",
       "isHide": false,
       "packageId": "419",
       "meta": {
@@ -264,7 +264,7 @@
       "shortCodes": [
         "[喜羊羊·筐出未来_星星眼]"
       ],
-      "staticUrl": "assets/bilibili_emoji/419/7091.png",
+      "staticUrl": "assets/bilibili/419/7091.png",
       "isHide": false,
       "packageId": "419",
       "meta": {
@@ -279,7 +279,7 @@
       "shortCodes": [
         "[喜羊羊·筐出未来_羊狼合作]"
       ],
-      "staticUrl": "assets/bilibili_emoji/419/7092.png",
+      "staticUrl": "assets/bilibili/419/7092.png",
       "isHide": false,
       "packageId": "419",
       "meta": {
@@ -294,7 +294,7 @@
       "shortCodes": [
         "[喜羊羊·筐出未来_赞]"
       ],
-      "staticUrl": "assets/bilibili_emoji/419/7093.png",
+      "staticUrl": "assets/bilibili/419/7093.png",
       "isHide": false,
       "packageId": "419",
       "meta": {

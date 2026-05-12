@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "344",
   "name": "拜年纪2022",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/0c9f398d98136f77e2a1cbe6adeb2209a0c65b83.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[拜年纪2022_摸鱼]"
       ],
-      "staticUrl": "assets/bilibili_emoji/344/5663.png",
+      "staticUrl": "assets/bilibili/344/5663.png",
       "isHide": false,
       "packageId": "344",
       "meta": {

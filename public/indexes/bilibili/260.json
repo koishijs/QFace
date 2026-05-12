@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "260",
   "name": "古守血遊",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/a7813392e37797aff88496a39ac40b2adebbb2fd.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[古守血遊_？]"
       ],
-      "staticUrl": "assets/bilibili_emoji/260/4317.png",
+      "staticUrl": "assets/bilibili/260/4317.png",
       "isHide": false,
       "packageId": "260",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[古守血遊_BAN]"
       ],
-      "staticUrl": "assets/bilibili_emoji/260/4318.png",
+      "staticUrl": "assets/bilibili/260/4318.png",
       "isHide": false,
       "packageId": "260",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[古守血遊_不知道]"
       ],
-      "staticUrl": "assets/bilibili_emoji/260/4319.png",
+      "staticUrl": "assets/bilibili/260/4319.png",
       "isHide": false,
       "packageId": "260",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[古守血遊_打call]"
       ],
-      "staticUrl": "assets/bilibili_emoji/260/4320.png",
+      "staticUrl": "assets/bilibili/260/4320.png",
       "isHide": false,
       "packageId": "260",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[古守血遊_打工]"
       ],
-      "staticUrl": "assets/bilibili_emoji/260/4321.png",
+      "staticUrl": "assets/bilibili/260/4321.png",
       "isHide": false,
       "packageId": "260",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[古守血遊_打游戏]"
       ],
-      "staticUrl": "assets/bilibili_emoji/260/4322.png",
+      "staticUrl": "assets/bilibili/260/4322.png",
       "isHide": false,
       "packageId": "260",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[古守血遊_得意]"
       ],
-      "staticUrl": "assets/bilibili_emoji/260/4323.png",
+      "staticUrl": "assets/bilibili/260/4323.png",
       "isHide": false,
       "packageId": "260",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[古守血遊_古守空港]"
       ],
-      "staticUrl": "assets/bilibili_emoji/260/4324.png",
+      "staticUrl": "assets/bilibili/260/4324.png",
       "isHide": false,
       "packageId": "260",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[古守血遊_好耶]"
       ],
-      "staticUrl": "assets/bilibili_emoji/260/4325.png",
+      "staticUrl": "assets/bilibili/260/4325.png",
       "isHide": false,
       "packageId": "260",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[古守血遊_寂寞]"
       ],
-      "staticUrl": "assets/bilibili_emoji/260/4326.png",
+      "staticUrl": "assets/bilibili/260/4326.png",
       "isHide": false,
       "packageId": "260",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[古守血遊_摸鱼]"
       ],
-      "staticUrl": "assets/bilibili_emoji/260/4327.png",
+      "staticUrl": "assets/bilibili/260/4327.png",
       "isHide": false,
       "packageId": "260",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[古守血遊_睡大觉]"
       ],
-      "staticUrl": "assets/bilibili_emoji/260/4328.png",
+      "staticUrl": "assets/bilibili/260/4328.png",
       "isHide": false,
       "packageId": "260",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[古守血遊_嗦面]"
       ],
-      "staticUrl": "assets/bilibili_emoji/260/4329.png",
+      "staticUrl": "assets/bilibili/260/4329.png",
       "isHide": false,
       "packageId": "260",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[古守血遊_通宵]"
       ],
-      "staticUrl": "assets/bilibili_emoji/260/4330.png",
+      "staticUrl": "assets/bilibili/260/4330.png",
       "isHide": false,
       "packageId": "260",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[古守血遊_早上好]"
       ],
-      "staticUrl": "assets/bilibili_emoji/260/4331.png",
+      "staticUrl": "assets/bilibili/260/4331.png",
       "isHide": false,
       "packageId": "260",
       "meta": {

@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "107",
   "name": "hanser",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/97a0d44fd371a10285856f6630b775d84cca11ce.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[hanser_冲鸭]"
       ],
-      "staticUrl": "assets/bilibili_emoji/107/2263.png",
+      "staticUrl": "assets/bilibili/107/2263.png",
       "isHide": false,
       "packageId": "107",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[hanser_问号]"
       ],
-      "staticUrl": "assets/bilibili_emoji/107/2264.png",
+      "staticUrl": "assets/bilibili/107/2264.png",
       "isHide": false,
       "packageId": "107",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[hanser_打咩]"
       ],
-      "staticUrl": "assets/bilibili_emoji/107/2265.png",
+      "staticUrl": "assets/bilibili/107/2265.png",
       "isHide": false,
       "packageId": "107",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[hanser_暗中观察]"
       ],
-      "staticUrl": "assets/bilibili_emoji/107/2266.png",
+      "staticUrl": "assets/bilibili/107/2266.png",
       "isHide": false,
       "packageId": "107",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[hanser_痛哭]"
       ],
-      "staticUrl": "assets/bilibili_emoji/107/2267.png",
+      "staticUrl": "assets/bilibili/107/2267.png",
       "isHide": false,
       "packageId": "107",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[hanser_小天使]"
       ],
-      "staticUrl": "assets/bilibili_emoji/107/2268.png",
+      "staticUrl": "assets/bilibili/107/2268.png",
       "isHide": false,
       "packageId": "107",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[hanser_嚯牛奶]"
       ],
-      "staticUrl": "assets/bilibili_emoji/107/2269.png",
+      "staticUrl": "assets/bilibili/107/2269.png",
       "isHide": false,
       "packageId": "107",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[hanser_流啤]"
       ],
-      "staticUrl": "assets/bilibili_emoji/107/2270.png",
+      "staticUrl": "assets/bilibili/107/2270.png",
       "isHide": false,
       "packageId": "107",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[hanser_难以置信]"
       ],
-      "staticUrl": "assets/bilibili_emoji/107/2271.png",
+      "staticUrl": "assets/bilibili/107/2271.png",
       "isHide": false,
       "packageId": "107",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[hanser_贴贴]"
       ],
-      "staticUrl": "assets/bilibili_emoji/107/2272.png",
+      "staticUrl": "assets/bilibili/107/2272.png",
       "isHide": false,
       "packageId": "107",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[hanser_okk]"
       ],
-      "staticUrl": "assets/bilibili_emoji/107/2273.png",
+      "staticUrl": "assets/bilibili/107/2273.png",
       "isHide": false,
       "packageId": "107",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[hanser_好听]"
       ],
-      "staticUrl": "assets/bilibili_emoji/107/2274.png",
+      "staticUrl": "assets/bilibili/107/2274.png",
       "isHide": false,
       "packageId": "107",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[hanser_晚安]"
       ],
-      "staticUrl": "assets/bilibili_emoji/107/2275.png",
+      "staticUrl": "assets/bilibili/107/2275.png",
       "isHide": false,
       "packageId": "107",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[hanser_peach]"
       ],
-      "staticUrl": "assets/bilibili_emoji/107/2276.png",
+      "staticUrl": "assets/bilibili/107/2276.png",
       "isHide": false,
       "packageId": "107",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[hanser_头毛]"
       ],
-      "staticUrl": "assets/bilibili_emoji/107/2277.png",
+      "staticUrl": "assets/bilibili/107/2277.png",
       "isHide": false,
       "packageId": "107",
       "meta": {
@@ -234,7 +234,7 @@
       "shortCodes": [
         "[hanser_awsl]"
       ],
-      "staticUrl": "assets/bilibili_emoji/107/2278.png",
+      "staticUrl": "assets/bilibili/107/2278.png",
       "isHide": false,
       "packageId": "107",
       "meta": {
@@ -249,7 +249,7 @@
       "shortCodes": [
         "[hanser_滑稽]"
       ],
-      "staticUrl": "assets/bilibili_emoji/107/2279.png",
+      "staticUrl": "assets/bilibili/107/2279.png",
       "isHide": false,
       "packageId": "107",
       "meta": {
@@ -264,7 +264,7 @@
       "shortCodes": [
         "[hanser_毛怪惊吓]"
       ],
-      "staticUrl": "assets/bilibili_emoji/107/2280.png",
+      "staticUrl": "assets/bilibili/107/2280.png",
       "isHide": false,
       "packageId": "107",
       "meta": {
@@ -279,7 +279,7 @@
       "shortCodes": [
         "[hanser_毛怪哭哭]"
       ],
-      "staticUrl": "assets/bilibili_emoji/107/2281.png",
+      "staticUrl": "assets/bilibili/107/2281.png",
       "isHide": false,
       "packageId": "107",
       "meta": {
@@ -294,7 +294,7 @@
       "shortCodes": [
         "[hanser_怂呐]"
       ],
-      "staticUrl": "assets/bilibili_emoji/107/2282.png",
+      "staticUrl": "assets/bilibili/107/2282.png",
       "isHide": false,
       "packageId": "107",
       "meta": {
@@ -309,7 +309,7 @@
       "shortCodes": [
         "[hanser_嘤嘤嘤]"
       ],
-      "staticUrl": "assets/bilibili_emoji/107/2283.png",
+      "staticUrl": "assets/bilibili/107/2283.png",
       "isHide": false,
       "packageId": "107",
       "meta": {
@@ -324,7 +324,7 @@
       "shortCodes": [
         "[hanser_早]"
       ],
-      "staticUrl": "assets/bilibili_emoji/107/2284.png",
+      "staticUrl": "assets/bilibili/107/2284.png",
       "isHide": false,
       "packageId": "107",
       "meta": {
@@ -339,7 +339,7 @@
       "shortCodes": [
         "[hanser_篮球]"
       ],
-      "staticUrl": "assets/bilibili_emoji/107/2285.png",
+      "staticUrl": "assets/bilibili/107/2285.png",
       "isHide": false,
       "packageId": "107",
       "meta": {

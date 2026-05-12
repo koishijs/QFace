@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "537",
   "name": "DOTA2 dodo",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/a483bb54e57cd60b2bb61e547c9486d6c7439ff6.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[DOTA2 dodo_吃面]"
       ],
-      "staticUrl": "assets/bilibili_emoji/537/9812.png",
+      "staticUrl": "assets/bilibili/537/9812.png",
       "isHide": false,
       "packageId": "537",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[DOTA2 dodo_酬勤]"
       ],
-      "staticUrl": "assets/bilibili_emoji/537/9813.png",
+      "staticUrl": "assets/bilibili/537/9813.png",
       "isHide": false,
       "packageId": "537",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[DOTA2 dodo_大爱心眼]"
       ],
-      "staticUrl": "assets/bilibili_emoji/537/9814.png",
+      "staticUrl": "assets/bilibili/537/9814.png",
       "isHide": false,
       "packageId": "537",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[DOTA2 dodo_大笑]"
       ],
-      "staticUrl": "assets/bilibili_emoji/537/9815.png",
+      "staticUrl": "assets/bilibili/537/9815.png",
       "isHide": false,
       "packageId": "537",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[DOTA2 dodo_盖小被]"
       ],
-      "staticUrl": "assets/bilibili_emoji/537/9816.png",
+      "staticUrl": "assets/bilibili/537/9816.png",
       "isHide": false,
       "packageId": "537",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[DOTA2 dodo_鼓掌]"
       ],
-      "staticUrl": "assets/bilibili_emoji/537/9817.png",
+      "staticUrl": "assets/bilibili/537/9817.png",
       "isHide": false,
       "packageId": "537",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[DOTA2 dodo_僵住]"
       ],
-      "staticUrl": "assets/bilibili_emoji/537/9818.png",
+      "staticUrl": "assets/bilibili/537/9818.png",
       "isHide": false,
       "packageId": "537",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[DOTA2 dodo_紧张]"
       ],
-      "staticUrl": "assets/bilibili_emoji/537/9819.png",
+      "staticUrl": "assets/bilibili/537/9819.png",
       "isHide": false,
       "packageId": "537",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[DOTA2 dodo_卡兵了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/537/9820.png",
+      "staticUrl": "assets/bilibili/537/9820.png",
       "isHide": false,
       "packageId": "537",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[DOTA2 dodo_开心]"
       ],
-      "staticUrl": "assets/bilibili_emoji/537/9821.png",
+      "staticUrl": "assets/bilibili/537/9821.png",
       "isHide": false,
       "packageId": "537",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[DOTA2 dodo_哭哭]"
       ],
-      "staticUrl": "assets/bilibili_emoji/537/9822.png",
+      "staticUrl": "assets/bilibili/537/9822.png",
       "isHide": false,
       "packageId": "537",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[DOTA2 dodo_愣住]"
       ],
-      "staticUrl": "assets/bilibili_emoji/537/9823.png",
+      "staticUrl": "assets/bilibili/537/9823.png",
       "isHide": false,
       "packageId": "537",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[DOTA2 dodo_两眼一黑]"
       ],
-      "staticUrl": "assets/bilibili_emoji/537/9824.png",
+      "staticUrl": "assets/bilibili/537/9824.png",
       "isHide": false,
       "packageId": "537",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[DOTA2 dodo_牛牛]"
       ],
-      "staticUrl": "assets/bilibili_emoji/537/9825.png",
+      "staticUrl": "assets/bilibili/537/9825.png",
       "isHide": false,
       "packageId": "537",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[DOTA2 dodo_上分]"
       ],
-      "staticUrl": "assets/bilibili_emoji/537/9826.png",
+      "staticUrl": "assets/bilibili/537/9826.png",
       "isHide": false,
       "packageId": "537",
       "meta": {
@@ -234,7 +234,7 @@
       "shortCodes": [
         "[DOTA2 dodo_生气]"
       ],
-      "staticUrl": "assets/bilibili_emoji/537/9827.png",
+      "staticUrl": "assets/bilibili/537/9827.png",
       "isHide": false,
       "packageId": "537",
       "meta": {
@@ -249,7 +249,7 @@
       "shortCodes": [
         "[DOTA2 dodo_省略号]"
       ],
-      "staticUrl": "assets/bilibili_emoji/537/9828.png",
+      "staticUrl": "assets/bilibili/537/9828.png",
       "isHide": false,
       "packageId": "537",
       "meta": {
@@ -264,7 +264,7 @@
       "shortCodes": [
         "[DOTA2 dodo_问号]"
       ],
-      "staticUrl": "assets/bilibili_emoji/537/9829.png",
+      "staticUrl": "assets/bilibili/537/9829.png",
       "isHide": false,
       "packageId": "537",
       "meta": {
@@ -279,7 +279,7 @@
       "shortCodes": [
         "[DOTA2 dodo_阴险坏笑 ]"
       ],
-      "staticUrl": "assets/bilibili_emoji/537/9830.png",
+      "staticUrl": "assets/bilibili/537/9830.png",
       "isHide": false,
       "packageId": "537",
       "meta": {
@@ -294,7 +294,7 @@
       "shortCodes": [
         "[DOTA2 dodo_自闭]"
       ],
-      "staticUrl": "assets/bilibili_emoji/537/9831.png",
+      "staticUrl": "assets/bilibili/537/9831.png",
       "isHide": false,
       "packageId": "537",
       "meta": {

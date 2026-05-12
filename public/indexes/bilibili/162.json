@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "162",
   "name": "雪未来",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/11dae02bb73b84db29a85ada27bfa99c99a25480.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[雪未来_太棒了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/162/3008.png",
+      "staticUrl": "assets/bilibili/162/3008.png",
       "isHide": false,
       "packageId": "162",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[雪未来_摸头]"
       ],
-      "staticUrl": "assets/bilibili_emoji/162/3009.png",
+      "staticUrl": "assets/bilibili/162/3009.png",
       "isHide": false,
       "packageId": "162",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[雪未来_击掌]"
       ],
-      "staticUrl": "assets/bilibili_emoji/162/3011.png",
+      "staticUrl": "assets/bilibili/162/3011.png",
       "isHide": false,
       "packageId": "162",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[雪未来_等一等]"
       ],
-      "staticUrl": "assets/bilibili_emoji/162/3005.png",
+      "staticUrl": "assets/bilibili/162/3005.png",
       "isHide": false,
       "packageId": "162",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[雪未来_忽然出现]"
       ],
-      "staticUrl": "assets/bilibili_emoji/162/3018.png",
+      "staticUrl": "assets/bilibili/162/3018.png",
       "isHide": false,
       "packageId": "162",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[雪未来_喝奶茶]"
       ],
-      "staticUrl": "assets/bilibili_emoji/162/3020.png",
+      "staticUrl": "assets/bilibili/162/3020.png",
       "isHide": false,
       "packageId": "162",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[雪未来_冲呀]"
       ],
-      "staticUrl": "assets/bilibili_emoji/162/3010.png",
+      "staticUrl": "assets/bilibili/162/3010.png",
       "isHide": false,
       "packageId": "162",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[雪未来_下雪了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/162/3021.png",
+      "staticUrl": "assets/bilibili/162/3021.png",
       "isHide": false,
       "packageId": "162",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[雪未来_堆雪人]"
       ],
-      "staticUrl": "assets/bilibili_emoji/162/3022.png",
+      "staticUrl": "assets/bilibili/162/3022.png",
       "isHide": false,
       "packageId": "162",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[雪未来_赖床]"
       ],
-      "staticUrl": "assets/bilibili_emoji/162/3023.png",
+      "staticUrl": "assets/bilibili/162/3023.png",
       "isHide": false,
       "packageId": "162",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[雪未来_忍住不笑]"
       ],
-      "staticUrl": "assets/bilibili_emoji/162/3007.png",
+      "staticUrl": "assets/bilibili/162/3007.png",
       "isHide": false,
       "packageId": "162",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[雪未来_打气]"
       ],
-      "staticUrl": "assets/bilibili_emoji/162/3012.png",
+      "staticUrl": "assets/bilibili/162/3012.png",
       "isHide": false,
       "packageId": "162",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[雪未来_叹气]"
       ],
-      "staticUrl": "assets/bilibili_emoji/162/3013.png",
+      "staticUrl": "assets/bilibili/162/3013.png",
       "isHide": false,
       "packageId": "162",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[雪未来_给你惊喜]"
       ],
-      "staticUrl": "assets/bilibili_emoji/162/3024.png",
+      "staticUrl": "assets/bilibili/162/3024.png",
       "isHide": false,
       "packageId": "162",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[雪未来_生气]"
       ],
-      "staticUrl": "assets/bilibili_emoji/162/3014.png",
+      "staticUrl": "assets/bilibili/162/3014.png",
       "isHide": false,
       "packageId": "162",
       "meta": {
@@ -234,7 +234,7 @@
       "shortCodes": [
         "[雪未来_早安]"
       ],
-      "staticUrl": "assets/bilibili_emoji/162/3015.png",
+      "staticUrl": "assets/bilibili/162/3015.png",
       "isHide": false,
       "packageId": "162",
       "meta": {
@@ -249,7 +249,7 @@
       "shortCodes": [
         "[雪未来_挠头]"
       ],
-      "staticUrl": "assets/bilibili_emoji/162/3006.png",
+      "staticUrl": "assets/bilibili/162/3006.png",
       "isHide": false,
       "packageId": "162",
       "meta": {
@@ -264,7 +264,7 @@
       "shortCodes": [
         "[雪未来_嘿嘿]"
       ],
-      "staticUrl": "assets/bilibili_emoji/162/3017.png",
+      "staticUrl": "assets/bilibili/162/3017.png",
       "isHide": false,
       "packageId": "162",
       "meta": {
@@ -279,7 +279,7 @@
       "shortCodes": [
         "[雪未来_唱歌]"
       ],
-      "staticUrl": "assets/bilibili_emoji/162/3016.png",
+      "staticUrl": "assets/bilibili/162/3016.png",
       "isHide": false,
       "packageId": "162",
       "meta": {
@@ -294,7 +294,7 @@
       "shortCodes": [
         "[雪未来_泪目]"
       ],
-      "staticUrl": "assets/bilibili_emoji/162/3019.png",
+      "staticUrl": "assets/bilibili/162/3019.png",
       "isHide": false,
       "packageId": "162",
       "meta": {

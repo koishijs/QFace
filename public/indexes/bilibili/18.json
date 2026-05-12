@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "18",
   "name": "小绿和小蓝",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/133bf9af4551a15a36b7d83769f30430f347ee6c.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[小绿和小蓝_不想说话]"
       ],
-      "staticUrl": "assets/bilibili_emoji/18/342.png",
+      "staticUrl": "assets/bilibili/18/342.png",
       "isHide": false,
       "packageId": "18",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[小绿和小蓝_吵架]"
       ],
-      "staticUrl": "assets/bilibili_emoji/18/343.png",
+      "staticUrl": "assets/bilibili/18/343.png",
       "isHide": false,
       "packageId": "18",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[小绿和小蓝_得意脸]"
       ],
-      "staticUrl": "assets/bilibili_emoji/18/344.png",
+      "staticUrl": "assets/bilibili/18/344.png",
       "isHide": false,
       "packageId": "18",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[小绿和小蓝_高兴]"
       ],
-      "staticUrl": "assets/bilibili_emoji/18/345.png",
+      "staticUrl": "assets/bilibili/18/345.png",
       "isHide": false,
       "packageId": "18",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[小绿和小蓝_哦]"
       ],
-      "staticUrl": "assets/bilibili_emoji/18/346.png",
+      "staticUrl": "assets/bilibili/18/346.png",
       "isHide": false,
       "packageId": "18",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[小绿和小蓝_捂脸]"
       ],
-      "staticUrl": "assets/bilibili_emoji/18/347.png",
+      "staticUrl": "assets/bilibili/18/347.png",
       "isHide": false,
       "packageId": "18",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[小绿和小蓝_邪恶脸]"
       ],
-      "staticUrl": "assets/bilibili_emoji/18/348.png",
+      "staticUrl": "assets/bilibili/18/348.png",
       "isHide": false,
       "packageId": "18",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[小绿和小蓝_要哭了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/18/349.png",
+      "staticUrl": "assets/bilibili/18/349.png",
       "isHide": false,
       "packageId": "18",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[小绿和小蓝_疑问]"
       ],
-      "staticUrl": "assets/bilibili_emoji/18/350.png",
+      "staticUrl": "assets/bilibili/18/350.png",
       "isHide": false,
       "packageId": "18",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[小绿和小蓝_打滚]"
       ],
-      "staticUrl": "assets/bilibili_emoji/18/351.png",
+      "staticUrl": "assets/bilibili/18/351.png",
       "isHide": false,
       "packageId": "18",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[小绿和小蓝_诶]"
       ],
-      "staticUrl": "assets/bilibili_emoji/18/352.png",
+      "staticUrl": "assets/bilibili/18/352.png",
       "isHide": false,
       "packageId": "18",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[小绿和小蓝_机智一比]"
       ],
-      "staticUrl": "assets/bilibili_emoji/18/353.png",
+      "staticUrl": "assets/bilibili/18/353.png",
       "isHide": false,
       "packageId": "18",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[小绿和小蓝_喵喵喵]"
       ],
-      "staticUrl": "assets/bilibili_emoji/18/354.png",
+      "staticUrl": "assets/bilibili/18/354.png",
       "isHide": false,
       "packageId": "18",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[小绿和小蓝_跑]"
       ],
-      "staticUrl": "assets/bilibili_emoji/18/355.png",
+      "staticUrl": "assets/bilibili/18/355.png",
       "isHide": false,
       "packageId": "18",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[小绿和小蓝_喂]"
       ],
-      "staticUrl": "assets/bilibili_emoji/18/356.png",
+      "staticUrl": "assets/bilibili/18/356.png",
       "isHide": false,
       "packageId": "18",
       "meta": {
@@ -234,7 +234,7 @@
       "shortCodes": [
         "[小绿和小蓝_已关机]"
       ],
-      "staticUrl": "assets/bilibili_emoji/18/357.png",
+      "staticUrl": "assets/bilibili/18/357.png",
       "isHide": false,
       "packageId": "18",
       "meta": {
@@ -249,7 +249,7 @@
       "shortCodes": [
         "[小绿和小蓝_直接躺平]"
       ],
-      "staticUrl": "assets/bilibili_emoji/18/358.png",
+      "staticUrl": "assets/bilibili/18/358.png",
       "isHide": false,
       "packageId": "18",
       "meta": {
@@ -264,7 +264,7 @@
       "shortCodes": [
         "[小绿和小蓝_呆住]"
       ],
-      "staticUrl": "assets/bilibili_emoji/18/359.png",
+      "staticUrl": "assets/bilibili/18/359.png",
       "isHide": false,
       "packageId": "18",
       "meta": {
@@ -279,7 +279,7 @@
       "shortCodes": [
         "[小绿和小蓝_哈哈]"
       ],
-      "staticUrl": "assets/bilibili_emoji/18/360.png",
+      "staticUrl": "assets/bilibili/18/360.png",
       "isHide": false,
       "packageId": "18",
       "meta": {
@@ -294,7 +294,7 @@
       "shortCodes": [
         "[小绿和小蓝_喝水]"
       ],
-      "staticUrl": "assets/bilibili_emoji/18/361.png",
+      "staticUrl": "assets/bilibili/18/361.png",
       "isHide": false,
       "packageId": "18",
       "meta": {
@@ -309,7 +309,7 @@
       "shortCodes": [
         "[小绿和小蓝_生气]"
       ],
-      "staticUrl": "assets/bilibili_emoji/18/362.png",
+      "staticUrl": "assets/bilibili/18/362.png",
       "isHide": false,
       "packageId": "18",
       "meta": {
@@ -324,7 +324,7 @@
       "shortCodes": [
         "[小绿和小蓝_哇啊啊啊]"
       ],
-      "staticUrl": "assets/bilibili_emoji/18/363.png",
+      "staticUrl": "assets/bilibili/18/363.png",
       "isHide": false,
       "packageId": "18",
       "meta": {
@@ -339,7 +339,7 @@
       "shortCodes": [
         "[小绿和小蓝_一本正经]"
       ],
-      "staticUrl": "assets/bilibili_emoji/18/364.png",
+      "staticUrl": "assets/bilibili/18/364.png",
       "isHide": false,
       "packageId": "18",
       "meta": {
@@ -354,7 +354,7 @@
       "shortCodes": [
         "[小绿和小蓝_惊呆]"
       ],
-      "staticUrl": "assets/bilibili_emoji/18/365.png",
+      "staticUrl": "assets/bilibili/18/365.png",
       "isHide": false,
       "packageId": "18",
       "meta": {
@@ -369,7 +369,7 @@
       "shortCodes": [
         "[小绿和小蓝_开心]"
       ],
-      "staticUrl": "assets/bilibili_emoji/18/366.png",
+      "staticUrl": "assets/bilibili/18/366.png",
       "isHide": false,
       "packageId": "18",
       "meta": {
@@ -384,7 +384,7 @@
       "shortCodes": [
         "[小绿和小蓝_苦恼]"
       ],
-      "staticUrl": "assets/bilibili_emoji/18/367.png",
+      "staticUrl": "assets/bilibili/18/367.png",
       "isHide": false,
       "packageId": "18",
       "meta": {
@@ -399,7 +399,7 @@
       "shortCodes": [
         "[小绿和小蓝_灵光乍现]"
       ],
-      "staticUrl": "assets/bilibili_emoji/18/368.png",
+      "staticUrl": "assets/bilibili/18/368.png",
       "isHide": false,
       "packageId": "18",
       "meta": {
@@ -414,7 +414,7 @@
       "shortCodes": [
         "[小绿和小蓝_思考]"
       ],
-      "staticUrl": "assets/bilibili_emoji/18/369.png",
+      "staticUrl": "assets/bilibili/18/369.png",
       "isHide": false,
       "packageId": "18",
       "meta": {

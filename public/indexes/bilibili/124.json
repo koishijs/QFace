@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "124",
   "name": "全职高手",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/348cf029442cec9f3242343c0d4bab9fd656ffc2.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[全职高手_点赞]"
       ],
-      "staticUrl": "assets/bilibili_emoji/124/2505.png",
+      "staticUrl": "assets/bilibili/124/2505.png",
       "isHide": false,
       "packageId": "124",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[全职高手_大佬]"
       ],
-      "staticUrl": "assets/bilibili_emoji/124/2506.png",
+      "staticUrl": "assets/bilibili/124/2506.png",
       "isHide": false,
       "packageId": "124",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[全职高手_无语]"
       ],
-      "staticUrl": "assets/bilibili_emoji/124/2507.png",
+      "staticUrl": "assets/bilibili/124/2507.png",
       "isHide": false,
       "packageId": "124",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[全职高手_怀疑]"
       ],
-      "staticUrl": "assets/bilibili_emoji/124/2508.png",
+      "staticUrl": "assets/bilibili/124/2508.png",
       "isHide": false,
       "packageId": "124",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[全职高手_痛哭]"
       ],
-      "staticUrl": "assets/bilibili_emoji/124/2509.png",
+      "staticUrl": "assets/bilibili/124/2509.png",
       "isHide": false,
       "packageId": "124",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[全职高手_快乐]"
       ],
-      "staticUrl": "assets/bilibili_emoji/124/2510.png",
+      "staticUrl": "assets/bilibili/124/2510.png",
       "isHide": false,
       "packageId": "124",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[全职高手_疯狂输出]"
       ],
-      "staticUrl": "assets/bilibili_emoji/124/2511.png",
+      "staticUrl": "assets/bilibili/124/2511.png",
       "isHide": false,
       "packageId": "124",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[全职高手_看戏]"
       ],
-      "staticUrl": "assets/bilibili_emoji/124/2512.png",
+      "staticUrl": "assets/bilibili/124/2512.png",
       "isHide": false,
       "packageId": "124",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[全职高手_摊手]"
       ],
-      "staticUrl": "assets/bilibili_emoji/124/2513.png",
+      "staticUrl": "assets/bilibili/124/2513.png",
       "isHide": false,
       "packageId": "124",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[全职高手_偷看]"
       ],
-      "staticUrl": "assets/bilibili_emoji/124/2514.png",
+      "staticUrl": "assets/bilibili/124/2514.png",
       "isHide": false,
       "packageId": "124",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[全职高手_投币]"
       ],
-      "staticUrl": "assets/bilibili_emoji/124/2515.png",
+      "staticUrl": "assets/bilibili/124/2515.png",
       "isHide": false,
       "packageId": "124",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[全职高手_危险凝视]"
       ],
-      "staticUrl": "assets/bilibili_emoji/124/2516.png",
+      "staticUrl": "assets/bilibili/124/2516.png",
       "isHide": false,
       "packageId": "124",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[全职高手_盯]"
       ],
-      "staticUrl": "assets/bilibili_emoji/124/2517.png",
+      "staticUrl": "assets/bilibili/124/2517.png",
       "isHide": false,
       "packageId": "124",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[全职高手_笑咪咪]"
       ],
-      "staticUrl": "assets/bilibili_emoji/124/2518.png",
+      "staticUrl": "assets/bilibili/124/2518.png",
       "isHide": false,
       "packageId": "124",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[全职高手_自信]"
       ],
-      "staticUrl": "assets/bilibili_emoji/124/2519.png",
+      "staticUrl": "assets/bilibili/124/2519.png",
       "isHide": false,
       "packageId": "124",
       "meta": {

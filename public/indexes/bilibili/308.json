@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "308",
   "name": "雪狐桑",
   "coverUrl": "https://i0.hdslb.com/bfs/emote/f800fac319163a7b511e9d74cd2eedfab7268f1b.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[雪狐桑_rua]"
       ],
-      "staticUrl": "assets/bilibili_emoji/308/5053.png",
+      "staticUrl": "assets/bilibili/308/5053.png",
       "isHide": false,
       "packageId": "308",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[雪狐桑_嗷呜]"
       ],
-      "staticUrl": "assets/bilibili_emoji/308/5054.png",
+      "staticUrl": "assets/bilibili/308/5054.png",
       "isHide": false,
       "packageId": "308",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[雪狐桑_保护]"
       ],
-      "staticUrl": "assets/bilibili_emoji/308/5055.png",
+      "staticUrl": "assets/bilibili/308/5055.png",
       "isHide": false,
       "packageId": "308",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[雪狐桑_不可爱]"
       ],
-      "staticUrl": "assets/bilibili_emoji/308/5056.png",
+      "staticUrl": "assets/bilibili/308/5056.png",
       "isHide": false,
       "packageId": "308",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[雪狐桑_吃桃]"
       ],
-      "staticUrl": "assets/bilibili_emoji/308/5057.png",
+      "staticUrl": "assets/bilibili/308/5057.png",
       "isHide": false,
       "packageId": "308",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[雪狐桑_大受震撼]"
       ],
-      "staticUrl": "assets/bilibili_emoji/308/5058.png",
+      "staticUrl": "assets/bilibili/308/5058.png",
       "isHide": false,
       "packageId": "308",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[雪狐桑_给你一拳]"
       ],
-      "staticUrl": "assets/bilibili_emoji/308/5059.png",
+      "staticUrl": "assets/bilibili/308/5059.png",
       "isHide": false,
       "packageId": "308",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[雪狐桑_好棒]"
       ],
-      "staticUrl": "assets/bilibili_emoji/308/5060.png",
+      "staticUrl": "assets/bilibili/308/5060.png",
       "isHide": false,
       "packageId": "308",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[雪狐桑_惊]"
       ],
-      "staticUrl": "assets/bilibili_emoji/308/5061.png",
+      "staticUrl": "assets/bilibili/308/5061.png",
       "isHide": false,
       "packageId": "308",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[雪狐桑_快逃]"
       ],
-      "staticUrl": "assets/bilibili_emoji/308/5062.png",
+      "staticUrl": "assets/bilibili/308/5062.png",
       "isHide": false,
       "packageId": "308",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[雪狐桑_没钱]"
       ],
-      "staticUrl": "assets/bilibili_emoji/308/5063.png",
+      "staticUrl": "assets/bilibili/308/5063.png",
       "isHide": false,
       "packageId": "308",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[雪狐桑_摸鱼]"
       ],
-      "staticUrl": "assets/bilibili_emoji/308/5064.png",
+      "staticUrl": "assets/bilibili/308/5064.png",
       "isHide": false,
       "packageId": "308",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[雪狐桑_生气]"
       ],
-      "staticUrl": "assets/bilibili_emoji/308/5065.png",
+      "staticUrl": "assets/bilibili/308/5065.png",
       "isHide": false,
       "packageId": "308",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[雪狐桑_躺平]"
       ],
-      "staticUrl": "assets/bilibili_emoji/308/5066.png",
+      "staticUrl": "assets/bilibili/308/5066.png",
       "isHide": false,
       "packageId": "308",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[雪狐桑_吸欧气]"
       ],
-      "staticUrl": "assets/bilibili_emoji/308/5067.png",
+      "staticUrl": "assets/bilibili/308/5067.png",
       "isHide": false,
       "packageId": "308",
       "meta": {
@@ -234,7 +234,7 @@
       "shortCodes": [
         "[雪狐桑_屑]"
       ],
-      "staticUrl": "assets/bilibili_emoji/308/5068.png",
+      "staticUrl": "assets/bilibili/308/5068.png",
       "isHide": false,
       "packageId": "308",
       "meta": {
@@ -249,7 +249,7 @@
       "shortCodes": [
         "[雪狐桑_心碎]"
       ],
-      "staticUrl": "assets/bilibili_emoji/308/5069.png",
+      "staticUrl": "assets/bilibili/308/5069.png",
       "isHide": false,
       "packageId": "308",
       "meta": {
@@ -264,7 +264,7 @@
       "shortCodes": [
         "[雪狐桑_心虚]"
       ],
-      "staticUrl": "assets/bilibili_emoji/308/5070.png",
+      "staticUrl": "assets/bilibili/308/5070.png",
       "isHide": false,
       "packageId": "308",
       "meta": {
@@ -279,7 +279,7 @@
       "shortCodes": [
         "[雪狐桑_学习]"
       ],
-      "staticUrl": "assets/bilibili_emoji/308/5071.png",
+      "staticUrl": "assets/bilibili/308/5071.png",
       "isHide": false,
       "packageId": "308",
       "meta": {
@@ -294,7 +294,7 @@
       "shortCodes": [
         "[雪狐桑_疑问]"
       ],
-      "staticUrl": "assets/bilibili_emoji/308/5072.png",
+      "staticUrl": "assets/bilibili/308/5072.png",
       "isHide": false,
       "packageId": "308",
       "meta": {

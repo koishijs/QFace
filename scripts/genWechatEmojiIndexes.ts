@@ -9,10 +9,10 @@ import {
 const ROOT_DIR = resolve(import.meta.dirname, '..')
 const NEWEMOJI_CONFIG_XML = resolve(
   ROOT_DIR,
-  'assets/wechat_emoji/newemoji/newemoji-config.xml'
+  'assets/wechat/newemoji/newemoji-config.xml'
 )
-const WECHAT_QQ_EMOJI_DIR = resolve(ROOT_DIR, 'assets/wechat_emoji/qqemoji')
-const OUTPUT_INDEX_FILE = resolve(ROOT_DIR, 'assets/wechat_emoji/_index.json')
+const WECHAT_QQ_EMOJI_DIR = resolve(ROOT_DIR, 'assets/wechat/qqemoji')
+const OUTPUT_INDEX_FILE = resolve(ROOT_DIR, 'assets/wechat/_index.json')
 
 function calcRelativePath(path: string) {
   return path.replace(resolve(ROOT_DIR, 'assets'), 'assets').replace(/\\/g, '/')
@@ -36,7 +36,7 @@ const newEmojiConfig = new XMLParser().parse(xml) as WechatNewEmojiConfig
 console.log(newEmojiConfig.newemoji.emoji.length)
 newEmojiConfig.newemoji.emoji.forEach((emoji) => {
   emoji = transformKeyToCamelCase(emoji)
-  emoji.path = `assets/wechat_emoji/newemoji/${emoji.fileName}`
+  emoji.path = `assets/wechat/newemoji/${emoji.fileName}`
   wechatEmojiMap.set(emoji.eggIndex, emoji)
 })
 

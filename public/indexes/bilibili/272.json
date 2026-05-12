@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "272",
   "name": "帕里",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/a8f537677ac1c7912376884055965178ed874525.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[帕里_DD]"
       ],
-      "staticUrl": "assets/bilibili_emoji/272/4511.png",
+      "staticUrl": "assets/bilibili/272/4511.png",
       "isHide": false,
       "packageId": "272",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[帕里_白目]"
       ],
-      "staticUrl": "assets/bilibili_emoji/272/4512.png",
+      "staticUrl": "assets/bilibili/272/4512.png",
       "isHide": false,
       "packageId": "272",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[帕里_差评]"
       ],
-      "staticUrl": "assets/bilibili_emoji/272/4513.png",
+      "staticUrl": "assets/bilibili/272/4513.png",
       "isHide": false,
       "packageId": "272",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[帕里_吃瓜]"
       ],
-      "staticUrl": "assets/bilibili_emoji/272/4514.png",
+      "staticUrl": "assets/bilibili/272/4514.png",
       "isHide": false,
       "packageId": "272",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[帕里_第一]"
       ],
-      "staticUrl": "assets/bilibili_emoji/272/4515.png",
+      "staticUrl": "assets/bilibili/272/4515.png",
       "isHide": false,
       "packageId": "272",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[帕里_盯]"
       ],
-      "staticUrl": "assets/bilibili_emoji/272/4516.png",
+      "staticUrl": "assets/bilibili/272/4516.png",
       "isHide": false,
       "packageId": "272",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[帕里_好人]"
       ],
-      "staticUrl": "assets/bilibili_emoji/272/4517.png",
+      "staticUrl": "assets/bilibili/272/4517.png",
       "isHide": false,
       "packageId": "272",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[帕里_惊讶]"
       ],
-      "staticUrl": "assets/bilibili_emoji/272/4518.png",
+      "staticUrl": "assets/bilibili/272/4518.png",
       "isHide": false,
       "packageId": "272",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[帕里_拍桌]"
       ],
-      "staticUrl": "assets/bilibili_emoji/272/4519.png",
+      "staticUrl": "assets/bilibili/272/4519.png",
       "isHide": false,
       "packageId": "272",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[帕里_笑]"
       ],
-      "staticUrl": "assets/bilibili_emoji/272/4520.png",
+      "staticUrl": "assets/bilibili/272/4520.png",
       "isHide": false,
       "packageId": "272",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[帕里_疑问]"
       ],
-      "staticUrl": "assets/bilibili_emoji/272/4521.png",
+      "staticUrl": "assets/bilibili/272/4521.png",
       "isHide": false,
       "packageId": "272",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[帕里_饮茶]"
       ],
-      "staticUrl": "assets/bilibili_emoji/272/4522.png",
+      "staticUrl": "assets/bilibili/272/4522.png",
       "isHide": false,
       "packageId": "272",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[帕里_赞美]"
       ],
-      "staticUrl": "assets/bilibili_emoji/272/4523.png",
+      "staticUrl": "assets/bilibili/272/4523.png",
       "isHide": false,
       "packageId": "272",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[帕里_震撼]"
       ],
-      "staticUrl": "assets/bilibili_emoji/272/4524.png",
+      "staticUrl": "assets/bilibili/272/4524.png",
       "isHide": false,
       "packageId": "272",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[帕里_揍]"
       ],
-      "staticUrl": "assets/bilibili_emoji/272/4525.png",
+      "staticUrl": "assets/bilibili/272/4525.png",
       "isHide": false,
       "packageId": "272",
       "meta": {

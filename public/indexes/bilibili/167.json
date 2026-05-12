@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "167",
   "name": "2233电子喵",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/0e427d69ce95196b98c66b000bf007c1c843e4e1.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[2233电子喵_awsl]"
       ],
-      "staticUrl": "assets/bilibili_emoji/167/3085.png",
+      "staticUrl": "assets/bilibili/167/3085.png",
       "isHide": false,
       "packageId": "167",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[2233电子喵_gkd]"
       ],
-      "staticUrl": "assets/bilibili_emoji/167/3086.png",
+      "staticUrl": "assets/bilibili/167/3086.png",
       "isHide": false,
       "packageId": "167",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[2233电子喵_爱了爱了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/167/3087.png",
+      "staticUrl": "assets/bilibili/167/3087.png",
       "isHide": false,
       "packageId": "167",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[2233电子喵_吹爆老婆]"
       ],
-      "staticUrl": "assets/bilibili_emoji/167/3088.png",
+      "staticUrl": "assets/bilibili/167/3088.png",
       "isHide": false,
       "packageId": "167",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[2233电子喵_从不中奖]"
       ],
-      "staticUrl": "assets/bilibili_emoji/167/3089.png",
+      "staticUrl": "assets/bilibili/167/3089.png",
       "isHide": false,
       "packageId": "167",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[2233电子喵_恭喜这个]"
       ],
-      "staticUrl": "assets/bilibili_emoji/167/3090.png",
+      "staticUrl": "assets/bilibili/167/3090.png",
       "isHide": false,
       "packageId": "167",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[2233电子喵_没钱了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/167/3091.png",
+      "staticUrl": "assets/bilibili/167/3091.png",
       "isHide": false,
       "packageId": "167",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[2233电子喵_就这]"
       ],
-      "staticUrl": "assets/bilibili_emoji/167/3092.png",
+      "staticUrl": "assets/bilibili/167/3092.png",
       "isHide": false,
       "packageId": "167",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[2233电子喵_恰柠檬]"
       ],
-      "staticUrl": "assets/bilibili_emoji/167/3093.png",
+      "staticUrl": "assets/bilibili/167/3093.png",
       "isHide": false,
       "packageId": "167",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[2233电子喵_想桃子]"
       ],
-      "staticUrl": "assets/bilibili_emoji/167/3094.png",
+      "staticUrl": "assets/bilibili/167/3094.png",
       "isHide": false,
       "packageId": "167",
       "meta": {

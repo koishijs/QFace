@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "426",
   "name": "虚拟偶像男团MANTA",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/e19423935a9c5022a286b38a3cbd686ce89f2a2d.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[虚拟偶像男团MANTA_搬砖]"
       ],
-      "staticUrl": "assets/bilibili_emoji/426/7231.png",
+      "staticUrl": "assets/bilibili/426/7231.png",
       "isHide": false,
       "packageId": "426",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[虚拟偶像男团MANTA_悲伤]"
       ],
-      "staticUrl": "assets/bilibili_emoji/426/7232.png",
+      "staticUrl": "assets/bilibili/426/7232.png",
       "isHide": false,
       "packageId": "426",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[虚拟偶像男团MANTA_贝斯笑话]"
       ],
-      "staticUrl": "assets/bilibili_emoji/426/7233.png",
+      "staticUrl": "assets/bilibili/426/7233.png",
       "isHide": false,
       "packageId": "426",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[虚拟偶像男团MANTA_不愧是我]"
       ],
-      "staticUrl": "assets/bilibili_emoji/426/7234.png",
+      "staticUrl": "assets/bilibili/426/7234.png",
       "isHide": false,
       "packageId": "426",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[虚拟偶像男团MANTA_沉思]"
       ],
-      "staticUrl": "assets/bilibili_emoji/426/7235.png",
+      "staticUrl": "assets/bilibili/426/7235.png",
       "isHide": false,
       "packageId": "426",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[虚拟偶像男团MANTA_点赞]"
       ],
-      "staticUrl": "assets/bilibili_emoji/426/7236.png",
+      "staticUrl": "assets/bilibili/426/7236.png",
       "isHide": false,
       "packageId": "426",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[虚拟偶像男团MANTA_都不学习吗]"
       ],
-      "staticUrl": "assets/bilibili_emoji/426/7237.png",
+      "staticUrl": "assets/bilibili/426/7237.png",
       "isHide": false,
       "packageId": "426",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[虚拟偶像男团MANTA_服了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/426/7238.png",
+      "staticUrl": "assets/bilibili/426/7238.png",
       "isHide": false,
       "packageId": "426",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[虚拟偶像男团MANTA_干杯]"
       ],
-      "staticUrl": "assets/bilibili_emoji/426/7239.png",
+      "staticUrl": "assets/bilibili/426/7239.png",
       "isHide": false,
       "packageId": "426",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[虚拟偶像男团MANTA_乖巧]"
       ],
-      "staticUrl": "assets/bilibili_emoji/426/7240.png",
+      "staticUrl": "assets/bilibili/426/7240.png",
       "isHide": false,
       "packageId": "426",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[虚拟偶像男团MANTA_晦气]"
       ],
-      "staticUrl": "assets/bilibili_emoji/426/7241.png",
+      "staticUrl": "assets/bilibili/426/7241.png",
       "isHide": false,
       "packageId": "426",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[虚拟偶像男团MANTA_火钳刘明]"
       ],
-      "staticUrl": "assets/bilibili_emoji/426/7242.png",
+      "staticUrl": "assets/bilibili/426/7242.png",
       "isHide": false,
       "packageId": "426",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[虚拟偶像男团MANTA_继续啊哥哥]"
       ],
-      "staticUrl": "assets/bilibili_emoji/426/7243.png",
+      "staticUrl": "assets/bilibili/426/7243.png",
       "isHide": false,
       "packageId": "426",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[虚拟偶像男团MANTA_没钱]"
       ],
-      "staticUrl": "assets/bilibili_emoji/426/7244.png",
+      "staticUrl": "assets/bilibili/426/7244.png",
       "isHide": false,
       "packageId": "426",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[虚拟偶像男团MANTA_拿捏鸟]"
       ],
-      "staticUrl": "assets/bilibili_emoji/426/7245.png",
+      "staticUrl": "assets/bilibili/426/7245.png",
       "isHide": false,
       "packageId": "426",
       "meta": {
@@ -234,7 +234,7 @@
       "shortCodes": [
         "[虚拟偶像男团MANTA_您这边请]"
       ],
-      "staticUrl": "assets/bilibili_emoji/426/7246.png",
+      "staticUrl": "assets/bilibili/426/7246.png",
       "isHide": false,
       "packageId": "426",
       "meta": {
@@ -249,7 +249,7 @@
       "shortCodes": [
         "[虚拟偶像男团MANTA_收藏]"
       ],
-      "staticUrl": "assets/bilibili_emoji/426/7247.png",
+      "staticUrl": "assets/bilibili/426/7247.png",
       "isHide": false,
       "packageId": "426",
       "meta": {
@@ -264,7 +264,7 @@
       "shortCodes": [
         "[虚拟偶像男团MANTA_说笑了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/426/7248.png",
+      "staticUrl": "assets/bilibili/426/7248.png",
       "isHide": false,
       "packageId": "426",
       "meta": {
@@ -279,7 +279,7 @@
       "shortCodes": [
         "[虚拟偶像男团MANTA_送花]"
       ],
-      "staticUrl": "assets/bilibili_emoji/426/7249.png",
+      "staticUrl": "assets/bilibili/426/7249.png",
       "isHide": false,
       "packageId": "426",
       "meta": {
@@ -294,7 +294,7 @@
       "shortCodes": [
         "[虚拟偶像男团MANTA_天若有情]"
       ],
-      "staticUrl": "assets/bilibili_emoji/426/7250.png",
+      "staticUrl": "assets/bilibili/426/7250.png",
       "isHide": false,
       "packageId": "426",
       "meta": {
@@ -309,7 +309,7 @@
       "shortCodes": [
         "[虚拟偶像男团MANTA_投币]"
       ],
-      "staticUrl": "assets/bilibili_emoji/426/7251.png",
+      "staticUrl": "assets/bilibili/426/7251.png",
       "isHide": false,
       "packageId": "426",
       "meta": {
@@ -324,7 +324,7 @@
       "shortCodes": [
         "[虚拟偶像男团MANTA_压力山大]"
       ],
-      "staticUrl": "assets/bilibili_emoji/426/7252.png",
+      "staticUrl": "assets/bilibili/426/7252.png",
       "isHide": false,
       "packageId": "426",
       "meta": {
@@ -339,7 +339,7 @@
       "shortCodes": [
         "[虚拟偶像男团MANTA_养身]"
       ],
-      "staticUrl": "assets/bilibili_emoji/426/7253.png",
+      "staticUrl": "assets/bilibili/426/7253.png",
       "isHide": false,
       "packageId": "426",
       "meta": {
@@ -354,7 +354,7 @@
       "shortCodes": [
         "[虚拟偶像男团MANTA_元气]"
       ],
-      "staticUrl": "assets/bilibili_emoji/426/7254.png",
+      "staticUrl": "assets/bilibili/426/7254.png",
       "isHide": false,
       "packageId": "426",
       "meta": {
@@ -369,7 +369,7 @@
       "shortCodes": [
         "[虚拟偶像男团MANTA_炸厨房]"
       ],
-      "staticUrl": "assets/bilibili_emoji/426/7255.png",
+      "staticUrl": "assets/bilibili/426/7255.png",
       "isHide": false,
       "packageId": "426",
       "meta": {

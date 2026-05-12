@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "403",
   "name": "君有云",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/fdf059355530ddb8482d3af7eb3268ebf7489be6.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[君有云_安慰]"
       ],
-      "staticUrl": "assets/bilibili_emoji/403/6774.png",
+      "staticUrl": "assets/bilibili/403/6774.png",
       "isHide": false,
       "packageId": "403",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[君有云_傲娇]"
       ],
-      "staticUrl": "assets/bilibili_emoji/403/6775.png",
+      "staticUrl": "assets/bilibili/403/6775.png",
       "isHide": false,
       "packageId": "403",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[君有云_吃瓜]"
       ],
-      "staticUrl": "assets/bilibili_emoji/403/6776.png",
+      "staticUrl": "assets/bilibili/403/6776.png",
       "isHide": false,
       "packageId": "403",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[君有云_沮丧]"
       ],
-      "staticUrl": "assets/bilibili_emoji/403/6777.png",
+      "staticUrl": "assets/bilibili/403/6777.png",
       "isHide": false,
       "packageId": "403",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[君有云_看书]"
       ],
-      "staticUrl": "assets/bilibili_emoji/403/6778.png",
+      "staticUrl": "assets/bilibili/403/6778.png",
       "isHide": false,
       "packageId": "403",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[君有云_让我康康]"
       ],
-      "staticUrl": "assets/bilibili_emoji/403/6779.png",
+      "staticUrl": "assets/bilibili/403/6779.png",
       "isHide": false,
       "packageId": "403",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[君有云_生气]"
       ],
-      "staticUrl": "assets/bilibili_emoji/403/6780.png",
+      "staticUrl": "assets/bilibili/403/6780.png",
       "isHide": false,
       "packageId": "403",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[君有云_师姐救我]"
       ],
-      "staticUrl": "assets/bilibili_emoji/403/6781.png",
+      "staticUrl": "assets/bilibili/403/6781.png",
       "isHide": false,
       "packageId": "403",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[君有云_捅回去]"
       ],
-      "staticUrl": "assets/bilibili_emoji/403/6782.png",
+      "staticUrl": "assets/bilibili/403/6782.png",
       "isHide": false,
       "packageId": "403",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[君有云_捅你]"
       ],
-      "staticUrl": "assets/bilibili_emoji/403/6783.png",
+      "staticUrl": "assets/bilibili/403/6783.png",
       "isHide": false,
       "packageId": "403",
       "meta": {

@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "330",
   "name": "奈姬niki",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/bfa243f3814ce9887b5b3401f20eda4af849229f.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[奈姬niki_问号]"
       ],
-      "staticUrl": "assets/bilibili_emoji/330/5386.png",
+      "staticUrl": "assets/bilibili/330/5386.png",
       "isHide": false,
       "packageId": "330",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[奈姬niki_绷不住了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/330/5387.png",
+      "staticUrl": "assets/bilibili/330/5387.png",
       "isHide": false,
       "packageId": "330",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[奈姬niki_愤怒]"
       ],
-      "staticUrl": "assets/bilibili_emoji/330/5388.png",
+      "staticUrl": "assets/bilibili/330/5388.png",
       "isHide": false,
       "packageId": "330",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[奈姬niki_节目效果]"
       ],
-      "staticUrl": "assets/bilibili_emoji/330/5389.png",
+      "staticUrl": "assets/bilibili/330/5389.png",
       "isHide": false,
       "packageId": "330",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[奈姬niki_困了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/330/5390.png",
+      "staticUrl": "assets/bilibili/330/5390.png",
       "isHide": false,
       "packageId": "330",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[奈姬niki_裂开]"
       ],
-      "staticUrl": "assets/bilibili_emoji/330/5391.png",
+      "staticUrl": "assets/bilibili/330/5391.png",
       "isHide": false,
       "packageId": "330",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[奈姬niki_流汗]"
       ],
-      "staticUrl": "assets/bilibili_emoji/330/5392.png",
+      "staticUrl": "assets/bilibili/330/5392.png",
       "isHide": false,
       "packageId": "330",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[奈姬niki_满足]"
       ],
-      "staticUrl": "assets/bilibili_emoji/330/5393.png",
+      "staticUrl": "assets/bilibili/330/5393.png",
       "isHide": false,
       "packageId": "330",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[奈姬niki_吐舌头]"
       ],
-      "staticUrl": "assets/bilibili_emoji/330/5394.png",
+      "staticUrl": "assets/bilibili/330/5394.png",
       "isHide": false,
       "packageId": "330",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[奈姬niki_危]"
       ],
-      "staticUrl": "assets/bilibili_emoji/330/5395.png",
+      "staticUrl": "assets/bilibili/330/5395.png",
       "isHide": false,
       "packageId": "330",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[奈姬niki_微笑]"
       ],
-      "staticUrl": "assets/bilibili_emoji/330/5396.png",
+      "staticUrl": "assets/bilibili/330/5396.png",
       "isHide": false,
       "packageId": "330",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[奈姬niki_委屈]"
       ],
-      "staticUrl": "assets/bilibili_emoji/330/5397.png",
+      "staticUrl": "assets/bilibili/330/5397.png",
       "isHide": false,
       "packageId": "330",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[奈姬niki_我超]"
       ],
-      "staticUrl": "assets/bilibili_emoji/330/5398.png",
+      "staticUrl": "assets/bilibili/330/5398.png",
       "isHide": false,
       "packageId": "330",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[奈姬niki_无语]"
       ],
-      "staticUrl": "assets/bilibili_emoji/330/5399.png",
+      "staticUrl": "assets/bilibili/330/5399.png",
       "isHide": false,
       "packageId": "330",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[奈姬niki_谢谢]"
       ],
-      "staticUrl": "assets/bilibili_emoji/330/5400.png",
+      "staticUrl": "assets/bilibili/330/5400.png",
       "isHide": false,
       "packageId": "330",
       "meta": {

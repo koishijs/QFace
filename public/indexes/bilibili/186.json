@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "186",
   "name": "2233白色情人节表情包",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/ee55141dca001c6322a82950c445b7f1619dcf8c.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[白色情人节_555]"
       ],
-      "staticUrl": "assets/bilibili_emoji/186/3349.png",
+      "staticUrl": "assets/bilibili/186/3349.png",
       "isHide": false,
       "packageId": "186",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[白色情人节_awsl]"
       ],
-      "staticUrl": "assets/bilibili_emoji/186/3350.png",
+      "staticUrl": "assets/bilibili/186/3350.png",
       "isHide": false,
       "packageId": "186",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[白色情人节_chou你]"
       ],
-      "staticUrl": "assets/bilibili_emoji/186/3351.png",
+      "staticUrl": "assets/bilibili/186/3351.png",
       "isHide": false,
       "packageId": "186",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[白色情人节_mua]"
       ],
-      "staticUrl": "assets/bilibili_emoji/186/3352.png",
+      "staticUrl": "assets/bilibili/186/3352.png",
       "isHide": false,
       "packageId": "186",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[白色情人节_ok]"
       ],
-      "staticUrl": "assets/bilibili_emoji/186/3353.png",
+      "staticUrl": "assets/bilibili/186/3353.png",
       "isHide": false,
       "packageId": "186",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[白色情人节_out]"
       ],
-      "staticUrl": "assets/bilibili_emoji/186/3354.png",
+      "staticUrl": "assets/bilibili/186/3354.png",
       "isHide": false,
       "packageId": "186",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[白色情人节_shot]"
       ],
-      "staticUrl": "assets/bilibili_emoji/186/3355.png",
+      "staticUrl": "assets/bilibili/186/3355.png",
       "isHide": false,
       "packageId": "186",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[白色情人节_yyds]"
       ],
-      "staticUrl": "assets/bilibili_emoji/186/3356.png",
+      "staticUrl": "assets/bilibili/186/3356.png",
       "isHide": false,
       "packageId": "186",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[白色情人节_爱了爱了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/186/3357.png",
+      "staticUrl": "assets/bilibili/186/3357.png",
       "isHide": false,
       "packageId": "186",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[白色情人节_好想要]"
       ],
-      "staticUrl": "assets/bilibili_emoji/186/3358.png",
+      "staticUrl": "assets/bilibili/186/3358.png",
       "isHide": false,
       "packageId": "186",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[白色情人节_好兄弟]"
       ],
-      "staticUrl": "assets/bilibili_emoji/186/3359.png",
+      "staticUrl": "assets/bilibili/186/3359.png",
       "isHide": false,
       "packageId": "186",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[白色情人节_好耶]"
       ],
-      "staticUrl": "assets/bilibili_emoji/186/3360.png",
+      "staticUrl": "assets/bilibili/186/3360.png",
       "isHide": false,
       "packageId": "186",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[白色情人节_就这]"
       ],
-      "staticUrl": "assets/bilibili_emoji/186/3361.png",
+      "staticUrl": "assets/bilibili/186/3361.png",
       "isHide": false,
       "packageId": "186",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[白色情人节_老婆赛高]"
       ],
-      "staticUrl": "assets/bilibili_emoji/186/3362.png",
+      "staticUrl": "assets/bilibili/186/3362.png",
       "isHide": false,
       "packageId": "186",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[白色情人节_恰柠檬]"
       ],
-      "staticUrl": "assets/bilibili_emoji/186/3363.png",
+      "staticUrl": "assets/bilibili/186/3363.png",
       "isHide": false,
       "packageId": "186",
       "meta": {
@@ -234,7 +234,7 @@
       "shortCodes": [
         "[白色情人节_拳头硬了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/186/3364.png",
+      "staticUrl": "assets/bilibili/186/3364.png",
       "isHide": false,
       "packageId": "186",
       "meta": {
@@ -249,7 +249,7 @@
       "shortCodes": [
         "[白色情人节_贴贴]"
       ],
-      "staticUrl": "assets/bilibili_emoji/186/3365.png",
+      "staticUrl": "assets/bilibili/186/3365.png",
       "isHide": false,
       "packageId": "186",
       "meta": {
@@ -264,7 +264,7 @@
       "shortCodes": [
         "[白色情人节_一键三连]"
       ],
-      "staticUrl": "assets/bilibili_emoji/186/3366.png",
+      "staticUrl": "assets/bilibili/186/3366.png",
       "isHide": false,
       "packageId": "186",
       "meta": {
@@ -279,7 +279,7 @@
       "shortCodes": [
         "[白色情人节_在吗]"
       ],
-      "staticUrl": "assets/bilibili_emoji/186/3367.png",
+      "staticUrl": "assets/bilibili/186/3367.png",
       "isHide": false,
       "packageId": "186",
       "meta": {
@@ -294,7 +294,7 @@
       "shortCodes": [
         "[白色情人节_牛哦]"
       ],
-      "staticUrl": "assets/bilibili_emoji/186/3388.png",
+      "staticUrl": "assets/bilibili/186/3388.png",
       "isHide": false,
       "packageId": "186",
       "meta": {

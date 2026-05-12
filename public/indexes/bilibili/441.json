@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "441",
   "name": "海伊",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/93697563102d37ff41afe75c7c3072718f2b7010.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[海伊_比心]"
       ],
-      "staticUrl": "assets/bilibili_emoji/441/7648.png",
+      "staticUrl": "assets/bilibili/441/7648.png",
       "isHide": false,
       "packageId": "441",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[海伊_唱歌]"
       ],
-      "staticUrl": "assets/bilibili_emoji/441/7649.png",
+      "staticUrl": "assets/bilibili/441/7649.png",
       "isHide": false,
       "packageId": "441",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[海伊_打call]"
       ],
-      "staticUrl": "assets/bilibili_emoji/441/7650.png",
+      "staticUrl": "assets/bilibili/441/7650.png",
       "isHide": false,
       "packageId": "441",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[海伊_大哭]"
       ],
-      "staticUrl": "assets/bilibili_emoji/441/7651.png",
+      "staticUrl": "assets/bilibili/441/7651.png",
       "isHide": false,
       "packageId": "441",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[海伊_得意]"
       ],
-      "staticUrl": "assets/bilibili_emoji/441/7652.png",
+      "staticUrl": "assets/bilibili/441/7652.png",
       "isHide": false,
       "packageId": "441",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[海伊_坏笑]"
       ],
-      "staticUrl": "assets/bilibili_emoji/441/7653.png",
+      "staticUrl": "assets/bilibili/441/7653.png",
       "isHide": false,
       "packageId": "441",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[海伊_惊]"
       ],
-      "staticUrl": "assets/bilibili_emoji/441/7654.png",
+      "staticUrl": "assets/bilibili/441/7654.png",
       "isHide": false,
       "packageId": "441",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[海伊_瞌睡]"
       ],
-      "staticUrl": "assets/bilibili_emoji/441/7655.png",
+      "staticUrl": "assets/bilibili/441/7655.png",
       "isHide": false,
       "packageId": "441",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[海伊_愣住]"
       ],
-      "staticUrl": "assets/bilibili_emoji/441/7656.png",
+      "staticUrl": "assets/bilibili/441/7656.png",
       "isHide": false,
       "packageId": "441",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[海伊_升天]"
       ],
-      "staticUrl": "assets/bilibili_emoji/441/7657.png",
+      "staticUrl": "assets/bilibili/441/7657.png",
       "isHide": false,
       "packageId": "441",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[海伊_生日快乐]"
       ],
-      "staticUrl": "assets/bilibili_emoji/441/7658.png",
+      "staticUrl": "assets/bilibili/441/7658.png",
       "isHide": false,
       "packageId": "441",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[海伊_无语]"
       ],
-      "staticUrl": "assets/bilibili_emoji/441/7659.png",
+      "staticUrl": "assets/bilibili/441/7659.png",
       "isHide": false,
       "packageId": "441",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[海伊_星星眼]"
       ],
-      "staticUrl": "assets/bilibili_emoji/441/7660.png",
+      "staticUrl": "assets/bilibili/441/7660.png",
       "isHide": false,
       "packageId": "441",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[海伊_疑惑]"
       ],
-      "staticUrl": "assets/bilibili_emoji/441/7661.png",
+      "staticUrl": "assets/bilibili/441/7661.png",
       "isHide": false,
       "packageId": "441",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[海伊_自闭]"
       ],
-      "staticUrl": "assets/bilibili_emoji/441/7662.png",
+      "staticUrl": "assets/bilibili/441/7662.png",
       "isHide": false,
       "packageId": "441",
       "meta": {

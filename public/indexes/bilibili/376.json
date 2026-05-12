@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "376",
   "name": "绘光计划专属",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/55daf208ff65bc899cd2879f156329e4bcfda6fe.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[绘光计划专属_啊对对对]"
       ],
-      "staticUrl": "assets/bilibili_emoji/376/6205.png",
+      "staticUrl": "assets/bilibili/376/6205.png",
       "isHide": false,
       "packageId": "376",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[绘光计划专属_算了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/376/6206.png",
+      "staticUrl": "assets/bilibili/376/6206.png",
       "isHide": false,
       "packageId": "376",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[绘光计划专属_不许搞颜色]"
       ],
-      "staticUrl": "assets/bilibili_emoji/376/6207.png",
+      "staticUrl": "assets/bilibili/376/6207.png",
       "isHide": false,
       "packageId": "376",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[绘光计划专属_打咩]"
       ],
-      "staticUrl": "assets/bilibili_emoji/376/6208.png",
+      "staticUrl": "assets/bilibili/376/6208.png",
       "isHide": false,
       "packageId": "376",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[绘光计划专属_饭饭]"
       ],
-      "staticUrl": "assets/bilibili_emoji/376/6209.png",
+      "staticUrl": "assets/bilibili/376/6209.png",
       "isHide": false,
       "packageId": "376",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[绘光计划专属_咕了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/376/6210.png",
+      "staticUrl": "assets/bilibili/376/6210.png",
       "isHide": false,
       "packageId": "376",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[绘光计划专属_教我画画]"
       ],
-      "staticUrl": "assets/bilibili_emoji/376/6211.png",
+      "staticUrl": "assets/bilibili/376/6211.png",
       "isHide": false,
       "packageId": "376",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[绘光计划专属_就要搞颜色]"
       ],
-      "staticUrl": "assets/bilibili_emoji/376/6212.png",
+      "staticUrl": "assets/bilibili/376/6212.png",
       "isHide": false,
       "packageId": "376",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[绘光计划专属_太强了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/376/6213.png",
+      "staticUrl": "assets/bilibili/376/6213.png",
       "isHide": false,
       "packageId": "376",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[绘光计划专属_我画我画]"
       ],
-      "staticUrl": "assets/bilibili_emoji/376/6214.png",
+      "staticUrl": "assets/bilibili/376/6214.png",
       "isHide": false,
       "packageId": "376",
       "meta": {

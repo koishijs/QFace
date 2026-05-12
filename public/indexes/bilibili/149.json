@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "149",
   "name": "小红眼",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/1f80c6475ccf88db4067a810a6628fd7e5130f33.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[小红眼_生气]"
       ],
-      "staticUrl": "assets/bilibili_emoji/149/2818.png",
+      "staticUrl": "assets/bilibili/149/2818.png",
       "isHide": false,
       "packageId": "149",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[小红眼_鼻血]"
       ],
-      "staticUrl": "assets/bilibili_emoji/149/2819.png",
+      "staticUrl": "assets/bilibili/149/2819.png",
       "isHide": false,
       "packageId": "149",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[小红眼_嘲笑]"
       ],
-      "staticUrl": "assets/bilibili_emoji/149/2820.png",
+      "staticUrl": "assets/bilibili/149/2820.png",
       "isHide": false,
       "packageId": "149",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[小红眼_吃瓜]"
       ],
-      "staticUrl": "assets/bilibili_emoji/149/2821.png",
+      "staticUrl": "assets/bilibili/149/2821.png",
       "isHide": false,
       "packageId": "149",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[小红眼_吃惊]"
       ],
-      "staticUrl": "assets/bilibili_emoji/149/2822.png",
+      "staticUrl": "assets/bilibili/149/2822.png",
       "isHide": false,
       "packageId": "149",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[小红眼_大哭]"
       ],
-      "staticUrl": "assets/bilibili_emoji/149/2823.png",
+      "staticUrl": "assets/bilibili/149/2823.png",
       "isHide": false,
       "packageId": "149",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[小红眼_愤怒]"
       ],
-      "staticUrl": "assets/bilibili_emoji/149/2824.png",
+      "staticUrl": "assets/bilibili/149/2824.png",
       "isHide": false,
       "packageId": "149",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[小红眼_嫌弃]"
       ],
-      "staticUrl": "assets/bilibili_emoji/149/2825.png",
+      "staticUrl": "assets/bilibili/149/2825.png",
       "isHide": false,
       "packageId": "149",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[小红眼_享受]"
       ],
-      "staticUrl": "assets/bilibili_emoji/149/2826.png",
+      "staticUrl": "assets/bilibili/149/2826.png",
       "isHide": false,
       "packageId": "149",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[小红眼_点赞]"
       ],
-      "staticUrl": "assets/bilibili_emoji/149/2827.png",
+      "staticUrl": "assets/bilibili/149/2827.png",
       "isHide": false,
       "packageId": "149",
       "meta": {

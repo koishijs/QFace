@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "109",
   "name": "凹凸世界",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/6a38d927eaa49ae42dbaf02ce66a0e66bcd54486.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[凹凸世界_你看看你]"
       ],
-      "staticUrl": "assets/bilibili_emoji/109/2305.png",
+      "staticUrl": "assets/bilibili/109/2305.png",
       "isHide": false,
       "packageId": "109",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[凹凸世界_hi]"
       ],
-      "staticUrl": "assets/bilibili_emoji/109/2306.png",
+      "staticUrl": "assets/bilibili/109/2306.png",
       "isHide": false,
       "packageId": "109",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[凹凸世界_无语]"
       ],
-      "staticUrl": "assets/bilibili_emoji/109/2307.png",
+      "staticUrl": "assets/bilibili/109/2307.png",
       "isHide": false,
       "packageId": "109",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[凹凸世界_思考]"
       ],
-      "staticUrl": "assets/bilibili_emoji/109/2308.png",
+      "staticUrl": "assets/bilibili/109/2308.png",
       "isHide": false,
       "packageId": "109",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[凹凸世界_好奇]"
       ],
-      "staticUrl": "assets/bilibili_emoji/109/2309.png",
+      "staticUrl": "assets/bilibili/109/2309.png",
       "isHide": false,
       "packageId": "109",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[凹凸世界_你再见]"
       ],
-      "staticUrl": "assets/bilibili_emoji/109/2310.png",
+      "staticUrl": "assets/bilibili/109/2310.png",
       "isHide": false,
       "packageId": "109",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[凹凸世界_毁约]"
       ],
-      "staticUrl": "assets/bilibili_emoji/109/2311.png",
+      "staticUrl": "assets/bilibili/109/2311.png",
       "isHide": false,
       "packageId": "109",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[凹凸世界_约架]"
       ],
-      "staticUrl": "assets/bilibili_emoji/109/2312.png",
+      "staticUrl": "assets/bilibili/109/2312.png",
       "isHide": false,
       "packageId": "109",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[凹凸世界_拒绝]"
       ],
-      "staticUrl": "assets/bilibili_emoji/109/2313.png",
+      "staticUrl": "assets/bilibili/109/2313.png",
       "isHide": false,
       "packageId": "109",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[凹凸世界_渣渣]"
       ],
-      "staticUrl": "assets/bilibili_emoji/109/2314.png",
+      "staticUrl": "assets/bilibili/109/2314.png",
       "isHide": false,
       "packageId": "109",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[凹凸世界_心动]"
       ],
-      "staticUrl": "assets/bilibili_emoji/109/2315.png",
+      "staticUrl": "assets/bilibili/109/2315.png",
       "isHide": false,
       "packageId": "109",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[凹凸世界_决心]"
       ],
-      "staticUrl": "assets/bilibili_emoji/109/2316.png",
+      "staticUrl": "assets/bilibili/109/2316.png",
       "isHide": false,
       "packageId": "109",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[凹凸世界_耍帅]"
       ],
-      "staticUrl": "assets/bilibili_emoji/109/2317.png",
+      "staticUrl": "assets/bilibili/109/2317.png",
       "isHide": false,
       "packageId": "109",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[凹凸世界_算了算了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/109/2318.png",
+      "staticUrl": "assets/bilibili/109/2318.png",
       "isHide": false,
       "packageId": "109",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[凹凸世界_告辞]"
       ],
-      "staticUrl": "assets/bilibili_emoji/109/2319.png",
+      "staticUrl": "assets/bilibili/109/2319.png",
       "isHide": false,
       "packageId": "109",
       "meta": {
@@ -234,7 +234,7 @@
       "shortCodes": [
         "[凹凸世界_强忍怒气]"
       ],
-      "staticUrl": "assets/bilibili_emoji/109/2320.png",
+      "staticUrl": "assets/bilibili/109/2320.png",
       "isHide": false,
       "packageId": "109",
       "meta": {

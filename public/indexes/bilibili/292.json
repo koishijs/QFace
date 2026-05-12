@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "292",
   "name": "LNG战队",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/bbd4913f9b01b0f612b927e157598cbff6dd460f.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[LNG_666]"
       ],
-      "staticUrl": "assets/bilibili_emoji/292/4822.png",
+      "staticUrl": "assets/bilibili/292/4822.png",
       "isHide": false,
       "packageId": "292",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[LNG_出征]"
       ],
-      "staticUrl": "assets/bilibili_emoji/292/4823.png",
+      "staticUrl": "assets/bilibili/292/4823.png",
       "isHide": false,
       "packageId": "292",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[LNG_点点]"
       ],
-      "staticUrl": "assets/bilibili_emoji/292/4824.png",
+      "staticUrl": "assets/bilibili/292/4824.png",
       "isHide": false,
       "packageId": "292",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[LNG_加油]"
       ],
-      "staticUrl": "assets/bilibili_emoji/292/4825.png",
+      "staticUrl": "assets/bilibili/292/4825.png",
       "isHide": false,
       "packageId": "292",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[LNG_哭哭]"
       ],
-      "staticUrl": "assets/bilibili_emoji/292/4826.png",
+      "staticUrl": "assets/bilibili/292/4826.png",
       "isHide": false,
       "packageId": "292",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[LNG_麒麟云中现]"
       ],
-      "staticUrl": "assets/bilibili_emoji/292/4827.png",
+      "staticUrl": "assets/bilibili/292/4827.png",
       "isHide": false,
       "packageId": "292",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[LNG_要有光]"
       ],
-      "staticUrl": "assets/bilibili_emoji/292/4828.png",
+      "staticUrl": "assets/bilibili/292/4828.png",
       "isHide": false,
       "packageId": "292",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[LNG_营业]"
       ],
-      "staticUrl": "assets/bilibili_emoji/292/4829.png",
+      "staticUrl": "assets/bilibili/292/4829.png",
       "isHide": false,
       "packageId": "292",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[LNG_有了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/292/4830.png",
+      "staticUrl": "assets/bilibili/292/4830.png",
       "isHide": false,
       "packageId": "292",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[LNG_LNG]"
       ],
-      "staticUrl": "assets/bilibili_emoji/292/4831.png",
+      "staticUrl": "assets/bilibili/292/4831.png",
       "isHide": false,
       "packageId": "292",
       "meta": {

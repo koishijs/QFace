@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "465",
   "name": "仙剑奇侠传七",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/8fa8823bf640b097156ea8683965a65417b3cead.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[仙剑七_仙]"
       ],
-      "staticUrl": "assets/bilibili_emoji/465/8149.png",
+      "staticUrl": "assets/bilibili/465/8149.png",
       "isHide": false,
       "packageId": "465",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[仙剑七_剑]"
       ],
-      "staticUrl": "assets/bilibili_emoji/465/8132.png",
+      "staticUrl": "assets/bilibili/465/8132.png",
       "isHide": false,
       "packageId": "465",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[仙剑七_奇]"
       ],
-      "staticUrl": "assets/bilibili_emoji/465/8140.png",
+      "staticUrl": "assets/bilibili/465/8140.png",
       "isHide": false,
       "packageId": "465",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[仙剑七_侠]"
       ],
-      "staticUrl": "assets/bilibili_emoji/465/8148.png",
+      "staticUrl": "assets/bilibili/465/8148.png",
       "isHide": false,
       "packageId": "465",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[仙剑七_传]"
       ],
-      "staticUrl": "assets/bilibili_emoji/465/8125.png",
+      "staticUrl": "assets/bilibili/465/8125.png",
       "isHide": false,
       "packageId": "465",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[仙剑七_七]"
       ],
-      "staticUrl": "assets/bilibili_emoji/465/8139.png",
+      "staticUrl": "assets/bilibili/465/8139.png",
       "isHide": false,
       "packageId": "465",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[仙剑七_努力]"
       ],
-      "staticUrl": "assets/bilibili_emoji/465/8138.png",
+      "staticUrl": "assets/bilibili/465/8138.png",
       "isHide": false,
       "packageId": "465",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[仙剑七_可]"
       ],
-      "staticUrl": "assets/bilibili_emoji/465/8135.png",
+      "staticUrl": "assets/bilibili/465/8135.png",
       "isHide": false,
       "packageId": "465",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[仙剑七_鸽了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/465/8129.png",
+      "staticUrl": "assets/bilibili/465/8129.png",
       "isHide": false,
       "packageId": "465",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[仙剑七_思考]"
       ],
-      "staticUrl": "assets/bilibili_emoji/465/8143.png",
+      "staticUrl": "assets/bilibili/465/8143.png",
       "isHide": false,
       "packageId": "465",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[仙剑七_感谢]"
       ],
-      "staticUrl": "assets/bilibili_emoji/465/8127.png",
+      "staticUrl": "assets/bilibili/465/8127.png",
       "isHide": false,
       "packageId": "465",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[仙剑七_我来了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/465/8147.png",
+      "staticUrl": "assets/bilibili/465/8147.png",
       "isHide": false,
       "packageId": "465",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[仙剑七_尴尬]"
       ],
-      "staticUrl": "assets/bilibili_emoji/465/8126.png",
+      "staticUrl": "assets/bilibili/465/8126.png",
       "isHide": false,
       "packageId": "465",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[仙剑七_拒绝]"
       ],
-      "staticUrl": "assets/bilibili_emoji/465/8134.png",
+      "staticUrl": "assets/bilibili/465/8134.png",
       "isHide": false,
       "packageId": "465",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[仙剑七_干杯]"
       ],
-      "staticUrl": "assets/bilibili_emoji/465/8128.png",
+      "staticUrl": "assets/bilibili/465/8128.png",
       "isHide": false,
       "packageId": "465",
       "meta": {
@@ -234,7 +234,7 @@
       "shortCodes": [
         "[仙剑七_疑惑]"
       ],
-      "staticUrl": "assets/bilibili_emoji/465/8151.png",
+      "staticUrl": "assets/bilibili/465/8151.png",
       "isHide": false,
       "packageId": "465",
       "meta": {
@@ -249,7 +249,7 @@
       "shortCodes": [
         "[仙剑七_可爱]"
       ],
-      "staticUrl": "assets/bilibili_emoji/465/8136.png",
+      "staticUrl": "assets/bilibili/465/8136.png",
       "isHide": false,
       "packageId": "465",
       "meta": {
@@ -264,7 +264,7 @@
       "shortCodes": [
         "[仙剑七_比心]"
       ],
-      "staticUrl": "assets/bilibili_emoji/465/8123.png",
+      "staticUrl": "assets/bilibili/465/8123.png",
       "isHide": false,
       "packageId": "465",
       "meta": {
@@ -279,7 +279,7 @@
       "shortCodes": [
         "[仙剑七_祝符]"
       ],
-      "staticUrl": "assets/bilibili_emoji/465/8152.png",
+      "staticUrl": "assets/bilibili/465/8152.png",
       "isHide": false,
       "packageId": "465",
       "meta": {
@@ -294,7 +294,7 @@
       "shortCodes": [
         "[仙剑七_加油]"
       ],
-      "staticUrl": "assets/bilibili_emoji/465/8130.png",
+      "staticUrl": "assets/bilibili/465/8130.png",
       "isHide": false,
       "packageId": "465",
       "meta": {
@@ -309,7 +309,7 @@
       "shortCodes": [
         "[仙剑七_委屈]"
       ],
-      "staticUrl": "assets/bilibili_emoji/465/8146.png",
+      "staticUrl": "assets/bilibili/465/8146.png",
       "isHide": false,
       "packageId": "465",
       "meta": {
@@ -324,7 +324,7 @@
       "shortCodes": [
         "[仙剑七_太难了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/465/8144.png",
+      "staticUrl": "assets/bilibili/465/8144.png",
       "isHide": false,
       "packageId": "465",
       "meta": {
@@ -339,7 +339,7 @@
       "shortCodes": [
         "[仙剑七_吃瓜]"
       ],
-      "staticUrl": "assets/bilibili_emoji/465/8124.png",
+      "staticUrl": "assets/bilibili/465/8124.png",
       "isHide": false,
       "packageId": "465",
       "meta": {
@@ -354,7 +354,7 @@
       "shortCodes": [
         "[仙剑七_摇头]"
       ],
-      "staticUrl": "assets/bilibili_emoji/465/8150.png",
+      "staticUrl": "assets/bilibili/465/8150.png",
       "isHide": false,
       "packageId": "465",
       "meta": {
@@ -369,7 +369,7 @@
       "shortCodes": [
         "[仙剑七_假装不在]"
       ],
-      "staticUrl": "assets/bilibili_emoji/465/8131.png",
+      "staticUrl": "assets/bilibili/465/8131.png",
       "isHide": false,
       "packageId": "465",
       "meta": {
@@ -384,7 +384,7 @@
       "shortCodes": [
         "[仙剑七_庆祝]"
       ],
-      "staticUrl": "assets/bilibili_emoji/465/8141.png",
+      "staticUrl": "assets/bilibili/465/8141.png",
       "isHide": false,
       "packageId": "465",
       "meta": {
@@ -399,7 +399,7 @@
       "shortCodes": [
         "[仙剑七_哭哭]"
       ],
-      "staticUrl": "assets/bilibili_emoji/465/8137.png",
+      "staticUrl": "assets/bilibili/465/8137.png",
       "isHide": false,
       "packageId": "465",
       "meta": {
@@ -414,7 +414,7 @@
       "shortCodes": [
         "[仙剑七_晚安]"
       ],
-      "staticUrl": "assets/bilibili_emoji/465/8145.png",
+      "staticUrl": "assets/bilibili/465/8145.png",
       "isHide": false,
       "packageId": "465",
       "meta": {
@@ -429,7 +429,7 @@
       "shortCodes": [
         "[仙剑七_就这]"
       ],
-      "staticUrl": "assets/bilibili_emoji/465/8133.png",
+      "staticUrl": "assets/bilibili/465/8133.png",
       "isHide": false,
       "packageId": "465",
       "meta": {
@@ -444,7 +444,7 @@
       "shortCodes": [
         "[仙剑七_生气]"
       ],
-      "staticUrl": "assets/bilibili_emoji/465/8142.png",
+      "staticUrl": "assets/bilibili/465/8142.png",
       "isHide": false,
       "packageId": "465",
       "meta": {

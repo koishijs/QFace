@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "338",
   "name": "蔬菜精灵",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/2dc2b2b446c5fda0cf7cd980b6c7f245a09692c3.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[蔬菜精灵_em]"
       ],
-      "staticUrl": "assets/bilibili_emoji/338/5532.png",
+      "staticUrl": "assets/bilibili/338/5532.png",
       "isHide": false,
       "packageId": "338",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[蔬菜精灵_hello]"
       ],
-      "staticUrl": "assets/bilibili_emoji/338/5533.png",
+      "staticUrl": "assets/bilibili/338/5533.png",
       "isHide": false,
       "packageId": "338",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[蔬菜精灵_啊]"
       ],
-      "staticUrl": "assets/bilibili_emoji/338/5534.png",
+      "staticUrl": "assets/bilibili/338/5534.png",
       "isHide": false,
       "packageId": "338",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[蔬菜精灵_爱你]"
       ],
-      "staticUrl": "assets/bilibili_emoji/338/5535.png",
+      "staticUrl": "assets/bilibili/338/5535.png",
       "isHide": false,
       "packageId": "338",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[蔬菜精灵_暗中观察]"
       ],
-      "staticUrl": "assets/bilibili_emoji/338/5536.png",
+      "staticUrl": "assets/bilibili/338/5536.png",
       "isHide": false,
       "packageId": "338",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[蔬菜精灵_大佬]"
       ],
-      "staticUrl": "assets/bilibili_emoji/338/5537.png",
+      "staticUrl": "assets/bilibili/338/5537.png",
       "isHide": false,
       "packageId": "338",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[蔬菜精灵_好]"
       ],
-      "staticUrl": "assets/bilibili_emoji/338/5538.png",
+      "staticUrl": "assets/bilibili/338/5538.png",
       "isHide": false,
       "packageId": "338",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[蔬菜精灵_无语]"
       ],
-      "staticUrl": "assets/bilibili_emoji/338/5539.png",
+      "staticUrl": "assets/bilibili/338/5539.png",
       "isHide": false,
       "packageId": "338",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[蔬菜精灵_谢谢]"
       ],
-      "staticUrl": "assets/bilibili_emoji/338/5540.png",
+      "staticUrl": "assets/bilibili/338/5540.png",
       "isHide": false,
       "packageId": "338",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[蔬菜精灵_有内鬼]"
       ],
-      "staticUrl": "assets/bilibili_emoji/338/5541.png",
+      "staticUrl": "assets/bilibili/338/5541.png",
       "isHide": false,
       "packageId": "338",
       "meta": {

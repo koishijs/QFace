@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "328",
   "name": "烈火浇愁",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/c69594cf84b75274ca75dea6f12f872530566eb0.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[烈火浇愁_比心]"
       ],
-      "staticUrl": "assets/bilibili_emoji/328/5361.png",
+      "staticUrl": "assets/bilibili/328/5361.png",
       "isHide": false,
       "packageId": "328",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[烈火浇愁_玩火]"
       ],
-      "staticUrl": "assets/bilibili_emoji/328/5362.png",
+      "staticUrl": "assets/bilibili/328/5362.png",
       "isHide": false,
       "packageId": "328",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[烈火浇愁_抓狂]"
       ],
-      "staticUrl": "assets/bilibili_emoji/328/5363.png",
+      "staticUrl": "assets/bilibili/328/5363.png",
       "isHide": false,
       "packageId": "328",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[烈火浇愁_迷惑]"
       ],
-      "staticUrl": "assets/bilibili_emoji/328/5364.png",
+      "staticUrl": "assets/bilibili/328/5364.png",
       "isHide": false,
       "packageId": "328",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[烈火浇愁_摸头]"
       ],
-      "staticUrl": "assets/bilibili_emoji/328/5365.png",
+      "staticUrl": "assets/bilibili/328/5365.png",
       "isHide": false,
       "packageId": "328",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[烈火浇愁_偷笑]"
       ],
-      "staticUrl": "assets/bilibili_emoji/328/5366.png",
+      "staticUrl": "assets/bilibili/328/5366.png",
       "isHide": false,
       "packageId": "328",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[烈火浇愁_达成共识]"
       ],
-      "staticUrl": "assets/bilibili_emoji/328/5367.png",
+      "staticUrl": "assets/bilibili/328/5367.png",
       "isHide": false,
       "packageId": "328",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[烈火浇愁_围观]"
       ],
-      "staticUrl": "assets/bilibili_emoji/328/5368.png",
+      "staticUrl": "assets/bilibili/328/5368.png",
       "isHide": false,
       "packageId": "328",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[烈火浇愁_欢迎]"
       ],
-      "staticUrl": "assets/bilibili_emoji/328/5369.png",
+      "staticUrl": "assets/bilibili/328/5369.png",
       "isHide": false,
       "packageId": "328",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[烈火浇愁_怕怕]"
       ],
-      "staticUrl": "assets/bilibili_emoji/328/5370.png",
+      "staticUrl": "assets/bilibili/328/5370.png",
       "isHide": false,
       "packageId": "328",
       "meta": {

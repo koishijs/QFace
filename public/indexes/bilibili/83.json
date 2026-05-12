@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "83",
   "name": "大王不高兴",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/ee290cddedeed86475d64dbe4c3687b47b6e836e.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[大王不高兴_开心]"
       ],
-      "staticUrl": "assets/bilibili_emoji/83/1888.png",
+      "staticUrl": "assets/bilibili/83/1888.png",
       "isHide": false,
       "packageId": "83",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[大王不高兴_生气]"
       ],
-      "staticUrl": "assets/bilibili_emoji/83/1889.png",
+      "staticUrl": "assets/bilibili/83/1889.png",
       "isHide": false,
       "packageId": "83",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[大王不高兴_哭]"
       ],
-      "staticUrl": "assets/bilibili_emoji/83/1890.png",
+      "staticUrl": "assets/bilibili/83/1890.png",
       "isHide": false,
       "packageId": "83",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[大王不高兴_比心]"
       ],
-      "staticUrl": "assets/bilibili_emoji/83/1891.png",
+      "staticUrl": "assets/bilibili/83/1891.png",
       "isHide": false,
       "packageId": "83",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[大王不高兴_疑问]"
       ],
-      "staticUrl": "assets/bilibili_emoji/83/1892.png",
+      "staticUrl": "assets/bilibili/83/1892.png",
       "isHide": false,
       "packageId": "83",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[大王不高兴_我好了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/83/1893.png",
+      "staticUrl": "assets/bilibili/83/1893.png",
       "isHide": false,
       "packageId": "83",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[大王不高兴_汗]"
       ],
-      "staticUrl": "assets/bilibili_emoji/83/1894.png",
+      "staticUrl": "assets/bilibili/83/1894.png",
       "isHide": false,
       "packageId": "83",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[大王不高兴_点赞]"
       ],
-      "staticUrl": "assets/bilibili_emoji/83/1895.png",
+      "staticUrl": "assets/bilibili/83/1895.png",
       "isHide": false,
       "packageId": "83",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[大王不高兴_害怕]"
       ],
-      "staticUrl": "assets/bilibili_emoji/83/1896.png",
+      "staticUrl": "assets/bilibili/83/1896.png",
       "isHide": false,
       "packageId": "83",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[大王不高兴_滑稽]"
       ],
-      "staticUrl": "assets/bilibili_emoji/83/1897.png",
+      "staticUrl": "assets/bilibili/83/1897.png",
       "isHide": false,
       "packageId": "83",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[大王不高兴_目瞪口呆]"
       ],
-      "staticUrl": "assets/bilibili_emoji/83/1898.png",
+      "staticUrl": "assets/bilibili/83/1898.png",
       "isHide": false,
       "packageId": "83",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[大王不高兴_前排]"
       ],
-      "staticUrl": "assets/bilibili_emoji/83/1899.png",
+      "staticUrl": "assets/bilibili/83/1899.png",
       "isHide": false,
       "packageId": "83",
       "meta": {

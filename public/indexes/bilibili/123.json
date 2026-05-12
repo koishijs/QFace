@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "123",
   "name": "约战·狂三",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/e8bc7f9b6a9aa88ee2e7b0be7de2c6b94d7525e7.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[狂三_哒哒哒]"
       ],
-      "staticUrl": "assets/bilibili_emoji/123/2495.png",
+      "staticUrl": "assets/bilibili/123/2495.png",
       "isHide": false,
       "packageId": "123",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[狂三_气抖冷]"
       ],
-      "staticUrl": "assets/bilibili_emoji/123/2496.png",
+      "staticUrl": "assets/bilibili/123/2496.png",
       "isHide": false,
       "packageId": "123",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[狂三_害羞]"
       ],
-      "staticUrl": "assets/bilibili_emoji/123/2497.png",
+      "staticUrl": "assets/bilibili/123/2497.png",
       "isHide": false,
       "packageId": "123",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[狂三_生气了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/123/2498.png",
+      "staticUrl": "assets/bilibili/123/2498.png",
       "isHide": false,
       "packageId": "123",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[狂三_点赞]"
       ],
-      "staticUrl": "assets/bilibili_emoji/123/2499.png",
+      "staticUrl": "assets/bilibili/123/2499.png",
       "isHide": false,
       "packageId": "123",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[狂三_求抱抱]"
       ],
-      "staticUrl": "assets/bilibili_emoji/123/2500.png",
+      "staticUrl": "assets/bilibili/123/2500.png",
       "isHide": false,
       "packageId": "123",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[狂三_委屈]"
       ],
-      "staticUrl": "assets/bilibili_emoji/123/2501.png",
+      "staticUrl": "assets/bilibili/123/2501.png",
       "isHide": false,
       "packageId": "123",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[狂三_星星眼]"
       ],
-      "staticUrl": "assets/bilibili_emoji/123/2502.png",
+      "staticUrl": "assets/bilibili/123/2502.png",
       "isHide": false,
       "packageId": "123",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[狂三_疑问]"
       ],
-      "staticUrl": "assets/bilibili_emoji/123/2503.png",
+      "staticUrl": "assets/bilibili/123/2503.png",
       "isHide": false,
       "packageId": "123",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[狂三_自鲨]"
       ],
-      "staticUrl": "assets/bilibili_emoji/123/2504.png",
+      "staticUrl": "assets/bilibili/123/2504.png",
       "isHide": false,
       "packageId": "123",
       "meta": {

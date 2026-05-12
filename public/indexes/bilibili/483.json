@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "483",
   "name": "长草颜团子",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/ea824ecaac2f69d3aa77d0190d70d46829a907cc.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[长草颜团子_???]"
       ],
-      "staticUrl": "assets/bilibili_emoji/483/8558.png",
+      "staticUrl": "assets/bilibili/483/8558.png",
       "isHide": false,
       "packageId": "483",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[长草颜团子_886]"
       ],
-      "staticUrl": "assets/bilibili_emoji/483/8559.png",
+      "staticUrl": "assets/bilibili/483/8559.png",
       "isHide": false,
       "packageId": "483",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[长草颜团子_OK]"
       ],
-      "staticUrl": "assets/bilibili_emoji/483/8560.png",
+      "staticUrl": "assets/bilibili/483/8560.png",
       "isHide": false,
       "packageId": "483",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[长草颜团子_Power]"
       ],
-      "staticUrl": "assets/bilibili_emoji/483/8561.png",
+      "staticUrl": "assets/bilibili/483/8561.png",
       "isHide": false,
       "packageId": "483",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[长草颜团子_SOS]"
       ],
-      "staticUrl": "assets/bilibili_emoji/483/8562.png",
+      "staticUrl": "assets/bilibili/483/8562.png",
       "isHide": false,
       "packageId": "483",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[长草颜团子_ZZZ]"
       ],
-      "staticUrl": "assets/bilibili_emoji/483/8563.png",
+      "staticUrl": "assets/bilibili/483/8563.png",
       "isHide": false,
       "packageId": "483",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[长草颜团子_爱你]"
       ],
-      "staticUrl": "assets/bilibili_emoji/483/8564.png",
+      "staticUrl": "assets/bilibili/483/8564.png",
       "isHide": false,
       "packageId": "483",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[长草颜团子_棒]"
       ],
-      "staticUrl": "assets/bilibili_emoji/483/8565.png",
+      "staticUrl": "assets/bilibili/483/8565.png",
       "isHide": false,
       "packageId": "483",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[长草颜团子_吃瓜]"
       ],
-      "staticUrl": "assets/bilibili_emoji/483/8566.png",
+      "staticUrl": "assets/bilibili/483/8566.png",
       "isHide": false,
       "packageId": "483",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[长草颜团子_吹爆]"
       ],
-      "staticUrl": "assets/bilibili_emoji/483/8567.png",
+      "staticUrl": "assets/bilibili/483/8567.png",
       "isHide": false,
       "packageId": "483",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[长草颜团子_达咩]"
       ],
-      "staticUrl": "assets/bilibili_emoji/483/8568.png",
+      "staticUrl": "assets/bilibili/483/8568.png",
       "isHide": false,
       "packageId": "483",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[长草颜团子_打]"
       ],
-      "staticUrl": "assets/bilibili_emoji/483/8569.png",
+      "staticUrl": "assets/bilibili/483/8569.png",
       "isHide": false,
       "packageId": "483",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[长草颜团子_打卡]"
       ],
-      "staticUrl": "assets/bilibili_emoji/483/8570.png",
+      "staticUrl": "assets/bilibili/483/8570.png",
       "isHide": false,
       "packageId": "483",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[长草颜团子_等]"
       ],
-      "staticUrl": "assets/bilibili_emoji/483/8571.png",
+      "staticUrl": "assets/bilibili/483/8571.png",
       "isHide": false,
       "packageId": "483",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[长草颜团子_非酋]"
       ],
-      "staticUrl": "assets/bilibili_emoji/483/8572.png",
+      "staticUrl": "assets/bilibili/483/8572.png",
       "isHide": false,
       "packageId": "483",
       "meta": {
@@ -234,7 +234,7 @@
       "shortCodes": [
         "[长草颜团子_佛]"
       ],
-      "staticUrl": "assets/bilibili_emoji/483/8573.png",
+      "staticUrl": "assets/bilibili/483/8573.png",
       "isHide": false,
       "packageId": "483",
       "meta": {
@@ -249,7 +249,7 @@
       "shortCodes": [
         "[长草颜团子_干杯]"
       ],
-      "staticUrl": "assets/bilibili_emoji/483/8574.png",
+      "staticUrl": "assets/bilibili/483/8574.png",
       "isHide": false,
       "packageId": "483",
       "meta": {
@@ -264,7 +264,7 @@
       "shortCodes": [
         "[长草颜团子_给我火]"
       ],
-      "staticUrl": "assets/bilibili_emoji/483/8575.png",
+      "staticUrl": "assets/bilibili/483/8575.png",
       "isHide": false,
       "packageId": "483",
       "meta": {
@@ -279,7 +279,7 @@
       "shortCodes": [
         "[长草颜团子_害怕]"
       ],
-      "staticUrl": "assets/bilibili_emoji/483/8576.png",
+      "staticUrl": "assets/bilibili/483/8576.png",
       "isHide": false,
       "packageId": "483",
       "meta": {
@@ -294,7 +294,7 @@
       "shortCodes": [
         "[长草颜团子_看看]"
       ],
-      "staticUrl": "assets/bilibili_emoji/483/8577.png",
+      "staticUrl": "assets/bilibili/483/8577.png",
       "isHide": false,
       "packageId": "483",
       "meta": {
@@ -309,7 +309,7 @@
       "shortCodes": [
         "[长草颜团子_哭了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/483/8578.png",
+      "staticUrl": "assets/bilibili/483/8578.png",
       "isHide": false,
       "packageId": "483",
       "meta": {
@@ -324,7 +324,7 @@
       "shortCodes": [
         "[长草颜团子_摸鱼]"
       ],
-      "staticUrl": "assets/bilibili_emoji/483/8579.png",
+      "staticUrl": "assets/bilibili/483/8579.png",
       "isHide": false,
       "packageId": "483",
       "meta": {
@@ -339,7 +339,7 @@
       "shortCodes": [
         "[长草颜团子_你好]"
       ],
-      "staticUrl": "assets/bilibili_emoji/483/8580.png",
+      "staticUrl": "assets/bilibili/483/8580.png",
       "isHide": false,
       "packageId": "483",
       "meta": {
@@ -354,7 +354,7 @@
       "shortCodes": [
         "[长草颜团子_潜水]"
       ],
-      "staticUrl": "assets/bilibili_emoji/483/8581.png",
+      "staticUrl": "assets/bilibili/483/8581.png",
       "isHide": false,
       "packageId": "483",
       "meta": {
@@ -369,7 +369,7 @@
       "shortCodes": [
         "[长草颜团子_三连]"
       ],
-      "staticUrl": "assets/bilibili_emoji/483/8582.png",
+      "staticUrl": "assets/bilibili/483/8582.png",
       "isHide": false,
       "packageId": "483",
       "meta": {
@@ -384,7 +384,7 @@
       "shortCodes": [
         "[长草颜团子_私信]"
       ],
-      "staticUrl": "assets/bilibili_emoji/483/8583.png",
+      "staticUrl": "assets/bilibili/483/8583.png",
       "isHide": false,
       "packageId": "483",
       "meta": {
@@ -399,7 +399,7 @@
       "shortCodes": [
         "[长草颜团子_完结撒花]"
       ],
-      "staticUrl": "assets/bilibili_emoji/483/8584.png",
+      "staticUrl": "assets/bilibili/483/8584.png",
       "isHide": false,
       "packageId": "483",
       "meta": {
@@ -414,7 +414,7 @@
       "shortCodes": [
         "[长草颜团子_无语]"
       ],
-      "staticUrl": "assets/bilibili_emoji/483/8585.png",
+      "staticUrl": "assets/bilibili/483/8585.png",
       "isHide": false,
       "packageId": "483",
       "meta": {
@@ -429,7 +429,7 @@
       "shortCodes": [
         "[长草颜团子_在吗]"
       ],
-      "staticUrl": "assets/bilibili_emoji/483/8586.png",
+      "staticUrl": "assets/bilibili/483/8586.png",
       "isHide": false,
       "packageId": "483",
       "meta": {
@@ -444,7 +444,7 @@
       "shortCodes": [
         "[长草颜团子_震惊]"
       ],
-      "staticUrl": "assets/bilibili_emoji/483/8587.png",
+      "staticUrl": "assets/bilibili/483/8587.png",
       "isHide": false,
       "packageId": "483",
       "meta": {

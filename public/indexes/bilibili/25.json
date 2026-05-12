@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "25",
   "name": "罗小黑",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/bcdfa28cd019333cdb243c3a8d73374236924585.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[罗小黑_鼓掌]"
       ],
-      "staticUrl": "assets/bilibili_emoji/25/458.png",
+      "staticUrl": "assets/bilibili/25/458.png",
       "isHide": false,
       "packageId": "25",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[罗小黑_你好呀]"
       ],
-      "staticUrl": "assets/bilibili_emoji/25/459.png",
+      "staticUrl": "assets/bilibili/25/459.png",
       "isHide": false,
       "packageId": "25",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[罗小黑_加油]"
       ],
-      "staticUrl": "assets/bilibili_emoji/25/460.png",
+      "staticUrl": "assets/bilibili/25/460.png",
       "isHide": false,
       "packageId": "25",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[罗小黑_可可爱爱]"
       ],
-      "staticUrl": "assets/bilibili_emoji/25/461.png",
+      "staticUrl": "assets/bilibili/25/461.png",
       "isHide": false,
       "packageId": "25",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[罗小黑_吃瓜]"
       ],
-      "staticUrl": "assets/bilibili_emoji/25/462.png",
+      "staticUrl": "assets/bilibili/25/462.png",
       "isHide": false,
       "packageId": "25",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[罗小黑_嗨]"
       ],
-      "staticUrl": "assets/bilibili_emoji/25/463.png",
+      "staticUrl": "assets/bilibili/25/463.png",
       "isHide": false,
       "packageId": "25",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[罗小黑_大麦]"
       ],
-      "staticUrl": "assets/bilibili_emoji/25/464.png",
+      "staticUrl": "assets/bilibili/25/464.png",
       "isHide": false,
       "packageId": "25",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[罗小黑_干杯]"
       ],
-      "staticUrl": "assets/bilibili_emoji/25/465.png",
+      "staticUrl": "assets/bilibili/25/465.png",
       "isHide": false,
       "packageId": "25",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[罗小黑_找彩蛋]"
       ],
-      "staticUrl": "assets/bilibili_emoji/25/466.png",
+      "staticUrl": "assets/bilibili/25/466.png",
       "isHide": false,
       "packageId": "25",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[罗小黑_撒花]"
       ],
-      "staticUrl": "assets/bilibili_emoji/25/467.png",
+      "staticUrl": "assets/bilibili/25/467.png",
       "isHide": false,
       "packageId": "25",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[罗小黑_来了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/25/468.png",
+      "staticUrl": "assets/bilibili/25/468.png",
       "isHide": false,
       "packageId": "25",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[罗小黑_歪在吗]"
       ],
-      "staticUrl": "assets/bilibili_emoji/25/469.png",
+      "staticUrl": "assets/bilibili/25/469.png",
       "isHide": false,
       "packageId": "25",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[罗小黑_求包养]"
       ],
-      "staticUrl": "assets/bilibili_emoji/25/470.png",
+      "staticUrl": "assets/bilibili/25/470.png",
       "isHide": false,
       "packageId": "25",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[罗小黑_看电影]"
       ],
-      "staticUrl": "assets/bilibili_emoji/25/471.png",
+      "staticUrl": "assets/bilibili/25/471.png",
       "isHide": false,
       "packageId": "25",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[罗小黑_真棒]"
       ],
-      "staticUrl": "assets/bilibili_emoji/25/472.png",
+      "staticUrl": "assets/bilibili/25/472.png",
       "isHide": false,
       "packageId": "25",
       "meta": {
@@ -234,7 +234,7 @@
       "shortCodes": [
         "[罗小黑_自来水]"
       ],
-      "staticUrl": "assets/bilibili_emoji/25/473.png",
+      "staticUrl": "assets/bilibili/25/473.png",
       "isHide": false,
       "packageId": "25",
       "meta": {

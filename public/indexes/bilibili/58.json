@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "58",
   "name": "hello咕咕",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/a285dab259b71ccd561b7c3a75bad0219633ffc4.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[咕咕_吃饱了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/58/1548.png",
+      "staticUrl": "assets/bilibili/58/1548.png",
       "isHide": false,
       "packageId": "58",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[咕咕_出门了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/58/1549.png",
+      "staticUrl": "assets/bilibili/58/1549.png",
       "isHide": false,
       "packageId": "58",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[咕咕_沉默]"
       ],
-      "staticUrl": "assets/bilibili_emoji/58/1550.png",
+      "staticUrl": "assets/bilibili/58/1550.png",
       "isHide": false,
       "packageId": "58",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[咕咕_剪视频]"
       ],
-      "staticUrl": "assets/bilibili_emoji/58/1551.png",
+      "staticUrl": "assets/bilibili/58/1551.png",
       "isHide": false,
       "packageId": "58",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[咕咕_惊吓]"
       ],
-      "staticUrl": "assets/bilibili_emoji/58/1552.png",
+      "staticUrl": "assets/bilibili/58/1552.png",
       "isHide": false,
       "packageId": "58",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[咕咕_冷静一下]"
       ],
-      "staticUrl": "assets/bilibili_emoji/58/1553.png",
+      "staticUrl": "assets/bilibili/58/1553.png",
       "isHide": false,
       "packageId": "58",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[咕咕_嚯奶茶]"
       ],
-      "staticUrl": "assets/bilibili_emoji/58/1554.png",
+      "staticUrl": "assets/bilibili/58/1554.png",
       "isHide": false,
       "packageId": "58",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[咕咕_命运扼脖]"
       ],
-      "staticUrl": "assets/bilibili_emoji/58/1555.png",
+      "staticUrl": "assets/bilibili/58/1555.png",
       "isHide": false,
       "packageId": "58",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[咕咕_头秃]"
       ],
-      "staticUrl": "assets/bilibili_emoji/58/1556.png",
+      "staticUrl": "assets/bilibili/58/1556.png",
       "isHide": false,
       "packageId": "58",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[咕咕_灵魂出窍]"
       ],
-      "staticUrl": "assets/bilibili_emoji/58/1557.png",
+      "staticUrl": "assets/bilibili/58/1557.png",
       "isHide": false,
       "packageId": "58",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[咕咕_流泪]"
       ],
-      "staticUrl": "assets/bilibili_emoji/58/1558.png",
+      "staticUrl": "assets/bilibili/58/1558.png",
       "isHide": false,
       "packageId": "58",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[咕咕_睡了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/58/1559.png",
+      "staticUrl": "assets/bilibili/58/1559.png",
       "isHide": false,
       "packageId": "58",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[咕咕_自闭了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/58/1560.png",
+      "staticUrl": "assets/bilibili/58/1560.png",
       "isHide": false,
       "packageId": "58",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[咕咕_转笔]"
       ],
-      "staticUrl": "assets/bilibili_emoji/58/1561.png",
+      "staticUrl": "assets/bilibili/58/1561.png",
       "isHide": false,
       "packageId": "58",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[咕咕_宅]"
       ],
-      "staticUrl": "assets/bilibili_emoji/58/1562.png",
+      "staticUrl": "assets/bilibili/58/1562.png",
       "isHide": false,
       "packageId": "58",
       "meta": {

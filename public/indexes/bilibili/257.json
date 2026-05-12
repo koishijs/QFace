@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "257",
   "name": "呜米",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/6c41f166f4e06f62a1b9ca2ada24a773fd39d145.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[呜米_得意]"
       ],
-      "staticUrl": "assets/bilibili_emoji/257/4265.png",
+      "staticUrl": "assets/bilibili/257/4265.png",
       "isHide": false,
       "packageId": "257",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[呜米_你不对劲]"
       ],
-      "staticUrl": "assets/bilibili_emoji/257/4266.png",
+      "staticUrl": "assets/bilibili/257/4266.png",
       "isHide": false,
       "packageId": "257",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[呜米_一键三连]"
       ],
-      "staticUrl": "assets/bilibili_emoji/257/4267.png",
+      "staticUrl": "assets/bilibili/257/4267.png",
       "isHide": false,
       "packageId": "257",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[呜米_KiraKira]"
       ],
-      "staticUrl": "assets/bilibili_emoji/257/4268.png",
+      "staticUrl": "assets/bilibili/257/4268.png",
       "isHide": false,
       "packageId": "257",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[呜米_不高兴了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/257/4269.png",
+      "staticUrl": "assets/bilibili/257/4269.png",
       "isHide": false,
       "packageId": "257",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[呜米_吃柠檬]"
       ],
-      "staticUrl": "assets/bilibili_emoji/257/4270.png",
+      "staticUrl": "assets/bilibili/257/4270.png",
       "isHide": false,
       "packageId": "257",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[呜米_打call]"
       ],
-      "staticUrl": "assets/bilibili_emoji/257/4271.png",
+      "staticUrl": "assets/bilibili/257/4271.png",
       "isHide": false,
       "packageId": "257",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[呜米_呆滞]"
       ],
-      "staticUrl": "assets/bilibili_emoji/257/4272.png",
+      "staticUrl": "assets/bilibili/257/4272.png",
       "isHide": false,
       "packageId": "257",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[呜米_刀口舔血]"
       ],
-      "staticUrl": "assets/bilibili_emoji/257/4273.png",
+      "staticUrl": "assets/bilibili/257/4273.png",
       "isHide": false,
       "packageId": "257",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[呜米_害羞]"
       ],
-      "staticUrl": "assets/bilibili_emoji/257/4274.png",
+      "staticUrl": "assets/bilibili/257/4274.png",
       "isHide": false,
       "packageId": "257",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[呜米_好气]"
       ],
-      "staticUrl": "assets/bilibili_emoji/257/4275.png",
+      "staticUrl": "assets/bilibili/257/4275.png",
       "isHide": false,
       "packageId": "257",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[呜米_好耶]"
       ],
-      "staticUrl": "assets/bilibili_emoji/257/4276.png",
+      "staticUrl": "assets/bilibili/257/4276.png",
       "isHide": false,
       "packageId": "257",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[呜米_激爽下班]"
       ],
-      "staticUrl": "assets/bilibili_emoji/257/4277.png",
+      "staticUrl": "assets/bilibili/257/4277.png",
       "isHide": false,
       "packageId": "257",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[呜米_啾咪]"
       ],
-      "staticUrl": "assets/bilibili_emoji/257/4278.png",
+      "staticUrl": "assets/bilibili/257/4278.png",
       "isHide": false,
       "packageId": "257",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[呜米_玫瑰]"
       ],
-      "staticUrl": "assets/bilibili_emoji/257/4279.png",
+      "staticUrl": "assets/bilibili/257/4279.png",
       "isHide": false,
       "packageId": "257",
       "meta": {
@@ -234,7 +234,7 @@
       "shortCodes": [
         "[呜米_奶死]"
       ],
-      "staticUrl": "assets/bilibili_emoji/257/4280.png",
+      "staticUrl": "assets/bilibili/257/4280.png",
       "isHide": false,
       "packageId": "257",
       "meta": {
@@ -249,7 +249,7 @@
       "shortCodes": [
         "[呜米_燃起来了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/257/4281.png",
+      "staticUrl": "assets/bilibili/257/4281.png",
       "isHide": false,
       "packageId": "257",
       "meta": {
@@ -264,7 +264,7 @@
       "shortCodes": [
         "[呜米_汪]"
       ],
-      "staticUrl": "assets/bilibili_emoji/257/4282.png",
+      "staticUrl": "assets/bilibili/257/4282.png",
       "isHide": false,
       "packageId": "257",
       "meta": {
@@ -279,7 +279,7 @@
       "shortCodes": [
         "[呜米_呜呜]"
       ],
-      "staticUrl": "assets/bilibili_emoji/257/4283.png",
+      "staticUrl": "assets/bilibili/257/4283.png",
       "isHide": false,
       "packageId": "257",
       "meta": {
@@ -294,7 +294,7 @@
       "shortCodes": [
         "[呜米_咸鱼]"
       ],
-      "staticUrl": "assets/bilibili_emoji/257/4284.png",
+      "staticUrl": "assets/bilibili/257/4284.png",
       "isHide": false,
       "packageId": "257",
       "meta": {

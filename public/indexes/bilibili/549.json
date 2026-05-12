@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "549",
   "name": "哈哈202839",
   "coverUrl": "http://i0.hdslb.com/bfs/garb/ea1b0ece6ecb7c72c10270a164e490d2514be47a.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[UPOWER_1555090958_哭了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/549/10055.png",
+      "staticUrl": "assets/bilibili/549/10055.png",
       "isHide": false,
       "packageId": "549",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[UPOWER_1555090958_汉堡]"
       ],
-      "staticUrl": "assets/bilibili_emoji/549/10056.png",
+      "staticUrl": "assets/bilibili/549/10056.png",
       "isHide": false,
       "packageId": "549",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[UPOWER_1555090958_射箭]"
       ],
-      "staticUrl": "assets/bilibili_emoji/549/10057.png",
+      "staticUrl": "assets/bilibili/549/10057.png",
       "isHide": false,
       "packageId": "549",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[UPOWER_1555090958_沉默]"
       ],
-      "staticUrl": "assets/bilibili_emoji/549/10058.png",
+      "staticUrl": "assets/bilibili/549/10058.png",
       "isHide": false,
       "packageId": "549",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[UPOWER_1555090958_开心]"
       ],
-      "staticUrl": "assets/bilibili_emoji/549/10059.png",
+      "staticUrl": "assets/bilibili/549/10059.png",
       "isHide": false,
       "packageId": "549",
       "meta": {

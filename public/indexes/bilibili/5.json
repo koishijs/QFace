@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "5",
   "name": "小电视",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/ce49073ff96606a1a2674b3b4ef8e15fb0a399ff.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[小电视_笑]"
       ],
-      "staticUrl": "assets/bilibili_emoji/5/121.png",
+      "staticUrl": "assets/bilibili/5/121.png",
       "isHide": false,
       "packageId": "5",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[小电视_发愁]"
       ],
-      "staticUrl": "assets/bilibili_emoji/5/122.png",
+      "staticUrl": "assets/bilibili/5/122.png",
       "isHide": false,
       "packageId": "5",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[小电视_赞]"
       ],
-      "staticUrl": "assets/bilibili_emoji/5/123.png",
+      "staticUrl": "assets/bilibili/5/123.png",
       "isHide": false,
       "packageId": "5",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[小电视_差评]"
       ],
-      "staticUrl": "assets/bilibili_emoji/5/124.png",
+      "staticUrl": "assets/bilibili/5/124.png",
       "isHide": false,
       "packageId": "5",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[小电视_嘟嘴]"
       ],
-      "staticUrl": "assets/bilibili_emoji/5/125.png",
+      "staticUrl": "assets/bilibili/5/125.png",
       "isHide": false,
       "packageId": "5",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[小电视_汗]"
       ],
-      "staticUrl": "assets/bilibili_emoji/5/126.png",
+      "staticUrl": "assets/bilibili/5/126.png",
       "isHide": false,
       "packageId": "5",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[小电视_害羞]"
       ],
-      "staticUrl": "assets/bilibili_emoji/5/127.png",
+      "staticUrl": "assets/bilibili/5/127.png",
       "isHide": false,
       "packageId": "5",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[小电视_吃惊]"
       ],
-      "staticUrl": "assets/bilibili_emoji/5/128.png",
+      "staticUrl": "assets/bilibili/5/128.png",
       "isHide": false,
       "packageId": "5",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[小电视_哭泣]"
       ],
-      "staticUrl": "assets/bilibili_emoji/5/129.png",
+      "staticUrl": "assets/bilibili/5/129.png",
       "isHide": false,
       "packageId": "5",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[小电视_太太喜欢]"
       ],
-      "staticUrl": "assets/bilibili_emoji/5/130.png",
+      "staticUrl": "assets/bilibili/5/130.png",
       "isHide": false,
       "packageId": "5",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[小电视_好怒啊]"
       ],
-      "staticUrl": "assets/bilibili_emoji/5/131.png",
+      "staticUrl": "assets/bilibili/5/131.png",
       "isHide": false,
       "packageId": "5",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[小电视_困惑]"
       ],
-      "staticUrl": "assets/bilibili_emoji/5/132.png",
+      "staticUrl": "assets/bilibili/5/132.png",
       "isHide": false,
       "packageId": "5",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[小电视_我好兴奋]"
       ],
-      "staticUrl": "assets/bilibili_emoji/5/133.png",
+      "staticUrl": "assets/bilibili/5/133.png",
       "isHide": false,
       "packageId": "5",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[小电视_思索]"
       ],
-      "staticUrl": "assets/bilibili_emoji/5/134.png",
+      "staticUrl": "assets/bilibili/5/134.png",
       "isHide": false,
       "packageId": "5",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[小电视_无语]"
       ],
-      "staticUrl": "assets/bilibili_emoji/5/135.png",
+      "staticUrl": "assets/bilibili/5/135.png",
       "isHide": false,
       "packageId": "5",
       "meta": {

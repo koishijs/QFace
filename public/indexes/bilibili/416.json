@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "416",
   "name": "最终幻想14",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/3f11cd2fa66ce845dd0f6cbccf2e2c9854611f69.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[最终幻想14_GKD]"
       ],
-      "staticUrl": "assets/bilibili_emoji/416/7003.png",
+      "staticUrl": "assets/bilibili/416/7003.png",
       "isHide": false,
       "packageId": "416",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[最终幻想14_salute]"
       ],
-      "staticUrl": "assets/bilibili_emoji/416/7004.png",
+      "staticUrl": "assets/bilibili/416/7004.png",
       "isHide": false,
       "packageId": "416",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[最终幻想14_吃萝卜]"
       ],
-      "staticUrl": "assets/bilibili_emoji/416/7005.png",
+      "staticUrl": "assets/bilibili/416/7005.png",
       "isHide": false,
       "packageId": "416",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[最终幻想14_大哭]"
       ],
-      "staticUrl": "assets/bilibili_emoji/416/7006.png",
+      "staticUrl": "assets/bilibili/416/7006.png",
       "isHide": false,
       "packageId": "416",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[最终幻想14_好奇]"
       ],
-      "staticUrl": "assets/bilibili_emoji/416/7007.png",
+      "staticUrl": "assets/bilibili/416/7007.png",
       "isHide": false,
       "packageId": "416",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[最终幻想14_好耶]"
       ],
-      "staticUrl": "assets/bilibili_emoji/416/7008.png",
+      "staticUrl": "assets/bilibili/416/7008.png",
       "isHide": false,
       "packageId": "416",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[最终幻想14_哼歌]"
       ],
-      "staticUrl": "assets/bilibili_emoji/416/7009.png",
+      "staticUrl": "assets/bilibili/416/7009.png",
       "isHide": false,
       "packageId": "416",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[最终幻想14_加油]"
       ],
-      "staticUrl": "assets/bilibili_emoji/416/7010.png",
+      "staticUrl": "assets/bilibili/416/7010.png",
       "isHide": false,
       "packageId": "416",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[最终幻想14_惊讶]"
       ],
-      "staticUrl": "assets/bilibili_emoji/416/7011.png",
+      "staticUrl": "assets/bilibili/416/7011.png",
       "isHide": false,
       "packageId": "416",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[最终幻想14_看攻略]"
       ],
-      "staticUrl": "assets/bilibili_emoji/416/7012.png",
+      "staticUrl": "assets/bilibili/416/7012.png",
       "isHide": false,
       "packageId": "416",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[最终幻想14_哭笑]"
       ],
-      "staticUrl": "assets/bilibili_emoji/416/7013.png",
+      "staticUrl": "assets/bilibili/416/7013.png",
       "isHide": false,
       "packageId": "416",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[最终幻想14_冷漠]"
       ],
-      "staticUrl": "assets/bilibili_emoji/416/7014.png",
+      "staticUrl": "assets/bilibili/416/7014.png",
       "isHide": false,
       "packageId": "416",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[最终幻想14_灵光一现]"
       ],
-      "staticUrl": "assets/bilibili_emoji/416/7015.png",
+      "staticUrl": "assets/bilibili/416/7015.png",
       "isHide": false,
       "packageId": "416",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[最终幻想14_摸鱼]"
       ],
-      "staticUrl": "assets/bilibili_emoji/416/7016.png",
+      "staticUrl": "assets/bilibili/416/7016.png",
       "isHide": false,
       "packageId": "416",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[最终幻想14_挠头]"
       ],
-      "staticUrl": "assets/bilibili_emoji/416/7017.png",
+      "staticUrl": "assets/bilibili/416/7017.png",
       "isHide": false,
       "packageId": "416",
       "meta": {
@@ -234,7 +234,7 @@
       "shortCodes": [
         "[最终幻想14_让我康康]"
       ],
-      "staticUrl": "assets/bilibili_emoji/416/7018.png",
+      "staticUrl": "assets/bilibili/416/7018.png",
       "isHide": false,
       "packageId": "416",
       "meta": {
@@ -249,7 +249,7 @@
       "shortCodes": [
         "[最终幻想14_认同]"
       ],
-      "staticUrl": "assets/bilibili_emoji/416/7019.png",
+      "staticUrl": "assets/bilibili/416/7019.png",
       "isHide": false,
       "packageId": "416",
       "meta": {
@@ -264,7 +264,7 @@
       "shortCodes": [
         "[最终幻想14_撒娇]"
       ],
-      "staticUrl": "assets/bilibili_emoji/416/7020.png",
+      "staticUrl": "assets/bilibili/416/7020.png",
       "isHide": false,
       "packageId": "416",
       "meta": {
@@ -279,7 +279,7 @@
       "shortCodes": [
         "[最终幻想14_我晕]"
       ],
-      "staticUrl": "assets/bilibili_emoji/416/7021.png",
+      "staticUrl": "assets/bilibili/416/7021.png",
       "isHide": false,
       "packageId": "416",
       "meta": {
@@ -294,7 +294,7 @@
       "shortCodes": [
         "[最终幻想14_疑问]"
       ],
-      "staticUrl": "assets/bilibili_emoji/416/7022.png",
+      "staticUrl": "assets/bilibili/416/7022.png",
       "isHide": false,
       "packageId": "416",
       "meta": {

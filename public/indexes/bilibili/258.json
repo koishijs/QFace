@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "258",
   "name": "星座系列：狮子座",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/d6aa9d3a13d8611a76f22e0ad9296efd703800a4.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[狮子座_傲娇女王]"
       ],
-      "staticUrl": "assets/bilibili_emoji/258/4287.png",
+      "staticUrl": "assets/bilibili/258/4287.png",
       "isHide": false,
       "packageId": "258",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[狮子座_本王准了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/258/4288.png",
+      "staticUrl": "assets/bilibili/258/4288.png",
       "isHide": false,
       "packageId": "258",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[狮子座_啃一口]"
       ],
-      "staticUrl": "assets/bilibili_emoji/258/4289.png",
+      "staticUrl": "assets/bilibili/258/4289.png",
       "isHide": false,
       "packageId": "258",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[狮子座_买！]"
       ],
-      "staticUrl": "assets/bilibili_emoji/258/4290.png",
+      "staticUrl": "assets/bilibili/258/4290.png",
       "isHide": false,
       "packageId": "258",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[狮子座_喵呜]"
       ],
-      "staticUrl": "assets/bilibili_emoji/258/4291.png",
+      "staticUrl": "assets/bilibili/258/4291.png",
       "isHide": false,
       "packageId": "258",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[狮子座_赛高]"
       ],
-      "staticUrl": "assets/bilibili_emoji/258/4292.png",
+      "staticUrl": "assets/bilibili/258/4292.png",
       "isHide": false,
       "packageId": "258",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[狮子座_贴贴]"
       ],
-      "staticUrl": "assets/bilibili_emoji/258/4293.png",
+      "staticUrl": "assets/bilibili/258/4293.png",
       "isHide": false,
       "packageId": "258",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[狮子座_王者]"
       ],
-      "staticUrl": "assets/bilibili_emoji/258/4294.png",
+      "staticUrl": "assets/bilibili/258/4294.png",
       "isHide": false,
       "packageId": "258",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[狮子座_我不委屈]"
       ],
-      "staticUrl": "assets/bilibili_emoji/258/4295.png",
+      "staticUrl": "assets/bilibili/258/4295.png",
       "isHide": false,
       "packageId": "258",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[狮子座_要抱抱]"
       ],
-      "staticUrl": "assets/bilibili_emoji/258/4296.png",
+      "staticUrl": "assets/bilibili/258/4296.png",
       "isHide": false,
       "packageId": "258",
       "meta": {

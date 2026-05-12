@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "485",
   "name": "干杯！嫦娥兔",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/6ec81178c7de381c34e13f655b8ffb6b0a60a959.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[干杯！嫦娥兔_投币月饼]"
       ],
-      "staticUrl": "assets/bilibili_emoji/485/8613.png",
+      "staticUrl": "assets/bilibili/485/8613.png",
       "isHide": false,
       "packageId": "485",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[干杯！嫦娥兔_吃螃蟹]"
       ],
-      "staticUrl": "assets/bilibili_emoji/485/8614.png",
+      "staticUrl": "assets/bilibili/485/8614.png",
       "isHide": false,
       "packageId": "485",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[干杯！嫦娥兔_赏月]"
       ],
-      "staticUrl": "assets/bilibili_emoji/485/8615.png",
+      "staticUrl": "assets/bilibili/485/8615.png",
       "isHide": false,
       "packageId": "485",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[干杯！嫦娥兔_干杯]"
       ],
-      "staticUrl": "assets/bilibili_emoji/485/8616.png",
+      "staticUrl": "assets/bilibili/485/8616.png",
       "isHide": false,
       "packageId": "485",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[干杯！嫦娥兔_点赞]"
       ],
-      "staticUrl": "assets/bilibili_emoji/485/8617.png",
+      "staticUrl": "assets/bilibili/485/8617.png",
       "isHide": false,
       "packageId": "485",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[干杯！嫦娥兔_爱了爱了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/485/8618.png",
+      "staticUrl": "assets/bilibili/485/8618.png",
       "isHide": false,
       "packageId": "485",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[干杯！嫦娥兔_愣住]"
       ],
-      "staticUrl": "assets/bilibili_emoji/485/8619.png",
+      "staticUrl": "assets/bilibili/485/8619.png",
       "isHide": false,
       "packageId": "485",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[干杯！嫦娥兔_哭死]"
       ],
-      "staticUrl": "assets/bilibili_emoji/485/8620.png",
+      "staticUrl": "assets/bilibili/485/8620.png",
       "isHide": false,
       "packageId": "485",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[干杯！嫦娥兔_尴尬]"
       ],
-      "staticUrl": "assets/bilibili_emoji/485/8621.png",
+      "staticUrl": "assets/bilibili/485/8621.png",
       "isHide": false,
       "packageId": "485",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[干杯！嫦娥兔_拒绝]"
       ],
-      "staticUrl": "assets/bilibili_emoji/485/8622.png",
+      "staticUrl": "assets/bilibili/485/8622.png",
       "isHide": false,
       "packageId": "485",
       "meta": {

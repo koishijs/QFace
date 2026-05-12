@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "148",
   "name": "抹茶狗",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/0f64e779f4c65d2040dce209eec8389f9a937b0d.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[抹茶狗_汗颜]"
       ],
-      "staticUrl": "assets/bilibili_emoji/148/2808.png",
+      "staticUrl": "assets/bilibili/148/2808.png",
       "isHide": false,
       "packageId": "148",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[抹茶狗_臭美]"
       ],
-      "staticUrl": "assets/bilibili_emoji/148/2809.png",
+      "staticUrl": "assets/bilibili/148/2809.png",
       "isHide": false,
       "packageId": "148",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[抹茶狗_大笑]"
       ],
-      "staticUrl": "assets/bilibili_emoji/148/2810.png",
+      "staticUrl": "assets/bilibili/148/2810.png",
       "isHide": false,
       "packageId": "148",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[抹茶狗_愤怒]"
       ],
-      "staticUrl": "assets/bilibili_emoji/148/2811.png",
+      "staticUrl": "assets/bilibili/148/2811.png",
       "isHide": false,
       "packageId": "148",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[抹茶狗_生病]"
       ],
-      "staticUrl": "assets/bilibili_emoji/148/2812.png",
+      "staticUrl": "assets/bilibili/148/2812.png",
       "isHide": false,
       "packageId": "148",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[抹茶狗_想哭]"
       ],
-      "staticUrl": "assets/bilibili_emoji/148/2813.png",
+      "staticUrl": "assets/bilibili/148/2813.png",
       "isHide": false,
       "packageId": "148",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[抹茶狗_有了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/148/2814.png",
+      "staticUrl": "assets/bilibili/148/2814.png",
       "isHide": false,
       "packageId": "148",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[抹茶狗_棒棒]"
       ],
-      "staticUrl": "assets/bilibili_emoji/148/2815.png",
+      "staticUrl": "assets/bilibili/148/2815.png",
       "isHide": false,
       "packageId": "148",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[抹茶狗_吃惊]"
       ],
-      "staticUrl": "assets/bilibili_emoji/148/2816.png",
+      "staticUrl": "assets/bilibili/148/2816.png",
       "isHide": false,
       "packageId": "148",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[抹茶狗_无语]"
       ],
-      "staticUrl": "assets/bilibili_emoji/148/2817.png",
+      "staticUrl": "assets/bilibili/148/2817.png",
       "isHide": false,
       "packageId": "148",
       "meta": {

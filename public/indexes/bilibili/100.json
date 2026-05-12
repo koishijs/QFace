@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "100",
   "name": "BW2020",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/a8703466ee009d8da60167eed2af199a1562d742.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[BW2020_欢迎]"
       ],
-      "staticUrl": "assets/bilibili_emoji/100/2169.png",
+      "staticUrl": "assets/bilibili/100/2169.png",
       "isHide": false,
       "packageId": "100",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[BW2020_请]"
       ],
-      "staticUrl": "assets/bilibili_emoji/100/2170.png",
+      "staticUrl": "assets/bilibili/100/2170.png",
       "isHide": false,
       "packageId": "100",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[BW2020_你币没了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/100/2171.png",
+      "staticUrl": "assets/bilibili/100/2171.png",
       "isHide": false,
       "packageId": "100",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[BW2020_你号没了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/100/2172.png",
+      "staticUrl": "assets/bilibili/100/2172.png",
       "isHide": false,
       "packageId": "100",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[BW2020_棒棒哦]"
       ],
-      "staticUrl": "assets/bilibili_emoji/100/2173.png",
+      "staticUrl": "assets/bilibili/100/2173.png",
       "isHide": false,
       "packageId": "100",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[BW2020_我全都要]"
       ],
-      "staticUrl": "assets/bilibili_emoji/100/2174.png",
+      "staticUrl": "assets/bilibili/100/2174.png",
       "isHide": false,
       "packageId": "100",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[BW2020_贫穷]"
       ],
-      "staticUrl": "assets/bilibili_emoji/100/2175.png",
+      "staticUrl": "assets/bilibili/100/2175.png",
       "isHide": false,
       "packageId": "100",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[BW2020_期待]"
       ],
-      "staticUrl": "assets/bilibili_emoji/100/2176.png",
+      "staticUrl": "assets/bilibili/100/2176.png",
       "isHide": false,
       "packageId": "100",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[BW2020_我太难了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/100/2177.png",
+      "staticUrl": "assets/bilibili/100/2177.png",
       "isHide": false,
       "packageId": "100",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[BW2020_震惊]"
       ],
-      "staticUrl": "assets/bilibili_emoji/100/2178.png",
+      "staticUrl": "assets/bilibili/100/2178.png",
       "isHide": false,
       "packageId": "100",
       "meta": {

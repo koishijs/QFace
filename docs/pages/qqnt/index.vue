@@ -76,7 +76,7 @@ const searchQuery = ref((route.query.search as string) || '')
 
 const { copy, copied } = useClipboard()
 function copyConfig() {
-  copy(`${window.location.origin}/indexes/qq/index.json`)
+  copy(`${window.location.origin}/indexes/qq/0.json`)
 }
 
 const filteredEmojiList = computed(() => {

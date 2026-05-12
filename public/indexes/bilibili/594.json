@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "594",
   "name": "小柔Channel",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/6db9fce81729c7326cf9c3dc760f3bab1aa27e2b.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[小柔Channel_ssw]"
       ],
-      "staticUrl": "assets/bilibili_emoji/594/10778.png",
+      "staticUrl": "assets/bilibili/594/10778.png",
       "isHide": false,
       "packageId": "594",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[小柔Channel_啊对对对]"
       ],
-      "staticUrl": "assets/bilibili_emoji/594/10779.png",
+      "staticUrl": "assets/bilibili/594/10779.png",
       "isHide": false,
       "packageId": "594",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[小柔Channel_傲娇]"
       ],
-      "staticUrl": "assets/bilibili_emoji/594/10780.png",
+      "staticUrl": "assets/bilibili/594/10780.png",
       "isHide": false,
       "packageId": "594",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[小柔Channel_保密]"
       ],
-      "staticUrl": "assets/bilibili_emoji/594/10781.png",
+      "staticUrl": "assets/bilibili/594/10781.png",
       "isHide": false,
       "packageId": "594",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[小柔Channel_不得了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/594/10782.png",
+      "staticUrl": "assets/bilibili/594/10782.png",
       "isHide": false,
       "packageId": "594",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[小柔Channel_打咩]"
       ],
-      "staticUrl": "assets/bilibili_emoji/594/10783.png",
+      "staticUrl": "assets/bilibili/594/10783.png",
       "isHide": false,
       "packageId": "594",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[小柔Channel_逮捕]"
       ],
-      "staticUrl": "assets/bilibili_emoji/594/10784.png",
+      "staticUrl": "assets/bilibili/594/10784.png",
       "isHide": false,
       "packageId": "594",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[小柔Channel_吨吨吨]"
       ],
-      "staticUrl": "assets/bilibili_emoji/594/10785.png",
+      "staticUrl": "assets/bilibili/594/10785.png",
       "isHide": false,
       "packageId": "594",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[小柔Channel_二次元声呐]"
       ],
-      "staticUrl": "assets/bilibili_emoji/594/10786.png",
+      "staticUrl": "assets/bilibili/594/10786.png",
       "isHide": false,
       "packageId": "594",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[小柔Channel_过年啦]"
       ],
-      "staticUrl": "assets/bilibili_emoji/594/10787.png",
+      "staticUrl": "assets/bilibili/594/10787.png",
       "isHide": false,
       "packageId": "594",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[小柔Channel_好好休息]"
       ],
-      "staticUrl": "assets/bilibili_emoji/594/10788.png",
+      "staticUrl": "assets/bilibili/594/10788.png",
       "isHide": false,
       "packageId": "594",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[小柔Channel_赫赫]"
       ],
-      "staticUrl": "assets/bilibili_emoji/594/10789.png",
+      "staticUrl": "assets/bilibili/594/10789.png",
       "isHide": false,
       "packageId": "594",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[小柔Channel_啾啾]"
       ],
-      "staticUrl": "assets/bilibili_emoji/594/10790.png",
+      "staticUrl": "assets/bilibili/594/10790.png",
       "isHide": false,
       "packageId": "594",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[小柔Channel_开饭了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/594/10791.png",
+      "staticUrl": "assets/bilibili/594/10791.png",
       "isHide": false,
       "packageId": "594",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[小柔Channel_夸夸]"
       ],
-      "staticUrl": "assets/bilibili_emoji/594/10792.png",
+      "staticUrl": "assets/bilibili/594/10792.png",
       "isHide": false,
       "packageId": "594",
       "meta": {
@@ -234,7 +234,7 @@
       "shortCodes": [
         "[小柔Channel_乐]"
       ],
-      "staticUrl": "assets/bilibili_emoji/594/10793.png",
+      "staticUrl": "assets/bilibili/594/10793.png",
       "isHide": false,
       "packageId": "594",
       "meta": {
@@ -249,7 +249,7 @@
       "shortCodes": [
         "[小柔Channel_令人头大]"
       ],
-      "staticUrl": "assets/bilibili_emoji/594/10794.png",
+      "staticUrl": "assets/bilibili/594/10794.png",
       "isHide": false,
       "packageId": "594",
       "meta": {
@@ -264,7 +264,7 @@
       "shortCodes": [
         "[小柔Channel_趴趴]"
       ],
-      "staticUrl": "assets/bilibili_emoji/594/10795.png",
+      "staticUrl": "assets/bilibili/594/10795.png",
       "isHide": false,
       "packageId": "594",
       "meta": {
@@ -279,7 +279,7 @@
       "shortCodes": [
         "[小柔Channel_燃尽了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/594/10796.png",
+      "staticUrl": "assets/bilibili/594/10796.png",
       "isHide": false,
       "packageId": "594",
       "meta": {
@@ -294,7 +294,7 @@
       "shortCodes": [
         "[小柔Channel_柔老头]"
       ],
-      "staticUrl": "assets/bilibili_emoji/594/10797.png",
+      "staticUrl": "assets/bilibili/594/10797.png",
       "isHide": false,
       "packageId": "594",
       "meta": {
@@ -309,7 +309,7 @@
       "shortCodes": [
         "[小柔Channel_柔仔很忙]"
       ],
-      "staticUrl": "assets/bilibili_emoji/594/10798.png",
+      "staticUrl": "assets/bilibili/594/10798.png",
       "isHide": false,
       "packageId": "594",
       "meta": {
@@ -324,7 +324,7 @@
       "shortCodes": [
         "[小柔Channel_太痛了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/594/10799.png",
+      "staticUrl": "assets/bilibili/594/10799.png",
       "isHide": false,
       "packageId": "594",
       "meta": {
@@ -339,7 +339,7 @@
       "shortCodes": [
         "[小柔Channel_小笨蛋]"
       ],
-      "staticUrl": "assets/bilibili_emoji/594/10800.png",
+      "staticUrl": "assets/bilibili/594/10800.png",
       "isHide": false,
       "packageId": "594",
       "meta": {
@@ -354,7 +354,7 @@
       "shortCodes": [
         "[小柔Channel_亚萨西]"
       ],
-      "staticUrl": "assets/bilibili_emoji/594/10801.png",
+      "staticUrl": "assets/bilibili/594/10801.png",
       "isHide": false,
       "packageId": "594",
       "meta": {
@@ -369,7 +369,7 @@
       "shortCodes": [
         "[小柔Channel_祝福]"
       ],
-      "staticUrl": "assets/bilibili_emoji/594/10802.png",
+      "staticUrl": "assets/bilibili/594/10802.png",
       "isHide": false,
       "packageId": "594",
       "meta": {

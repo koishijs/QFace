@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "127",
   "name": "乐正龙牙三周年",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/d07b50e8cad95f07b8296ceb3b5b690d530093fc.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[乐正龙牙3rd_打鼓]"
       ],
-      "staticUrl": "assets/bilibili_emoji/127/2546.png",
+      "staticUrl": "assets/bilibili/127/2546.png",
       "isHide": false,
       "packageId": "127",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[乐正龙牙3rd_呆住]"
       ],
-      "staticUrl": "assets/bilibili_emoji/127/2547.png",
+      "staticUrl": "assets/bilibili/127/2547.png",
       "isHide": false,
       "packageId": "127",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[乐正龙牙3rd_恶魔]"
       ],
-      "staticUrl": "assets/bilibili_emoji/127/2548.png",
+      "staticUrl": "assets/bilibili/127/2548.png",
       "isHide": false,
       "packageId": "127",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[乐正龙牙3rd_天使]"
       ],
-      "staticUrl": "assets/bilibili_emoji/127/2549.png",
+      "staticUrl": "assets/bilibili/127/2549.png",
       "isHide": false,
       "packageId": "127",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[乐正龙牙3rd_记仇]"
       ],
-      "staticUrl": "assets/bilibili_emoji/127/2550.png",
+      "staticUrl": "assets/bilibili/127/2550.png",
       "isHide": false,
       "packageId": "127",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[乐正龙牙3rd_没问题]"
       ],
-      "staticUrl": "assets/bilibili_emoji/127/2551.png",
+      "staticUrl": "assets/bilibili/127/2551.png",
       "isHide": false,
       "packageId": "127",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[乐正龙牙3rd_送花]"
       ],
-      "staticUrl": "assets/bilibili_emoji/127/2552.png",
+      "staticUrl": "assets/bilibili/127/2552.png",
       "isHide": false,
       "packageId": "127",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[乐正龙牙3rd_修仙]"
       ],
-      "staticUrl": "assets/bilibili_emoji/127/2553.png",
+      "staticUrl": "assets/bilibili/127/2553.png",
       "isHide": false,
       "packageId": "127",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[乐正龙牙3rd_已阅]"
       ],
-      "staticUrl": "assets/bilibili_emoji/127/2554.png",
+      "staticUrl": "assets/bilibili/127/2554.png",
       "isHide": false,
       "packageId": "127",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[乐正龙牙3rd_将军]"
       ],
-      "staticUrl": "assets/bilibili_emoji/127/2555.png",
+      "staticUrl": "assets/bilibili/127/2555.png",
       "isHide": false,
       "packageId": "127",
       "meta": {

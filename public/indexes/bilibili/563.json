@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "563",
   "name": "红叔",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/2236e988bb4c3dadeee5bc232bba059d3da078c5.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[红叔_无所畏惧]"
       ],
-      "staticUrl": "assets/bilibili_emoji/563/10313.png",
+      "staticUrl": "assets/bilibili/563/10313.png",
       "isHide": false,
       "packageId": "563",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[红叔_星星眼]"
       ],
-      "staticUrl": "assets/bilibili_emoji/563/10314.png",
+      "staticUrl": "assets/bilibili/563/10314.png",
       "isHide": false,
       "packageId": "563",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[红叔_一键三连]"
       ],
-      "staticUrl": "assets/bilibili_emoji/563/10315.png",
+      "staticUrl": "assets/bilibili/563/10315.png",
       "isHide": false,
       "packageId": "563",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[红叔_赞]"
       ],
-      "staticUrl": "assets/bilibili_emoji/563/10316.png",
+      "staticUrl": "assets/bilibili/563/10316.png",
       "isHide": false,
       "packageId": "563",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[红叔_你他喵的]"
       ],
-      "staticUrl": "assets/bilibili_emoji/563/10317.png",
+      "staticUrl": "assets/bilibili/563/10317.png",
       "isHide": false,
       "packageId": "563",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[红叔_挨打]"
       ],
-      "staticUrl": "assets/bilibili_emoji/563/10294.png",
+      "staticUrl": "assets/bilibili/563/10294.png",
       "isHide": false,
       "packageId": "563",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[红叔_不行]"
       ],
-      "staticUrl": "assets/bilibili_emoji/563/10295.png",
+      "staticUrl": "assets/bilibili/563/10295.png",
       "isHide": false,
       "packageId": "563",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[红叔_擦眼泪]"
       ],
-      "staticUrl": "assets/bilibili_emoji/563/10296.png",
+      "staticUrl": "assets/bilibili/563/10296.png",
       "isHide": false,
       "packageId": "563",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[红叔_叉腰]"
       ],
-      "staticUrl": "assets/bilibili_emoji/563/10297.png",
+      "staticUrl": "assets/bilibili/563/10297.png",
       "isHide": false,
       "packageId": "563",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[红叔_狗都无语]"
       ],
-      "staticUrl": "assets/bilibili_emoji/563/10298.png",
+      "staticUrl": "assets/bilibili/563/10298.png",
       "isHide": false,
       "packageId": "563",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[红叔_好耶]"
       ],
-      "staticUrl": "assets/bilibili_emoji/563/10299.png",
+      "staticUrl": "assets/bilibili/563/10299.png",
       "isHide": false,
       "packageId": "563",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[红叔_红茶]"
       ],
-      "staticUrl": "assets/bilibili_emoji/563/10300.png",
+      "staticUrl": "assets/bilibili/563/10300.png",
       "isHide": false,
       "packageId": "563",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[红叔_坏心眼]"
       ],
-      "staticUrl": "assets/bilibili_emoji/563/10301.png",
+      "staticUrl": "assets/bilibili/563/10301.png",
       "isHide": false,
       "packageId": "563",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[红叔_惊]"
       ],
-      "staticUrl": "assets/bilibili_emoji/563/10302.png",
+      "staticUrl": "assets/bilibili/563/10302.png",
       "isHide": false,
       "packageId": "563",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[红叔_老年手速]"
       ],
-      "staticUrl": "assets/bilibili_emoji/563/10303.png",
+      "staticUrl": "assets/bilibili/563/10303.png",
       "isHide": false,
       "packageId": "563",
       "meta": {
@@ -234,7 +234,7 @@
       "shortCodes": [
         "[红叔_流汗]"
       ],
-      "staticUrl": "assets/bilibili_emoji/563/10304.png",
+      "staticUrl": "assets/bilibili/563/10304.png",
       "isHide": false,
       "packageId": "563",
       "meta": {
@@ -249,7 +249,7 @@
       "shortCodes": [
         "[红叔_你没事吧]"
       ],
-      "staticUrl": "assets/bilibili_emoji/563/10305.png",
+      "staticUrl": "assets/bilibili/563/10305.png",
       "isHide": false,
       "packageId": "563",
       "meta": {
@@ -264,7 +264,7 @@
       "shortCodes": [
         "[红叔_你是人吗]"
       ],
-      "staticUrl": "assets/bilibili_emoji/563/10306.png",
+      "staticUrl": "assets/bilibili/563/10306.png",
       "isHide": false,
       "packageId": "563",
       "meta": {
@@ -279,7 +279,7 @@
       "shortCodes": [
         "[红叔_泣]"
       ],
-      "staticUrl": "assets/bilibili_emoji/563/10307.png",
+      "staticUrl": "assets/bilibili/563/10307.png",
       "isHide": false,
       "packageId": "563",
       "meta": {
@@ -294,7 +294,7 @@
       "shortCodes": [
         "[红叔_省略号]"
       ],
-      "staticUrl": "assets/bilibili_emoji/563/10308.png",
+      "staticUrl": "assets/bilibili/563/10308.png",
       "isHide": false,
       "packageId": "563",
       "meta": {
@@ -309,7 +309,7 @@
       "shortCodes": [
         "[红叔_躺]"
       ],
-      "staticUrl": "assets/bilibili_emoji/563/10309.png",
+      "staticUrl": "assets/bilibili/563/10309.png",
       "isHide": false,
       "packageId": "563",
       "meta": {
@@ -324,7 +324,7 @@
       "shortCodes": [
         "[红叔_贴贴]"
       ],
-      "staticUrl": "assets/bilibili_emoji/563/10310.png",
+      "staticUrl": "assets/bilibili/563/10310.png",
       "isHide": false,
       "packageId": "563",
       "meta": {
@@ -339,7 +339,7 @@
       "shortCodes": [
         "[红叔_挺好的]"
       ],
-      "staticUrl": "assets/bilibili_emoji/563/10311.png",
+      "staticUrl": "assets/bilibili/563/10311.png",
       "isHide": false,
       "packageId": "563",
       "meta": {
@@ -354,7 +354,7 @@
       "shortCodes": [
         "[红叔_问号]"
       ],
-      "staticUrl": "assets/bilibili_emoji/563/10312.png",
+      "staticUrl": "assets/bilibili/563/10312.png",
       "isHide": false,
       "packageId": "563",
       "meta": {

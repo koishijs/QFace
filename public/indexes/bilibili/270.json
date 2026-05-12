@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "270",
   "name": "CHE",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/f318aa8ae5a9f63d0decd652ccda893dc1b4beac.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[CHE_emmm]"
       ],
-      "staticUrl": "assets/bilibili_emoji/270/4491.png",
+      "staticUrl": "assets/bilibili/270/4491.png",
       "isHide": false,
       "packageId": "270",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[CHE_respect]"
       ],
-      "staticUrl": "assets/bilibili_emoji/270/4492.png",
+      "staticUrl": "assets/bilibili/270/4492.png",
       "isHide": false,
       "packageId": "270",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[CHE_salute]"
       ],
-      "staticUrl": "assets/bilibili_emoji/270/4493.png",
+      "staticUrl": "assets/bilibili/270/4493.png",
       "isHide": false,
       "packageId": "270",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[CHE_吹空调]"
       ],
-      "staticUrl": "assets/bilibili_emoji/270/4494.png",
+      "staticUrl": "assets/bilibili/270/4494.png",
       "isHide": false,
       "packageId": "270",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[CHE_大为震撼]"
       ],
-      "staticUrl": "assets/bilibili_emoji/270/4495.png",
+      "staticUrl": "assets/bilibili/270/4495.png",
       "isHide": false,
       "packageId": "270",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[CHE_拿来吧你]"
       ],
-      "staticUrl": "assets/bilibili_emoji/270/4496.png",
+      "staticUrl": "assets/bilibili/270/4496.png",
       "isHide": false,
       "packageId": "270",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[CHE_强壮]"
       ],
-      "staticUrl": "assets/bilibili_emoji/270/4497.png",
+      "staticUrl": "assets/bilibili/270/4497.png",
       "isHide": false,
       "packageId": "270",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[CHE_晒化了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/270/4498.png",
+      "staticUrl": "assets/bilibili/270/4498.png",
       "isHide": false,
       "packageId": "270",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[CHE_学习ing]"
       ],
-      "staticUrl": "assets/bilibili_emoji/270/4499.png",
+      "staticUrl": "assets/bilibili/270/4499.png",
       "isHide": false,
       "packageId": "270",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[CHE_嘬奶茶]"
       ],
-      "staticUrl": "assets/bilibili_emoji/270/4500.png",
+      "staticUrl": "assets/bilibili/270/4500.png",
       "isHide": false,
       "packageId": "270",
       "meta": {

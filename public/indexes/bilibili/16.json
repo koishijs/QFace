@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "16",
   "name": "我家大师兄脑子有坑",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/816198d849984d510a1713c3d6426754475f8ddd.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[我家大师兄脑子有坑_比心]"
       ],
-      "staticUrl": "assets/bilibili_emoji/16/316.png",
+      "staticUrl": "assets/bilibili/16/316.png",
       "isHide": false,
       "packageId": "16",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[我家大师兄脑子有坑_吃瓜]"
       ],
-      "staticUrl": "assets/bilibili_emoji/16/317.png",
+      "staticUrl": "assets/bilibili/16/317.png",
       "isHide": false,
       "packageId": "16",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[我家大师兄脑子有坑_大笑]"
       ],
-      "staticUrl": "assets/bilibili_emoji/16/318.png",
+      "staticUrl": "assets/bilibili/16/318.png",
       "isHide": false,
       "packageId": "16",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[我家大师兄脑子有坑_汗]"
       ],
-      "staticUrl": "assets/bilibili_emoji/16/319.png",
+      "staticUrl": "assets/bilibili/16/319.png",
       "isHide": false,
       "packageId": "16",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[我家大师兄脑子有坑_机智]"
       ],
-      "staticUrl": "assets/bilibili_emoji/16/320.png",
+      "staticUrl": "assets/bilibili/16/320.png",
       "isHide": false,
       "packageId": "16",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[我家大师兄脑子有坑_哭]"
       ],
-      "staticUrl": "assets/bilibili_emoji/16/321.png",
+      "staticUrl": "assets/bilibili/16/321.png",
       "isHide": false,
       "packageId": "16",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[我家大师兄脑子有坑_期待]"
       ],
-      "staticUrl": "assets/bilibili_emoji/16/322.png",
+      "staticUrl": "assets/bilibili/16/322.png",
       "isHide": false,
       "packageId": "16",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[我家大师兄脑子有坑_撒花]"
       ],
-      "staticUrl": "assets/bilibili_emoji/16/323.png",
+      "staticUrl": "assets/bilibili/16/323.png",
       "isHide": false,
       "packageId": "16",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[我家大师兄脑子有坑_吐魂]"
       ],
-      "staticUrl": "assets/bilibili_emoji/16/324.png",
+      "staticUrl": "assets/bilibili/16/324.png",
       "isHide": false,
       "packageId": "16",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[我家大师兄脑子有坑_晕]"
       ],
-      "staticUrl": "assets/bilibili_emoji/16/325.png",
+      "staticUrl": "assets/bilibili/16/325.png",
       "isHide": false,
       "packageId": "16",
       "meta": {

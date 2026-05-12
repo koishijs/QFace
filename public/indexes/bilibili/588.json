@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "588",
   "name": "莞儿睡不醒",
   "coverUrl": "https://i0.hdslb.com/bfs/emote/d33211fc87b01a8fd2ad07b295ea7fcafb4074a4.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[莞儿睡不醒_mua]"
       ],
-      "staticUrl": "assets/bilibili_emoji/588/10683.png",
+      "staticUrl": "assets/bilibili/588/10683.png",
       "isHide": false,
       "packageId": "588",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[莞儿睡不醒_安心]"
       ],
-      "staticUrl": "assets/bilibili_emoji/588/10684.png",
+      "staticUrl": "assets/bilibili/588/10684.png",
       "isHide": false,
       "packageId": "588",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[莞儿睡不醒_不安]"
       ],
-      "staticUrl": "assets/bilibili_emoji/588/10685.png",
+      "staticUrl": "assets/bilibili/588/10685.png",
       "isHide": false,
       "packageId": "588",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[莞儿睡不醒_高音]"
       ],
-      "staticUrl": "assets/bilibili_emoji/588/10686.png",
+      "staticUrl": "assets/bilibili/588/10686.png",
       "isHide": false,
       "packageId": "588",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[莞儿睡不醒_莞安]"
       ],
-      "staticUrl": "assets/bilibili_emoji/588/10687.png",
+      "staticUrl": "assets/bilibili/588/10687.png",
       "isHide": false,
       "packageId": "588",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[莞儿睡不醒_开心]"
       ],
-      "staticUrl": "assets/bilibili_emoji/588/10688.png",
+      "staticUrl": "assets/bilibili/588/10688.png",
       "isHide": false,
       "packageId": "588",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[莞儿睡不醒_哭泣]"
       ],
-      "staticUrl": "assets/bilibili_emoji/588/10689.png",
+      "staticUrl": "assets/bilibili/588/10689.png",
       "isHide": false,
       "packageId": "588",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[莞儿睡不醒_什么意思]"
       ],
-      "staticUrl": "assets/bilibili_emoji/588/10690.png",
+      "staticUrl": "assets/bilibili/588/10690.png",
       "isHide": false,
       "packageId": "588",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[莞儿睡不醒_生气]"
       ],
-      "staticUrl": "assets/bilibili_emoji/588/10691.png",
+      "staticUrl": "assets/bilibili/588/10691.png",
       "isHide": false,
       "packageId": "588",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[莞儿睡不醒_唐突]"
       ],
-      "staticUrl": "assets/bilibili_emoji/588/10692.png",
+      "staticUrl": "assets/bilibili/588/10692.png",
       "isHide": false,
       "packageId": "588",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[莞儿睡不醒_我要闹了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/588/10693.png",
+      "staticUrl": "assets/bilibili/588/10693.png",
       "isHide": false,
       "packageId": "588",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[莞儿睡不醒_小厨娘]"
       ],
-      "staticUrl": "assets/bilibili_emoji/588/10694.png",
+      "staticUrl": "assets/bilibili/588/10694.png",
       "isHide": false,
       "packageId": "588",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[莞儿睡不醒_小莞熊]"
       ],
-      "staticUrl": "assets/bilibili_emoji/588/10695.png",
+      "staticUrl": "assets/bilibili/588/10695.png",
       "isHide": false,
       "packageId": "588",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[莞儿睡不醒_巡逻中]"
       ],
-      "staticUrl": "assets/bilibili_emoji/588/10696.png",
+      "staticUrl": "assets/bilibili/588/10696.png",
       "isHide": false,
       "packageId": "588",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[莞儿睡不醒_真的吗]"
       ],
-      "staticUrl": "assets/bilibili_emoji/588/10697.png",
+      "staticUrl": "assets/bilibili/588/10697.png",
       "isHide": false,
       "packageId": "588",
       "meta": {
@@ -234,7 +234,7 @@
       "shortCodes": [
         "[莞儿睡不醒_我们是EOE]"
       ],
-      "staticUrl": "assets/bilibili_emoji/588/14412.png",
+      "staticUrl": "assets/bilibili/588/14412.png",
       "isHide": false,
       "packageId": "588",
       "meta": {
@@ -249,7 +249,7 @@
       "shortCodes": [
         "[莞儿睡不醒_啵烂]"
       ],
-      "staticUrl": "assets/bilibili_emoji/588/14434.png",
+      "staticUrl": "assets/bilibili/588/14434.png",
       "isHide": false,
       "packageId": "588",
       "meta": {
@@ -264,7 +264,7 @@
       "shortCodes": [
         "[莞儿睡不醒_懂你意思]"
       ],
-      "staticUrl": "assets/bilibili_emoji/588/14435.png",
+      "staticUrl": "assets/bilibili/588/14435.png",
       "isHide": false,
       "packageId": "588",
       "meta": {
@@ -279,7 +279,7 @@
       "shortCodes": [
         "[莞儿睡不醒_投降]"
       ],
-      "staticUrl": "assets/bilibili_emoji/588/14413.png",
+      "staticUrl": "assets/bilibili/588/14413.png",
       "isHide": false,
       "packageId": "588",
       "meta": {
@@ -294,7 +294,7 @@
       "shortCodes": [
         "[莞儿睡不醒_饿了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/588/14436.png",
+      "staticUrl": "assets/bilibili/588/14436.png",
       "isHide": false,
       "packageId": "588",
       "meta": {
@@ -309,7 +309,7 @@
       "shortCodes": [
         "[莞儿睡不醒_睡不醒]"
       ],
-      "staticUrl": "assets/bilibili_emoji/588/14414.png",
+      "staticUrl": "assets/bilibili/588/14414.png",
       "isHide": false,
       "packageId": "588",
       "meta": {
@@ -324,7 +324,7 @@
       "shortCodes": [
         "[莞儿睡不醒_麻麻]"
       ],
-      "staticUrl": "assets/bilibili_emoji/588/14415.png",
+      "staticUrl": "assets/bilibili/588/14415.png",
       "isHide": false,
       "packageId": "588",
       "meta": {
@@ -339,7 +339,7 @@
       "shortCodes": [
         "[莞儿睡不醒_可靠]"
       ],
-      "staticUrl": "assets/bilibili_emoji/588/14416.png",
+      "staticUrl": "assets/bilibili/588/14416.png",
       "isHide": false,
       "packageId": "588",
       "meta": {
@@ -354,7 +354,7 @@
       "shortCodes": [
         "[莞儿睡不醒_好耶]"
       ],
-      "staticUrl": "assets/bilibili_emoji/588/14417.png",
+      "staticUrl": "assets/bilibili/588/14417.png",
       "isHide": false,
       "packageId": "588",
       "meta": {
@@ -369,7 +369,7 @@
       "shortCodes": [
         "[莞儿睡不醒_给你一铲]"
       ],
-      "staticUrl": "assets/bilibili_emoji/588/14418.png",
+      "staticUrl": "assets/bilibili/588/14418.png",
       "isHide": false,
       "packageId": "588",
       "meta": {

@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "256",
   "name": "美波七海",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/455a579ef72f6f06ec7da5ea1bb88f159961b601.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[美波七海_sukiki]"
       ],
-      "staticUrl": "assets/bilibili_emoji/256/4244.png",
+      "staticUrl": "assets/bilibili/256/4244.png",
       "isHide": false,
       "packageId": "256",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[美波七海_突击]"
       ],
-      "staticUrl": "assets/bilibili_emoji/256/4245.png",
+      "staticUrl": "assets/bilibili/256/4245.png",
       "isHide": false,
       "packageId": "256",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[美波七海_？？？]"
       ],
-      "staticUrl": "assets/bilibili_emoji/256/4246.png",
+      "staticUrl": "assets/bilibili/256/4246.png",
       "isHide": false,
       "packageId": "256",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[美波七海_fake]"
       ],
-      "staticUrl": "assets/bilibili_emoji/256/4247.png",
+      "staticUrl": "assets/bilibili/256/4247.png",
       "isHide": false,
       "packageId": "256",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[美波七海_GKD]"
       ],
-      "staticUrl": "assets/bilibili_emoji/256/4248.png",
+      "staticUrl": "assets/bilibili/256/4248.png",
       "isHide": false,
       "packageId": "256",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[美波七海_lei了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/256/4249.png",
+      "staticUrl": "assets/bilibili/256/4249.png",
       "isHide": false,
       "packageId": "256",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[美波七海_笨笨]"
       ],
-      "staticUrl": "assets/bilibili_emoji/256/4250.png",
+      "staticUrl": "assets/bilibili/256/4250.png",
       "isHide": false,
       "packageId": "256",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[美波七海_不知道]"
       ],
-      "staticUrl": "assets/bilibili_emoji/256/4251.png",
+      "staticUrl": "assets/bilibili/256/4251.png",
       "isHide": false,
       "packageId": "256",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[美波七海_果咩]"
       ],
-      "staticUrl": "assets/bilibili_emoji/256/4252.png",
+      "staticUrl": "assets/bilibili/256/4252.png",
       "isHide": false,
       "packageId": "256",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[美波七海_哈]"
       ],
-      "staticUrl": "assets/bilibili_emoji/256/4253.png",
+      "staticUrl": "assets/bilibili/256/4253.png",
       "isHide": false,
       "packageId": "256",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[美波七海_好耶]"
       ],
-      "staticUrl": "assets/bilibili_emoji/256/4254.png",
+      "staticUrl": "assets/bilibili/256/4254.png",
       "isHide": false,
       "packageId": "256",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[美波七海_击剑]"
       ],
-      "staticUrl": "assets/bilibili_emoji/256/4255.png",
+      "staticUrl": "assets/bilibili/256/4255.png",
       "isHide": false,
       "packageId": "256",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[美波七海_确实]"
       ],
-      "staticUrl": "assets/bilibili_emoji/256/4256.png",
+      "staticUrl": "assets/bilibili/256/4256.png",
       "isHide": false,
       "packageId": "256",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[美波七海_投降]"
       ],
-      "staticUrl": "assets/bilibili_emoji/256/4257.png",
+      "staticUrl": "assets/bilibili/256/4257.png",
       "isHide": false,
       "packageId": "256",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[美波七海_我！]"
       ],
-      "staticUrl": "assets/bilibili_emoji/256/4258.png",
+      "staticUrl": "assets/bilibili/256/4258.png",
       "isHide": false,
       "packageId": "256",
       "meta": {

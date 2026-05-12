@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "0",
   "name": "QQNT 系统表情",
   "emojis": [
@@ -8,8 +8,8 @@
       "shortCodes": [
         "114"
       ],
-      "staticUrl": "assets/qq_emoji/0/png/0.png",
-      "animatedUrl": "assets/qq_emoji/0/apng/0.png",
+      "staticUrl": "assets/qq/0/png/0.png",
+      "animatedUrl": "assets/qq/0/apng/0.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -25,8 +25,8 @@
       "shortCodes": [
         "101"
       ],
-      "staticUrl": "assets/qq_emoji/1/png/1.png",
-      "animatedUrl": "assets/qq_emoji/1/apng/1.png",
+      "staticUrl": "assets/qq/1/png/1.png",
+      "animatedUrl": "assets/qq/1/apng/1.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -42,8 +42,8 @@
       "shortCodes": [
         "102"
       ],
-      "staticUrl": "assets/qq_emoji/2/png/2.png",
-      "animatedUrl": "assets/qq_emoji/2/apng/2.png",
+      "staticUrl": "assets/qq/2/png/2.png",
+      "animatedUrl": "assets/qq/2/apng/2.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -59,8 +59,8 @@
       "shortCodes": [
         "103"
       ],
-      "staticUrl": "assets/qq_emoji/3/png/3.png",
-      "animatedUrl": "assets/qq_emoji/3/apng/3.png",
+      "staticUrl": "assets/qq/3/png/3.png",
+      "animatedUrl": "assets/qq/3/apng/3.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -76,8 +76,8 @@
       "shortCodes": [
         "104"
       ],
-      "staticUrl": "assets/qq_emoji/4/png/4.png",
-      "animatedUrl": "assets/qq_emoji/4/apng/4.png",
+      "staticUrl": "assets/qq/4/png/4.png",
+      "animatedUrl": "assets/qq/4/apng/4.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -93,8 +93,8 @@
       "shortCodes": [
         "105"
       ],
-      "staticUrl": "assets/qq_emoji/5/png/5_0.png",
-      "animatedUrl": "assets/qq_emoji/5/apng/5.png",
+      "staticUrl": "assets/qq/5/png/5_0.png",
+      "animatedUrl": "assets/qq/5/apng/5.png",
       "isHide": false,
       "packageId": "0",
       "aniStickerPackId": 1,
@@ -112,8 +112,8 @@
       "shortCodes": [
         "106"
       ],
-      "staticUrl": "assets/qq_emoji/6/png/6.png",
-      "animatedUrl": "assets/qq_emoji/6/apng/6.png",
+      "staticUrl": "assets/qq/6/png/6.png",
+      "animatedUrl": "assets/qq/6/apng/6.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -129,8 +129,8 @@
       "shortCodes": [
         "107"
       ],
-      "staticUrl": "assets/qq_emoji/7/png/7.png",
-      "animatedUrl": "assets/qq_emoji/7/apng/7.png",
+      "staticUrl": "assets/qq/7/png/7.png",
+      "animatedUrl": "assets/qq/7/apng/7.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -146,8 +146,8 @@
       "shortCodes": [
         "108"
       ],
-      "staticUrl": "assets/qq_emoji/8/png/8.png",
-      "animatedUrl": "assets/qq_emoji/8/apng/8.png",
+      "staticUrl": "assets/qq/8/png/8.png",
+      "animatedUrl": "assets/qq/8/apng/8.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -163,8 +163,8 @@
       "shortCodes": [
         "109"
       ],
-      "staticUrl": "assets/qq_emoji/9/png/9.png",
-      "animatedUrl": "assets/qq_emoji/9/apng/9.png",
+      "staticUrl": "assets/qq/9/png/9.png",
+      "animatedUrl": "assets/qq/9/apng/9.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -180,8 +180,8 @@
       "shortCodes": [
         "110"
       ],
-      "staticUrl": "assets/qq_emoji/10/png/10.png",
-      "animatedUrl": "assets/qq_emoji/10/apng/10.png",
+      "staticUrl": "assets/qq/10/png/10.png",
+      "animatedUrl": "assets/qq/10/apng/10.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -197,8 +197,8 @@
       "shortCodes": [
         "111"
       ],
-      "staticUrl": "assets/qq_emoji/11/png/11.png",
-      "animatedUrl": "assets/qq_emoji/11/apng/11.png",
+      "staticUrl": "assets/qq/11/png/11.png",
+      "animatedUrl": "assets/qq/11/apng/11.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -214,8 +214,8 @@
       "shortCodes": [
         "112"
       ],
-      "staticUrl": "assets/qq_emoji/12/png/12.png",
-      "animatedUrl": "assets/qq_emoji/12/apng/12.png",
+      "staticUrl": "assets/qq/12/png/12.png",
+      "animatedUrl": "assets/qq/12/apng/12.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -231,8 +231,8 @@
       "shortCodes": [
         "113"
       ],
-      "staticUrl": "assets/qq_emoji/13/png/13.png",
-      "animatedUrl": "assets/qq_emoji/13/apng/13.png",
+      "staticUrl": "assets/qq/13/png/13.png",
+      "animatedUrl": "assets/qq/13/apng/13.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -248,8 +248,8 @@
       "shortCodes": [
         "100"
       ],
-      "staticUrl": "assets/qq_emoji/14/png/14.png",
-      "animatedUrl": "assets/qq_emoji/14/apng/14.png",
+      "staticUrl": "assets/qq/14/png/14.png",
+      "animatedUrl": "assets/qq/14/apng/14.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -265,8 +265,8 @@
       "shortCodes": [
         "115"
       ],
-      "staticUrl": "assets/qq_emoji/15/png/15.png",
-      "animatedUrl": "assets/qq_emoji/15/apng/15.png",
+      "staticUrl": "assets/qq/15/png/15.png",
+      "animatedUrl": "assets/qq/15/apng/15.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -282,8 +282,8 @@
       "shortCodes": [
         "116"
       ],
-      "staticUrl": "assets/qq_emoji/16/png/16.png",
-      "animatedUrl": "assets/qq_emoji/16/apng/16.png",
+      "staticUrl": "assets/qq/16/png/16.png",
+      "animatedUrl": "assets/qq/16/apng/16.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -299,8 +299,8 @@
       "shortCodes": [
         "118"
       ],
-      "staticUrl": "assets/qq_emoji/18/png/18.png",
-      "animatedUrl": "assets/qq_emoji/18/apng/18.png",
+      "staticUrl": "assets/qq/18/png/18.png",
+      "animatedUrl": "assets/qq/18/apng/18.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -316,8 +316,8 @@
       "shortCodes": [
         "119"
       ],
-      "staticUrl": "assets/qq_emoji/19/png/19.png",
-      "animatedUrl": "assets/qq_emoji/19/apng/19.png",
+      "staticUrl": "assets/qq/19/png/19.png",
+      "animatedUrl": "assets/qq/19/apng/19.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -333,8 +333,8 @@
       "shortCodes": [
         "120"
       ],
-      "staticUrl": "assets/qq_emoji/20/png/20.png",
-      "animatedUrl": "assets/qq_emoji/20/apng/20.png",
+      "staticUrl": "assets/qq/20/png/20.png",
+      "animatedUrl": "assets/qq/20/apng/20.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -350,8 +350,8 @@
       "shortCodes": [
         "121"
       ],
-      "staticUrl": "assets/qq_emoji/21/png/21.png",
-      "animatedUrl": "assets/qq_emoji/21/apng/21.png",
+      "staticUrl": "assets/qq/21/png/21.png",
+      "animatedUrl": "assets/qq/21/apng/21.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -367,8 +367,8 @@
       "shortCodes": [
         "122"
       ],
-      "staticUrl": "assets/qq_emoji/22/png/22.png",
-      "animatedUrl": "assets/qq_emoji/22/apng/22.png",
+      "staticUrl": "assets/qq/22/png/22.png",
+      "animatedUrl": "assets/qq/22/apng/22.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -384,8 +384,8 @@
       "shortCodes": [
         "123"
       ],
-      "staticUrl": "assets/qq_emoji/23/png/23.png",
-      "animatedUrl": "assets/qq_emoji/23/apng/23.png",
+      "staticUrl": "assets/qq/23/png/23.png",
+      "animatedUrl": "assets/qq/23/apng/23.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -401,8 +401,8 @@
       "shortCodes": [
         "124"
       ],
-      "staticUrl": "assets/qq_emoji/24/png/24.png",
-      "animatedUrl": "assets/qq_emoji/24/apng/24.png",
+      "staticUrl": "assets/qq/24/png/24.png",
+      "animatedUrl": "assets/qq/24/apng/24.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -418,8 +418,8 @@
       "shortCodes": [
         "125"
       ],
-      "staticUrl": "assets/qq_emoji/25/png/25.png",
-      "animatedUrl": "assets/qq_emoji/25/apng/25.png",
+      "staticUrl": "assets/qq/25/png/25.png",
+      "animatedUrl": "assets/qq/25/apng/25.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -435,8 +435,8 @@
       "shortCodes": [
         "126"
       ],
-      "staticUrl": "assets/qq_emoji/26/png/26.png",
-      "animatedUrl": "assets/qq_emoji/26/apng/26.png",
+      "staticUrl": "assets/qq/26/png/26.png",
+      "animatedUrl": "assets/qq/26/apng/26.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -452,8 +452,8 @@
       "shortCodes": [
         "127"
       ],
-      "staticUrl": "assets/qq_emoji/27/png/27.png",
-      "animatedUrl": "assets/qq_emoji/27/apng/27.png",
+      "staticUrl": "assets/qq/27/png/27.png",
+      "animatedUrl": "assets/qq/27/apng/27.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -469,8 +469,8 @@
       "shortCodes": [
         "128"
       ],
-      "staticUrl": "assets/qq_emoji/28/png/28.png",
-      "animatedUrl": "assets/qq_emoji/28/apng/28.png",
+      "staticUrl": "assets/qq/28/png/28.png",
+      "animatedUrl": "assets/qq/28/apng/28.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -486,8 +486,8 @@
       "shortCodes": [
         "129"
       ],
-      "staticUrl": "assets/qq_emoji/29/png/29.png",
-      "animatedUrl": "assets/qq_emoji/29/apng/29.png",
+      "staticUrl": "assets/qq/29/png/29.png",
+      "animatedUrl": "assets/qq/29/apng/29.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -503,8 +503,8 @@
       "shortCodes": [
         "130"
       ],
-      "staticUrl": "assets/qq_emoji/30/png/30.png",
-      "animatedUrl": "assets/qq_emoji/30/apng/30.png",
+      "staticUrl": "assets/qq/30/png/30.png",
+      "animatedUrl": "assets/qq/30/apng/30.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -520,8 +520,8 @@
       "shortCodes": [
         "131"
       ],
-      "staticUrl": "assets/qq_emoji/31/png/31.png",
-      "animatedUrl": "assets/qq_emoji/31/apng/31.png",
+      "staticUrl": "assets/qq/31/png/31.png",
+      "animatedUrl": "assets/qq/31/apng/31.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -537,8 +537,8 @@
       "shortCodes": [
         "132"
       ],
-      "staticUrl": "assets/qq_emoji/32/png/32.png",
-      "animatedUrl": "assets/qq_emoji/32/apng/32.png",
+      "staticUrl": "assets/qq/32/png/32.png",
+      "animatedUrl": "assets/qq/32/apng/32.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -554,8 +554,8 @@
       "shortCodes": [
         "133"
       ],
-      "staticUrl": "assets/qq_emoji/33/png/33.png",
-      "animatedUrl": "assets/qq_emoji/33/apng/33.png",
+      "staticUrl": "assets/qq/33/png/33.png",
+      "animatedUrl": "assets/qq/33/apng/33.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -571,8 +571,8 @@
       "shortCodes": [
         "134"
       ],
-      "staticUrl": "assets/qq_emoji/34/png/34.png",
-      "animatedUrl": "assets/qq_emoji/34/apng/34.png",
+      "staticUrl": "assets/qq/34/png/34.png",
+      "animatedUrl": "assets/qq/34/apng/34.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -588,8 +588,8 @@
       "shortCodes": [
         "135"
       ],
-      "staticUrl": "assets/qq_emoji/35/png/35.png",
-      "animatedUrl": "assets/qq_emoji/35/apng/35.png",
+      "staticUrl": "assets/qq/35/png/35.png",
+      "animatedUrl": "assets/qq/35/apng/35.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -605,8 +605,8 @@
       "shortCodes": [
         "136"
       ],
-      "staticUrl": "assets/qq_emoji/36/png/36.png",
-      "animatedUrl": "assets/qq_emoji/36/apng/36.png",
+      "staticUrl": "assets/qq/36/png/36.png",
+      "animatedUrl": "assets/qq/36/apng/36.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -622,8 +622,8 @@
       "shortCodes": [
         "137"
       ],
-      "staticUrl": "assets/qq_emoji/37/png/37.png",
-      "animatedUrl": "assets/qq_emoji/37/apng/37.png",
+      "staticUrl": "assets/qq/37/png/37.png",
+      "animatedUrl": "assets/qq/37/apng/37.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -639,8 +639,8 @@
       "shortCodes": [
         "138"
       ],
-      "staticUrl": "assets/qq_emoji/38/png/38.png",
-      "animatedUrl": "assets/qq_emoji/38/apng/38.png",
+      "staticUrl": "assets/qq/38/png/38.png",
+      "animatedUrl": "assets/qq/38/apng/38.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -656,8 +656,8 @@
       "shortCodes": [
         "139"
       ],
-      "staticUrl": "assets/qq_emoji/39/png/39.png",
-      "animatedUrl": "assets/qq_emoji/39/apng/39.png",
+      "staticUrl": "assets/qq/39/png/39.png",
+      "animatedUrl": "assets/qq/39/apng/39.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -673,8 +673,8 @@
       "shortCodes": [
         "193"
       ],
-      "staticUrl": "assets/qq_emoji/41/png/41.png",
-      "animatedUrl": "assets/qq_emoji/41/apng/41.png",
+      "staticUrl": "assets/qq/41/png/41.png",
+      "animatedUrl": "assets/qq/41/apng/41.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -690,8 +690,8 @@
       "shortCodes": [
         "190"
       ],
-      "staticUrl": "assets/qq_emoji/42/png/42.png",
-      "animatedUrl": "assets/qq_emoji/42/apng/42.png",
+      "staticUrl": "assets/qq/42/png/42.png",
+      "animatedUrl": "assets/qq/42/apng/42.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -707,8 +707,8 @@
       "shortCodes": [
         "192"
       ],
-      "staticUrl": "assets/qq_emoji/43/png/43.png",
-      "animatedUrl": "assets/qq_emoji/43/apng/43.png",
+      "staticUrl": "assets/qq/43/png/43.png",
+      "animatedUrl": "assets/qq/43/apng/43.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -724,8 +724,8 @@
       "shortCodes": [
         "162"
       ],
-      "staticUrl": "assets/qq_emoji/46/png/46.png",
-      "animatedUrl": "assets/qq_emoji/46/apng/46.png",
+      "staticUrl": "assets/qq/46/png/46.png",
+      "animatedUrl": "assets/qq/46/apng/46.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -741,8 +741,8 @@
       "shortCodes": [
         "178"
       ],
-      "staticUrl": "assets/qq_emoji/49/png/49.png",
-      "animatedUrl": "assets/qq_emoji/49/apng/49.png",
+      "staticUrl": "assets/qq/49/png/49.png",
+      "animatedUrl": "assets/qq/49/apng/49.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -756,7 +756,7 @@
       "id": "50",
       "description": "50",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/50/png/50.png",
+      "staticUrl": "assets/qq/50/png/50.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -772,8 +772,8 @@
       "shortCodes": [
         "168"
       ],
-      "staticUrl": "assets/qq_emoji/53/png/53_0.png",
-      "animatedUrl": "assets/qq_emoji/53/apng/53.png",
+      "staticUrl": "assets/qq/53/png/53_0.png",
+      "animatedUrl": "assets/qq/53/apng/53.png",
       "isHide": false,
       "packageId": "0",
       "aniStickerPackId": 1,
@@ -789,7 +789,7 @@
       "id": "54",
       "description": "54",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/54/png/54.png",
+      "staticUrl": "assets/qq/54/png/54.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -805,7 +805,7 @@
       "shortCodes": [
         "170"
       ],
-      "staticUrl": "assets/qq_emoji/55/png/55.png",
+      "staticUrl": "assets/qq/55/png/55.png",
       "isHide": true,
       "packageId": "0",
       "meta": {
@@ -821,8 +821,8 @@
       "shortCodes": [
         "171"
       ],
-      "staticUrl": "assets/qq_emoji/56/png/56.png",
-      "animatedUrl": "assets/qq_emoji/56/apng/56.png",
+      "staticUrl": "assets/qq/56/png/56.png",
+      "animatedUrl": "assets/qq/56/apng/56.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -836,8 +836,8 @@
       "id": "57",
       "description": "57",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/57/png/57.png",
-      "animatedUrl": "assets/qq_emoji/57/apng/57.png",
+      "staticUrl": "assets/qq/57/png/57.png",
+      "animatedUrl": "assets/qq/57/apng/57.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -853,8 +853,8 @@
       "shortCodes": [
         "174"
       ],
-      "staticUrl": "assets/qq_emoji/59/png/59.png",
-      "animatedUrl": "assets/qq_emoji/59/apng/59.png",
+      "staticUrl": "assets/qq/59/png/59.png",
+      "animatedUrl": "assets/qq/59/apng/59.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -870,8 +870,8 @@
       "shortCodes": [
         "160"
       ],
-      "staticUrl": "assets/qq_emoji/60/png/60.png",
-      "animatedUrl": "assets/qq_emoji/60/apng/60.png",
+      "staticUrl": "assets/qq/60/png/60.png",
+      "animatedUrl": "assets/qq/60/apng/60.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -885,7 +885,7 @@
       "id": "61",
       "description": "61",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/61/png/61.png",
+      "staticUrl": "assets/qq/61/png/61.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -901,8 +901,8 @@
       "shortCodes": [
         "163"
       ],
-      "staticUrl": "assets/qq_emoji/63/png/63.png",
-      "animatedUrl": "assets/qq_emoji/63/apng/63.png",
+      "staticUrl": "assets/qq/63/png/63.png",
+      "animatedUrl": "assets/qq/63/apng/63.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -918,8 +918,8 @@
       "shortCodes": [
         "164"
       ],
-      "staticUrl": "assets/qq_emoji/64/png/64.png",
-      "animatedUrl": "assets/qq_emoji/64/apng/64.png",
+      "staticUrl": "assets/qq/64/png/64.png",
+      "animatedUrl": "assets/qq/64/apng/64.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -935,8 +935,8 @@
       "shortCodes": [
         "166"
       ],
-      "staticUrl": "assets/qq_emoji/66/png/66.png",
-      "animatedUrl": "assets/qq_emoji/66/apng/66.png",
+      "staticUrl": "assets/qq/66/png/66.png",
+      "animatedUrl": "assets/qq/66/apng/66.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -952,8 +952,8 @@
       "shortCodes": [
         "167"
       ],
-      "staticUrl": "assets/qq_emoji/67/png/67.png",
-      "animatedUrl": "assets/qq_emoji/67/apng/67.png",
+      "staticUrl": "assets/qq/67/png/67.png",
+      "animatedUrl": "assets/qq/67/apng/67.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -967,7 +967,7 @@
       "id": "69",
       "description": "69",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/69/png/69.png",
+      "staticUrl": "assets/qq/69/png/69.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -983,8 +983,8 @@
       "shortCodes": [
         "176"
       ],
-      "staticUrl": "assets/qq_emoji/74/png/74_0.png",
-      "animatedUrl": "assets/qq_emoji/74/apng/74.png",
+      "staticUrl": "assets/qq/74/png/74_0.png",
+      "animatedUrl": "assets/qq/74/apng/74.png",
       "isHide": false,
       "packageId": "0",
       "aniStickerPackId": 1,
@@ -1002,8 +1002,8 @@
       "shortCodes": [
         "175"
       ],
-      "staticUrl": "assets/qq_emoji/75/png/75_0.png",
-      "animatedUrl": "assets/qq_emoji/75/apng/75.png",
+      "staticUrl": "assets/qq/75/png/75_0.png",
+      "animatedUrl": "assets/qq/75/apng/75.png",
       "isHide": false,
       "packageId": "0",
       "aniStickerPackId": 1,
@@ -1021,8 +1021,8 @@
       "shortCodes": [
         "179"
       ],
-      "staticUrl": "assets/qq_emoji/76/png/76.png",
-      "animatedUrl": "assets/qq_emoji/76/apng/76.png",
+      "staticUrl": "assets/qq/76/png/76.png",
+      "animatedUrl": "assets/qq/76/apng/76.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -1038,8 +1038,8 @@
       "shortCodes": [
         "180"
       ],
-      "staticUrl": "assets/qq_emoji/77/png/77.png",
-      "animatedUrl": "assets/qq_emoji/77/apng/77.png",
+      "staticUrl": "assets/qq/77/png/77.png",
+      "animatedUrl": "assets/qq/77/apng/77.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -1055,8 +1055,8 @@
       "shortCodes": [
         "181"
       ],
-      "staticUrl": "assets/qq_emoji/78/png/78.png",
-      "animatedUrl": "assets/qq_emoji/78/apng/78.png",
+      "staticUrl": "assets/qq/78/png/78.png",
+      "animatedUrl": "assets/qq/78/apng/78.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -1072,8 +1072,8 @@
       "shortCodes": [
         "182"
       ],
-      "staticUrl": "assets/qq_emoji/79/png/79.png",
-      "animatedUrl": "assets/qq_emoji/79/apng/79.png",
+      "staticUrl": "assets/qq/79/png/79.png",
+      "animatedUrl": "assets/qq/79/apng/79.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -1087,7 +1087,7 @@
       "id": "81",
       "description": "81",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/81/png/81.png",
+      "staticUrl": "assets/qq/81/png/81.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -1103,8 +1103,8 @@
       "shortCodes": [
         "191"
       ],
-      "staticUrl": "assets/qq_emoji/85/png/85.png",
-      "animatedUrl": "assets/qq_emoji/85/apng/85.png",
+      "staticUrl": "assets/qq/85/png/85.png",
+      "animatedUrl": "assets/qq/85/apng/85.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -1120,8 +1120,8 @@
       "shortCodes": [
         "194"
       ],
-      "staticUrl": "assets/qq_emoji/86/png/86.png",
-      "animatedUrl": "assets/qq_emoji/86/apng/86.png",
+      "staticUrl": "assets/qq/86/png/86.png",
+      "animatedUrl": "assets/qq/86/apng/86.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -1137,8 +1137,8 @@
       "shortCodes": [
         "156"
       ],
-      "staticUrl": "assets/qq_emoji/89/png/89.png",
-      "animatedUrl": "assets/qq_emoji/89/apng/89.png",
+      "staticUrl": "assets/qq/89/png/89.png",
+      "animatedUrl": "assets/qq/89/apng/89.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -1154,8 +1154,8 @@
       "shortCodes": [
         "117"
       ],
-      "staticUrl": "assets/qq_emoji/96/png/96.png",
-      "animatedUrl": "assets/qq_emoji/96/apng/96.png",
+      "staticUrl": "assets/qq/96/png/96.png",
+      "animatedUrl": "assets/qq/96/apng/96.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -1171,8 +1171,8 @@
       "shortCodes": [
         "140"
       ],
-      "staticUrl": "assets/qq_emoji/97/png/97.png",
-      "animatedUrl": "assets/qq_emoji/97/apng/97.png",
+      "staticUrl": "assets/qq/97/png/97.png",
+      "animatedUrl": "assets/qq/97/apng/97.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -1188,8 +1188,8 @@
       "shortCodes": [
         "141"
       ],
-      "staticUrl": "assets/qq_emoji/98/png/98.png",
-      "animatedUrl": "assets/qq_emoji/98/apng/98.png",
+      "staticUrl": "assets/qq/98/png/98.png",
+      "animatedUrl": "assets/qq/98/apng/98.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -1205,8 +1205,8 @@
       "shortCodes": [
         "142"
       ],
-      "staticUrl": "assets/qq_emoji/99/png/99.png",
-      "animatedUrl": "assets/qq_emoji/99/apng/99.png",
+      "staticUrl": "assets/qq/99/png/99.png",
+      "animatedUrl": "assets/qq/99/apng/99.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -1222,8 +1222,8 @@
       "shortCodes": [
         "143"
       ],
-      "staticUrl": "assets/qq_emoji/100/png/100.png",
-      "animatedUrl": "assets/qq_emoji/100/apng/100.png",
+      "staticUrl": "assets/qq/100/png/100.png",
+      "animatedUrl": "assets/qq/100/apng/100.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -1239,8 +1239,8 @@
       "shortCodes": [
         "144"
       ],
-      "staticUrl": "assets/qq_emoji/101/png/101.png",
-      "animatedUrl": "assets/qq_emoji/101/apng/101.png",
+      "staticUrl": "assets/qq/101/png/101.png",
+      "animatedUrl": "assets/qq/101/apng/101.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -1256,8 +1256,8 @@
       "shortCodes": [
         "145"
       ],
-      "staticUrl": "assets/qq_emoji/102/png/102.png",
-      "animatedUrl": "assets/qq_emoji/102/apng/102.png",
+      "staticUrl": "assets/qq/102/png/102.png",
+      "animatedUrl": "assets/qq/102/apng/102.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -1273,8 +1273,8 @@
       "shortCodes": [
         "146"
       ],
-      "staticUrl": "assets/qq_emoji/103/png/103.png",
-      "animatedUrl": "assets/qq_emoji/103/apng/103.png",
+      "staticUrl": "assets/qq/103/png/103.png",
+      "animatedUrl": "assets/qq/103/apng/103.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -1290,8 +1290,8 @@
       "shortCodes": [
         "147"
       ],
-      "staticUrl": "assets/qq_emoji/104/png/104.png",
-      "animatedUrl": "assets/qq_emoji/104/apng/104.png",
+      "staticUrl": "assets/qq/104/png/104.png",
+      "animatedUrl": "assets/qq/104/apng/104.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -1307,8 +1307,8 @@
       "shortCodes": [
         "148"
       ],
-      "staticUrl": "assets/qq_emoji/105/png/105.png",
-      "animatedUrl": "assets/qq_emoji/105/apng/105.png",
+      "staticUrl": "assets/qq/105/png/105.png",
+      "animatedUrl": "assets/qq/105/apng/105.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -1324,8 +1324,8 @@
       "shortCodes": [
         "149"
       ],
-      "staticUrl": "assets/qq_emoji/106/png/106.png",
-      "animatedUrl": "assets/qq_emoji/106/apng/106.png",
+      "staticUrl": "assets/qq/106/png/106.png",
+      "animatedUrl": "assets/qq/106/apng/106.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -1341,8 +1341,8 @@
       "shortCodes": [
         "150"
       ],
-      "staticUrl": "assets/qq_emoji/107/png/107.png",
-      "animatedUrl": "assets/qq_emoji/107/apng/107.png",
+      "staticUrl": "assets/qq/107/png/107.png",
+      "animatedUrl": "assets/qq/107/apng/107.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -1358,8 +1358,8 @@
       "shortCodes": [
         "151"
       ],
-      "staticUrl": "assets/qq_emoji/108/png/108.png",
-      "animatedUrl": "assets/qq_emoji/108/apng/108.png",
+      "staticUrl": "assets/qq/108/png/108.png",
+      "animatedUrl": "assets/qq/108/apng/108.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -1375,8 +1375,8 @@
       "shortCodes": [
         "152"
       ],
-      "staticUrl": "assets/qq_emoji/109/png/109.png",
-      "animatedUrl": "assets/qq_emoji/109/apng/109.png",
+      "staticUrl": "assets/qq/109/png/109.png",
+      "animatedUrl": "assets/qq/109/apng/109.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -1392,8 +1392,8 @@
       "shortCodes": [
         "153"
       ],
-      "staticUrl": "assets/qq_emoji/110/png/110.png",
-      "animatedUrl": "assets/qq_emoji/110/apng/110.png",
+      "staticUrl": "assets/qq/110/png/110.png",
+      "animatedUrl": "assets/qq/110/apng/110.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -1409,8 +1409,8 @@
       "shortCodes": [
         "154"
       ],
-      "staticUrl": "assets/qq_emoji/111/png/111.png",
-      "animatedUrl": "assets/qq_emoji/111/apng/111.png",
+      "staticUrl": "assets/qq/111/png/111.png",
+      "animatedUrl": "assets/qq/111/apng/111.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -1426,8 +1426,8 @@
       "shortCodes": [
         "155"
       ],
-      "staticUrl": "assets/qq_emoji/112/png/112.png",
-      "animatedUrl": "assets/qq_emoji/112/apng/112.png",
+      "staticUrl": "assets/qq/112/png/112.png",
+      "animatedUrl": "assets/qq/112/apng/112.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -1441,8 +1441,8 @@
       "id": "113",
       "description": "113",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/113/png/113.png",
-      "animatedUrl": "assets/qq_emoji/113/apng/113.png",
+      "staticUrl": "assets/qq/113/png/113.png",
+      "animatedUrl": "assets/qq/113/apng/113.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -1458,8 +1458,8 @@
       "shortCodes": [
         "158"
       ],
-      "staticUrl": "assets/qq_emoji/114/png/114_0.png",
-      "animatedUrl": "assets/qq_emoji/114/apng/114.png",
+      "staticUrl": "assets/qq/114/png/114_0.png",
+      "animatedUrl": "assets/qq/114/apng/114.png",
       "isHide": false,
       "packageId": "0",
       "aniStickerPackId": 1,
@@ -1475,8 +1475,8 @@
       "id": "115",
       "description": "115",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/115/png/115.png",
-      "animatedUrl": "assets/qq_emoji/115/apng/115.png",
+      "staticUrl": "assets/qq/115/png/115.png",
+      "animatedUrl": "assets/qq/115/apng/115.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -1492,8 +1492,8 @@
       "shortCodes": [
         "165"
       ],
-      "staticUrl": "assets/qq_emoji/116/png/116.png",
-      "animatedUrl": "assets/qq_emoji/116/apng/116.png",
+      "staticUrl": "assets/qq/116/png/116.png",
+      "animatedUrl": "assets/qq/116/apng/116.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -1507,8 +1507,8 @@
       "id": "117",
       "description": "117",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/117/png/117.png",
-      "animatedUrl": "assets/qq_emoji/117/apng/117.png",
+      "staticUrl": "assets/qq/117/png/117.png",
+      "animatedUrl": "assets/qq/117/apng/117.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -1524,8 +1524,8 @@
       "shortCodes": [
         "183"
       ],
-      "staticUrl": "assets/qq_emoji/118/png/118.png",
-      "animatedUrl": "assets/qq_emoji/118/apng/118.png",
+      "staticUrl": "assets/qq/118/png/118.png",
+      "animatedUrl": "assets/qq/118/apng/118.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -1541,8 +1541,8 @@
       "shortCodes": [
         "184"
       ],
-      "staticUrl": "assets/qq_emoji/119/png/119.png",
-      "animatedUrl": "assets/qq_emoji/119/apng/119.png",
+      "staticUrl": "assets/qq/119/png/119.png",
+      "animatedUrl": "assets/qq/119/apng/119.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -1558,8 +1558,8 @@
       "shortCodes": [
         "185"
       ],
-      "staticUrl": "assets/qq_emoji/120/png/120.png",
-      "animatedUrl": "assets/qq_emoji/120/apng/120.png",
+      "staticUrl": "assets/qq/120/png/120.png",
+      "animatedUrl": "assets/qq/120/apng/120.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -1575,8 +1575,8 @@
       "shortCodes": [
         "186"
       ],
-      "staticUrl": "assets/qq_emoji/121/png/121.png",
-      "animatedUrl": "assets/qq_emoji/121/apng/121.png",
+      "staticUrl": "assets/qq/121/png/121.png",
+      "animatedUrl": "assets/qq/121/apng/121.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -1592,8 +1592,8 @@
       "shortCodes": [
         "187"
       ],
-      "staticUrl": "assets/qq_emoji/122/png/122.png",
-      "animatedUrl": "assets/qq_emoji/122/apng/122.png",
+      "staticUrl": "assets/qq/122/png/122.png",
+      "animatedUrl": "assets/qq/122/apng/122.png",
       "isHide": true,
       "packageId": "0",
       "meta": {
@@ -1609,8 +1609,8 @@
       "shortCodes": [
         "188"
       ],
-      "staticUrl": "assets/qq_emoji/123/png/123.png",
-      "animatedUrl": "assets/qq_emoji/123/apng/123.png",
+      "staticUrl": "assets/qq/123/png/123.png",
+      "animatedUrl": "assets/qq/123/apng/123.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -1626,8 +1626,8 @@
       "shortCodes": [
         "189"
       ],
-      "staticUrl": "assets/qq_emoji/124/png/124.png",
-      "animatedUrl": "assets/qq_emoji/124/apng/124.png",
+      "staticUrl": "assets/qq/124/png/124.png",
+      "animatedUrl": "assets/qq/124/apng/124.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -1643,8 +1643,8 @@
       "shortCodes": [
         "195"
       ],
-      "staticUrl": "assets/qq_emoji/125/png/125.png",
-      "animatedUrl": "assets/qq_emoji/125/apng/125.png",
+      "staticUrl": "assets/qq/125/png/125.png",
+      "animatedUrl": "assets/qq/125/apng/125.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -1658,7 +1658,7 @@
       "id": "126",
       "description": "126",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/126/png/126.png",
+      "staticUrl": "assets/qq/126/png/126.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -1672,7 +1672,7 @@
       "id": "127",
       "description": "127",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/127/png/127.png",
+      "staticUrl": "assets/qq/127/png/127.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -1686,7 +1686,7 @@
       "id": "128",
       "description": "128",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/128/png/128.png",
+      "staticUrl": "assets/qq/128/png/128.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -1702,8 +1702,8 @@
       "shortCodes": [
         "199"
       ],
-      "staticUrl": "assets/qq_emoji/129/png/129.png",
-      "animatedUrl": "assets/qq_emoji/129/apng/129.png",
+      "staticUrl": "assets/qq/129/png/129.png",
+      "animatedUrl": "assets/qq/129/apng/129.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -1717,7 +1717,7 @@
       "id": "130",
       "description": "130",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/130/png/130.png",
+      "staticUrl": "assets/qq/130/png/130.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -1731,7 +1731,7 @@
       "id": "131",
       "description": "131",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/131/png/131.png",
+      "staticUrl": "assets/qq/131/png/131.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -1745,7 +1745,7 @@
       "id": "132",
       "description": "132",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/132/png/132.png",
+      "staticUrl": "assets/qq/132/png/132.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -1759,7 +1759,7 @@
       "id": "133",
       "description": "133",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/133/png/133.png",
+      "staticUrl": "assets/qq/133/png/133.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -1773,7 +1773,7 @@
       "id": "134",
       "description": "134",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/134/png/134.png",
+      "staticUrl": "assets/qq/134/png/134.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -1787,7 +1787,7 @@
       "id": "135",
       "description": "135",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/135/png/135.png",
+      "staticUrl": "assets/qq/135/png/135.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -1801,7 +1801,7 @@
       "id": "136",
       "description": "136",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/136/png/136.png",
+      "staticUrl": "assets/qq/136/png/136.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -1817,8 +1817,8 @@
       "shortCodes": [
         "121002"
       ],
-      "staticUrl": "assets/qq_emoji/137/png/137_0.png",
-      "animatedUrl": "assets/qq_emoji/137/apng/137.png",
+      "staticUrl": "assets/qq/137/png/137_0.png",
+      "animatedUrl": "assets/qq/137/apng/137.png",
       "isHide": false,
       "packageId": "0",
       "aniStickerPackId": 1,
@@ -1834,7 +1834,7 @@
       "id": "138",
       "description": "138",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/138/png/138.png",
+      "staticUrl": "assets/qq/138/png/138.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -1848,7 +1848,7 @@
       "id": "139",
       "description": "139",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/139/png/139.png",
+      "staticUrl": "assets/qq/139/png/139.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -1862,7 +1862,7 @@
       "id": "140",
       "description": "140",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/140/png/140.png",
+      "staticUrl": "assets/qq/140/png/140.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -1876,7 +1876,7 @@
       "id": "141",
       "description": "141",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/141/png/141.png",
+      "staticUrl": "assets/qq/141/png/141.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -1890,7 +1890,7 @@
       "id": "142",
       "description": "142",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/142/png/142.png",
+      "staticUrl": "assets/qq/142/png/142.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -1904,7 +1904,7 @@
       "id": "143",
       "description": "143",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/143/png/143.png",
+      "staticUrl": "assets/qq/143/png/143.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -1920,8 +1920,8 @@
       "shortCodes": [
         "121009"
       ],
-      "staticUrl": "assets/qq_emoji/144/png/144.png",
-      "animatedUrl": "assets/qq_emoji/144/apng/144.png",
+      "staticUrl": "assets/qq/144/png/144.png",
+      "animatedUrl": "assets/qq/144/apng/144.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -1935,8 +1935,8 @@
       "id": "145",
       "description": "145",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/145/png/145.png",
-      "animatedUrl": "assets/qq_emoji/145/apng/145.png",
+      "staticUrl": "assets/qq/145/png/145.png",
+      "animatedUrl": "assets/qq/145/apng/145.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -1952,8 +1952,8 @@
       "shortCodes": [
         "121011"
       ],
-      "staticUrl": "assets/qq_emoji/146/png/146.png",
-      "animatedUrl": "assets/qq_emoji/146/apng/146.png",
+      "staticUrl": "assets/qq/146/png/146.png",
+      "animatedUrl": "assets/qq/146/apng/146.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -1969,8 +1969,8 @@
       "shortCodes": [
         "121012"
       ],
-      "staticUrl": "assets/qq_emoji/147/png/147.png",
-      "animatedUrl": "assets/qq_emoji/147/apng/147.png",
+      "staticUrl": "assets/qq/147/png/147.png",
+      "animatedUrl": "assets/qq/147/apng/147.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -1986,7 +1986,7 @@
       "shortCodes": [
         "121013"
       ],
-      "staticUrl": "assets/qq_emoji/148/png/148.png",
+      "staticUrl": "assets/qq/148/png/148.png",
       "isHide": true,
       "packageId": "0",
       "meta": {
@@ -2000,7 +2000,7 @@
       "id": "149",
       "description": "149",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/149/png/149.png",
+      "staticUrl": "assets/qq/149/png/149.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -2014,7 +2014,7 @@
       "id": "150",
       "description": "150",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/150/png/150.png",
+      "staticUrl": "assets/qq/150/png/150.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -2028,7 +2028,7 @@
       "id": "151",
       "description": "151",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/151/png/151.png",
+      "staticUrl": "assets/qq/151/png/151.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -2042,7 +2042,7 @@
       "id": "152",
       "description": "152",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/152/png/152.png",
+      "staticUrl": "assets/qq/152/png/152.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -2056,7 +2056,7 @@
       "id": "153",
       "description": "153",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/153/png/153.png",
+      "staticUrl": "assets/qq/153/png/153.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -2070,7 +2070,7 @@
       "id": "154",
       "description": "154",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/154/png/154.png",
+      "staticUrl": "assets/qq/154/png/154.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -2084,7 +2084,7 @@
       "id": "155",
       "description": "155",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/155/png/155.png",
+      "staticUrl": "assets/qq/155/png/155.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -2098,7 +2098,7 @@
       "id": "156",
       "description": "156",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/156/png/156.png",
+      "staticUrl": "assets/qq/156/png/156.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -2112,7 +2112,7 @@
       "id": "157",
       "description": "157",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/157/png/157.png",
+      "staticUrl": "assets/qq/157/png/157.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -2126,7 +2126,7 @@
       "id": "158",
       "description": "158",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/158/png/158.png",
+      "staticUrl": "assets/qq/158/png/158.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -2140,7 +2140,7 @@
       "id": "159",
       "description": "159",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/159/png/159.png",
+      "staticUrl": "assets/qq/159/png/159.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -2154,7 +2154,7 @@
       "id": "160",
       "description": "160",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/160/png/160.png",
+      "staticUrl": "assets/qq/160/png/160.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -2168,7 +2168,7 @@
       "id": "161",
       "description": "161",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/161/png/161.png",
+      "staticUrl": "assets/qq/161/png/161.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -2182,7 +2182,7 @@
       "id": "162",
       "description": "162",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/162/png/162.png",
+      "staticUrl": "assets/qq/162/png/162.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -2196,7 +2196,7 @@
       "id": "163",
       "description": "163",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/163/png/163.png",
+      "staticUrl": "assets/qq/163/png/163.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -2210,7 +2210,7 @@
       "id": "164",
       "description": "164",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/164/png/164.png",
+      "staticUrl": "assets/qq/164/png/164.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -2224,7 +2224,7 @@
       "id": "165",
       "description": "165",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/165/png/165.png",
+      "staticUrl": "assets/qq/165/png/165.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -2238,7 +2238,7 @@
       "id": "166",
       "description": "166",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/166/png/166.png",
+      "staticUrl": "assets/qq/166/png/166.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -2252,7 +2252,7 @@
       "id": "167",
       "description": "167",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/167/png/167.png",
+      "staticUrl": "assets/qq/167/png/167.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -2266,7 +2266,7 @@
       "id": "168",
       "description": "168",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/168/png/168.png",
+      "staticUrl": "assets/qq/168/png/168.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -2282,8 +2282,8 @@
       "shortCodes": [
         "121034"
       ],
-      "staticUrl": "assets/qq_emoji/169/png/169.png",
-      "animatedUrl": "assets/qq_emoji/169/apng/169.png",
+      "staticUrl": "assets/qq/169/png/169.png",
+      "animatedUrl": "assets/qq/169/apng/169.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -2297,7 +2297,7 @@
       "id": "170",
       "description": "170",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/170/png/170.png",
+      "staticUrl": "assets/qq/170/png/170.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -2313,8 +2313,8 @@
       "shortCodes": [
         "241"
       ],
-      "staticUrl": "assets/qq_emoji/171/png/171.png",
-      "animatedUrl": "assets/qq_emoji/171/apng/171.png",
+      "staticUrl": "assets/qq/171/png/171.png",
+      "animatedUrl": "assets/qq/171/apng/171.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -2330,8 +2330,8 @@
       "shortCodes": [
         "242"
       ],
-      "staticUrl": "assets/qq_emoji/172/png/172.png",
-      "animatedUrl": "assets/qq_emoji/172/apng/172.png",
+      "staticUrl": "assets/qq/172/png/172.png",
+      "animatedUrl": "assets/qq/172/apng/172.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -2347,8 +2347,8 @@
       "shortCodes": [
         "243"
       ],
-      "staticUrl": "assets/qq_emoji/173/png/173.png",
-      "animatedUrl": "assets/qq_emoji/173/apng/173.png",
+      "staticUrl": "assets/qq/173/png/173.png",
+      "animatedUrl": "assets/qq/173/apng/173.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -2364,8 +2364,8 @@
       "shortCodes": [
         "244"
       ],
-      "staticUrl": "assets/qq_emoji/174/png/174.png",
-      "animatedUrl": "assets/qq_emoji/174/apng/174.png",
+      "staticUrl": "assets/qq/174/png/174.png",
+      "animatedUrl": "assets/qq/174/apng/174.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -2381,8 +2381,8 @@
       "shortCodes": [
         "245"
       ],
-      "staticUrl": "assets/qq_emoji/175/png/175.png",
-      "animatedUrl": "assets/qq_emoji/175/apng/175.png",
+      "staticUrl": "assets/qq/175/png/175.png",
+      "animatedUrl": "assets/qq/175/apng/175.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -2398,8 +2398,8 @@
       "shortCodes": [
         "246"
       ],
-      "staticUrl": "assets/qq_emoji/176/png/176.png",
-      "animatedUrl": "assets/qq_emoji/176/apng/176.png",
+      "staticUrl": "assets/qq/176/png/176.png",
+      "animatedUrl": "assets/qq/176/apng/176.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -2415,8 +2415,8 @@
       "shortCodes": [
         "247"
       ],
-      "staticUrl": "assets/qq_emoji/177/png/177.png",
-      "animatedUrl": "assets/qq_emoji/177/apng/177.png",
+      "staticUrl": "assets/qq/177/png/177.png",
+      "animatedUrl": "assets/qq/177/apng/177.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -2432,8 +2432,8 @@
       "shortCodes": [
         "248"
       ],
-      "staticUrl": "assets/qq_emoji/178/png/178.png",
-      "animatedUrl": "assets/qq_emoji/178/apng/178.png",
+      "staticUrl": "assets/qq/178/png/178.png",
+      "animatedUrl": "assets/qq/178/apng/178.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -2449,8 +2449,8 @@
       "shortCodes": [
         "249"
       ],
-      "staticUrl": "assets/qq_emoji/179/png/179.png",
-      "animatedUrl": "assets/qq_emoji/179/apng/179.png",
+      "staticUrl": "assets/qq/179/png/179.png",
+      "animatedUrl": "assets/qq/179/apng/179.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -2466,8 +2466,8 @@
       "shortCodes": [
         "250"
       ],
-      "staticUrl": "assets/qq_emoji/180/png/180.png",
-      "animatedUrl": "assets/qq_emoji/180/apng/180.png",
+      "staticUrl": "assets/qq/180/png/180.png",
+      "animatedUrl": "assets/qq/180/apng/180.png",
       "isHide": true,
       "packageId": "0",
       "meta": {
@@ -2483,8 +2483,8 @@
       "shortCodes": [
         "251"
       ],
-      "staticUrl": "assets/qq_emoji/181/png/181_0.png",
-      "animatedUrl": "assets/qq_emoji/181/apng/181.png",
+      "staticUrl": "assets/qq/181/png/181_0.png",
+      "animatedUrl": "assets/qq/181/apng/181.png",
       "isHide": false,
       "packageId": "0",
       "aniStickerPackId": 1,
@@ -2502,8 +2502,8 @@
       "shortCodes": [
         "252"
       ],
-      "staticUrl": "assets/qq_emoji/182/png/182.png",
-      "animatedUrl": "assets/qq_emoji/182/apng/182.png",
+      "staticUrl": "assets/qq/182/png/182.png",
+      "animatedUrl": "assets/qq/182/apng/182.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -2519,8 +2519,8 @@
       "shortCodes": [
         "253"
       ],
-      "staticUrl": "assets/qq_emoji/183/png/183.png",
-      "animatedUrl": "assets/qq_emoji/183/apng/183.png",
+      "staticUrl": "assets/qq/183/png/183.png",
+      "animatedUrl": "assets/qq/183/apng/183.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -2534,8 +2534,8 @@
       "id": "184",
       "description": "184",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/184/png/184.png",
-      "animatedUrl": "assets/qq_emoji/184/apng/184.png",
+      "staticUrl": "assets/qq/184/png/184.png",
+      "animatedUrl": "assets/qq/184/apng/184.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -2551,8 +2551,8 @@
       "shortCodes": [
         "255"
       ],
-      "staticUrl": "assets/qq_emoji/185/png/185.png",
-      "animatedUrl": "assets/qq_emoji/185/apng/185.png",
+      "staticUrl": "assets/qq/185/png/185.png",
+      "animatedUrl": "assets/qq/185/apng/185.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -2566,7 +2566,7 @@
       "id": "186",
       "description": "186",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/186/png/186.png",
+      "staticUrl": "assets/qq/186/png/186.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -2582,8 +2582,8 @@
       "shortCodes": [
         "257"
       ],
-      "staticUrl": "assets/qq_emoji/187/png/187.png",
-      "animatedUrl": "assets/qq_emoji/187/apng/187.png",
+      "staticUrl": "assets/qq/187/png/187.png",
+      "animatedUrl": "assets/qq/187/apng/187.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -2597,8 +2597,8 @@
       "id": "188",
       "description": "188",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/188/png/188.png",
-      "animatedUrl": "assets/qq_emoji/188/apng/188.png",
+      "staticUrl": "assets/qq/188/png/188.png",
+      "animatedUrl": "assets/qq/188/apng/188.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -2612,7 +2612,7 @@
       "id": "189",
       "description": "189",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/189/png/189.png",
+      "staticUrl": "assets/qq/189/png/189.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -2626,8 +2626,8 @@
       "id": "190",
       "description": "190",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/190/png/190.png",
-      "animatedUrl": "assets/qq_emoji/190/apng/190.png",
+      "staticUrl": "assets/qq/190/png/190.png",
+      "animatedUrl": "assets/qq/190/apng/190.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -2641,7 +2641,7 @@
       "id": "191",
       "description": "191",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/191/png/191.png",
+      "staticUrl": "assets/qq/191/png/191.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -2655,8 +2655,8 @@
       "id": "192",
       "description": "192",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/192/png/192.png",
-      "animatedUrl": "assets/qq_emoji/192/apng/192.png",
+      "staticUrl": "assets/qq/192/png/192.png",
+      "animatedUrl": "assets/qq/192/apng/192.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -2672,8 +2672,8 @@
       "shortCodes": [
         "263"
       ],
-      "staticUrl": "assets/qq_emoji/193/png/193.png",
-      "animatedUrl": "assets/qq_emoji/193/apng/193.png",
+      "staticUrl": "assets/qq/193/png/193.png",
+      "animatedUrl": "assets/qq/193/apng/193.png",
       "isHide": true,
       "packageId": "0",
       "meta": {
@@ -2689,8 +2689,8 @@
       "shortCodes": [
         "264"
       ],
-      "staticUrl": "assets/qq_emoji/194/png/194.png",
-      "animatedUrl": "assets/qq_emoji/194/apng/194.png",
+      "staticUrl": "assets/qq/194/png/194.png",
+      "animatedUrl": "assets/qq/194/apng/194.png",
       "isHide": true,
       "packageId": "0",
       "meta": {
@@ -2704,7 +2704,7 @@
       "id": "195",
       "description": "195",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/195/png/195.png",
+      "staticUrl": "assets/qq/195/png/195.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -2718,7 +2718,7 @@
       "id": "196",
       "description": "196",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/196/png/196.png",
+      "staticUrl": "assets/qq/196/png/196.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -2732,8 +2732,8 @@
       "id": "197",
       "description": "197",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/197/png/197.png",
-      "animatedUrl": "assets/qq_emoji/197/apng/197.png",
+      "staticUrl": "assets/qq/197/png/197.png",
+      "animatedUrl": "assets/qq/197/apng/197.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -2749,8 +2749,8 @@
       "shortCodes": [
         "268"
       ],
-      "staticUrl": "assets/qq_emoji/198/png/198.png",
-      "animatedUrl": "assets/qq_emoji/198/apng/198.png",
+      "staticUrl": "assets/qq/198/png/198.png",
+      "animatedUrl": "assets/qq/198/apng/198.png",
       "isHide": true,
       "packageId": "0",
       "meta": {
@@ -2764,8 +2764,8 @@
       "id": "199",
       "description": "199",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/199/png/199.png",
-      "animatedUrl": "assets/qq_emoji/199/apng/199.png",
+      "staticUrl": "assets/qq/199/png/199.png",
+      "animatedUrl": "assets/qq/199/apng/199.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -2781,8 +2781,8 @@
       "shortCodes": [
         "270"
       ],
-      "staticUrl": "assets/qq_emoji/200/png/200.png",
-      "animatedUrl": "assets/qq_emoji/200/apng/200.png",
+      "staticUrl": "assets/qq/200/png/200.png",
+      "animatedUrl": "assets/qq/200/apng/200.png",
       "isHide": true,
       "packageId": "0",
       "meta": {
@@ -2798,8 +2798,8 @@
       "shortCodes": [
         "271"
       ],
-      "staticUrl": "assets/qq_emoji/201/png/201.png",
-      "animatedUrl": "assets/qq_emoji/201/apng/201.png",
+      "staticUrl": "assets/qq/201/png/201.png",
+      "animatedUrl": "assets/qq/201/apng/201.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -2815,8 +2815,8 @@
       "shortCodes": [
         "272"
       ],
-      "staticUrl": "assets/qq_emoji/202/png/202.png",
-      "animatedUrl": "assets/qq_emoji/202/apng/202.png",
+      "staticUrl": "assets/qq/202/png/202.png",
+      "animatedUrl": "assets/qq/202/apng/202.png",
       "isHide": true,
       "packageId": "0",
       "meta": {
@@ -2832,8 +2832,8 @@
       "shortCodes": [
         "273"
       ],
-      "staticUrl": "assets/qq_emoji/203/png/203.png",
-      "animatedUrl": "assets/qq_emoji/203/apng/203.png",
+      "staticUrl": "assets/qq/203/png/203.png",
+      "animatedUrl": "assets/qq/203/apng/203.png",
       "isHide": true,
       "packageId": "0",
       "meta": {
@@ -2849,8 +2849,8 @@
       "shortCodes": [
         "274"
       ],
-      "staticUrl": "assets/qq_emoji/204/png/204.png",
-      "animatedUrl": "assets/qq_emoji/204/apng/204.png",
+      "staticUrl": "assets/qq/204/png/204.png",
+      "animatedUrl": "assets/qq/204/apng/204.png",
       "isHide": true,
       "packageId": "0",
       "meta": {
@@ -2864,8 +2864,8 @@
       "id": "205",
       "description": "205",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/205/png/205.png",
-      "animatedUrl": "assets/qq_emoji/205/apng/205.png",
+      "staticUrl": "assets/qq/205/png/205.png",
+      "animatedUrl": "assets/qq/205/apng/205.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -2881,8 +2881,8 @@
       "shortCodes": [
         "276"
       ],
-      "staticUrl": "assets/qq_emoji/206/png/206.png",
-      "animatedUrl": "assets/qq_emoji/206/apng/206.png",
+      "staticUrl": "assets/qq/206/png/206.png",
+      "animatedUrl": "assets/qq/206/apng/206.png",
       "isHide": true,
       "packageId": "0",
       "meta": {
@@ -2896,8 +2896,8 @@
       "id": "207",
       "description": "207",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/207/png/207.png",
-      "animatedUrl": "assets/qq_emoji/207/apng/207.png",
+      "staticUrl": "assets/qq/207/png/207.png",
+      "animatedUrl": "assets/qq/207/apng/207.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -2911,8 +2911,8 @@
       "id": "208",
       "description": "208",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/208/png/208.png",
-      "animatedUrl": "assets/qq_emoji/208/apng/208.png",
+      "staticUrl": "assets/qq/208/png/208.png",
+      "animatedUrl": "assets/qq/208/apng/208.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -2926,7 +2926,7 @@
       "id": "209",
       "description": "209",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/209/png/209.png",
+      "staticUrl": "assets/qq/209/png/209.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -2942,8 +2942,8 @@
       "shortCodes": [
         "280"
       ],
-      "staticUrl": "assets/qq_emoji/210/png/210.png",
-      "animatedUrl": "assets/qq_emoji/210/apng/210.png",
+      "staticUrl": "assets/qq/210/png/210.png",
+      "animatedUrl": "assets/qq/210/apng/210.png",
       "isHide": true,
       "packageId": "0",
       "meta": {
@@ -2959,8 +2959,8 @@
       "shortCodes": [
         "281"
       ],
-      "staticUrl": "assets/qq_emoji/211/png/211.png",
-      "animatedUrl": "assets/qq_emoji/211/apng/211.png",
+      "staticUrl": "assets/qq/211/png/211.png",
+      "animatedUrl": "assets/qq/211/apng/211.png",
       "isHide": true,
       "packageId": "0",
       "meta": {
@@ -2976,8 +2976,8 @@
       "shortCodes": [
         "282"
       ],
-      "staticUrl": "assets/qq_emoji/212/png/212.png",
-      "animatedUrl": "assets/qq_emoji/212/apng/212.png",
+      "staticUrl": "assets/qq/212/png/212.png",
+      "animatedUrl": "assets/qq/212/apng/212.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -2991,7 +2991,7 @@
       "id": "213",
       "description": "213",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/213/png/213.png",
+      "staticUrl": "assets/qq/213/png/213.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -3007,7 +3007,7 @@
       "shortCodes": [
         "284"
       ],
-      "staticUrl": "assets/qq_emoji/214/png/214.png",
+      "staticUrl": "assets/qq/214/png/214.png",
       "isHide": true,
       "packageId": "0",
       "meta": {
@@ -3023,7 +3023,7 @@
       "shortCodes": [
         "285"
       ],
-      "staticUrl": "assets/qq_emoji/215/png/215.png",
+      "staticUrl": "assets/qq/215/png/215.png",
       "isHide": true,
       "packageId": "0",
       "meta": {
@@ -3039,7 +3039,7 @@
       "shortCodes": [
         "286"
       ],
-      "staticUrl": "assets/qq_emoji/216/png/216.png",
+      "staticUrl": "assets/qq/216/png/216.png",
       "isHide": true,
       "packageId": "0",
       "meta": {
@@ -3055,7 +3055,7 @@
       "shortCodes": [
         "287"
       ],
-      "staticUrl": "assets/qq_emoji/217/png/217.png",
+      "staticUrl": "assets/qq/217/png/217.png",
       "isHide": true,
       "packageId": "0",
       "meta": {
@@ -3071,7 +3071,7 @@
       "shortCodes": [
         "288"
       ],
-      "staticUrl": "assets/qq_emoji/218/png/218.png",
+      "staticUrl": "assets/qq/218/png/218.png",
       "isHide": true,
       "packageId": "0",
       "meta": {
@@ -3087,7 +3087,7 @@
       "shortCodes": [
         "289"
       ],
-      "staticUrl": "assets/qq_emoji/219/png/219.png",
+      "staticUrl": "assets/qq/219/png/219.png",
       "isHide": true,
       "packageId": "0",
       "meta": {
@@ -3101,7 +3101,7 @@
       "id": "220",
       "description": "220",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/220/png/220.png",
+      "staticUrl": "assets/qq/220/png/220.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -3117,7 +3117,7 @@
       "shortCodes": [
         "291"
       ],
-      "staticUrl": "assets/qq_emoji/221/png/221.png",
+      "staticUrl": "assets/qq/221/png/221.png",
       "isHide": true,
       "packageId": "0",
       "meta": {
@@ -3133,7 +3133,7 @@
       "shortCodes": [
         "292"
       ],
-      "staticUrl": "assets/qq_emoji/222/png/222.png",
+      "staticUrl": "assets/qq/222/png/222.png",
       "isHide": true,
       "packageId": "0",
       "meta": {
@@ -3149,7 +3149,7 @@
       "shortCodes": [
         "293"
       ],
-      "staticUrl": "assets/qq_emoji/223/png/223.png",
+      "staticUrl": "assets/qq/223/png/223.png",
       "isHide": true,
       "packageId": "0",
       "meta": {
@@ -3165,7 +3165,7 @@
       "shortCodes": [
         "295"
       ],
-      "staticUrl": "assets/qq_emoji/224/png/224.png",
+      "staticUrl": "assets/qq/224/png/224.png",
       "isHide": true,
       "packageId": "0",
       "meta": {
@@ -3181,7 +3181,7 @@
       "shortCodes": [
         "296"
       ],
-      "staticUrl": "assets/qq_emoji/225/png/225.png",
+      "staticUrl": "assets/qq/225/png/225.png",
       "isHide": true,
       "packageId": "0",
       "meta": {
@@ -3197,7 +3197,7 @@
       "shortCodes": [
         "297"
       ],
-      "staticUrl": "assets/qq_emoji/226/png/226.png",
+      "staticUrl": "assets/qq/226/png/226.png",
       "isHide": true,
       "packageId": "0",
       "meta": {
@@ -3213,7 +3213,7 @@
       "shortCodes": [
         "294"
       ],
-      "staticUrl": "assets/qq_emoji/227/png/227.png",
+      "staticUrl": "assets/qq/227/png/227.png",
       "isHide": true,
       "packageId": "0",
       "meta": {
@@ -3227,7 +3227,7 @@
       "id": "228",
       "description": "228",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/228/png/228.png",
+      "staticUrl": "assets/qq/228/png/228.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -3243,7 +3243,7 @@
       "shortCodes": [
         "299"
       ],
-      "staticUrl": "assets/qq_emoji/229/png/229.png",
+      "staticUrl": "assets/qq/229/png/229.png",
       "isHide": true,
       "packageId": "0",
       "meta": {
@@ -3259,7 +3259,7 @@
       "shortCodes": [
         "300"
       ],
-      "staticUrl": "assets/qq_emoji/230/png/230.png",
+      "staticUrl": "assets/qq/230/png/230.png",
       "isHide": true,
       "packageId": "0",
       "meta": {
@@ -3275,7 +3275,7 @@
       "shortCodes": [
         "301"
       ],
-      "staticUrl": "assets/qq_emoji/231/png/231.png",
+      "staticUrl": "assets/qq/231/png/231.png",
       "isHide": true,
       "packageId": "0",
       "meta": {
@@ -3291,7 +3291,7 @@
       "shortCodes": [
         "302"
       ],
-      "staticUrl": "assets/qq_emoji/232/png/232.png",
+      "staticUrl": "assets/qq/232/png/232.png",
       "isHide": true,
       "packageId": "0",
       "meta": {
@@ -3307,7 +3307,7 @@
       "shortCodes": [
         "303"
       ],
-      "staticUrl": "assets/qq_emoji/233/png/233.png",
+      "staticUrl": "assets/qq/233/png/233.png",
       "isHide": true,
       "packageId": "0",
       "meta": {
@@ -3321,7 +3321,7 @@
       "id": "234",
       "description": "234",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/234/png/234.png",
+      "staticUrl": "assets/qq/234/png/234.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -3337,7 +3337,7 @@
       "shortCodes": [
         "305"
       ],
-      "staticUrl": "assets/qq_emoji/235/png/235.png",
+      "staticUrl": "assets/qq/235/png/235.png",
       "isHide": true,
       "packageId": "0",
       "meta": {
@@ -3351,7 +3351,7 @@
       "id": "236",
       "description": "236",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/236/png/236.png",
+      "staticUrl": "assets/qq/236/png/236.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -3367,7 +3367,7 @@
       "shortCodes": [
         "307"
       ],
-      "staticUrl": "assets/qq_emoji/237/png/237.png",
+      "staticUrl": "assets/qq/237/png/237.png",
       "isHide": true,
       "packageId": "0",
       "meta": {
@@ -3383,7 +3383,7 @@
       "shortCodes": [
         "308"
       ],
-      "staticUrl": "assets/qq_emoji/238/png/238.png",
+      "staticUrl": "assets/qq/238/png/238.png",
       "isHide": true,
       "packageId": "0",
       "meta": {
@@ -3399,7 +3399,7 @@
       "shortCodes": [
         "309"
       ],
-      "staticUrl": "assets/qq_emoji/239/png/239.png",
+      "staticUrl": "assets/qq/239/png/239.png",
       "isHide": true,
       "packageId": "0",
       "meta": {
@@ -3415,7 +3415,7 @@
       "shortCodes": [
         "310"
       ],
-      "staticUrl": "assets/qq_emoji/240/png/240.png",
+      "staticUrl": "assets/qq/240/png/240.png",
       "isHide": true,
       "packageId": "0",
       "meta": {
@@ -3431,7 +3431,7 @@
       "shortCodes": [
         "311"
       ],
-      "staticUrl": "assets/qq_emoji/241/png/241.png",
+      "staticUrl": "assets/qq/241/png/241.png",
       "isHide": true,
       "packageId": "0",
       "meta": {
@@ -3445,7 +3445,7 @@
       "id": "242",
       "description": "242",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/242/png/242.png",
+      "staticUrl": "assets/qq/242/png/242.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -3461,7 +3461,7 @@
       "shortCodes": [
         "313"
       ],
-      "staticUrl": "assets/qq_emoji/243/png/243.png",
+      "staticUrl": "assets/qq/243/png/243.png",
       "isHide": true,
       "packageId": "0",
       "meta": {
@@ -3477,7 +3477,7 @@
       "shortCodes": [
         "312"
       ],
-      "staticUrl": "assets/qq_emoji/244/png/244.png",
+      "staticUrl": "assets/qq/244/png/244.png",
       "isHide": true,
       "packageId": "0",
       "meta": {
@@ -3491,8 +3491,8 @@
       "id": "245",
       "description": "245",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/245/png/245.png",
-      "animatedUrl": "assets/qq_emoji/245/apng/245.png",
+      "staticUrl": "assets/qq/245/png/245.png",
+      "animatedUrl": "assets/qq/245/apng/245.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -3506,8 +3506,8 @@
       "id": "246",
       "description": "246",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/246/png/246.png",
-      "animatedUrl": "assets/qq_emoji/246/apng/246.png",
+      "staticUrl": "assets/qq/246/png/246.png",
+      "animatedUrl": "assets/qq/246/apng/246.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -3521,7 +3521,7 @@
       "id": "247",
       "description": "247",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/247/png/247.png",
+      "staticUrl": "assets/qq/247/png/247.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -3535,7 +3535,7 @@
       "id": "260",
       "description": "260",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/260/png/260.png",
+      "staticUrl": "assets/qq/260/png/260.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -3549,8 +3549,8 @@
       "id": "261",
       "description": "261",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/261/png/261.png",
-      "animatedUrl": "assets/qq_emoji/261/apng/261.png",
+      "staticUrl": "assets/qq/261/png/261.png",
+      "animatedUrl": "assets/qq/261/apng/261.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -3566,8 +3566,8 @@
       "shortCodes": [
         "10262"
       ],
-      "staticUrl": "assets/qq_emoji/262/png/262.png",
-      "animatedUrl": "assets/qq_emoji/262/apng/262.png",
+      "staticUrl": "assets/qq/262/png/262.png",
+      "animatedUrl": "assets/qq/262/apng/262.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -3583,8 +3583,8 @@
       "shortCodes": [
         "10263"
       ],
-      "staticUrl": "assets/qq_emoji/263/png/263.png",
-      "animatedUrl": "assets/qq_emoji/263/apng/263.png",
+      "staticUrl": "assets/qq/263/png/263.png",
+      "animatedUrl": "assets/qq/263/apng/263.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -3600,8 +3600,8 @@
       "shortCodes": [
         "10264"
       ],
-      "staticUrl": "assets/qq_emoji/264/png/264.png",
-      "animatedUrl": "assets/qq_emoji/264/apng/264.png",
+      "staticUrl": "assets/qq/264/png/264.png",
+      "animatedUrl": "assets/qq/264/apng/264.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -3617,8 +3617,8 @@
       "shortCodes": [
         "10265"
       ],
-      "staticUrl": "assets/qq_emoji/265/png/265.png",
-      "animatedUrl": "assets/qq_emoji/265/apng/265.png",
+      "staticUrl": "assets/qq/265/png/265.png",
+      "animatedUrl": "assets/qq/265/apng/265.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -3634,8 +3634,8 @@
       "shortCodes": [
         "10266"
       ],
-      "staticUrl": "assets/qq_emoji/266/png/266.png",
-      "animatedUrl": "assets/qq_emoji/266/apng/266.png",
+      "staticUrl": "assets/qq/266/png/266.png",
+      "animatedUrl": "assets/qq/266/apng/266.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -3651,8 +3651,8 @@
       "shortCodes": [
         "10267"
       ],
-      "staticUrl": "assets/qq_emoji/267/png/267.png",
-      "animatedUrl": "assets/qq_emoji/267/apng/267.png",
+      "staticUrl": "assets/qq/267/png/267.png",
+      "animatedUrl": "assets/qq/267/apng/267.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -3668,8 +3668,8 @@
       "shortCodes": [
         "10268"
       ],
-      "staticUrl": "assets/qq_emoji/268/png/268.png",
-      "animatedUrl": "assets/qq_emoji/268/apng/268.png",
+      "staticUrl": "assets/qq/268/png/268.png",
+      "animatedUrl": "assets/qq/268/apng/268.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -3685,8 +3685,8 @@
       "shortCodes": [
         "10269"
       ],
-      "staticUrl": "assets/qq_emoji/269/png/269.png",
-      "animatedUrl": "assets/qq_emoji/269/apng/269.png",
+      "staticUrl": "assets/qq/269/png/269.png",
+      "animatedUrl": "assets/qq/269/apng/269.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -3702,8 +3702,8 @@
       "shortCodes": [
         "10270"
       ],
-      "staticUrl": "assets/qq_emoji/270/png/270.png",
-      "animatedUrl": "assets/qq_emoji/270/apng/270.png",
+      "staticUrl": "assets/qq/270/png/270.png",
+      "animatedUrl": "assets/qq/270/apng/270.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -3719,8 +3719,8 @@
       "shortCodes": [
         "10271"
       ],
-      "staticUrl": "assets/qq_emoji/271/png/271.png",
-      "animatedUrl": "assets/qq_emoji/271/apng/270.png",
+      "staticUrl": "assets/qq/271/png/271.png",
+      "animatedUrl": "assets/qq/271/apng/270.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -3736,8 +3736,8 @@
       "shortCodes": [
         "10272"
       ],
-      "staticUrl": "assets/qq_emoji/272/png/272.png",
-      "animatedUrl": "assets/qq_emoji/272/apng/272.png",
+      "staticUrl": "assets/qq/272/png/272.png",
+      "animatedUrl": "assets/qq/272/apng/272.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -3753,8 +3753,8 @@
       "shortCodes": [
         "10273"
       ],
-      "staticUrl": "assets/qq_emoji/273/png/273.png",
-      "animatedUrl": "assets/qq_emoji/273/apng/273.png",
+      "staticUrl": "assets/qq/273/png/273.png",
+      "animatedUrl": "assets/qq/273/apng/273.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -3768,7 +3768,7 @@
       "id": "274",
       "description": "274",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/274/png/274.png",
+      "staticUrl": "assets/qq/274/png/274.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -3782,7 +3782,7 @@
       "id": "276",
       "description": "276",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/276/png/276.png",
+      "staticUrl": "assets/qq/276/png/276.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -3798,8 +3798,8 @@
       "shortCodes": [
         "10277"
       ],
-      "staticUrl": "assets/qq_emoji/277/png/277.png",
-      "animatedUrl": "assets/qq_emoji/277/apng/277.png",
+      "staticUrl": "assets/qq/277/png/277.png",
+      "animatedUrl": "assets/qq/277/apng/277.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -3815,7 +3815,7 @@
       "shortCodes": [
         "20237"
       ],
-      "staticUrl": "assets/qq_emoji/278/png/278.png",
+      "staticUrl": "assets/qq/278/png/278.png",
       "isHide": true,
       "packageId": "0",
       "meta": {
@@ -3829,7 +3829,7 @@
       "id": "279",
       "description": "279",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/279/png/279.png",
+      "staticUrl": "assets/qq/279/png/279.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -3843,7 +3843,7 @@
       "id": "280",
       "description": "280",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/280/png/280.png",
+      "staticUrl": "assets/qq/280/png/280.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -3859,8 +3859,8 @@
       "shortCodes": [
         "10281"
       ],
-      "staticUrl": "assets/qq_emoji/281/png/281.png",
-      "animatedUrl": "assets/qq_emoji/281/apng/281.png",
+      "staticUrl": "assets/qq/281/png/281.png",
+      "animatedUrl": "assets/qq/281/apng/281.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -3876,8 +3876,8 @@
       "shortCodes": [
         "10282"
       ],
-      "staticUrl": "assets/qq_emoji/282/png/282.png",
-      "animatedUrl": "assets/qq_emoji/282/apng/282.png",
+      "staticUrl": "assets/qq/282/png/282.png",
+      "animatedUrl": "assets/qq/282/apng/282.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -3893,8 +3893,8 @@
       "shortCodes": [
         "10283"
       ],
-      "staticUrl": "assets/qq_emoji/283/png/283.png",
-      "animatedUrl": "assets/qq_emoji/283/apng/283.png",
+      "staticUrl": "assets/qq/283/png/283.png",
+      "animatedUrl": "assets/qq/283/apng/283.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -3910,8 +3910,8 @@
       "shortCodes": [
         "10284"
       ],
-      "staticUrl": "assets/qq_emoji/284/png/284.png",
-      "animatedUrl": "assets/qq_emoji/284/apng/284.png",
+      "staticUrl": "assets/qq/284/png/284.png",
+      "animatedUrl": "assets/qq/284/apng/284.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -3927,8 +3927,8 @@
       "shortCodes": [
         "10285"
       ],
-      "staticUrl": "assets/qq_emoji/285/png/285.png",
-      "animatedUrl": "assets/qq_emoji/285/apng/285.png",
+      "staticUrl": "assets/qq/285/png/285.png",
+      "animatedUrl": "assets/qq/285/apng/285.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -3944,8 +3944,8 @@
       "shortCodes": [
         "10286"
       ],
-      "staticUrl": "assets/qq_emoji/286/png/286.png",
-      "animatedUrl": "assets/qq_emoji/286/apng/286.png",
+      "staticUrl": "assets/qq/286/png/286.png",
+      "animatedUrl": "assets/qq/286/apng/286.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -3961,8 +3961,8 @@
       "shortCodes": [
         "10287"
       ],
-      "staticUrl": "assets/qq_emoji/287/png/287.png",
-      "animatedUrl": "assets/qq_emoji/287/apng/287.png",
+      "staticUrl": "assets/qq/287/png/287.png",
+      "animatedUrl": "assets/qq/287/apng/287.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -3978,8 +3978,8 @@
       "shortCodes": [
         "10288"
       ],
-      "staticUrl": "assets/qq_emoji/288/png/288.png",
-      "animatedUrl": "assets/qq_emoji/288/apng/288.png",
+      "staticUrl": "assets/qq/288/png/288.png",
+      "animatedUrl": "assets/qq/288/apng/288.png",
       "isHide": true,
       "packageId": "0",
       "meta": {
@@ -3995,8 +3995,8 @@
       "shortCodes": [
         "10289"
       ],
-      "staticUrl": "assets/qq_emoji/289/png/289.png",
-      "animatedUrl": "assets/qq_emoji/289/apng/289.png",
+      "staticUrl": "assets/qq/289/png/289.png",
+      "animatedUrl": "assets/qq/289/apng/289.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -4012,7 +4012,7 @@
       "shortCodes": [
         "20240"
       ],
-      "staticUrl": "assets/qq_emoji/290/png/290.png",
+      "staticUrl": "assets/qq/290/png/290.png",
       "isHide": true,
       "packageId": "0",
       "meta": {
@@ -4026,7 +4026,7 @@
       "id": "291",
       "description": "291",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/291/png/291.png",
+      "staticUrl": "assets/qq/291/png/291.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -4042,7 +4042,7 @@
       "shortCodes": [
         "20242"
       ],
-      "staticUrl": "assets/qq_emoji/292/png/292.png",
+      "staticUrl": "assets/qq/292/png/292.png",
       "isHide": true,
       "packageId": "0",
       "meta": {
@@ -4058,8 +4058,8 @@
       "shortCodes": [
         "10293"
       ],
-      "staticUrl": "assets/qq_emoji/293/png/293.png",
-      "animatedUrl": "assets/qq_emoji/293/apng/293.png",
+      "staticUrl": "assets/qq/293/png/293.png",
+      "animatedUrl": "assets/qq/293/apng/293.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -4075,8 +4075,8 @@
       "shortCodes": [
         "10294"
       ],
-      "staticUrl": "assets/qq_emoji/294/png/294.png",
-      "animatedUrl": "assets/qq_emoji/294/apng/294.png",
+      "staticUrl": "assets/qq/294/png/294.png",
+      "animatedUrl": "assets/qq/294/apng/294.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -4092,8 +4092,8 @@
       "shortCodes": [
         "10295"
       ],
-      "staticUrl": "assets/qq_emoji/295/png/295.png",
-      "animatedUrl": "assets/qq_emoji/295/apng/295.png",
+      "staticUrl": "assets/qq/295/png/295.png",
+      "animatedUrl": "assets/qq/295/apng/295.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -4107,8 +4107,8 @@
       "id": "296",
       "description": "296",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/296/png/296.png",
-      "animatedUrl": "assets/qq_emoji/296/apng/296.png",
+      "staticUrl": "assets/qq/296/png/296.png",
+      "animatedUrl": "assets/qq/296/apng/296.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -4124,8 +4124,8 @@
       "shortCodes": [
         "10297"
       ],
-      "staticUrl": "assets/qq_emoji/297/png/297.png",
-      "animatedUrl": "assets/qq_emoji/297/apng/297.png",
+      "staticUrl": "assets/qq/297/png/297.png",
+      "animatedUrl": "assets/qq/297/apng/297.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -4141,8 +4141,8 @@
       "shortCodes": [
         "10298"
       ],
-      "staticUrl": "assets/qq_emoji/298/png/298.png",
-      "animatedUrl": "assets/qq_emoji/298/apng/298.png",
+      "staticUrl": "assets/qq/298/png/298.png",
+      "animatedUrl": "assets/qq/298/apng/298.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -4158,8 +4158,8 @@
       "shortCodes": [
         "10299"
       ],
-      "staticUrl": "assets/qq_emoji/299/png/299.png",
-      "animatedUrl": "assets/qq_emoji/299/apng/299.png",
+      "staticUrl": "assets/qq/299/png/299.png",
+      "animatedUrl": "assets/qq/299/apng/299.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -4175,8 +4175,8 @@
       "shortCodes": [
         "10300"
       ],
-      "staticUrl": "assets/qq_emoji/300/png/300.png",
-      "animatedUrl": "assets/qq_emoji/300/apng/300.png",
+      "staticUrl": "assets/qq/300/png/300.png",
+      "animatedUrl": "assets/qq/300/apng/300.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -4192,8 +4192,8 @@
       "shortCodes": [
         "10301"
       ],
-      "staticUrl": "assets/qq_emoji/301/png/301.png",
-      "animatedUrl": "assets/qq_emoji/301/apng/301.png",
+      "staticUrl": "assets/qq/301/png/301.png",
+      "animatedUrl": "assets/qq/301/apng/301.png",
       "isHide": true,
       "packageId": "0",
       "meta": {
@@ -4209,8 +4209,8 @@
       "shortCodes": [
         "10302"
       ],
-      "staticUrl": "assets/qq_emoji/302/png/302.png",
-      "animatedUrl": "assets/qq_emoji/302/apng/302.png",
+      "staticUrl": "assets/qq/302/png/302.png",
+      "animatedUrl": "assets/qq/302/apng/302.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -4226,8 +4226,8 @@
       "shortCodes": [
         "10303"
       ],
-      "staticUrl": "assets/qq_emoji/303/png/303.png",
-      "animatedUrl": "assets/qq_emoji/303/apng/303.png",
+      "staticUrl": "assets/qq/303/png/303.png",
+      "animatedUrl": "assets/qq/303/apng/303.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -4241,8 +4241,8 @@
       "id": "304",
       "description": "304",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/304/png/304.png",
-      "animatedUrl": "assets/qq_emoji/304/apng/304.png",
+      "staticUrl": "assets/qq/304/png/304.png",
+      "animatedUrl": "assets/qq/304/apng/304.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -4258,8 +4258,8 @@
       "shortCodes": [
         "10305"
       ],
-      "staticUrl": "assets/qq_emoji/305/png/305.png",
-      "animatedUrl": "assets/qq_emoji/305/apng/305.png",
+      "staticUrl": "assets/qq/305/png/305.png",
+      "animatedUrl": "assets/qq/305/apng/305.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -4275,8 +4275,8 @@
       "shortCodes": [
         "10306"
       ],
-      "staticUrl": "assets/qq_emoji/306/png/306.png",
-      "animatedUrl": "assets/qq_emoji/306/apng/306.png",
+      "staticUrl": "assets/qq/306/png/306.png",
+      "animatedUrl": "assets/qq/306/apng/306.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -4292,8 +4292,8 @@
       "shortCodes": [
         "10307"
       ],
-      "staticUrl": "assets/qq_emoji/307/png/307.png",
-      "animatedUrl": "assets/qq_emoji/307/apng/307.png",
+      "staticUrl": "assets/qq/307/png/307.png",
+      "animatedUrl": "assets/qq/307/apng/307.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -4307,7 +4307,7 @@
       "id": "308",
       "description": "308",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/308/png/308.png",
+      "staticUrl": "assets/qq/308/png/308.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -4321,7 +4321,7 @@
       "id": "309",
       "description": "309",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/309/png/309.png",
+      "staticUrl": "assets/qq/309/png/309.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -4335,7 +4335,7 @@
       "id": "310",
       "description": "310",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/310/png/310.png",
+      "staticUrl": "assets/qq/310/png/310.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -4351,8 +4351,8 @@
       "shortCodes": [
         "10311"
       ],
-      "staticUrl": "assets/qq_emoji/311/png/311_0.png",
-      "animatedUrl": "assets/qq_emoji/311/apng/311.png",
+      "staticUrl": "assets/qq/311/png/311_0.png",
+      "animatedUrl": "assets/qq/311/apng/311.png",
       "isHide": false,
       "packageId": "0",
       "aniStickerPackId": 1,
@@ -4370,8 +4370,8 @@
       "shortCodes": [
         "10312"
       ],
-      "staticUrl": "assets/qq_emoji/312/png/312_0.png",
-      "animatedUrl": "assets/qq_emoji/312/apng/312.png",
+      "staticUrl": "assets/qq/312/png/312_0.png",
+      "animatedUrl": "assets/qq/312/apng/312.png",
       "isHide": false,
       "packageId": "0",
       "aniStickerPackId": 1,
@@ -4387,8 +4387,8 @@
       "id": "313",
       "description": "313",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/313/png/313.png",
-      "animatedUrl": "assets/qq_emoji/313/apng/313.png",
+      "staticUrl": "assets/qq/313/png/313.png",
+      "animatedUrl": "assets/qq/313/apng/313.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -4404,8 +4404,8 @@
       "shortCodes": [
         "10314"
       ],
-      "staticUrl": "assets/qq_emoji/314/png/314_0.png",
-      "animatedUrl": "assets/qq_emoji/314/apng/314.png",
+      "staticUrl": "assets/qq/314/png/314_0.png",
+      "animatedUrl": "assets/qq/314/apng/314.png",
       "isHide": false,
       "packageId": "0",
       "aniStickerPackId": 1,
@@ -4421,8 +4421,8 @@
       "id": "315",
       "description": "315",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/315/png/315.png",
-      "animatedUrl": "assets/qq_emoji/315/apng/315.png",
+      "staticUrl": "assets/qq/315/png/315.png",
+      "animatedUrl": "assets/qq/315/apng/315.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -4436,8 +4436,8 @@
       "id": "316",
       "description": "316",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/316/png/316.png",
-      "animatedUrl": "assets/qq_emoji/316/apng/316.png",
+      "staticUrl": "assets/qq/316/png/316.png",
+      "animatedUrl": "assets/qq/316/apng/316.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -4453,8 +4453,8 @@
       "shortCodes": [
         "10317"
       ],
-      "staticUrl": "assets/qq_emoji/317/png/317_0.png",
-      "animatedUrl": "assets/qq_emoji/317/apng/317.png",
+      "staticUrl": "assets/qq/317/png/317_0.png",
+      "animatedUrl": "assets/qq/317/apng/317.png",
       "isHide": false,
       "packageId": "0",
       "aniStickerPackId": 1,
@@ -4472,8 +4472,8 @@
       "shortCodes": [
         "10318"
       ],
-      "staticUrl": "assets/qq_emoji/318/png/318_0.png",
-      "animatedUrl": "assets/qq_emoji/318/apng/318.png",
+      "staticUrl": "assets/qq/318/png/318_0.png",
+      "animatedUrl": "assets/qq/318/apng/318.png",
       "isHide": false,
       "packageId": "0",
       "aniStickerPackId": 1,
@@ -4491,8 +4491,8 @@
       "shortCodes": [
         "10319"
       ],
-      "staticUrl": "assets/qq_emoji/319/png/319_0.png",
-      "animatedUrl": "assets/qq_emoji/319/apng/319.png",
+      "staticUrl": "assets/qq/319/png/319_0.png",
+      "animatedUrl": "assets/qq/319/apng/319.png",
       "isHide": false,
       "packageId": "0",
       "aniStickerPackId": 1,
@@ -4510,8 +4510,8 @@
       "shortCodes": [
         "10320"
       ],
-      "staticUrl": "assets/qq_emoji/320/png/320_0.png",
-      "animatedUrl": "assets/qq_emoji/320/apng/320.png",
+      "staticUrl": "assets/qq/320/png/320_0.png",
+      "animatedUrl": "assets/qq/320/apng/320.png",
       "isHide": false,
       "packageId": "0",
       "aniStickerPackId": 1,
@@ -4527,8 +4527,8 @@
       "id": "321",
       "description": "321",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/321/png/321.png",
-      "animatedUrl": "assets/qq_emoji/321/apng/321.png",
+      "staticUrl": "assets/qq/321/png/321.png",
+      "animatedUrl": "assets/qq/321/apng/321.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -4544,8 +4544,8 @@
       "shortCodes": [
         "10322"
       ],
-      "staticUrl": "assets/qq_emoji/322/png/322.png",
-      "animatedUrl": "assets/qq_emoji/322/apng/322.png",
+      "staticUrl": "assets/qq/322/png/322.png",
+      "animatedUrl": "assets/qq/322/apng/322.png",
       "isHide": true,
       "packageId": "0",
       "meta": {
@@ -4561,8 +4561,8 @@
       "shortCodes": [
         "10323"
       ],
-      "staticUrl": "assets/qq_emoji/323/png/323.png",
-      "animatedUrl": "assets/qq_emoji/323/apng/323.png",
+      "staticUrl": "assets/qq/323/png/323.png",
+      "animatedUrl": "assets/qq/323/apng/323.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -4578,8 +4578,8 @@
       "shortCodes": [
         "10324"
       ],
-      "staticUrl": "assets/qq_emoji/324/png/324_0.png",
-      "animatedUrl": "assets/qq_emoji/324/apng/324.png",
+      "staticUrl": "assets/qq/324/png/324_0.png",
+      "animatedUrl": "assets/qq/324/apng/324.png",
       "isHide": false,
       "packageId": "0",
       "aniStickerPackId": 1,
@@ -4597,8 +4597,8 @@
       "shortCodes": [
         "10325"
       ],
-      "staticUrl": "assets/qq_emoji/325/png/325_0.png",
-      "animatedUrl": "assets/qq_emoji/325/apng/325.png",
+      "staticUrl": "assets/qq/325/png/325_0.png",
+      "animatedUrl": "assets/qq/325/apng/325.png",
       "isHide": false,
       "packageId": "0",
       "aniStickerPackId": 1,
@@ -4616,8 +4616,8 @@
       "shortCodes": [
         "10326"
       ],
-      "staticUrl": "assets/qq_emoji/326/png/326_0.png",
-      "animatedUrl": "assets/qq_emoji/326/apng/326.png",
+      "staticUrl": "assets/qq/326/png/326_0.png",
+      "animatedUrl": "assets/qq/326/apng/326.png",
       "isHide": false,
       "packageId": "0",
       "aniStickerPackId": 1,
@@ -4633,8 +4633,8 @@
       "id": "327",
       "description": "327",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/327/png/327.png",
-      "animatedUrl": "assets/qq_emoji/327/apng/327.png",
+      "staticUrl": "assets/qq/327/png/327.png",
+      "animatedUrl": "assets/qq/327/apng/327.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -4648,8 +4648,8 @@
       "id": "328",
       "description": "328",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/328/png/328.png",
-      "animatedUrl": "assets/qq_emoji/328/apng/328.png",
+      "staticUrl": "assets/qq/328/png/328.png",
+      "animatedUrl": "assets/qq/328/apng/328.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -4663,8 +4663,8 @@
       "id": "329",
       "description": "329",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/329/png/329.png",
-      "animatedUrl": "assets/qq_emoji/329/apng/329.png",
+      "staticUrl": "assets/qq/329/png/329.png",
+      "animatedUrl": "assets/qq/329/apng/329.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -4678,8 +4678,8 @@
       "id": "330",
       "description": "330",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/330/png/330.png",
-      "animatedUrl": "assets/qq_emoji/330/apng/330.png",
+      "staticUrl": "assets/qq/330/png/330.png",
+      "animatedUrl": "assets/qq/330/apng/330.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -4693,8 +4693,8 @@
       "id": "331",
       "description": "331",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/331/png/331.png",
-      "animatedUrl": "assets/qq_emoji/331/apng/331.png",
+      "staticUrl": "assets/qq/331/png/331.png",
+      "animatedUrl": "assets/qq/331/apng/331.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -4710,8 +4710,8 @@
       "shortCodes": [
         "10332"
       ],
-      "staticUrl": "assets/qq_emoji/332/png/332.png",
-      "animatedUrl": "assets/qq_emoji/332/apng/332.png",
+      "staticUrl": "assets/qq/332/png/332.png",
+      "animatedUrl": "assets/qq/332/apng/332.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -4727,8 +4727,8 @@
       "shortCodes": [
         "10333"
       ],
-      "staticUrl": "assets/qq_emoji/333/png/333_0.png",
-      "animatedUrl": "assets/qq_emoji/333/apng/333.png",
+      "staticUrl": "assets/qq/333/png/333_0.png",
+      "animatedUrl": "assets/qq/333/apng/333.png",
       "isHide": false,
       "packageId": "0",
       "aniStickerPackId": 1,
@@ -4746,8 +4746,8 @@
       "shortCodes": [
         "10334"
       ],
-      "staticUrl": "assets/qq_emoji/334/png/334.png",
-      "animatedUrl": "assets/qq_emoji/334/apng/334.png",
+      "staticUrl": "assets/qq/334/png/334.png",
+      "animatedUrl": "assets/qq/334/apng/334.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -4761,8 +4761,8 @@
       "id": "335",
       "description": "335",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/335/png/335.png",
-      "animatedUrl": "assets/qq_emoji/335/apng/335.png",
+      "staticUrl": "assets/qq/335/png/335.png",
+      "animatedUrl": "assets/qq/335/apng/335.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -4778,8 +4778,8 @@
       "shortCodes": [
         "10336"
       ],
-      "staticUrl": "assets/qq_emoji/336/png/336.png",
-      "animatedUrl": "assets/qq_emoji/336/apng/336.png",
+      "staticUrl": "assets/qq/336/png/336.png",
+      "animatedUrl": "assets/qq/336/apng/336.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -4795,8 +4795,8 @@
       "shortCodes": [
         "10337"
       ],
-      "staticUrl": "assets/qq_emoji/337/png/337_0.png",
-      "animatedUrl": "assets/qq_emoji/337/apng/337.png",
+      "staticUrl": "assets/qq/337/png/337_0.png",
+      "animatedUrl": "assets/qq/337/apng/337.png",
       "isHide": false,
       "packageId": "0",
       "aniStickerPackId": 1,
@@ -4814,8 +4814,8 @@
       "shortCodes": [
         "10338"
       ],
-      "staticUrl": "assets/qq_emoji/338/png/338_0.png",
-      "animatedUrl": "assets/qq_emoji/338/apng/338.png",
+      "staticUrl": "assets/qq/338/png/338_0.png",
+      "animatedUrl": "assets/qq/338/apng/338.png",
       "isHide": false,
       "packageId": "0",
       "aniStickerPackId": 1,
@@ -4833,8 +4833,8 @@
       "shortCodes": [
         "10339"
       ],
-      "staticUrl": "assets/qq_emoji/339/png/339_0.png",
-      "animatedUrl": "assets/qq_emoji/339/apng/339.png",
+      "staticUrl": "assets/qq/339/png/339_0.png",
+      "animatedUrl": "assets/qq/339/apng/339.png",
       "isHide": false,
       "packageId": "0",
       "aniStickerPackId": 1,
@@ -4850,8 +4850,8 @@
       "id": "340",
       "description": "340",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/340/png/340.png",
-      "animatedUrl": "assets/qq_emoji/340/apng/340.png",
+      "staticUrl": "assets/qq/340/png/340.png",
+      "animatedUrl": "assets/qq/340/apng/340.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -4867,8 +4867,8 @@
       "shortCodes": [
         "10341"
       ],
-      "staticUrl": "assets/qq_emoji/341/png/341_0.png",
-      "animatedUrl": "assets/qq_emoji/341/apng/341.png",
+      "staticUrl": "assets/qq/341/png/341_0.png",
+      "animatedUrl": "assets/qq/341/apng/341.png",
       "isHide": false,
       "packageId": "0",
       "aniStickerPackId": 1,
@@ -4886,8 +4886,8 @@
       "shortCodes": [
         "10342"
       ],
-      "staticUrl": "assets/qq_emoji/342/png/342_0.png",
-      "animatedUrl": "assets/qq_emoji/342/apng/342.png",
+      "staticUrl": "assets/qq/342/png/342_0.png",
+      "animatedUrl": "assets/qq/342/apng/342.png",
       "isHide": false,
       "packageId": "0",
       "aniStickerPackId": 1,
@@ -4905,8 +4905,8 @@
       "shortCodes": [
         "10343"
       ],
-      "staticUrl": "assets/qq_emoji/343/png/343_0.png",
-      "animatedUrl": "assets/qq_emoji/343/apng/343.png",
+      "staticUrl": "assets/qq/343/png/343_0.png",
+      "animatedUrl": "assets/qq/343/apng/343.png",
       "isHide": false,
       "packageId": "0",
       "aniStickerPackId": 1,
@@ -4924,8 +4924,8 @@
       "shortCodes": [
         "10344"
       ],
-      "staticUrl": "assets/qq_emoji/344/png/344_0.png",
-      "animatedUrl": "assets/qq_emoji/344/apng/344.png",
+      "staticUrl": "assets/qq/344/png/344_0.png",
+      "animatedUrl": "assets/qq/344/apng/344.png",
       "isHide": false,
       "packageId": "0",
       "aniStickerPackId": 1,
@@ -4943,8 +4943,8 @@
       "shortCodes": [
         "10345"
       ],
-      "staticUrl": "assets/qq_emoji/345/png/345_0.png",
-      "animatedUrl": "assets/qq_emoji/345/apng/345.png",
+      "staticUrl": "assets/qq/345/png/345_0.png",
+      "animatedUrl": "assets/qq/345/apng/345.png",
       "isHide": false,
       "packageId": "0",
       "aniStickerPackId": 1,
@@ -4962,8 +4962,8 @@
       "shortCodes": [
         "10346"
       ],
-      "staticUrl": "assets/qq_emoji/346/png/346_0.png",
-      "animatedUrl": "assets/qq_emoji/346/apng/346.png",
+      "staticUrl": "assets/qq/346/png/346_0.png",
+      "animatedUrl": "assets/qq/346/apng/346.png",
       "isHide": false,
       "packageId": "0",
       "aniStickerPackId": 1,
@@ -4981,8 +4981,8 @@
       "shortCodes": [
         "10347"
       ],
-      "staticUrl": "assets/qq_emoji/347/png/347.png",
-      "animatedUrl": "assets/qq_emoji/347/apng/347.png",
+      "staticUrl": "assets/qq/347/png/347.png",
+      "animatedUrl": "assets/qq/347/apng/347.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -4998,8 +4998,8 @@
       "shortCodes": [
         "10348"
       ],
-      "staticUrl": "assets/qq_emoji/348/png/348.png",
-      "animatedUrl": "assets/qq_emoji/348/apng/348.png",
+      "staticUrl": "assets/qq/348/png/348.png",
+      "animatedUrl": "assets/qq/348/apng/348.png",
       "isHide": true,
       "packageId": "0",
       "meta": {
@@ -5015,8 +5015,8 @@
       "shortCodes": [
         "10349"
       ],
-      "staticUrl": "assets/qq_emoji/349/png/349_0.png",
-      "animatedUrl": "assets/qq_emoji/349/apng/349.png",
+      "staticUrl": "assets/qq/349/png/349_0.png",
+      "animatedUrl": "assets/qq/349/apng/349.png",
       "isHide": false,
       "packageId": "0",
       "aniStickerPackId": 1,
@@ -5034,8 +5034,8 @@
       "shortCodes": [
         "10350"
       ],
-      "staticUrl": "assets/qq_emoji/350/png/350_0.png",
-      "animatedUrl": "assets/qq_emoji/350/apng/350.png",
+      "staticUrl": "assets/qq/350/png/350_0.png",
+      "animatedUrl": "assets/qq/350/apng/350.png",
       "isHide": false,
       "packageId": "0",
       "aniStickerPackId": 1,
@@ -5053,8 +5053,8 @@
       "shortCodes": [
         "10351"
       ],
-      "staticUrl": "assets/qq_emoji/351/png/351_0.png",
-      "animatedUrl": "assets/qq_emoji/351/apng/351.png",
+      "staticUrl": "assets/qq/351/png/351_0.png",
+      "animatedUrl": "assets/qq/351/apng/351.png",
       "isHide": false,
       "packageId": "0",
       "aniStickerPackId": 1,
@@ -5072,8 +5072,8 @@
       "shortCodes": [
         "10352"
       ],
-      "staticUrl": "assets/qq_emoji/352/png/352.png",
-      "animatedUrl": "assets/qq_emoji/352/apng/352.png",
+      "staticUrl": "assets/qq/352/png/352.png",
+      "animatedUrl": "assets/qq/352/apng/352.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -5089,8 +5089,8 @@
       "shortCodes": [
         "10353"
       ],
-      "staticUrl": "assets/qq_emoji/353/png/353.png",
-      "animatedUrl": "assets/qq_emoji/353/apng/353.png",
+      "staticUrl": "assets/qq/353/png/353.png",
+      "animatedUrl": "assets/qq/353/apng/353.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -5106,8 +5106,8 @@
       "shortCodes": [
         "10354"
       ],
-      "staticUrl": "assets/qq_emoji/354/png/354.png",
-      "animatedUrl": "assets/qq_emoji/354/apng/354.png",
+      "staticUrl": "assets/qq/354/png/354.png",
+      "animatedUrl": "assets/qq/354/apng/354.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -5123,8 +5123,8 @@
       "shortCodes": [
         "10355"
       ],
-      "staticUrl": "assets/qq_emoji/355/png/355.png",
-      "animatedUrl": "assets/qq_emoji/355/apng/355.png",
+      "staticUrl": "assets/qq/355/png/355.png",
+      "animatedUrl": "assets/qq/355/apng/355.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -5140,8 +5140,8 @@
       "shortCodes": [
         "10356"
       ],
-      "staticUrl": "assets/qq_emoji/356/png/356.png",
-      "animatedUrl": "assets/qq_emoji/356/apng/356.png",
+      "staticUrl": "assets/qq/356/png/356.png",
+      "animatedUrl": "assets/qq/356/apng/356.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -5157,8 +5157,8 @@
       "shortCodes": [
         "10357"
       ],
-      "staticUrl": "assets/qq_emoji/357/png/357.png",
-      "animatedUrl": "assets/qq_emoji/357/apng/357.png",
+      "staticUrl": "assets/qq/357/png/357.png",
+      "animatedUrl": "assets/qq/357/apng/357.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -5174,8 +5174,8 @@
       "shortCodes": [
         "10358"
       ],
-      "staticUrl": "assets/qq_emoji/358/png/358_0.png",
-      "animatedUrl": "assets/qq_emoji/358/apng/358.png",
+      "staticUrl": "assets/qq/358/png/358_0.png",
+      "animatedUrl": "assets/qq/358/apng/358.png",
       "isHide": true,
       "packageId": "0",
       "aniStickerPackId": 1,
@@ -5193,8 +5193,8 @@
       "shortCodes": [
         "10359"
       ],
-      "staticUrl": "assets/qq_emoji/359/png/359_0.png",
-      "animatedUrl": "assets/qq_emoji/359/apng/359.png",
+      "staticUrl": "assets/qq/359/png/359_0.png",
+      "animatedUrl": "assets/qq/359/apng/359.png",
       "isHide": true,
       "packageId": "0",
       "aniStickerPackId": 1,
@@ -5212,8 +5212,8 @@
       "shortCodes": [
         "10360"
       ],
-      "staticUrl": "assets/qq_emoji/360/png/360_0.png",
-      "animatedUrl": "assets/qq_emoji/360/apng/360.png",
+      "staticUrl": "assets/qq/360/png/360_0.png",
+      "animatedUrl": "assets/qq/360/apng/360.png",
       "isHide": true,
       "packageId": "0",
       "aniStickerPackId": 2,
@@ -5231,8 +5231,8 @@
       "shortCodes": [
         "10361"
       ],
-      "staticUrl": "assets/qq_emoji/361/png/361_0.png",
-      "animatedUrl": "assets/qq_emoji/361/apng/361.png",
+      "staticUrl": "assets/qq/361/png/361_0.png",
+      "animatedUrl": "assets/qq/361/apng/361.png",
       "isHide": true,
       "packageId": "0",
       "aniStickerPackId": 2,
@@ -5250,8 +5250,8 @@
       "shortCodes": [
         "10362"
       ],
-      "staticUrl": "assets/qq_emoji/362/png/362_0.png",
-      "animatedUrl": "assets/qq_emoji/362/apng/362.png",
+      "staticUrl": "assets/qq/362/png/362_0.png",
+      "animatedUrl": "assets/qq/362/apng/362.png",
       "isHide": true,
       "packageId": "0",
       "aniStickerPackId": 2,
@@ -5269,8 +5269,8 @@
       "shortCodes": [
         "10363"
       ],
-      "staticUrl": "assets/qq_emoji/363/png/363_0.png",
-      "animatedUrl": "assets/qq_emoji/363/apng/363.png",
+      "staticUrl": "assets/qq/363/png/363_0.png",
+      "animatedUrl": "assets/qq/363/apng/363.png",
       "isHide": true,
       "packageId": "0",
       "aniStickerPackId": 2,
@@ -5288,8 +5288,8 @@
       "shortCodes": [
         "10364"
       ],
-      "staticUrl": "assets/qq_emoji/364/png/364_0.png",
-      "animatedUrl": "assets/qq_emoji/364/apng/364.png",
+      "staticUrl": "assets/qq/364/png/364_0.png",
+      "animatedUrl": "assets/qq/364/apng/364.png",
       "isHide": true,
       "packageId": "0",
       "aniStickerPackId": 2,
@@ -5307,8 +5307,8 @@
       "shortCodes": [
         "10365"
       ],
-      "staticUrl": "assets/qq_emoji/365/png/365_0.png",
-      "animatedUrl": "assets/qq_emoji/365/apng/365.png",
+      "staticUrl": "assets/qq/365/png/365_0.png",
+      "animatedUrl": "assets/qq/365/apng/365.png",
       "isHide": true,
       "packageId": "0",
       "aniStickerPackId": 2,
@@ -5326,8 +5326,8 @@
       "shortCodes": [
         "10366"
       ],
-      "staticUrl": "assets/qq_emoji/366/png/366_0.png",
-      "animatedUrl": "assets/qq_emoji/366/apng/366.png",
+      "staticUrl": "assets/qq/366/png/366_0.png",
+      "animatedUrl": "assets/qq/366/apng/366.png",
       "isHide": true,
       "packageId": "0",
       "aniStickerPackId": 2,
@@ -5345,8 +5345,8 @@
       "shortCodes": [
         "10367"
       ],
-      "staticUrl": "assets/qq_emoji/367/png/367_0.png",
-      "animatedUrl": "assets/qq_emoji/367/apng/367.png",
+      "staticUrl": "assets/qq/367/png/367_0.png",
+      "animatedUrl": "assets/qq/367/apng/367.png",
       "isHide": true,
       "packageId": "0",
       "aniStickerPackId": 2,
@@ -5364,8 +5364,8 @@
       "shortCodes": [
         "10368"
       ],
-      "staticUrl": "assets/qq_emoji/368/png/368_0.png",
-      "animatedUrl": "assets/qq_emoji/368/apng/368.png",
+      "staticUrl": "assets/qq/368/png/368_0.png",
+      "animatedUrl": "assets/qq/368/apng/368.png",
       "isHide": true,
       "packageId": "0",
       "aniStickerPackId": 6,
@@ -5383,8 +5383,8 @@
       "shortCodes": [
         "10369"
       ],
-      "staticUrl": "assets/qq_emoji/369/png/369_0.png",
-      "animatedUrl": "assets/qq_emoji/369/apng/369.png",
+      "staticUrl": "assets/qq/369/png/369_0.png",
+      "animatedUrl": "assets/qq/369/apng/369.png",
       "isHide": true,
       "packageId": "0",
       "aniStickerPackId": 6,
@@ -5402,8 +5402,8 @@
       "shortCodes": [
         "10370"
       ],
-      "staticUrl": "assets/qq_emoji/370/png/370_0.png",
-      "animatedUrl": "assets/qq_emoji/370/apng/370.png",
+      "staticUrl": "assets/qq/370/png/370_0.png",
+      "animatedUrl": "assets/qq/370/apng/370.png",
       "isHide": true,
       "packageId": "0",
       "aniStickerPackId": 6,
@@ -5421,8 +5421,8 @@
       "shortCodes": [
         "10371"
       ],
-      "staticUrl": "assets/qq_emoji/371/png/371_0.png",
-      "animatedUrl": "assets/qq_emoji/371/apng/371.png",
+      "staticUrl": "assets/qq/371/png/371_0.png",
+      "animatedUrl": "assets/qq/371/apng/371.png",
       "isHide": true,
       "packageId": "0",
       "aniStickerPackId": 6,
@@ -5440,8 +5440,8 @@
       "shortCodes": [
         "10372"
       ],
-      "staticUrl": "assets/qq_emoji/372/png/372_0.png",
-      "animatedUrl": "assets/qq_emoji/372/apng/372.png",
+      "staticUrl": "assets/qq/372/png/372_0.png",
+      "animatedUrl": "assets/qq/372/apng/372.png",
       "isHide": true,
       "packageId": "0",
       "aniStickerPackId": 6,
@@ -5459,8 +5459,8 @@
       "shortCodes": [
         "10373"
       ],
-      "staticUrl": "assets/qq_emoji/373/png/373_0.png",
-      "animatedUrl": "assets/qq_emoji/373/apng/373.png",
+      "staticUrl": "assets/qq/373/png/373_0.png",
+      "animatedUrl": "assets/qq/373/apng/373.png",
       "isHide": true,
       "packageId": "0",
       "aniStickerPackId": 6,
@@ -5478,8 +5478,8 @@
       "shortCodes": [
         "10374"
       ],
-      "staticUrl": "assets/qq_emoji/374/png/374_0.png",
-      "animatedUrl": "assets/qq_emoji/374/apng/374.png",
+      "staticUrl": "assets/qq/374/png/374_0.png",
+      "animatedUrl": "assets/qq/374/apng/374.png",
       "isHide": true,
       "packageId": "0",
       "aniStickerPackId": 6,
@@ -5497,8 +5497,8 @@
       "shortCodes": [
         "10375"
       ],
-      "staticUrl": "assets/qq_emoji/375/png/375_0.png",
-      "animatedUrl": "assets/qq_emoji/375/apng/375.png",
+      "staticUrl": "assets/qq/375/png/375_0.png",
+      "animatedUrl": "assets/qq/375/apng/375.png",
       "isHide": true,
       "packageId": "0",
       "aniStickerPackId": 6,
@@ -5516,8 +5516,8 @@
       "shortCodes": [
         "10376"
       ],
-      "staticUrl": "assets/qq_emoji/376/png/376_0.png",
-      "animatedUrl": "assets/qq_emoji/376/apng/376.png",
+      "staticUrl": "assets/qq/376/png/376_0.png",
+      "animatedUrl": "assets/qq/376/apng/376.png",
       "isHide": true,
       "packageId": "0",
       "aniStickerPackId": 5,
@@ -5535,8 +5535,8 @@
       "shortCodes": [
         "10377"
       ],
-      "staticUrl": "assets/qq_emoji/377/png/377_0.png",
-      "animatedUrl": "assets/qq_emoji/377/apng/377.png",
+      "staticUrl": "assets/qq/377/png/377_0.png",
+      "animatedUrl": "assets/qq/377/apng/377.png",
       "isHide": true,
       "packageId": "0",
       "aniStickerPackId": 5,
@@ -5554,8 +5554,8 @@
       "shortCodes": [
         "10378"
       ],
-      "staticUrl": "assets/qq_emoji/378/png/378_0.png",
-      "animatedUrl": "assets/qq_emoji/378/apng/378.png",
+      "staticUrl": "assets/qq/378/png/378_0.png",
+      "animatedUrl": "assets/qq/378/apng/378.png",
       "isHide": true,
       "packageId": "0",
       "aniStickerPackId": 5,
@@ -5573,8 +5573,8 @@
       "shortCodes": [
         "10379"
       ],
-      "staticUrl": "assets/qq_emoji/379/png/379_0.png",
-      "animatedUrl": "assets/qq_emoji/379/apng/379.png",
+      "staticUrl": "assets/qq/379/png/379_0.png",
+      "animatedUrl": "assets/qq/379/apng/379.png",
       "isHide": true,
       "packageId": "0",
       "aniStickerPackId": 5,
@@ -5592,8 +5592,8 @@
       "shortCodes": [
         "10380"
       ],
-      "staticUrl": "assets/qq_emoji/380/png/380_0.png",
-      "animatedUrl": "assets/qq_emoji/380/apng/380.png",
+      "staticUrl": "assets/qq/380/png/380_0.png",
+      "animatedUrl": "assets/qq/380/apng/380.png",
       "isHide": true,
       "packageId": "0",
       "aniStickerPackId": 5,
@@ -5611,8 +5611,8 @@
       "shortCodes": [
         "10381"
       ],
-      "staticUrl": "assets/qq_emoji/381/png/381_0.png",
-      "animatedUrl": "assets/qq_emoji/381/apng/381.png",
+      "staticUrl": "assets/qq/381/png/381_0.png",
+      "animatedUrl": "assets/qq/381/apng/381.png",
       "isHide": true,
       "packageId": "0",
       "aniStickerPackId": 5,
@@ -5630,8 +5630,8 @@
       "shortCodes": [
         "10382"
       ],
-      "staticUrl": "assets/qq_emoji/382/png/382_0.png",
-      "animatedUrl": "assets/qq_emoji/382/apng/382.png",
+      "staticUrl": "assets/qq/382/png/382_0.png",
+      "animatedUrl": "assets/qq/382/apng/382.png",
       "isHide": true,
       "packageId": "0",
       "aniStickerPackId": 5,
@@ -5649,8 +5649,8 @@
       "shortCodes": [
         "10383"
       ],
-      "staticUrl": "assets/qq_emoji/383/png/383_0.png",
-      "animatedUrl": "assets/qq_emoji/383/apng/383.png",
+      "staticUrl": "assets/qq/383/png/383_0.png",
+      "animatedUrl": "assets/qq/383/apng/383.png",
       "isHide": true,
       "packageId": "0",
       "aniStickerPackId": 5,
@@ -5668,8 +5668,8 @@
       "shortCodes": [
         "10384"
       ],
-      "staticUrl": "assets/qq_emoji/384/png/384_0.png",
-      "animatedUrl": "assets/qq_emoji/384/apng/384.png",
+      "staticUrl": "assets/qq/384/png/384_0.png",
+      "animatedUrl": "assets/qq/384/apng/384.png",
       "isHide": true,
       "packageId": "0",
       "aniStickerPackId": 4,
@@ -5687,8 +5687,8 @@
       "shortCodes": [
         "10385"
       ],
-      "staticUrl": "assets/qq_emoji/385/png/385_0.png",
-      "animatedUrl": "assets/qq_emoji/385/apng/385.png",
+      "staticUrl": "assets/qq/385/png/385_0.png",
+      "animatedUrl": "assets/qq/385/apng/385.png",
       "isHide": true,
       "packageId": "0",
       "aniStickerPackId": 4,
@@ -5706,8 +5706,8 @@
       "shortCodes": [
         "10386"
       ],
-      "staticUrl": "assets/qq_emoji/386/png/386_0.png",
-      "animatedUrl": "assets/qq_emoji/386/apng/386.png",
+      "staticUrl": "assets/qq/386/png/386_0.png",
+      "animatedUrl": "assets/qq/386/apng/386.png",
       "isHide": true,
       "packageId": "0",
       "aniStickerPackId": 4,
@@ -5725,8 +5725,8 @@
       "shortCodes": [
         "10387"
       ],
-      "staticUrl": "assets/qq_emoji/387/png/387_0.png",
-      "animatedUrl": "assets/qq_emoji/387/apng/387.png",
+      "staticUrl": "assets/qq/387/png/387_0.png",
+      "animatedUrl": "assets/qq/387/apng/387.png",
       "isHide": true,
       "packageId": "0",
       "aniStickerPackId": 4,
@@ -5744,8 +5744,8 @@
       "shortCodes": [
         "10388"
       ],
-      "staticUrl": "assets/qq_emoji/388/png/388_0.png",
-      "animatedUrl": "assets/qq_emoji/388/apng/388.png",
+      "staticUrl": "assets/qq/388/png/388_0.png",
+      "animatedUrl": "assets/qq/388/apng/388.png",
       "isHide": true,
       "packageId": "0",
       "aniStickerPackId": 4,
@@ -5763,8 +5763,8 @@
       "shortCodes": [
         "10389"
       ],
-      "staticUrl": "assets/qq_emoji/389/png/389_0.png",
-      "animatedUrl": "assets/qq_emoji/389/apng/389.png",
+      "staticUrl": "assets/qq/389/png/389_0.png",
+      "animatedUrl": "assets/qq/389/apng/389.png",
       "isHide": true,
       "packageId": "0",
       "aniStickerPackId": 4,
@@ -5782,8 +5782,8 @@
       "shortCodes": [
         "10390"
       ],
-      "staticUrl": "assets/qq_emoji/390/png/390_0.png",
-      "animatedUrl": "assets/qq_emoji/390/apng/390.png",
+      "staticUrl": "assets/qq/390/png/390_0.png",
+      "animatedUrl": "assets/qq/390/apng/390.png",
       "isHide": true,
       "packageId": "0",
       "aniStickerPackId": 4,
@@ -5801,8 +5801,8 @@
       "shortCodes": [
         "10391"
       ],
-      "staticUrl": "assets/qq_emoji/391/png/391_0.png",
-      "animatedUrl": "assets/qq_emoji/391/apng/391.png",
+      "staticUrl": "assets/qq/391/png/391_0.png",
+      "animatedUrl": "assets/qq/391/apng/391.png",
       "isHide": true,
       "packageId": "0",
       "aniStickerPackId": 4,
@@ -5820,8 +5820,8 @@
       "shortCodes": [
         "10392"
       ],
-      "staticUrl": "assets/qq_emoji/392/png/392_0.png",
-      "animatedUrl": "assets/qq_emoji/392/apng/392.png",
+      "staticUrl": "assets/qq/392/png/392_0.png",
+      "animatedUrl": "assets/qq/392/apng/392.png",
       "isHide": false,
       "packageId": "0",
       "aniStickerPackId": 1,
@@ -5839,8 +5839,8 @@
       "shortCodes": [
         "10393"
       ],
-      "staticUrl": "assets/qq_emoji/393/png/393_0.png",
-      "animatedUrl": "assets/qq_emoji/393/apng/393.png",
+      "staticUrl": "assets/qq/393/png/393_0.png",
+      "animatedUrl": "assets/qq/393/apng/393.png",
       "isHide": true,
       "packageId": "0",
       "aniStickerPackId": 1,
@@ -5858,8 +5858,8 @@
       "shortCodes": [
         "10394"
       ],
-      "staticUrl": "assets/qq_emoji/394/png/394_0.png",
-      "animatedUrl": "assets/qq_emoji/394/apng/394.png",
+      "staticUrl": "assets/qq/394/png/394_0.png",
+      "animatedUrl": "assets/qq/394/apng/394.png",
       "isHide": true,
       "packageId": "0",
       "aniStickerPackId": 1,
@@ -5877,8 +5877,8 @@
       "shortCodes": [
         "10395"
       ],
-      "staticUrl": "assets/qq_emoji/395/png/395_0.png",
-      "animatedUrl": "assets/qq_emoji/395/apng/395.png",
+      "staticUrl": "assets/qq/395/png/395_0.png",
+      "animatedUrl": "assets/qq/395/apng/395.png",
       "isHide": false,
       "packageId": "0",
       "aniStickerPackId": 1,
@@ -5896,8 +5896,8 @@
       "shortCodes": [
         "10396"
       ],
-      "staticUrl": "assets/qq_emoji/396/png/396_0.png",
-      "animatedUrl": "assets/qq_emoji/396/apng/396.png",
+      "staticUrl": "assets/qq/396/png/396_0.png",
+      "animatedUrl": "assets/qq/396/apng/396.png",
       "isHide": true,
       "packageId": "0",
       "aniStickerPackId": 2,
@@ -5915,8 +5915,8 @@
       "shortCodes": [
         "10397"
       ],
-      "staticUrl": "assets/qq_emoji/397/png/397_0.png",
-      "animatedUrl": "assets/qq_emoji/397/apng/397.png",
+      "staticUrl": "assets/qq/397/png/397_0.png",
+      "animatedUrl": "assets/qq/397/apng/397.png",
       "isHide": true,
       "packageId": "0",
       "aniStickerPackId": 2,
@@ -5934,8 +5934,8 @@
       "shortCodes": [
         "10398"
       ],
-      "staticUrl": "assets/qq_emoji/398/png/398_0.png",
-      "animatedUrl": "assets/qq_emoji/398/apng/398.png",
+      "staticUrl": "assets/qq/398/png/398_0.png",
+      "animatedUrl": "assets/qq/398/apng/398.png",
       "isHide": true,
       "packageId": "0",
       "aniStickerPackId": 6,
@@ -5953,8 +5953,8 @@
       "shortCodes": [
         "10399"
       ],
-      "staticUrl": "assets/qq_emoji/399/png/399_0.png",
-      "animatedUrl": "assets/qq_emoji/399/apng/399.png",
+      "staticUrl": "assets/qq/399/png/399_0.png",
+      "animatedUrl": "assets/qq/399/apng/399.png",
       "isHide": true,
       "packageId": "0",
       "aniStickerPackId": 6,
@@ -5972,8 +5972,8 @@
       "shortCodes": [
         "10400"
       ],
-      "staticUrl": "assets/qq_emoji/400/png/400_0.png",
-      "animatedUrl": "assets/qq_emoji/400/apng/400.png",
+      "staticUrl": "assets/qq/400/png/400_0.png",
+      "animatedUrl": "assets/qq/400/apng/400.png",
       "isHide": true,
       "packageId": "0",
       "aniStickerPackId": 5,
@@ -5991,8 +5991,8 @@
       "shortCodes": [
         "10401"
       ],
-      "staticUrl": "assets/qq_emoji/401/png/401_0.png",
-      "animatedUrl": "assets/qq_emoji/401/apng/401.png",
+      "staticUrl": "assets/qq/401/png/401_0.png",
+      "animatedUrl": "assets/qq/401/apng/401.png",
       "isHide": true,
       "packageId": "0",
       "aniStickerPackId": 5,
@@ -6010,8 +6010,8 @@
       "shortCodes": [
         "10402"
       ],
-      "staticUrl": "assets/qq_emoji/402/png/402_0.png",
-      "animatedUrl": "assets/qq_emoji/402/apng/402.png",
+      "staticUrl": "assets/qq/402/png/402_0.png",
+      "animatedUrl": "assets/qq/402/apng/402.png",
       "isHide": true,
       "packageId": "0",
       "aniStickerPackId": 4,
@@ -6029,8 +6029,8 @@
       "shortCodes": [
         "10403"
       ],
-      "staticUrl": "assets/qq_emoji/403/png/403_0.png",
-      "animatedUrl": "assets/qq_emoji/403/apng/403.png",
+      "staticUrl": "assets/qq/403/png/403_0.png",
+      "animatedUrl": "assets/qq/403/apng/403.png",
       "isHide": true,
       "packageId": "0",
       "aniStickerPackId": 4,
@@ -6048,8 +6048,8 @@
       "shortCodes": [
         "10404"
       ],
-      "staticUrl": "assets/qq_emoji/404/png/404_0.png",
-      "animatedUrl": "assets/qq_emoji/404/apng/404.png",
+      "staticUrl": "assets/qq/404/png/404_0.png",
+      "animatedUrl": "assets/qq/404/apng/404.png",
       "isHide": true,
       "packageId": "0",
       "aniStickerPackId": 3,
@@ -6067,8 +6067,8 @@
       "shortCodes": [
         "10405"
       ],
-      "staticUrl": "assets/qq_emoji/405/png/405_0.png",
-      "animatedUrl": "assets/qq_emoji/405/apng/405.png",
+      "staticUrl": "assets/qq/405/png/405_0.png",
+      "animatedUrl": "assets/qq/405/apng/405.png",
       "isHide": true,
       "packageId": "0",
       "aniStickerPackId": 3,
@@ -6086,8 +6086,8 @@
       "shortCodes": [
         "10406"
       ],
-      "staticUrl": "assets/qq_emoji/406/png/406_0.png",
-      "animatedUrl": "assets/qq_emoji/406/apng/406.png",
+      "staticUrl": "assets/qq/406/png/406_0.png",
+      "animatedUrl": "assets/qq/406/apng/406.png",
       "isHide": true,
       "packageId": "0",
       "aniStickerPackId": 3,
@@ -6105,8 +6105,8 @@
       "shortCodes": [
         "10407"
       ],
-      "staticUrl": "assets/qq_emoji/407/png/407_0.png",
-      "animatedUrl": "assets/qq_emoji/407/apng/407.png",
+      "staticUrl": "assets/qq/407/png/407_0.png",
+      "animatedUrl": "assets/qq/407/apng/407.png",
       "isHide": true,
       "packageId": "0",
       "aniStickerPackId": 3,
@@ -6124,8 +6124,8 @@
       "shortCodes": [
         "10408"
       ],
-      "staticUrl": "assets/qq_emoji/408/png/408_0.png",
-      "animatedUrl": "assets/qq_emoji/408/apng/408.png",
+      "staticUrl": "assets/qq/408/png/408_0.png",
+      "animatedUrl": "assets/qq/408/apng/408.png",
       "isHide": true,
       "packageId": "0",
       "aniStickerPackId": 3,
@@ -6143,8 +6143,8 @@
       "shortCodes": [
         "10409"
       ],
-      "staticUrl": "assets/qq_emoji/409/png/409_0.png",
-      "animatedUrl": "assets/qq_emoji/409/apng/409.png",
+      "staticUrl": "assets/qq/409/png/409_0.png",
+      "animatedUrl": "assets/qq/409/apng/409.png",
       "isHide": true,
       "packageId": "0",
       "aniStickerPackId": 3,
@@ -6162,8 +6162,8 @@
       "shortCodes": [
         "10410"
       ],
-      "staticUrl": "assets/qq_emoji/410/png/410_0.png",
-      "animatedUrl": "assets/qq_emoji/410/apng/410.png",
+      "staticUrl": "assets/qq/410/png/410_0.png",
+      "animatedUrl": "assets/qq/410/apng/410.png",
       "isHide": true,
       "packageId": "0",
       "aniStickerPackId": 3,
@@ -6181,8 +6181,8 @@
       "shortCodes": [
         "10411"
       ],
-      "staticUrl": "assets/qq_emoji/411/png/411_0.png",
-      "animatedUrl": "assets/qq_emoji/411/apng/411.png",
+      "staticUrl": "assets/qq/411/png/411_0.png",
+      "animatedUrl": "assets/qq/411/apng/411.png",
       "isHide": true,
       "packageId": "0",
       "aniStickerPackId": 3,
@@ -6200,8 +6200,8 @@
       "shortCodes": [
         "10412"
       ],
-      "staticUrl": "assets/qq_emoji/412/png/412_0.png",
-      "animatedUrl": "assets/qq_emoji/412/apng/412.png",
+      "staticUrl": "assets/qq/412/png/412_0.png",
+      "animatedUrl": "assets/qq/412/apng/412.png",
       "isHide": true,
       "packageId": "0",
       "aniStickerPackId": 3,
@@ -6219,8 +6219,8 @@
       "shortCodes": [
         "10413"
       ],
-      "staticUrl": "assets/qq_emoji/413/png/413_0.png",
-      "animatedUrl": "assets/qq_emoji/413/apng/413.png",
+      "staticUrl": "assets/qq/413/png/413_0.png",
+      "animatedUrl": "assets/qq/413/apng/413.png",
       "isHide": true,
       "packageId": "0",
       "aniStickerPackId": 3,
@@ -6238,8 +6238,8 @@
       "shortCodes": [
         "10415"
       ],
-      "staticUrl": "assets/qq_emoji/415/png/415_0.png",
-      "animatedUrl": "assets/qq_emoji/415/apng/415.png",
+      "staticUrl": "assets/qq/415/png/415_0.png",
+      "animatedUrl": "assets/qq/415/apng/415.png",
       "isHide": false,
       "packageId": "0",
       "aniStickerPackId": 1,
@@ -6257,8 +6257,8 @@
       "shortCodes": [
         "10416"
       ],
-      "staticUrl": "assets/qq_emoji/416/png/416_0.png",
-      "animatedUrl": "assets/qq_emoji/416/apng/416.png",
+      "staticUrl": "assets/qq/416/png/416_0.png",
+      "animatedUrl": "assets/qq/416/apng/416.png",
       "isHide": true,
       "packageId": "0",
       "aniStickerPackId": 1,
@@ -6276,8 +6276,8 @@
       "shortCodes": [
         "10417"
       ],
-      "staticUrl": "assets/qq_emoji/417/png/417_0.png",
-      "animatedUrl": "assets/qq_emoji/417/apng/417.png",
+      "staticUrl": "assets/qq/417/png/417_0.png",
+      "animatedUrl": "assets/qq/417/apng/417.png",
       "isHide": true,
       "packageId": "0",
       "aniStickerPackId": 1,
@@ -6293,8 +6293,8 @@
       "id": "419",
       "description": "419",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/419/png/419_0.png",
-      "animatedUrl": "assets/qq_emoji/419/apng/419.png",
+      "staticUrl": "assets/qq/419/png/419_0.png",
+      "animatedUrl": "assets/qq/419/apng/419.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -6308,8 +6308,8 @@
       "id": "420",
       "description": "420",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/420/png/420_0.png",
-      "animatedUrl": "assets/qq_emoji/420/apng/420.png",
+      "staticUrl": "assets/qq/420/png/420_0.png",
+      "animatedUrl": "assets/qq/420/apng/420.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -6323,8 +6323,8 @@
       "id": "421",
       "description": "421",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/421/png/421_0.png",
-      "animatedUrl": "assets/qq_emoji/421/apng/421.png",
+      "staticUrl": "assets/qq/421/png/421_0.png",
+      "animatedUrl": "assets/qq/421/apng/421.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -6338,8 +6338,8 @@
       "id": "422",
       "description": "422",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/422/png/422_0.png",
-      "animatedUrl": "assets/qq_emoji/422/apng/422.png",
+      "staticUrl": "assets/qq/422/png/422_0.png",
+      "animatedUrl": "assets/qq/422/apng/422.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -6353,8 +6353,8 @@
       "id": "423",
       "description": "423",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/423/png/423_0.png",
-      "animatedUrl": "assets/qq_emoji/423/apng/423.png",
+      "staticUrl": "assets/qq/423/png/423_0.png",
+      "animatedUrl": "assets/qq/423/apng/423.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -6368,8 +6368,8 @@
       "id": "424",
       "description": "424",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/424/png/424_0.png",
-      "animatedUrl": "assets/qq_emoji/424/apng/424.png",
+      "staticUrl": "assets/qq/424/png/424_0.png",
+      "animatedUrl": "assets/qq/424/apng/424.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -6383,8 +6383,8 @@
       "id": "425",
       "description": "425",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/425/png/425_0.png",
-      "animatedUrl": "assets/qq_emoji/425/apng/425.png",
+      "staticUrl": "assets/qq/425/png/425_0.png",
+      "animatedUrl": "assets/qq/425/apng/425.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -6398,8 +6398,8 @@
       "id": "426",
       "description": "426",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/426/png/426_0.png",
-      "animatedUrl": "assets/qq_emoji/426/apng/426.png",
+      "staticUrl": "assets/qq/426/png/426_0.png",
+      "animatedUrl": "assets/qq/426/apng/426.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -6413,8 +6413,8 @@
       "id": "427",
       "description": "427",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/427/png/427_0.png",
-      "animatedUrl": "assets/qq_emoji/427/apng/427.png",
+      "staticUrl": "assets/qq/427/png/427_0.png",
+      "animatedUrl": "assets/qq/427/apng/427.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -6428,8 +6428,8 @@
       "id": "428",
       "description": "428",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/428/png/428.png",
-      "animatedUrl": "assets/qq_emoji/428/apng/428.png",
+      "staticUrl": "assets/qq/428/png/428.png",
+      "animatedUrl": "assets/qq/428/apng/428.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -6443,8 +6443,8 @@
       "id": "429",
       "description": "429",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/429/png/429_0.png",
-      "animatedUrl": "assets/qq_emoji/429/apng/429.png",
+      "staticUrl": "assets/qq/429/png/429_0.png",
+      "animatedUrl": "assets/qq/429/apng/429.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -6458,8 +6458,8 @@
       "id": "430",
       "description": "430",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/430/png/430_0.png",
-      "animatedUrl": "assets/qq_emoji/430/apng/430.png",
+      "staticUrl": "assets/qq/430/png/430_0.png",
+      "animatedUrl": "assets/qq/430/apng/430.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -6473,8 +6473,8 @@
       "id": "431",
       "description": "431",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/431/png/431_0.png",
-      "animatedUrl": "assets/qq_emoji/431/apng/431.png",
+      "staticUrl": "assets/qq/431/png/431_0.png",
+      "animatedUrl": "assets/qq/431/apng/431.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -6488,8 +6488,8 @@
       "id": "432",
       "description": "432",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/432/png/432_0.png",
-      "animatedUrl": "assets/qq_emoji/432/apng/432.png",
+      "staticUrl": "assets/qq/432/png/432_0.png",
+      "animatedUrl": "assets/qq/432/apng/432.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -6503,8 +6503,8 @@
       "id": "450",
       "description": "450",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/450/png/450_0.png",
-      "animatedUrl": "assets/qq_emoji/450/apng/450.png",
+      "staticUrl": "assets/qq/450/png/450_0.png",
+      "animatedUrl": "assets/qq/450/apng/450.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -6518,8 +6518,8 @@
       "id": "451",
       "description": "451",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/451/png/451_0.png",
-      "animatedUrl": "assets/qq_emoji/451/apng/451.png",
+      "staticUrl": "assets/qq/451/png/451_0.png",
+      "animatedUrl": "assets/qq/451/apng/451.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -6533,8 +6533,8 @@
       "id": "452",
       "description": "452",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/452/png/452_0.png",
-      "animatedUrl": "assets/qq_emoji/452/apng/452.png",
+      "staticUrl": "assets/qq/452/png/452_0.png",
+      "animatedUrl": "assets/qq/452/apng/452.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -6548,8 +6548,8 @@
       "id": "453",
       "description": "453",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/453/png/453_0.png",
-      "animatedUrl": "assets/qq_emoji/453/apng/453.png",
+      "staticUrl": "assets/qq/453/png/453_0.png",
+      "animatedUrl": "assets/qq/453/apng/453.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -6563,8 +6563,8 @@
       "id": "454",
       "description": "454",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/454/png/454_0.png",
-      "animatedUrl": "assets/qq_emoji/454/apng/454.png",
+      "staticUrl": "assets/qq/454/png/454_0.png",
+      "animatedUrl": "assets/qq/454/apng/454.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -6578,8 +6578,8 @@
       "id": "455",
       "description": "455",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/455/png/455_0.png",
-      "animatedUrl": "assets/qq_emoji/455/apng/455.png",
+      "staticUrl": "assets/qq/455/png/455_0.png",
+      "animatedUrl": "assets/qq/455/apng/455.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -6593,8 +6593,8 @@
       "id": "456",
       "description": "456",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/456/png/456_0.png",
-      "animatedUrl": "assets/qq_emoji/456/apng/456.png",
+      "staticUrl": "assets/qq/456/png/456_0.png",
+      "animatedUrl": "assets/qq/456/apng/456.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -6608,8 +6608,8 @@
       "id": "457",
       "description": "457",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/457/png/457_0.png",
-      "animatedUrl": "assets/qq_emoji/457/apng/457.png",
+      "staticUrl": "assets/qq/457/png/457_0.png",
+      "animatedUrl": "assets/qq/457/apng/457.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -6623,8 +6623,8 @@
       "id": "458",
       "description": "458",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/458/png/458_0.png",
-      "animatedUrl": "assets/qq_emoji/458/apng/458.png",
+      "staticUrl": "assets/qq/458/png/458_0.png",
+      "animatedUrl": "assets/qq/458/apng/458.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -6638,8 +6638,8 @@
       "id": "459",
       "description": "459",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/459/png/459_0.png",
-      "animatedUrl": "assets/qq_emoji/459/apng/459.png",
+      "staticUrl": "assets/qq/459/png/459_0.png",
+      "animatedUrl": "assets/qq/459/apng/459.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -6653,8 +6653,8 @@
       "id": "460",
       "description": "460",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/460/png/460_0.png",
-      "animatedUrl": "assets/qq_emoji/460/apng/460.png",
+      "staticUrl": "assets/qq/460/png/460_0.png",
+      "animatedUrl": "assets/qq/460/apng/460.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -6668,8 +6668,8 @@
       "id": "461",
       "description": "461",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/461/png/461_0.png",
-      "animatedUrl": "assets/qq_emoji/461/apng/461.png",
+      "staticUrl": "assets/qq/461/png/461_0.png",
+      "animatedUrl": "assets/qq/461/apng/461.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -6683,8 +6683,8 @@
       "id": "462",
       "description": "462",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/462/png/462_0.png",
-      "animatedUrl": "assets/qq_emoji/462/apng/462.png",
+      "staticUrl": "assets/qq/462/png/462_0.png",
+      "animatedUrl": "assets/qq/462/apng/462.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -6698,8 +6698,8 @@
       "id": "463",
       "description": "463",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/463/png/463_0.png",
-      "animatedUrl": "assets/qq_emoji/463/apng/463.png",
+      "staticUrl": "assets/qq/463/png/463_0.png",
+      "animatedUrl": "assets/qq/463/apng/463.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -6713,8 +6713,8 @@
       "id": "464",
       "description": "464",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/464/png/464_0.png",
-      "animatedUrl": "assets/qq_emoji/464/apng/464.png",
+      "staticUrl": "assets/qq/464/png/464_0.png",
+      "animatedUrl": "assets/qq/464/apng/464.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -6728,8 +6728,8 @@
       "id": "465",
       "description": "465",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/465/png/465_0.png",
-      "animatedUrl": "assets/qq_emoji/465/apng/465.png",
+      "staticUrl": "assets/qq/465/png/465_0.png",
+      "animatedUrl": "assets/qq/465/apng/465.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -6743,8 +6743,8 @@
       "id": "466",
       "description": "466",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/466/png/466_0.png",
-      "animatedUrl": "assets/qq_emoji/466/apng/466.png",
+      "staticUrl": "assets/qq/466/png/466_0.png",
+      "animatedUrl": "assets/qq/466/apng/466.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -6758,8 +6758,8 @@
       "id": "467",
       "description": "467",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/467/png/467_0.png",
-      "animatedUrl": "assets/qq_emoji/467/apng/467.png",
+      "staticUrl": "assets/qq/467/png/467_0.png",
+      "animatedUrl": "assets/qq/467/apng/467.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -6773,8 +6773,8 @@
       "id": "468",
       "description": "468",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/468/png/468_0.png",
-      "animatedUrl": "assets/qq_emoji/468/apng/468.png",
+      "staticUrl": "assets/qq/468/png/468_0.png",
+      "animatedUrl": "assets/qq/468/apng/468.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -6788,8 +6788,8 @@
       "id": "469",
       "description": "469",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/469/png/469_0.png",
-      "animatedUrl": "assets/qq_emoji/469/apng/469.png",
+      "staticUrl": "assets/qq/469/png/469_0.png",
+      "animatedUrl": "assets/qq/469/apng/469.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -6803,8 +6803,8 @@
       "id": "470",
       "description": "470",
       "shortCodes": [],
-      "staticUrl": "assets/qq_emoji/470/png/470.png",
-      "animatedUrl": "assets/qq_emoji/470/apng/470.png",
+      "staticUrl": "assets/qq/470/png/470.png",
+      "animatedUrl": "assets/qq/470/apng/470.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -6836,7 +6836,7 @@
       "shortCodes": [
         "401328"
       ],
-      "staticUrl": "assets/qq_emoji/☀/png/☀.png",
+      "staticUrl": "assets/qq/☀/png/☀.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -6900,7 +6900,7 @@
       "shortCodes": [
         "401262"
       ],
-      "staticUrl": "assets/qq_emoji/☕/png/☕.png",
+      "staticUrl": "assets/qq/☕/png/☕.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -6932,7 +6932,7 @@
       "shortCodes": [
         "401181"
       ],
-      "staticUrl": "assets/qq_emoji/☺/png/☺.png",
+      "staticUrl": "assets/qq/☺/png/☺.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -7076,7 +7076,7 @@
       "shortCodes": [
         "401137"
       ],
-      "staticUrl": "assets/qq_emoji/✨/png/✨.png",
+      "staticUrl": "assets/qq/✨/png/✨.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -7108,7 +7108,7 @@
       "shortCodes": [
         "401145"
       ],
-      "staticUrl": "assets/qq_emoji/❔/png/❔.png",
+      "staticUrl": "assets/qq/❔/png/❔.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -7236,7 +7236,7 @@
       "shortCodes": [
         "400116"
       ],
-      "staticUrl": "assets/qq_emoji/🌹/png/🌹.png",
+      "staticUrl": "assets/qq/🌹/png/🌹.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -7252,7 +7252,7 @@
       "shortCodes": [
         "400132"
       ],
-      "staticUrl": "assets/qq_emoji/🍉/png/🍉.png",
+      "staticUrl": "assets/qq/🍉/png/🍉.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -7284,7 +7284,7 @@
       "shortCodes": [
         "400137"
       ],
-      "staticUrl": "assets/qq_emoji/🍎/png/🍎.png",
+      "staticUrl": "assets/qq/🍎/png/🍎.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -7300,7 +7300,7 @@
       "shortCodes": [
         "400142"
       ],
-      "staticUrl": "assets/qq_emoji/🍓/png/🍓.png",
+      "staticUrl": "assets/qq/🍓/png/🍓.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -7364,7 +7364,7 @@
       "shortCodes": [
         "400151"
       ],
-      "staticUrl": "assets/qq_emoji/🍜/png/🍜.png",
+      "staticUrl": "assets/qq/🍜/png/🍜.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -7396,7 +7396,7 @@
       "shortCodes": [
         "400153"
       ],
-      "staticUrl": "assets/qq_emoji/🍞/png/🍞.png",
+      "staticUrl": "assets/qq/🍞/png/🍞.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -7444,7 +7444,7 @@
       "shortCodes": [
         "400162"
       ],
-      "staticUrl": "assets/qq_emoji/🍧/png/🍧.png",
+      "staticUrl": "assets/qq/🍧/png/🍧.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -7492,7 +7492,7 @@
       "shortCodes": [
         "400181"
       ],
-      "staticUrl": "assets/qq_emoji/🍺/png/🍺.png",
+      "staticUrl": "assets/qq/🍺/png/🍺.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -7508,7 +7508,7 @@
       "shortCodes": [
         "400182"
       ],
-      "staticUrl": "assets/qq_emoji/🍻/png/🍻.png",
+      "staticUrl": "assets/qq/🍻/png/🍻.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -7588,7 +7588,7 @@
       "shortCodes": [
         "400198"
       ],
-      "staticUrl": "assets/qq_emoji/🎉/png/🎉.png",
+      "staticUrl": "assets/qq/🎉/png/🎉.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -7764,7 +7764,7 @@
       "shortCodes": [
         "400281"
       ],
-      "staticUrl": "assets/qq_emoji/🏪/png/🏪.png",
+      "staticUrl": "assets/qq/🏪/png/🏪.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -7780,7 +7780,7 @@
       "shortCodes": [
         "400302"
       ],
-      "staticUrl": "assets/qq_emoji/🐎/png/🐎.png",
+      "staticUrl": "assets/qq/🐎/png/🐎.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -7796,7 +7796,7 @@
       "shortCodes": [
         "400308"
       ],
-      "staticUrl": "assets/qq_emoji/🐔/png/🐔.png",
+      "staticUrl": "assets/qq/🐔/png/🐔.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -7844,7 +7844,7 @@
       "shortCodes": [
         "400315"
       ],
-      "staticUrl": "assets/qq_emoji/🐛/png/🐛.png",
+      "staticUrl": "assets/qq/🐛/png/🐛.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -7940,7 +7940,7 @@
       "shortCodes": [
         "400334"
       ],
-      "staticUrl": "assets/qq_emoji/🐮/png/🐮.png",
+      "staticUrl": "assets/qq/🐮/png/🐮.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -7972,7 +7972,7 @@
       "shortCodes": [
         "400339"
       ],
-      "staticUrl": "assets/qq_emoji/🐳/png/🐳.png",
+      "staticUrl": "assets/qq/🐳/png/🐳.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -7988,7 +7988,7 @@
       "shortCodes": [
         "400341"
       ],
-      "staticUrl": "assets/qq_emoji/🐵/png/🐵.png",
+      "staticUrl": "assets/qq/🐵/png/🐵.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -8004,7 +8004,7 @@
       "shortCodes": [
         "400342"
       ],
-      "staticUrl": "assets/qq_emoji/🐶/png/🐶.png",
+      "staticUrl": "assets/qq/🐶/png/🐶.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -8020,7 +8020,7 @@
       "shortCodes": [
         "400343"
       ],
-      "staticUrl": "assets/qq_emoji/🐷/png/🐷.png",
+      "staticUrl": "assets/qq/🐷/png/🐷.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -8036,7 +8036,7 @@
       "shortCodes": [
         "400344"
       ],
-      "staticUrl": "assets/qq_emoji/🐸/png/🐸.png",
+      "staticUrl": "assets/qq/🐸/png/🐸.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -8052,7 +8052,7 @@
       "shortCodes": [
         "400351"
       ],
-      "staticUrl": "assets/qq_emoji/👀/png/👀.png",
+      "staticUrl": "assets/qq/👀/png/👀.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -8116,7 +8116,7 @@
       "shortCodes": [
         "400366"
       ],
-      "staticUrl": "assets/qq_emoji/👆/png/👆.png",
+      "staticUrl": "assets/qq/👆/png/👆.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -8180,7 +8180,7 @@
       "shortCodes": [
         "400390"
       ],
-      "staticUrl": "assets/qq_emoji/👊/png/👊.png",
+      "staticUrl": "assets/qq/👊/png/👊.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -8196,7 +8196,7 @@
       "shortCodes": [
         "400402"
       ],
-      "staticUrl": "assets/qq_emoji/👌/png/👌.png",
+      "staticUrl": "assets/qq/👌/png/👌.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -8212,7 +8212,7 @@
       "shortCodes": [
         "400408"
       ],
-      "staticUrl": "assets/qq_emoji/👍/png/👍.png",
+      "staticUrl": "assets/qq/👍/png/👍.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -8228,7 +8228,7 @@
       "shortCodes": [
         "400414"
       ],
-      "staticUrl": "assets/qq_emoji/👎/png/👎.png",
+      "staticUrl": "assets/qq/👎/png/👎.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -8244,7 +8244,7 @@
       "shortCodes": [
         "400420"
       ],
-      "staticUrl": "assets/qq_emoji/👏/png/👏.png",
+      "staticUrl": "assets/qq/👏/png/👏.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -8388,7 +8388,7 @@
       "shortCodes": [
         "400449"
       ],
-      "staticUrl": "assets/qq_emoji/👢/png/👢.png",
+      "staticUrl": "assets/qq/👢/png/👢.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -8420,7 +8420,7 @@
       "shortCodes": [
         "400453"
       ],
-      "staticUrl": "assets/qq_emoji/👦/png/👦.png",
+      "staticUrl": "assets/qq/👦/png/👦.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -8436,7 +8436,7 @@
       "shortCodes": [
         "400459"
       ],
-      "staticUrl": "assets/qq_emoji/👧/png/👧.png",
+      "staticUrl": "assets/qq/👧/png/👧.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -8484,7 +8484,7 @@
       "shortCodes": [
         "400562"
       ],
-      "staticUrl": "assets/qq_emoji/👻/png/👻.png",
+      "staticUrl": "assets/qq/👻/png/👻.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -8564,7 +8564,7 @@
       "shortCodes": [
         "400611"
       ],
-      "staticUrl": "assets/qq_emoji/💉/png/💉.png",
+      "staticUrl": "assets/qq/💉/png/💉.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -8612,7 +8612,7 @@
       "shortCodes": [
         "400621"
       ],
-      "staticUrl": "assets/qq_emoji/💓/png/💓.png",
+      "staticUrl": "assets/qq/💓/png/💓.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -8628,7 +8628,7 @@
       "shortCodes": [
         "400631"
       ],
-      "staticUrl": "assets/qq_emoji/💝/png/💝.png",
+      "staticUrl": "assets/qq/💝/png/💝.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -8644,7 +8644,7 @@
       "shortCodes": [
         "400637"
       ],
-      "staticUrl": "assets/qq_emoji/💣/png/💣.png",
+      "staticUrl": "assets/qq/💣/png/💣.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -8660,7 +8660,7 @@
       "shortCodes": [
         "400638"
       ],
-      "staticUrl": "assets/qq_emoji/💤/png/💤.png",
+      "staticUrl": "assets/qq/💤/png/💤.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -8676,7 +8676,7 @@
       "shortCodes": [
         "400640"
       ],
-      "staticUrl": "assets/qq_emoji/💦/png/💦.png",
+      "staticUrl": "assets/qq/💦/png/💦.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -8692,7 +8692,7 @@
       "shortCodes": [
         "400642"
       ],
-      "staticUrl": "assets/qq_emoji/💨/png/💨.png",
+      "staticUrl": "assets/qq/💨/png/💨.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -8708,7 +8708,7 @@
       "shortCodes": [
         "400643"
       ],
-      "staticUrl": "assets/qq_emoji/💩/png/💩.png",
+      "staticUrl": "assets/qq/💩/png/💩.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -8724,7 +8724,7 @@
       "shortCodes": [
         "400644"
       ],
-      "staticUrl": "assets/qq_emoji/💪/png/💪.png",
+      "staticUrl": "assets/qq/💪/png/💪.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -8804,7 +8804,7 @@
       "shortCodes": [
         "400714"
       ],
-      "staticUrl": "assets/qq_emoji/📫/png/📫.png",
+      "staticUrl": "assets/qq/📫/png/📫.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -8900,7 +8900,7 @@
       "shortCodes": [
         "400768"
       ],
-      "staticUrl": "assets/qq_emoji/🔥/png/🔥.png",
+      "staticUrl": "assets/qq/🔥/png/🔥.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -8916,7 +8916,7 @@
       "shortCodes": [
         "400774"
       ],
-      "staticUrl": "assets/qq_emoji/🔫/png/🔫.png",
+      "staticUrl": "assets/qq/🔫/png/🔫.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -8932,7 +8932,7 @@
       "shortCodes": [
         "400823"
       ],
-      "staticUrl": "assets/qq_emoji/😁/png/😁.png",
+      "staticUrl": "assets/qq/😁/png/😁.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -8948,7 +8948,7 @@
       "shortCodes": [
         "400824"
       ],
-      "staticUrl": "assets/qq_emoji/😂/png/😂.png",
+      "staticUrl": "assets/qq/😂/png/😂.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -8964,7 +8964,7 @@
       "shortCodes": [
         "400826"
       ],
-      "staticUrl": "assets/qq_emoji/😄/png/😄.png",
+      "staticUrl": "assets/qq/😄/png/😄.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -8996,7 +8996,7 @@
       "shortCodes": [
         "400832"
       ],
-      "staticUrl": "assets/qq_emoji/😊/png/😊.png",
+      "staticUrl": "assets/qq/😊/png/😊.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -9012,7 +9012,7 @@
       "shortCodes": [
         "400834"
       ],
-      "staticUrl": "assets/qq_emoji/😌/png/😌.png",
+      "staticUrl": "assets/qq/😌/png/😌.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -9028,7 +9028,7 @@
       "shortCodes": [
         "400835"
       ],
-      "staticUrl": "assets/qq_emoji/😍/png/😍.png",
+      "staticUrl": "assets/qq/😍/png/😍.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -9044,7 +9044,7 @@
       "shortCodes": [
         "400837"
       ],
-      "staticUrl": "assets/qq_emoji/😏/png/😏.png",
+      "staticUrl": "assets/qq/😏/png/😏.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -9060,7 +9060,7 @@
       "shortCodes": [
         "400840"
       ],
-      "staticUrl": "assets/qq_emoji/😒/png/😒.png",
+      "staticUrl": "assets/qq/😒/png/😒.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -9076,7 +9076,7 @@
       "shortCodes": [
         "400841"
       ],
-      "staticUrl": "assets/qq_emoji/😓/png/😓.png",
+      "staticUrl": "assets/qq/😓/png/😓.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -9092,7 +9092,7 @@
       "shortCodes": [
         "400842"
       ],
-      "staticUrl": "assets/qq_emoji/😔/png/😔.png",
+      "staticUrl": "assets/qq/😔/png/😔.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -9108,7 +9108,7 @@
       "shortCodes": [
         "400846"
       ],
-      "staticUrl": "assets/qq_emoji/😘/png/😘.png",
+      "staticUrl": "assets/qq/😘/png/😘.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -9124,7 +9124,7 @@
       "shortCodes": [
         "400848"
       ],
-      "staticUrl": "assets/qq_emoji/😚/png/😚.png",
+      "staticUrl": "assets/qq/😚/png/😚.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -9140,7 +9140,7 @@
       "shortCodes": [
         "400850"
       ],
-      "staticUrl": "assets/qq_emoji/😜/png/😜.png",
+      "staticUrl": "assets/qq/😜/png/😜.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -9156,7 +9156,7 @@
       "shortCodes": [
         "400851"
       ],
-      "staticUrl": "assets/qq_emoji/😝/png/😝.png",
+      "staticUrl": "assets/qq/😝/png/😝.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -9172,7 +9172,7 @@
       "shortCodes": [
         "400867"
       ],
-      "staticUrl": "assets/qq_emoji/😭/png/😭.png",
+      "staticUrl": "assets/qq/😭/png/😭.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -9188,7 +9188,7 @@
       "shortCodes": [
         "400870"
       ],
-      "staticUrl": "assets/qq_emoji/😰/png/😰.png",
+      "staticUrl": "assets/qq/😰/png/😰.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -9204,7 +9204,7 @@
       "shortCodes": [
         "400871"
       ],
-      "staticUrl": "assets/qq_emoji/😱/png/😱.png",
+      "staticUrl": "assets/qq/😱/png/😱.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -9220,7 +9220,7 @@
       "shortCodes": [
         "400873"
       ],
-      "staticUrl": "assets/qq_emoji/😳/png/😳.png",
+      "staticUrl": "assets/qq/😳/png/😳.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -9236,7 +9236,7 @@
       "shortCodes": [
         "400396"
       ],
-      "staticUrl": "assets/qq_emoji/🙏/png/🙏.png",
+      "staticUrl": "assets/qq/🙏/png/🙏.png",
       "isHide": false,
       "packageId": "0",
       "meta": {
@@ -9364,7 +9364,7 @@
       "shortCodes": [
         "400987"
       ],
-      "staticUrl": "assets/qq_emoji/🚬/png/🚬.png",
+      "staticUrl": "assets/qq/🚬/png/🚬.png",
       "isHide": false,
       "packageId": "0",
       "meta": {

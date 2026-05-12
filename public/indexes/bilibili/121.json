@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "121",
   "name": "星座系列：天秤座",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/7d44486c4f70f4959c7ee3fc325a41f4ca911e66.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[天秤座01_完美]"
       ],
-      "staticUrl": "assets/bilibili_emoji/121/2469.png",
+      "staticUrl": "assets/bilibili/121/2469.png",
       "isHide": false,
       "packageId": "121",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[天秤座01_奥利给]"
       ],
-      "staticUrl": "assets/bilibili_emoji/121/2470.png",
+      "staticUrl": "assets/bilibili/121/2470.png",
       "isHide": false,
       "packageId": "121",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[天秤座01_打你]"
       ],
-      "staticUrl": "assets/bilibili_emoji/121/2471.png",
+      "staticUrl": "assets/bilibili/121/2471.png",
       "isHide": false,
       "packageId": "121",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[天秤座01_还没复习]"
       ],
-      "staticUrl": "assets/bilibili_emoji/121/2472.png",
+      "staticUrl": "assets/bilibili/121/2472.png",
       "isHide": false,
       "packageId": "121",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[天秤座01_纠结]"
       ],
-      "staticUrl": "assets/bilibili_emoji/121/2473.png",
+      "staticUrl": "assets/bilibili/121/2473.png",
       "isHide": false,
       "packageId": "121",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[天秤座01_失落]"
       ],
-      "staticUrl": "assets/bilibili_emoji/121/2474.png",
+      "staticUrl": "assets/bilibili/121/2474.png",
       "isHide": false,
       "packageId": "121",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[天秤座01_叹气]"
       ],
-      "staticUrl": "assets/bilibili_emoji/121/2475.png",
+      "staticUrl": "assets/bilibili/121/2475.png",
       "isHide": false,
       "packageId": "121",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[天秤座01_贴贴]"
       ],
-      "staticUrl": "assets/bilibili_emoji/121/2476.png",
+      "staticUrl": "assets/bilibili/121/2476.png",
       "isHide": false,
       "packageId": "121",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[天秤座01_我都可以]"
       ],
-      "staticUrl": "assets/bilibili_emoji/121/2477.png",
+      "staticUrl": "assets/bilibili/121/2477.png",
       "isHide": false,
       "packageId": "121",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[天秤座01_心动]"
       ],
-      "staticUrl": "assets/bilibili_emoji/121/2478.png",
+      "staticUrl": "assets/bilibili/121/2478.png",
       "isHide": false,
       "packageId": "121",
       "meta": {

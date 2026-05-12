@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "150",
   "name": "欧皇",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/e64281be4f329d5ea85843eeb14fae6ee2166bfc.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[欧皇_666]"
       ],
-      "staticUrl": "assets/bilibili_emoji/150/2828.png",
+      "staticUrl": "assets/bilibili/150/2828.png",
       "isHide": false,
       "packageId": "150",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[欧皇_lucky]"
       ],
-      "staticUrl": "assets/bilibili_emoji/150/2829.png",
+      "staticUrl": "assets/bilibili/150/2829.png",
       "isHide": false,
       "packageId": "150",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[欧皇_不愧是我]"
       ],
-      "staticUrl": "assets/bilibili_emoji/150/2830.png",
+      "staticUrl": "assets/bilibili/150/2830.png",
       "isHide": false,
       "packageId": "150",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[欧皇_大佬]"
       ],
-      "staticUrl": "assets/bilibili_emoji/150/2831.png",
+      "staticUrl": "assets/bilibili/150/2831.png",
       "isHide": false,
       "packageId": "150",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[欧皇_好家伙]"
       ],
-      "staticUrl": "assets/bilibili_emoji/150/2832.png",
+      "staticUrl": "assets/bilibili/150/2832.png",
       "isHide": false,
       "packageId": "150",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[欧皇_欧泡时间]"
       ],
-      "staticUrl": "assets/bilibili_emoji/150/2833.png",
+      "staticUrl": "assets/bilibili/150/2833.png",
       "isHide": false,
       "packageId": "150",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[欧皇_欧气喷雾]"
       ],
-      "staticUrl": "assets/bilibili_emoji/150/2834.png",
+      "staticUrl": "assets/bilibili/150/2834.png",
       "isHide": false,
       "packageId": "150",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[欧皇_脱非入欧]"
       ],
-      "staticUrl": "assets/bilibili_emoji/150/2835.png",
+      "staticUrl": "assets/bilibili/150/2835.png",
       "isHide": false,
       "packageId": "150",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[欧皇_我可以]"
       ],
-      "staticUrl": "assets/bilibili_emoji/150/2836.png",
+      "staticUrl": "assets/bilibili/150/2836.png",
       "isHide": false,
       "packageId": "150",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[欧皇_嚣张]"
       ],
-      "staticUrl": "assets/bilibili_emoji/150/2837.png",
+      "staticUrl": "assets/bilibili/150/2837.png",
       "isHide": false,
       "packageId": "150",
       "meta": {

@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "268",
   "name": "白神遥Haruka",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/ef7a7baa9c84d838f7d1bca65ea357a0cc9cc2de.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[白神遥_5835]"
       ],
-      "staticUrl": "assets/bilibili_emoji/268/4461.png",
+      "staticUrl": "assets/bilibili/268/4461.png",
       "isHide": false,
       "packageId": "268",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[白神遥_阿巴阿巴]"
       ],
-      "staticUrl": "assets/bilibili_emoji/268/4462.png",
+      "staticUrl": "assets/bilibili/268/4462.png",
       "isHide": false,
       "packageId": "268",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[白神遥_豹怒]"
       ],
-      "staticUrl": "assets/bilibili_emoji/268/4463.png",
+      "staticUrl": "assets/bilibili/268/4463.png",
       "isHide": false,
       "packageId": "268",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[白神遥_豹笑]"
       ],
-      "staticUrl": "assets/bilibili_emoji/268/4464.png",
+      "staticUrl": "assets/bilibili/268/4464.png",
       "isHide": false,
       "packageId": "268",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[白神遥_kusa]"
       ],
-      "staticUrl": "assets/bilibili_emoji/268/4465.png",
+      "staticUrl": "assets/bilibili/268/4465.png",
       "isHide": false,
       "packageId": "268",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[白神遥_吃瓜]"
       ],
-      "staticUrl": "assets/bilibili_emoji/268/4466.png",
+      "staticUrl": "assets/bilibili/268/4466.png",
       "isHide": false,
       "packageId": "268",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[白神遥_吃惊]"
       ],
-      "staticUrl": "assets/bilibili_emoji/268/4467.png",
+      "staticUrl": "assets/bilibili/268/4467.png",
       "isHide": false,
       "packageId": "268",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[白神遥_吃桃子]"
       ],
-      "staticUrl": "assets/bilibili_emoji/268/4468.png",
+      "staticUrl": "assets/bilibili/268/4468.png",
       "isHide": false,
       "packageId": "268",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[白神遥_呆呆]"
       ],
-      "staticUrl": "assets/bilibili_emoji/268/4469.png",
+      "staticUrl": "assets/bilibili/268/4469.png",
       "isHide": false,
       "packageId": "268",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[白神遥_点赞]"
       ],
-      "staticUrl": "assets/bilibili_emoji/268/4470.png",
+      "staticUrl": "assets/bilibili/268/4470.png",
       "isHide": false,
       "packageId": "268",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[白神遥_好耶]"
       ],
-      "staticUrl": "assets/bilibili_emoji/268/4471.png",
+      "staticUrl": "assets/bilibili/268/4471.png",
       "isHide": false,
       "packageId": "268",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[白神遥_滑稽]"
       ],
-      "staticUrl": "assets/bilibili_emoji/268/4472.png",
+      "staticUrl": "assets/bilibili/268/4472.png",
       "isHide": false,
       "packageId": "268",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[白神遥_加油]"
       ],
-      "staticUrl": "assets/bilibili_emoji/268/4473.png",
+      "staticUrl": "assets/bilibili/268/4473.png",
       "isHide": false,
       "packageId": "268",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[白神遥_骄傲]"
       ],
-      "staticUrl": "assets/bilibili_emoji/268/4474.png",
+      "staticUrl": "assets/bilibili/268/4474.png",
       "isHide": false,
       "packageId": "268",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[白神遥_哭哭]"
       ],
-      "staticUrl": "assets/bilibili_emoji/268/4475.png",
+      "staticUrl": "assets/bilibili/268/4475.png",
       "isHide": false,
       "packageId": "268",
       "meta": {
@@ -234,7 +234,7 @@
       "shortCodes": [
         "[白神遥_柠檬]"
       ],
-      "staticUrl": "assets/bilibili_emoji/268/4476.png",
+      "staticUrl": "assets/bilibili/268/4476.png",
       "isHide": false,
       "packageId": "268",
       "meta": {
@@ -249,7 +249,7 @@
       "shortCodes": [
         "[白神遥_让我康康]"
       ],
-      "staticUrl": "assets/bilibili_emoji/268/4477.png",
+      "staticUrl": "assets/bilibili/268/4477.png",
       "isHide": false,
       "packageId": "268",
       "meta": {
@@ -264,7 +264,7 @@
       "shortCodes": [
         "[白神遥_跳脸]"
       ],
-      "staticUrl": "assets/bilibili_emoji/268/4478.png",
+      "staticUrl": "assets/bilibili/268/4478.png",
       "isHide": false,
       "packageId": "268",
       "meta": {
@@ -279,7 +279,7 @@
       "shortCodes": [
         "[白神遥_晚安]"
       ],
-      "staticUrl": "assets/bilibili_emoji/268/4479.png",
+      "staticUrl": "assets/bilibili/268/4479.png",
       "isHide": false,
       "packageId": "268",
       "meta": {
@@ -294,7 +294,7 @@
       "shortCodes": [
         "[白神遥_问号]"
       ],
-      "staticUrl": "assets/bilibili_emoji/268/4480.png",
+      "staticUrl": "assets/bilibili/268/4480.png",
       "isHide": false,
       "packageId": "268",
       "meta": {

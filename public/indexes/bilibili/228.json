@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "228",
   "name": "来古弥新",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/d5a23a3103cb90d2d60574c19758ec889358e19b.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[来古弥新_放鸽桃]"
       ],
-      "staticUrl": "assets/bilibili_emoji/228/4001.png",
+      "staticUrl": "assets/bilibili/228/4001.png",
       "isHide": false,
       "packageId": "228",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[来古弥新_思考桃]"
       ],
-      "staticUrl": "assets/bilibili_emoji/228/4002.png",
+      "staticUrl": "assets/bilibili/228/4002.png",
       "isHide": false,
       "packageId": "228",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[来古弥新_叹气桃]"
       ],
-      "staticUrl": "assets/bilibili_emoji/228/4003.png",
+      "staticUrl": "assets/bilibili/228/4003.png",
       "isHide": false,
       "packageId": "228",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[来古弥新_贫穷桃]"
       ],
-      "staticUrl": "assets/bilibili_emoji/228/4004.png",
+      "staticUrl": "assets/bilibili/228/4004.png",
       "isHide": false,
       "packageId": "228",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[来古弥新_看穿桃]"
       ],
-      "staticUrl": "assets/bilibili_emoji/228/4005.png",
+      "staticUrl": "assets/bilibili/228/4005.png",
       "isHide": false,
       "packageId": "228",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[来古弥新_期待桃]"
       ],
-      "staticUrl": "assets/bilibili_emoji/228/4006.png",
+      "staticUrl": "assets/bilibili/228/4006.png",
       "isHide": false,
       "packageId": "228",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[来古弥新_端桃大师]"
       ],
-      "staticUrl": "assets/bilibili_emoji/228/4007.png",
+      "staticUrl": "assets/bilibili/228/4007.png",
       "isHide": false,
       "packageId": "228",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[来古弥新_桃跑]"
       ],
-      "staticUrl": "assets/bilibili_emoji/228/4008.png",
+      "staticUrl": "assets/bilibili/228/4008.png",
       "isHide": false,
       "packageId": "228",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[来古弥新_吃桃群众]"
       ],
-      "staticUrl": "assets/bilibili_emoji/228/4009.png",
+      "staticUrl": "assets/bilibili/228/4009.png",
       "isHide": false,
       "packageId": "228",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[来古弥新_爱你桃]"
       ],
-      "staticUrl": "assets/bilibili_emoji/228/4010.png",
+      "staticUrl": "assets/bilibili/228/4010.png",
       "isHide": false,
       "packageId": "228",
       "meta": {

@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "207",
   "name": "出游季",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/dcfdaa639ba1dc991edf133dfc16a1ebb5f9bacc.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[出游季_棒棒哒]"
       ],
-      "staticUrl": "assets/bilibili_emoji/207/3656.png",
+      "staticUrl": "assets/bilibili/207/3656.png",
       "isHide": false,
       "packageId": "207",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[出游季_崩溃]"
       ],
-      "staticUrl": "assets/bilibili_emoji/207/3657.png",
+      "staticUrl": "assets/bilibili/207/3657.png",
       "isHide": false,
       "packageId": "207",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[出游季_比心]"
       ],
-      "staticUrl": "assets/bilibili_emoji/207/3658.png",
+      "staticUrl": "assets/bilibili/207/3658.png",
       "isHide": false,
       "packageId": "207",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[出游季_出游]"
       ],
-      "staticUrl": "assets/bilibili_emoji/207/3659.png",
+      "staticUrl": "assets/bilibili/207/3659.png",
       "isHide": false,
       "packageId": "207",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[出游季_达咩]"
       ],
-      "staticUrl": "assets/bilibili_emoji/207/3660.png",
+      "staticUrl": "assets/bilibili/207/3660.png",
       "isHide": false,
       "packageId": "207",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[出游季_调皮]"
       ],
-      "staticUrl": "assets/bilibili_emoji/207/3661.png",
+      "staticUrl": "assets/bilibili/207/3661.png",
       "isHide": false,
       "packageId": "207",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[出游季_感受宇宙]"
       ],
-      "staticUrl": "assets/bilibili_emoji/207/3662.png",
+      "staticUrl": "assets/bilibili/207/3662.png",
       "isHide": false,
       "packageId": "207",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[出游季_害羞]"
       ],
-      "staticUrl": "assets/bilibili_emoji/207/3663.png",
+      "staticUrl": "assets/bilibili/207/3663.png",
       "isHide": false,
       "packageId": "207",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[出游季_投币]"
       ],
-      "staticUrl": "assets/bilibili_emoji/207/3664.png",
+      "staticUrl": "assets/bilibili/207/3664.png",
       "isHide": false,
       "packageId": "207",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[出游季_无欲无求]"
       ],
-      "staticUrl": "assets/bilibili_emoji/207/3665.png",
+      "staticUrl": "assets/bilibili/207/3665.png",
       "isHide": false,
       "packageId": "207",
       "meta": {

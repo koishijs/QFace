@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "19",
   "name": "一人之下",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/cbfa3610c1dcb794f511b307603bfb52c235a0da.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[一人之下_机智]"
       ],
-      "staticUrl": "assets/bilibili_emoji/19/370.png",
+      "staticUrl": "assets/bilibili/19/370.png",
       "isHide": false,
       "packageId": "19",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[一人之下_刀]"
       ],
-      "staticUrl": "assets/bilibili_emoji/19/371.png",
+      "staticUrl": "assets/bilibili/19/371.png",
       "isHide": false,
       "packageId": "19",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[一人之下_埋了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/19/372.png",
+      "staticUrl": "assets/bilibili/19/372.png",
       "isHide": false,
       "packageId": "19",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[一人之下_蟑螂]"
       ],
-      "staticUrl": "assets/bilibili_emoji/19/373.png",
+      "staticUrl": "assets/bilibili/19/373.png",
       "isHide": false,
       "packageId": "19",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[一人之下_抽打]"
       ],
-      "staticUrl": "assets/bilibili_emoji/19/374.png",
+      "staticUrl": "assets/bilibili/19/374.png",
       "isHide": false,
       "packageId": "19",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[一人之下_燃]"
       ],
-      "staticUrl": "assets/bilibili_emoji/19/375.png",
+      "staticUrl": "assets/bilibili/19/375.png",
       "isHide": false,
       "packageId": "19",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[一人之下_超凶]"
       ],
-      "staticUrl": "assets/bilibili_emoji/19/376.png",
+      "staticUrl": "assets/bilibili/19/376.png",
       "isHide": false,
       "packageId": "19",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[一人之下_干翻苍穹]"
       ],
-      "staticUrl": "assets/bilibili_emoji/19/377.png",
+      "staticUrl": "assets/bilibili/19/377.png",
       "isHide": false,
       "packageId": "19",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[一人之下_糟了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/19/378.png",
+      "staticUrl": "assets/bilibili/19/378.png",
       "isHide": false,
       "packageId": "19",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[一人之下_孙贼]"
       ],
-      "staticUrl": "assets/bilibili_emoji/19/379.png",
+      "staticUrl": "assets/bilibili/19/379.png",
       "isHide": false,
       "packageId": "19",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[一人之下_养生]"
       ],
-      "staticUrl": "assets/bilibili_emoji/19/380.png",
+      "staticUrl": "assets/bilibili/19/380.png",
       "isHide": false,
       "packageId": "19",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[一人之下_瘫]"
       ],
-      "staticUrl": "assets/bilibili_emoji/19/381.png",
+      "staticUrl": "assets/bilibili/19/381.png",
       "isHide": false,
       "packageId": "19",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[一人之下_打call]"
       ],
-      "staticUrl": "assets/bilibili_emoji/19/382.png",
+      "staticUrl": "assets/bilibili/19/382.png",
       "isHide": false,
       "packageId": "19",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[一人之下_比心]"
       ],
-      "staticUrl": "assets/bilibili_emoji/19/383.png",
+      "staticUrl": "assets/bilibili/19/383.png",
       "isHide": false,
       "packageId": "19",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[一人之下_摸头]"
       ],
-      "staticUrl": "assets/bilibili_emoji/19/384.png",
+      "staticUrl": "assets/bilibili/19/384.png",
       "isHide": false,
       "packageId": "19",
       "meta": {
@@ -234,7 +234,7 @@
       "shortCodes": [
         "[一人之下_八卦]"
       ],
-      "staticUrl": "assets/bilibili_emoji/19/385.png",
+      "staticUrl": "assets/bilibili/19/385.png",
       "isHide": false,
       "packageId": "19",
       "meta": {
@@ -249,7 +249,7 @@
       "shortCodes": [
         "[一人之下_狐狸]"
       ],
-      "staticUrl": "assets/bilibili_emoji/19/386.png",
+      "staticUrl": "assets/bilibili/19/386.png",
       "isHide": false,
       "packageId": "19",
       "meta": {
@@ -264,7 +264,7 @@
       "shortCodes": [
         "[一人之下_承让]"
       ],
-      "staticUrl": "assets/bilibili_emoji/19/387.png",
+      "staticUrl": "assets/bilibili/19/387.png",
       "isHide": false,
       "packageId": "19",
       "meta": {
@@ -279,7 +279,7 @@
       "shortCodes": [
         "[一人之下_哎？]"
       ],
-      "staticUrl": "assets/bilibili_emoji/19/388.png",
+      "staticUrl": "assets/bilibili/19/388.png",
       "isHide": false,
       "packageId": "19",
       "meta": {
@@ -294,7 +294,7 @@
       "shortCodes": [
         "[一人之下_叹气]"
       ],
-      "staticUrl": "assets/bilibili_emoji/19/389.png",
+      "staticUrl": "assets/bilibili/19/389.png",
       "isHide": false,
       "packageId": "19",
       "meta": {
@@ -309,7 +309,7 @@
       "shortCodes": [
         "[一人之下_雷]"
       ],
-      "staticUrl": "assets/bilibili_emoji/19/390.png",
+      "staticUrl": "assets/bilibili/19/390.png",
       "isHide": false,
       "packageId": "19",
       "meta": {

@@ -14,7 +14,7 @@ import type { BilibiliEmojiItem } from '../docs/types/BilibiliEmoji'
  */
 
 const ROOT_DIR = resolve(import.meta.dirname, '..')
-const OUTPUT_DIR = resolve(ROOT_DIR, 'public/assets/bilibili_emoji')
+const OUTPUT_DIR = resolve(ROOT_DIR, 'public/assets/bilibili')
 const OUTPUT_INDEX = resolve(OUTPUT_DIR, '_index.json')
 
 /** 扫描的 package ID 最大值 */

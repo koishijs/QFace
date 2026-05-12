@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "365",
   "name": "星宫汐",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/e4e28eea8f19a2c45d43fff7fa9c283ad2c15a4f.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[星宫汐_吃桃]"
       ],
-      "staticUrl": "assets/bilibili_emoji/365/6007.png",
+      "staticUrl": "assets/bilibili/365/6007.png",
       "isHide": false,
       "packageId": "365",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[星宫汐_八成攻]"
       ],
-      "staticUrl": "assets/bilibili_emoji/365/6008.png",
+      "staticUrl": "assets/bilibili/365/6008.png",
       "isHide": false,
       "packageId": "365",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[星宫汐_不要指望]"
       ],
-      "staticUrl": "assets/bilibili_emoji/365/6009.png",
+      "staticUrl": "assets/bilibili/365/6009.png",
       "isHide": false,
       "packageId": "365",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[星宫汐_好耶]"
       ],
-      "staticUrl": "assets/bilibili_emoji/365/6010.png",
+      "staticUrl": "assets/bilibili/365/6010.png",
       "isHide": false,
       "packageId": "365",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[星宫汐_叉出去]"
       ],
-      "staticUrl": "assets/bilibili_emoji/365/6011.png",
+      "staticUrl": "assets/bilibili/365/6011.png",
       "isHide": false,
       "packageId": "365",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[星宫汐_泪目]"
       ],
-      "staticUrl": "assets/bilibili_emoji/365/6012.png",
+      "staticUrl": "assets/bilibili/365/6012.png",
       "isHide": false,
       "packageId": "365",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[星宫汐_没什么事]"
       ],
-      "staticUrl": "assets/bilibili_emoji/365/6013.png",
+      "staticUrl": "assets/bilibili/365/6013.png",
       "isHide": false,
       "packageId": "365",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[星宫汐_摸鱼]"
       ],
-      "staticUrl": "assets/bilibili_emoji/365/6014.png",
+      "staticUrl": "assets/bilibili/365/6014.png",
       "isHide": false,
       "packageId": "365",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[星宫汐_企鹅]"
       ],
-      "staticUrl": "assets/bilibili_emoji/365/6015.png",
+      "staticUrl": "assets/bilibili/365/6015.png",
       "isHide": false,
       "packageId": "365",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[星宫汐_企飞]"
       ],
-      "staticUrl": "assets/bilibili_emoji/365/6016.png",
+      "staticUrl": "assets/bilibili/365/6016.png",
       "isHide": false,
       "packageId": "365",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[星宫汐_塔塔开]"
       ],
-      "staticUrl": "assets/bilibili_emoji/365/6017.png",
+      "staticUrl": "assets/bilibili/365/6017.png",
       "isHide": false,
       "packageId": "365",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[星宫汐_贴贴]"
       ],
-      "staticUrl": "assets/bilibili_emoji/365/6018.png",
+      "staticUrl": "assets/bilibili/365/6018.png",
       "isHide": false,
       "packageId": "365",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[星宫汐_完全懂了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/365/6019.png",
+      "staticUrl": "assets/bilibili/365/6019.png",
       "isHide": false,
       "packageId": "365",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[星宫汐_问号]"
       ],
-      "staticUrl": "assets/bilibili_emoji/365/6020.png",
+      "staticUrl": "assets/bilibili/365/6020.png",
       "isHide": false,
       "packageId": "365",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[星宫汐_笑死]"
       ],
-      "staticUrl": "assets/bilibili_emoji/365/6021.png",
+      "staticUrl": "assets/bilibili/365/6021.png",
       "isHide": false,
       "packageId": "365",
       "meta": {

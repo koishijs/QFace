@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "64",
   "name": "如果历史是一群喵",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/9012d5f501ffd0ae15ba2cd730b0e38c25a037d8.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[一群喵_害羞]"
       ],
-      "staticUrl": "assets/bilibili_emoji/64/1617.png",
+      "staticUrl": "assets/bilibili/64/1617.png",
       "isHide": false,
       "packageId": "64",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[一群喵_汗]"
       ],
-      "staticUrl": "assets/bilibili_emoji/64/1618.png",
+      "staticUrl": "assets/bilibili/64/1618.png",
       "isHide": false,
       "packageId": "64",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[一群喵_惊吓]"
       ],
-      "staticUrl": "assets/bilibili_emoji/64/1619.png",
+      "staticUrl": "assets/bilibili/64/1619.png",
       "isHide": false,
       "packageId": "64",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[一群喵_哭]"
       ],
-      "staticUrl": "assets/bilibili_emoji/64/1620.png",
+      "staticUrl": "assets/bilibili/64/1620.png",
       "isHide": false,
       "packageId": "64",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[一群喵_困惑]"
       ],
-      "staticUrl": "assets/bilibili_emoji/64/1621.png",
+      "staticUrl": "assets/bilibili/64/1621.png",
       "isHide": false,
       "packageId": "64",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[一群喵_生气]"
       ],
-      "staticUrl": "assets/bilibili_emoji/64/1622.png",
+      "staticUrl": "assets/bilibili/64/1622.png",
       "isHide": false,
       "packageId": "64",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[一群喵_喜欢]"
       ],
-      "staticUrl": "assets/bilibili_emoji/64/1623.png",
+      "staticUrl": "assets/bilibili/64/1623.png",
       "isHide": false,
       "packageId": "64",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[一群喵_笑]"
       ],
-      "staticUrl": "assets/bilibili_emoji/64/1624.png",
+      "staticUrl": "assets/bilibili/64/1624.png",
       "isHide": false,
       "packageId": "64",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[一群喵_兴奋]"
       ],
-      "staticUrl": "assets/bilibili_emoji/64/1625.png",
+      "staticUrl": "assets/bilibili/64/1625.png",
       "isHide": false,
       "packageId": "64",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[一群喵_阴险]"
       ],
-      "staticUrl": "assets/bilibili_emoji/64/1626.png",
+      "staticUrl": "assets/bilibili/64/1626.png",
       "isHide": false,
       "packageId": "64",
       "meta": {

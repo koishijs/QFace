@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "152",
   "name": "最强蜗牛",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/e6c6e625b44bc18cb58e2a77f92a06638d447ed4.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[最强蜗牛_闭嘴]"
       ],
-      "staticUrl": "assets/bilibili_emoji/152/2854.png",
+      "staticUrl": "assets/bilibili/152/2854.png",
       "isHide": false,
       "packageId": "152",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[最强蜗牛_吃]"
       ],
-      "staticUrl": "assets/bilibili_emoji/152/2855.png",
+      "staticUrl": "assets/bilibili/152/2855.png",
       "isHide": false,
       "packageId": "152",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[最强蜗牛_喝饮料]"
       ],
-      "staticUrl": "assets/bilibili_emoji/152/2856.png",
+      "staticUrl": "assets/bilibili/152/2856.png",
       "isHide": false,
       "packageId": "152",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[最强蜗牛_奸笑]"
       ],
-      "staticUrl": "assets/bilibili_emoji/152/2857.png",
+      "staticUrl": "assets/bilibili/152/2857.png",
       "isHide": false,
       "packageId": "152",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[最强蜗牛_哭笑]"
       ],
-      "staticUrl": "assets/bilibili_emoji/152/2858.png",
+      "staticUrl": "assets/bilibili/152/2858.png",
       "isHide": false,
       "packageId": "152",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[最强蜗牛_怒骂]"
       ],
-      "staticUrl": "assets/bilibili_emoji/152/2859.png",
+      "staticUrl": "assets/bilibili/152/2859.png",
       "isHide": false,
       "packageId": "152",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[最强蜗牛_丧]"
       ],
-      "staticUrl": "assets/bilibili_emoji/152/2860.png",
+      "staticUrl": "assets/bilibili/152/2860.png",
       "isHide": false,
       "packageId": "152",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[最强蜗牛_睡]"
       ],
-      "staticUrl": "assets/bilibili_emoji/152/2861.png",
+      "staticUrl": "assets/bilibili/152/2861.png",
       "isHide": false,
       "packageId": "152",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[最强蜗牛_调皮]"
       ],
-      "staticUrl": "assets/bilibili_emoji/152/2862.png",
+      "staticUrl": "assets/bilibili/152/2862.png",
       "isHide": false,
       "packageId": "152",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[最强蜗牛_笑]"
       ],
-      "staticUrl": "assets/bilibili_emoji/152/2863.png",
+      "staticUrl": "assets/bilibili/152/2863.png",
       "isHide": false,
       "packageId": "152",
       "meta": {

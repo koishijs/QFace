@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "293",
   "name": "LPL出征",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/6a8a125b695d806613df40c2881dbdc053a0860a.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[LPL_赞]"
       ],
-      "staticUrl": "assets/bilibili_emoji/293/4832.png",
+      "staticUrl": "assets/bilibili/293/4832.png",
       "isHide": false,
       "packageId": "293",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[LPL_GG]"
       ],
-      "staticUrl": "assets/bilibili_emoji/293/4833.png",
+      "staticUrl": "assets/bilibili/293/4833.png",
       "isHide": false,
       "packageId": "293",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[LPL_YYDS]"
       ],
-      "staticUrl": "assets/bilibili_emoji/293/4834.png",
+      "staticUrl": "assets/bilibili/293/4834.png",
       "isHide": false,
       "packageId": "293",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[LPL_加油]"
       ],
-      "staticUrl": "assets/bilibili_emoji/293/4835.png",
+      "staticUrl": "assets/bilibili/293/4835.png",
       "isHide": false,
       "packageId": "293",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[LPL_来吧]"
       ],
-      "staticUrl": "assets/bilibili_emoji/293/4836.png",
+      "staticUrl": "assets/bilibili/293/4836.png",
       "isHide": false,
       "packageId": "293",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[LPL_跑]"
       ],
-      "staticUrl": "assets/bilibili_emoji/293/4837.png",
+      "staticUrl": "assets/bilibili/293/4837.png",
       "isHide": false,
       "packageId": "293",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[LPL_鲨]"
       ],
-      "staticUrl": "assets/bilibili_emoji/293/4838.png",
+      "staticUrl": "assets/bilibili/293/4838.png",
       "isHide": false,
       "packageId": "293",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[LPL_冲]"
       ],
-      "staticUrl": "assets/bilibili_emoji/293/4839.png",
+      "staticUrl": "assets/bilibili/293/4839.png",
       "isHide": false,
       "packageId": "293",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[LPL_五杀]"
       ],
-      "staticUrl": "assets/bilibili_emoji/293/4840.png",
+      "staticUrl": "assets/bilibili/293/4840.png",
       "isHide": false,
       "packageId": "293",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[LPL_喜欢]"
       ],
-      "staticUrl": "assets/bilibili_emoji/293/4841.png",
+      "staticUrl": "assets/bilibili/293/4841.png",
       "isHide": false,
       "packageId": "293",
       "meta": {

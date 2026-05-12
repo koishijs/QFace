@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "10",
   "name": "小A和小B",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/1dfe73e00f40ca42789602e8ee53b58c4f75a838.jpg",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[小A和小B_喝茶]"
       ],
-      "staticUrl": "assets/bilibili_emoji/10/212.png",
+      "staticUrl": "assets/bilibili/10/212.png",
       "isHide": false,
       "packageId": "10",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[小A和小B_报警]"
       ],
-      "staticUrl": "assets/bilibili_emoji/10/213.png",
+      "staticUrl": "assets/bilibili/10/213.png",
       "isHide": false,
       "packageId": "10",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[小A和小B_大哭]"
       ],
-      "staticUrl": "assets/bilibili_emoji/10/214.png",
+      "staticUrl": "assets/bilibili/10/214.png",
       "isHide": false,
       "packageId": "10",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[小A和小B_低头]"
       ],
-      "staticUrl": "assets/bilibili_emoji/10/215.png",
+      "staticUrl": "assets/bilibili/10/215.png",
       "isHide": false,
       "packageId": "10",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[小A和小B_哈哈哈哈]"
       ],
-      "staticUrl": "assets/bilibili_emoji/10/216.png",
+      "staticUrl": "assets/bilibili/10/216.png",
       "isHide": false,
       "packageId": "10",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[小A和小B_司令]"
       ],
-      "staticUrl": "assets/bilibili_emoji/10/217.png",
+      "staticUrl": "assets/bilibili/10/217.png",
       "isHide": false,
       "packageId": "10",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[小A和小B_撒花]"
       ],
-      "staticUrl": "assets/bilibili_emoji/10/218.png",
+      "staticUrl": "assets/bilibili/10/218.png",
       "isHide": false,
       "packageId": "10",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[小A和小B_摊手]"
       ],
-      "staticUrl": "assets/bilibili_emoji/10/219.png",
+      "staticUrl": "assets/bilibili/10/219.png",
       "isHide": false,
       "packageId": "10",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[小A和小B_问号]"
       ],
-      "staticUrl": "assets/bilibili_emoji/10/220.png",
+      "staticUrl": "assets/bilibili/10/220.png",
       "isHide": false,
       "packageId": "10",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[小A和小B_躺]"
       ],
-      "staticUrl": "assets/bilibili_emoji/10/221.png",
+      "staticUrl": "assets/bilibili/10/221.png",
       "isHide": false,
       "packageId": "10",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[小A和小B_无语]"
       ],
-      "staticUrl": "assets/bilibili_emoji/10/222.png",
+      "staticUrl": "assets/bilibili/10/222.png",
       "isHide": false,
       "packageId": "10",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[小A和小B_应援]"
       ],
-      "staticUrl": "assets/bilibili_emoji/10/223.png",
+      "staticUrl": "assets/bilibili/10/223.png",
       "isHide": false,
       "packageId": "10",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[小A和小B_NO]"
       ],
-      "staticUrl": "assets/bilibili_emoji/10/224.png",
+      "staticUrl": "assets/bilibili/10/224.png",
       "isHide": false,
       "packageId": "10",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[小A和小B_OK]"
       ],
-      "staticUrl": "assets/bilibili_emoji/10/225.png",
+      "staticUrl": "assets/bilibili/10/225.png",
       "isHide": false,
       "packageId": "10",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[小A和小B_吃瓜]"
       ],
-      "staticUrl": "assets/bilibili_emoji/10/226.png",
+      "staticUrl": "assets/bilibili/10/226.png",
       "isHide": false,
       "packageId": "10",
       "meta": {
@@ -234,7 +234,7 @@
       "shortCodes": [
         "[小A和小B_捕捉]"
       ],
-      "staticUrl": "assets/bilibili_emoji/10/227.png",
+      "staticUrl": "assets/bilibili/10/227.png",
       "isHide": false,
       "packageId": "10",
       "meta": {

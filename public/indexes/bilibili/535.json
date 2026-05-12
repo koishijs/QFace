@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "535",
   "name": "胡桃Usa",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/6a747a0f6877d3dfd7a5591584c7320a4ffd61eb.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[胡桃Usa_开心]"
       ],
-      "staticUrl": "assets/bilibili_emoji/535/9792.png",
+      "staticUrl": "assets/bilibili/535/9792.png",
       "isHide": false,
       "packageId": "535",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[胡桃Usa_生日快乐]"
       ],
-      "staticUrl": "assets/bilibili_emoji/535/9798.png",
+      "staticUrl": "assets/bilibili/535/9798.png",
       "isHide": false,
       "packageId": "535",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[胡桃Usa_吃我一拳]"
       ],
-      "staticUrl": "assets/bilibili_emoji/535/9784.png",
+      "staticUrl": "assets/bilibili/535/9784.png",
       "isHide": false,
       "packageId": "535",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[胡桃Usa_对不起]"
       ],
-      "staticUrl": "assets/bilibili_emoji/535/9787.png",
+      "staticUrl": "assets/bilibili/535/9787.png",
       "isHide": false,
       "packageId": "535",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[胡桃Usa_擦汗]"
       ],
-      "staticUrl": "assets/bilibili_emoji/535/9783.png",
+      "staticUrl": "assets/bilibili/535/9783.png",
       "isHide": false,
       "packageId": "535",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[胡桃Usa_永远爱你]"
       ],
-      "staticUrl": "assets/bilibili_emoji/535/9801.png",
+      "staticUrl": "assets/bilibili/535/9801.png",
       "isHide": false,
       "packageId": "535",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[胡桃Usa_鹅鹅鹅]"
       ],
-      "staticUrl": "assets/bilibili_emoji/535/9788.png",
+      "staticUrl": "assets/bilibili/535/9788.png",
       "isHide": false,
       "packageId": "535",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[胡桃Usa_大喇叭]"
       ],
-      "staticUrl": "assets/bilibili_emoji/535/9786.png",
+      "staticUrl": "assets/bilibili/535/9786.png",
       "isHide": false,
       "packageId": "535",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[胡桃Usa_惊讶]"
       ],
-      "staticUrl": "assets/bilibili_emoji/535/9791.png",
+      "staticUrl": "assets/bilibili/535/9791.png",
       "isHide": false,
       "packageId": "535",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[胡桃Usa_比心]"
       ],
-      "staticUrl": "assets/bilibili_emoji/535/9782.png",
+      "staticUrl": "assets/bilibili/535/9782.png",
       "isHide": false,
       "packageId": "535",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[胡桃Usa_生气]"
       ],
-      "staticUrl": "assets/bilibili_emoji/535/9797.png",
+      "staticUrl": "assets/bilibili/535/9797.png",
       "isHide": false,
       "packageId": "535",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[胡桃Usa_困困]"
       ],
-      "staticUrl": "assets/bilibili_emoji/535/9795.png",
+      "staticUrl": "assets/bilibili/535/9795.png",
       "isHide": false,
       "packageId": "535",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[胡桃Usa_饿饿]"
       ],
-      "staticUrl": "assets/bilibili_emoji/535/9789.png",
+      "staticUrl": "assets/bilibili/535/9789.png",
       "isHide": false,
       "packageId": "535",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[胡桃Usa_哭哭]"
       ],
-      "staticUrl": "assets/bilibili_emoji/535/9794.png",
+      "staticUrl": "assets/bilibili/535/9794.png",
       "isHide": false,
       "packageId": "535",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[胡桃Usa_可怜]"
       ],
-      "staticUrl": "assets/bilibili_emoji/535/9793.png",
+      "staticUrl": "assets/bilibili/535/9793.png",
       "isHide": false,
       "packageId": "535",
       "meta": {
@@ -234,7 +234,7 @@
       "shortCodes": [
         "[胡桃Usa_歪]"
       ],
-      "staticUrl": "assets/bilibili_emoji/535/9800.png",
+      "staticUrl": "assets/bilibili/535/9800.png",
       "isHide": false,
       "packageId": "535",
       "meta": {
@@ -249,7 +249,7 @@
       "shortCodes": [
         "[胡桃Usa_打call]"
       ],
-      "staticUrl": "assets/bilibili_emoji/535/9785.png",
+      "staticUrl": "assets/bilibili/535/9785.png",
       "isHide": false,
       "packageId": "535",
       "meta": {
@@ -264,7 +264,7 @@
       "shortCodes": [
         "[胡桃Usa_攻击]"
       ],
-      "staticUrl": "assets/bilibili_emoji/535/9790.png",
+      "staticUrl": "assets/bilibili/535/9790.png",
       "isHide": false,
       "packageId": "535",
       "meta": {
@@ -279,7 +279,7 @@
       "shortCodes": [
         "[胡桃Usa_闪亮登场]"
       ],
-      "staticUrl": "assets/bilibili_emoji/535/9796.png",
+      "staticUrl": "assets/bilibili/535/9796.png",
       "isHide": false,
       "packageId": "535",
       "meta": {
@@ -294,7 +294,7 @@
       "shortCodes": [
         "[胡桃Usa_贴贴]"
       ],
-      "staticUrl": "assets/bilibili_emoji/535/9799.png",
+      "staticUrl": "assets/bilibili/535/9799.png",
       "isHide": false,
       "packageId": "535",
       "meta": {

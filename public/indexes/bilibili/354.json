@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "354",
   "name": "崩坏3·雷鸣彻空",
   "coverUrl": "https://i0.hdslb.com/bfs/emote/5eba73f3f594b96ac25ab35dbc436ed88138070c.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[崩坏3_你好]"
       ],
-      "staticUrl": "assets/bilibili_emoji/354/5816.png",
+      "staticUrl": "assets/bilibili/354/5816.png",
       "isHide": false,
       "packageId": "354",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[崩坏3_？]"
       ],
-      "staticUrl": "assets/bilibili_emoji/354/5817.png",
+      "staticUrl": "assets/bilibili/354/5817.png",
       "isHide": false,
       "packageId": "354",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[崩坏3_差不多得了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/354/5819.png",
+      "staticUrl": "assets/bilibili/354/5819.png",
       "isHide": false,
       "packageId": "354",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[崩坏3_lay了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/354/5821.png",
+      "staticUrl": "assets/bilibili/354/5821.png",
       "isHide": false,
       "packageId": "354",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[崩坏3_吃咸鱼]"
       ],
-      "staticUrl": "assets/bilibili_emoji/354/5826.png",
+      "staticUrl": "assets/bilibili/354/5826.png",
       "isHide": false,
       "packageId": "354",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[崩坏3_七]"
       ],
-      "staticUrl": "assets/bilibili_emoji/354/5820.png",
+      "staticUrl": "assets/bilibili/354/5820.png",
       "isHide": false,
       "packageId": "354",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[崩坏3_十]"
       ],
-      "staticUrl": "assets/bilibili_emoji/354/5822.png",
+      "staticUrl": "assets/bilibili/354/5822.png",
       "isHide": false,
       "packageId": "354",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[崩坏3_米]"
       ],
-      "staticUrl": "assets/bilibili_emoji/354/5823.png",
+      "staticUrl": "assets/bilibili/354/5823.png",
       "isHide": false,
       "packageId": "354",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[崩坏3_长]"
       ],
-      "staticUrl": "assets/bilibili_emoji/354/5824.png",
+      "staticUrl": "assets/bilibili/354/5824.png",
       "isHide": false,
       "packageId": "354",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[崩坏3_刀]"
       ],
-      "staticUrl": "assets/bilibili_emoji/354/5825.png",
+      "staticUrl": "assets/bilibili/354/5825.png",
       "isHide": false,
       "packageId": "354",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[崩坏3_给你一拳]"
       ],
-      "staticUrl": "assets/bilibili_emoji/354/5827.png",
+      "staticUrl": "assets/bilibili/354/5827.png",
       "isHide": false,
       "packageId": "354",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[崩坏3_呼呼呼]"
       ],
-      "staticUrl": "assets/bilibili_emoji/354/5828.png",
+      "staticUrl": "assets/bilibili/354/5828.png",
       "isHide": false,
       "packageId": "354",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[崩坏3_划水]"
       ],
-      "staticUrl": "assets/bilibili_emoji/354/5829.png",
+      "staticUrl": "assets/bilibili/354/5829.png",
       "isHide": false,
       "packageId": "354",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[崩坏3_乆]"
       ],
-      "staticUrl": "assets/bilibili_emoji/354/5830.png",
+      "staticUrl": "assets/bilibili/354/5830.png",
       "isHide": false,
       "packageId": "354",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[崩坏3_卡了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/354/5831.png",
+      "staticUrl": "assets/bilibili/354/5831.png",
       "isHide": false,
       "packageId": "354",
       "meta": {
@@ -234,7 +234,7 @@
       "shortCodes": [
         "[崩坏3_哭哭哭]"
       ],
-      "staticUrl": "assets/bilibili_emoji/354/5832.png",
+      "staticUrl": "assets/bilibili/354/5832.png",
       "isHide": false,
       "packageId": "354",
       "meta": {
@@ -249,7 +249,7 @@
       "shortCodes": [
         "[崩坏3_乱杀]"
       ],
-      "staticUrl": "assets/bilibili_emoji/354/5833.png",
+      "staticUrl": "assets/bilibili/354/5833.png",
       "isHide": false,
       "packageId": "354",
       "meta": {
@@ -264,7 +264,7 @@
       "shortCodes": [
         "[崩坏3_怒]"
       ],
-      "staticUrl": "assets/bilibili_emoji/354/5834.png",
+      "staticUrl": "assets/bilibili/354/5834.png",
       "isHide": false,
       "packageId": "354",
       "meta": {
@@ -279,7 +279,7 @@
       "shortCodes": [
         "[崩坏3_睿智]"
       ],
-      "staticUrl": "assets/bilibili_emoji/354/5835.png",
+      "staticUrl": "assets/bilibili/354/5835.png",
       "isHide": false,
       "packageId": "354",
       "meta": {
@@ -294,7 +294,7 @@
       "shortCodes": [
         "[崩坏3_送你一朵花]"
       ],
-      "staticUrl": "assets/bilibili_emoji/354/5836.png",
+      "staticUrl": "assets/bilibili/354/5836.png",
       "isHide": false,
       "packageId": "354",
       "meta": {

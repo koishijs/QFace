@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "560",
   "name": "怕上火暴王老菊（充电）",
   "coverUrl": "http://i0.hdslb.com/bfs/garb/3101912f25605b29dd4c5b5c48172b08c9840dd9.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[UPOWER_423895_mua]"
       ],
-      "staticUrl": "assets/bilibili_emoji/560/10244.png",
+      "staticUrl": "assets/bilibili/560/10244.png",
       "isHide": false,
       "packageId": "560",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[UPOWER_423895_惊了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/560/10245.png",
+      "staticUrl": "assets/bilibili/560/10245.png",
       "isHide": false,
       "packageId": "560",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[UPOWER_423895_看呆]"
       ],
-      "staticUrl": "assets/bilibili_emoji/560/10246.png",
+      "staticUrl": "assets/bilibili/560/10246.png",
       "isHide": false,
       "packageId": "560",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[UPOWER_423895_你说呢]"
       ],
-      "staticUrl": "assets/bilibili_emoji/560/10247.png",
+      "staticUrl": "assets/bilibili/560/10247.png",
       "isHide": false,
       "packageId": "560",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[UPOWER_423895_哦哟]"
       ],
-      "staticUrl": "assets/bilibili_emoji/560/10248.png",
+      "staticUrl": "assets/bilibili/560/10248.png",
       "isHide": false,
       "packageId": "560",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[UPOWER_423895_顺从]"
       ],
-      "staticUrl": "assets/bilibili_emoji/560/10249.png",
+      "staticUrl": "assets/bilibili/560/10249.png",
       "isHide": false,
       "packageId": "560",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[UPOWER_423895_哇哦]"
       ],
-      "staticUrl": "assets/bilibili_emoji/560/10250.png",
+      "staticUrl": "assets/bilibili/560/10250.png",
       "isHide": false,
       "packageId": "560",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[UPOWER_423895_呀]"
       ],
-      "staticUrl": "assets/bilibili_emoji/560/10251.png",
+      "staticUrl": "assets/bilibili/560/10251.png",
       "isHide": false,
       "packageId": "560",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[UPOWER_423895_扬唇一笑]"
       ],
-      "staticUrl": "assets/bilibili_emoji/560/10252.png",
+      "staticUrl": "assets/bilibili/560/10252.png",
       "isHide": false,
       "packageId": "560",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[UPOWER_423895_吔]"
       ],
-      "staticUrl": "assets/bilibili_emoji/560/10253.png",
+      "staticUrl": "assets/bilibili/560/10253.png",
       "isHide": false,
       "packageId": "560",
       "meta": {

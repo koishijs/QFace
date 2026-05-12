@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "409",
   "name": "茉吱Mojuko",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/a34c4a06a9ed6ebb779048ceb17c028505a764fa.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[茉吱Mojuko_？？？]"
       ],
-      "staticUrl": "assets/bilibili_emoji/409/6885.png",
+      "staticUrl": "assets/bilibili/409/6885.png",
       "isHide": false,
       "packageId": "409",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[茉吱Mojuko_啊对对对]"
       ],
-      "staticUrl": "assets/bilibili_emoji/409/6886.png",
+      "staticUrl": "assets/bilibili/409/6886.png",
       "isHide": false,
       "packageId": "409",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[茉吱Mojuko_抱抱]"
       ],
-      "staticUrl": "assets/bilibili_emoji/409/6887.png",
+      "staticUrl": "assets/bilibili/409/6887.png",
       "isHide": false,
       "packageId": "409",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[茉吱Mojuko_暴风哭泣 ]"
       ],
-      "staticUrl": "assets/bilibili_emoji/409/6888.png",
+      "staticUrl": "assets/bilibili/409/6888.png",
       "isHide": false,
       "packageId": "409",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[茉吱Mojuko_比心]"
       ],
-      "staticUrl": "assets/bilibili_emoji/409/6889.png",
+      "staticUrl": "assets/bilibili/409/6889.png",
       "isHide": false,
       "packageId": "409",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[茉吱Mojuko_啵一口]"
       ],
-      "staticUrl": "assets/bilibili_emoji/409/6890.png",
+      "staticUrl": "assets/bilibili/409/6890.png",
       "isHide": false,
       "packageId": "409",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[茉吱Mojuko_不准跑]"
       ],
-      "staticUrl": "assets/bilibili_emoji/409/6891.png",
+      "staticUrl": "assets/bilibili/409/6891.png",
       "isHide": false,
       "packageId": "409",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[茉吱Mojuko_嘚瑟]"
       ],
-      "staticUrl": "assets/bilibili_emoji/409/6892.png",
+      "staticUrl": "assets/bilibili/409/6892.png",
       "isHide": false,
       "packageId": "409",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[茉吱Mojuko_摸头]"
       ],
-      "staticUrl": "assets/bilibili_emoji/409/6893.png",
+      "staticUrl": "assets/bilibili/409/6893.png",
       "isHide": false,
       "packageId": "409",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[茉吱Mojuko_求求你]"
       ],
-      "staticUrl": "assets/bilibili_emoji/409/6894.png",
+      "staticUrl": "assets/bilibili/409/6894.png",
       "isHide": false,
       "packageId": "409",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[茉吱Mojuko_我好了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/409/6895.png",
+      "staticUrl": "assets/bilibili/409/6895.png",
       "isHide": false,
       "packageId": "409",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[茉吱Mojuko_辛苦了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/409/6896.png",
+      "staticUrl": "assets/bilibili/409/6896.png",
       "isHide": false,
       "packageId": "409",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[茉吱Mojuko_虚无]"
       ],
-      "staticUrl": "assets/bilibili_emoji/409/6897.png",
+      "staticUrl": "assets/bilibili/409/6897.png",
       "isHide": false,
       "packageId": "409",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[茉吱Mojuko_糟了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/409/6898.png",
+      "staticUrl": "assets/bilibili/409/6898.png",
       "isHide": false,
       "packageId": "409",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[茉吱Mojuko_揍你哦]"
       ],
-      "staticUrl": "assets/bilibili_emoji/409/6899.png",
+      "staticUrl": "assets/bilibili/409/6899.png",
       "isHide": false,
       "packageId": "409",
       "meta": {
@@ -234,7 +234,7 @@
       "shortCodes": [
         "[茉吱Mojuko_吃草]"
       ],
-      "staticUrl": "assets/bilibili_emoji/409/7134.png",
+      "staticUrl": "assets/bilibili/409/7134.png",
       "isHide": false,
       "packageId": "409",
       "meta": {
@@ -249,7 +249,7 @@
       "shortCodes": [
         "[茉吱Mojuko_叉出去]"
       ],
-      "staticUrl": "assets/bilibili_emoji/409/7135.png",
+      "staticUrl": "assets/bilibili/409/7135.png",
       "isHide": false,
       "packageId": "409",
       "meta": {
@@ -264,7 +264,7 @@
       "shortCodes": [
         "[茉吱Mojuko_吃瓜]"
       ],
-      "staticUrl": "assets/bilibili_emoji/409/7136.png",
+      "staticUrl": "assets/bilibili/409/7136.png",
       "isHide": false,
       "packageId": "409",
       "meta": {
@@ -279,7 +279,7 @@
       "shortCodes": [
         "[茉吱Mojuko_害羞]"
       ],
-      "staticUrl": "assets/bilibili_emoji/409/7137.png",
+      "staticUrl": "assets/bilibili/409/7137.png",
       "isHide": false,
       "packageId": "409",
       "meta": {
@@ -294,7 +294,7 @@
       "shortCodes": [
         "[茉吱Mojuko_汗]"
       ],
-      "staticUrl": "assets/bilibili_emoji/409/7138.png",
+      "staticUrl": "assets/bilibili/409/7138.png",
       "isHide": false,
       "packageId": "409",
       "meta": {
@@ -309,7 +309,7 @@
       "shortCodes": [
         "[茉吱Mojuko_加班]"
       ],
-      "staticUrl": "assets/bilibili_emoji/409/7139.png",
+      "staticUrl": "assets/bilibili/409/7139.png",
       "isHide": false,
       "packageId": "409",
       "meta": {
@@ -324,7 +324,7 @@
       "shortCodes": [
         "[茉吱Mojuko_加油]"
       ],
-      "staticUrl": "assets/bilibili_emoji/409/7140.png",
+      "staticUrl": "assets/bilibili/409/7140.png",
       "isHide": false,
       "packageId": "409",
       "meta": {
@@ -339,7 +339,7 @@
       "shortCodes": [
         "[茉吱Mojuko_歇了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/409/7141.png",
+      "staticUrl": "assets/bilibili/409/7141.png",
       "isHide": false,
       "packageId": "409",
       "meta": {
@@ -354,7 +354,7 @@
       "shortCodes": [
         "[茉吱Mojuko_开锅]"
       ],
-      "staticUrl": "assets/bilibili_emoji/409/7142.png",
+      "staticUrl": "assets/bilibili/409/7142.png",
       "isHide": false,
       "packageId": "409",
       "meta": {
@@ -369,7 +369,7 @@
       "shortCodes": [
         "[茉吱Mojuko_嫌弃]"
       ],
-      "staticUrl": "assets/bilibili_emoji/409/7143.png",
+      "staticUrl": "assets/bilibili/409/7143.png",
       "isHide": false,
       "packageId": "409",
       "meta": {

@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "185",
   "name": "第五人格",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/ee731bb3f4f848069bb9edc5bee00de40f943cd1.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[第五人格_汗]"
       ],
-      "staticUrl": "assets/bilibili_emoji/185/3337.png",
+      "staticUrl": "assets/bilibili/185/3337.png",
       "isHide": false,
       "packageId": "185",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[第五人格_送花]"
       ],
-      "staticUrl": "assets/bilibili_emoji/185/3338.png",
+      "staticUrl": "assets/bilibili/185/3338.png",
       "isHide": false,
       "packageId": "185",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[第五人格_打call]"
       ],
-      "staticUrl": "assets/bilibili_emoji/185/3339.png",
+      "staticUrl": "assets/bilibili/185/3339.png",
       "isHide": false,
       "packageId": "185",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[第五人格_疑惑]"
       ],
-      "staticUrl": "assets/bilibili_emoji/185/3340.png",
+      "staticUrl": "assets/bilibili/185/3340.png",
       "isHide": false,
       "packageId": "185",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[第五人格_点赞]"
       ],
-      "staticUrl": "assets/bilibili_emoji/185/3341.png",
+      "staticUrl": "assets/bilibili/185/3341.png",
       "isHide": false,
       "packageId": "185",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[第五人格_吃瓜]"
       ],
-      "staticUrl": "assets/bilibili_emoji/185/3342.png",
+      "staticUrl": "assets/bilibili/185/3342.png",
       "isHide": false,
       "packageId": "185",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[第五人格_惊]"
       ],
-      "staticUrl": "assets/bilibili_emoji/185/3343.png",
+      "staticUrl": "assets/bilibili/185/3343.png",
       "isHide": false,
       "packageId": "185",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[第五人格_机智]"
       ],
-      "staticUrl": "assets/bilibili_emoji/185/3344.png",
+      "staticUrl": "assets/bilibili/185/3344.png",
       "isHide": false,
       "packageId": "185",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[第五人格_害羞]"
       ],
-      "staticUrl": "assets/bilibili_emoji/185/3345.png",
+      "staticUrl": "assets/bilibili/185/3345.png",
       "isHide": false,
       "packageId": "185",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[第五人格_酸了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/185/3346.png",
+      "staticUrl": "assets/bilibili/185/3346.png",
       "isHide": false,
       "packageId": "185",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[第五人格_哭]"
       ],
-      "staticUrl": "assets/bilibili_emoji/185/3347.png",
+      "staticUrl": "assets/bilibili/185/3347.png",
       "isHide": false,
       "packageId": "185",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[第五人格_偷笑]"
       ],
-      "staticUrl": "assets/bilibili_emoji/185/3348.png",
+      "staticUrl": "assets/bilibili/185/3348.png",
       "isHide": false,
       "packageId": "185",
       "meta": {

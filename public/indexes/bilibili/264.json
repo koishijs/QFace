@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "264",
   "name": "星尘",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/b40cf82e87cb158b2b95343386bd58202b750af0.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[星尘_AWSL]"
       ],
-      "staticUrl": "assets/bilibili_emoji/264/4390.png",
+      "staticUrl": "assets/bilibili/264/4390.png",
       "isHide": false,
       "packageId": "264",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[星尘_比心]"
       ],
-      "staticUrl": "assets/bilibili_emoji/264/4391.png",
+      "staticUrl": "assets/bilibili/264/4391.png",
       "isHide": false,
       "packageId": "264",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[星尘_吃瓜]"
       ],
-      "staticUrl": "assets/bilibili_emoji/264/4392.png",
+      "staticUrl": "assets/bilibili/264/4392.png",
       "isHide": false,
       "packageId": "264",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[星尘_大哭]"
       ],
-      "staticUrl": "assets/bilibili_emoji/264/4393.png",
+      "staticUrl": "assets/bilibili/264/4393.png",
       "isHide": false,
       "packageId": "264",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[星尘_发呆]"
       ],
-      "staticUrl": "assets/bilibili_emoji/264/4394.png",
+      "staticUrl": "assets/bilibili/264/4394.png",
       "isHide": false,
       "packageId": "264",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[星尘_搞快点]"
       ],
-      "staticUrl": "assets/bilibili_emoji/264/4395.png",
+      "staticUrl": "assets/bilibili/264/4395.png",
       "isHide": false,
       "packageId": "264",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[星尘_给你星星]"
       ],
-      "staticUrl": "assets/bilibili_emoji/264/4396.png",
+      "staticUrl": "assets/bilibili/264/4396.png",
       "isHide": false,
       "packageId": "264",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[星尘_好听]"
       ],
-      "staticUrl": "assets/bilibili_emoji/264/4397.png",
+      "staticUrl": "assets/bilibili/264/4397.png",
       "isHide": false,
       "packageId": "264",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[星尘_啦啦啦]"
       ],
-      "staticUrl": "assets/bilibili_emoji/264/4398.png",
+      "staticUrl": "assets/bilibili/264/4398.png",
       "isHide": false,
       "packageId": "264",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[星尘_酸]"
       ],
-      "staticUrl": "assets/bilibili_emoji/264/4399.png",
+      "staticUrl": "assets/bilibili/264/4399.png",
       "isHide": false,
       "packageId": "264",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[星尘_晚安]"
       ],
-      "staticUrl": "assets/bilibili_emoji/264/4400.png",
+      "staticUrl": "assets/bilibili/264/4400.png",
       "isHide": false,
       "packageId": "264",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[星尘_无语]"
       ],
-      "staticUrl": "assets/bilibili_emoji/264/4401.png",
+      "staticUrl": "assets/bilibili/264/4401.png",
       "isHide": false,
       "packageId": "264",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[星尘_永远滴神]"
       ],
-      "staticUrl": "assets/bilibili_emoji/264/4402.png",
+      "staticUrl": "assets/bilibili/264/4402.png",
       "isHide": false,
       "packageId": "264",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[星尘_真不错]"
       ],
-      "staticUrl": "assets/bilibili_emoji/264/4403.png",
+      "staticUrl": "assets/bilibili/264/4403.png",
       "isHide": false,
       "packageId": "264",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[星尘_震惊]"
       ],
-      "staticUrl": "assets/bilibili_emoji/264/4404.png",
+      "staticUrl": "assets/bilibili/264/4404.png",
       "isHide": false,
       "packageId": "264",
       "meta": {

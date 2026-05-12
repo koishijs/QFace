@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "112",
   "name": "湊-阿库娅",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/90a8ce6b29768cc59333ac426bb062d7d52758af.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[阿库娅_才女才女]"
       ],
-      "staticUrl": "assets/bilibili_emoji/112/2358.png",
+      "staticUrl": "assets/bilibili/112/2358.png",
       "isHide": false,
       "packageId": "112",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[阿库娅_害羞]"
       ],
-      "staticUrl": "assets/bilibili_emoji/112/2359.png",
+      "staticUrl": "assets/bilibili/112/2359.png",
       "isHide": false,
       "packageId": "112",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[阿库娅_不关我事]"
       ],
-      "staticUrl": "assets/bilibili_emoji/112/2360.png",
+      "staticUrl": "assets/bilibili/112/2360.png",
       "isHide": false,
       "packageId": "112",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[阿库娅_惊讶]"
       ],
-      "staticUrl": "assets/bilibili_emoji/112/2361.png",
+      "staticUrl": "assets/bilibili/112/2361.png",
       "isHide": false,
       "packageId": "112",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[阿库娅_余裕余裕]"
       ],
-      "staticUrl": "assets/bilibili_emoji/112/2362.png",
+      "staticUrl": "assets/bilibili/112/2362.png",
       "isHide": false,
       "packageId": "112",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[阿库娅_哭了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/112/2363.png",
+      "staticUrl": "assets/bilibili/112/2363.png",
       "isHide": false,
       "packageId": "112",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[阿库娅_理解理解]"
       ],
-      "staticUrl": "assets/bilibili_emoji/112/2364.png",
+      "staticUrl": "assets/bilibili/112/2364.png",
       "isHide": false,
       "packageId": "112",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[阿库娅_生气]"
       ],
-      "staticUrl": "assets/bilibili_emoji/112/2365.png",
+      "staticUrl": "assets/bilibili/112/2365.png",
       "isHide": false,
       "packageId": "112",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[阿库娅_无语]"
       ],
-      "staticUrl": "assets/bilibili_emoji/112/2366.png",
+      "staticUrl": "assets/bilibili/112/2366.png",
       "isHide": false,
       "packageId": "112",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[阿库娅_Rua！]"
       ],
-      "staticUrl": "assets/bilibili_emoji/112/2367.png",
+      "staticUrl": "assets/bilibili/112/2367.png",
       "isHide": false,
       "packageId": "112",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[阿库娅_nice]"
       ],
-      "staticUrl": "assets/bilibili_emoji/112/2368.png",
+      "staticUrl": "assets/bilibili/112/2368.png",
       "isHide": false,
       "packageId": "112",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[阿库娅_喜欢]"
       ],
-      "staticUrl": "assets/bilibili_emoji/112/2369.png",
+      "staticUrl": "assets/bilibili/112/2369.png",
       "isHide": false,
       "packageId": "112",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[阿库娅_对不起]"
       ],
-      "staticUrl": "assets/bilibili_emoji/112/2370.png",
+      "staticUrl": "assets/bilibili/112/2370.png",
       "isHide": false,
       "packageId": "112",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[阿库娅_嫌弃]"
       ],
-      "staticUrl": "assets/bilibili_emoji/112/2371.png",
+      "staticUrl": "assets/bilibili/112/2371.png",
       "isHide": false,
       "packageId": "112",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[阿库娅_洋葱问号]"
       ],
-      "staticUrl": "assets/bilibili_emoji/112/2372.png",
+      "staticUrl": "assets/bilibili/112/2372.png",
       "isHide": false,
       "packageId": "112",
       "meta": {

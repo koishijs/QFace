@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "267",
   "name": "2233十一周年纪念",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/15e950d45aa81a992f80d07b32e9d8489d99dec5.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[十一周年_YYDS]"
       ],
-      "staticUrl": "assets/bilibili_emoji/267/4451.png",
+      "staticUrl": "assets/bilibili/267/4451.png",
       "isHide": false,
       "packageId": "267",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[十一周年_不忍直视]"
       ],
-      "staticUrl": "assets/bilibili_emoji/267/4452.png",
+      "staticUrl": "assets/bilibili/267/4452.png",
       "isHide": false,
       "packageId": "267",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[十一周年_害怕]"
       ],
-      "staticUrl": "assets/bilibili_emoji/267/4453.png",
+      "staticUrl": "assets/bilibili/267/4453.png",
       "isHide": false,
       "packageId": "267",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[十一周年_害羞]"
       ],
-      "staticUrl": "assets/bilibili_emoji/267/4454.png",
+      "staticUrl": "assets/bilibili/267/4454.png",
       "isHide": false,
       "packageId": "267",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[十一周年_好耶]"
       ],
-      "staticUrl": "assets/bilibili_emoji/267/4455.png",
+      "staticUrl": "assets/bilibili/267/4455.png",
       "isHide": false,
       "packageId": "267",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[十一周年_愣住]"
       ],
-      "staticUrl": "assets/bilibili_emoji/267/4456.png",
+      "staticUrl": "assets/bilibili/267/4456.png",
       "isHide": false,
       "packageId": "267",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[十一周年_生日快乐]"
       ],
-      "staticUrl": "assets/bilibili_emoji/267/4457.png",
+      "staticUrl": "assets/bilibili/267/4457.png",
       "isHide": false,
       "packageId": "267",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[十一周年_送礼物]"
       ],
-      "staticUrl": "assets/bilibili_emoji/267/4458.png",
+      "staticUrl": "assets/bilibili/267/4458.png",
       "isHide": false,
       "packageId": "267",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[十一周年_委屈]"
       ],
-      "staticUrl": "assets/bilibili_emoji/267/4459.png",
+      "staticUrl": "assets/bilibili/267/4459.png",
       "isHide": false,
       "packageId": "267",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[十一周年_我枯了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/267/4460.png",
+      "staticUrl": "assets/bilibili/267/4460.png",
       "isHide": false,
       "packageId": "267",
       "meta": {

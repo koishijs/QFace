@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "305",
   "name": "中华字库",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/6bb4f53c9f1bb8ed86b38faf5b07f8a5206dc591.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[中华字库_丑拒]"
       ],
-      "staticUrl": "assets/bilibili_emoji/305/5005.png",
+      "staticUrl": "assets/bilibili/305/5005.png",
       "isHide": false,
       "packageId": "305",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[中华字库_催更]"
       ],
-      "staticUrl": "assets/bilibili_emoji/305/5006.png",
+      "staticUrl": "assets/bilibili/305/5006.png",
       "isHide": false,
       "packageId": "305",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[中华字库_达咩]"
       ],
-      "staticUrl": "assets/bilibili_emoji/305/5007.png",
+      "staticUrl": "assets/bilibili/305/5007.png",
       "isHide": false,
       "packageId": "305",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[中华字库_好耶]"
       ],
-      "staticUrl": "assets/bilibili_emoji/305/5008.png",
+      "staticUrl": "assets/bilibili/305/5008.png",
       "isHide": false,
       "packageId": "305",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[中华字库_娇羞]"
       ],
-      "staticUrl": "assets/bilibili_emoji/305/5009.png",
+      "staticUrl": "assets/bilibili/305/5009.png",
       "isHide": false,
       "packageId": "305",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[中华字库_裂开]"
       ],
-      "staticUrl": "assets/bilibili_emoji/305/5010.png",
+      "staticUrl": "assets/bilibili/305/5010.png",
       "isHide": false,
       "packageId": "305",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[中华字库_溜了溜了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/305/5011.png",
+      "staticUrl": "assets/bilibili/305/5011.png",
       "isHide": false,
       "packageId": "305",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[中华字库_前方高能]"
       ],
-      "staticUrl": "assets/bilibili_emoji/305/5012.png",
+      "staticUrl": "assets/bilibili/305/5012.png",
       "isHide": false,
       "packageId": "305",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[中华字库_闪亮登场]"
       ],
-      "staticUrl": "assets/bilibili_emoji/305/5013.png",
+      "staticUrl": "assets/bilibili/305/5013.png",
       "isHide": false,
       "packageId": "305",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[中华字库_哇]"
       ],
-      "staticUrl": "assets/bilibili_emoji/305/5014.png",
+      "staticUrl": "assets/bilibili/305/5014.png",
       "isHide": false,
       "packageId": "305",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[中华字库_呜呜呜]"
       ],
-      "staticUrl": "assets/bilibili_emoji/305/5015.png",
+      "staticUrl": "assets/bilibili/305/5015.png",
       "isHide": false,
       "packageId": "305",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[中华字库_无语]"
       ],
-      "staticUrl": "assets/bilibili_emoji/305/5016.png",
+      "staticUrl": "assets/bilibili/305/5016.png",
       "isHide": false,
       "packageId": "305",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[中华字库_下次一定]"
       ],
-      "staticUrl": "assets/bilibili_emoji/305/5017.png",
+      "staticUrl": "assets/bilibili/305/5017.png",
       "isHide": false,
       "packageId": "305",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[中华字库_一键三连]"
       ],
-      "staticUrl": "assets/bilibili_emoji/305/5018.png",
+      "staticUrl": "assets/bilibili/305/5018.png",
       "isHide": false,
       "packageId": "305",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[中华字库_疑问]"
       ],
-      "staticUrl": "assets/bilibili_emoji/305/5019.png",
+      "staticUrl": "assets/bilibili/305/5019.png",
       "isHide": false,
       "packageId": "305",
       "meta": {

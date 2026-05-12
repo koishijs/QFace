@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "66",
   "name": "少前小剧场",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/0d0f4b8a8792eaf26af4ce3c2357ebd6cd052a0c.jpg",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[少前小剧场_期待]"
       ],
-      "staticUrl": "assets/bilibili_emoji/66/1970.png",
+      "staticUrl": "assets/bilibili/66/1970.png",
       "isHide": false,
       "packageId": "66",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[少前小剧场_心虚]"
       ],
-      "staticUrl": "assets/bilibili_emoji/66/1971.png",
+      "staticUrl": "assets/bilibili/66/1971.png",
       "isHide": false,
       "packageId": "66",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[少前小剧场_叶]"
       ],
-      "staticUrl": "assets/bilibili_emoji/66/1972.png",
+      "staticUrl": "assets/bilibili/66/1972.png",
       "isHide": false,
       "packageId": "66",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[少前小剧场_比心]"
       ],
-      "staticUrl": "assets/bilibili_emoji/66/1637.png",
+      "staticUrl": "assets/bilibili/66/1637.png",
       "isHide": false,
       "packageId": "66",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[少前小剧场_吃瓜]"
       ],
-      "staticUrl": "assets/bilibili_emoji/66/1638.png",
+      "staticUrl": "assets/bilibili/66/1638.png",
       "isHide": false,
       "packageId": "66",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[少前小剧场_打call]"
       ],
-      "staticUrl": "assets/bilibili_emoji/66/1639.png",
+      "staticUrl": "assets/bilibili/66/1639.png",
       "isHide": false,
       "packageId": "66",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[少前小剧场_冲鸭]"
       ],
-      "staticUrl": "assets/bilibili_emoji/66/1640.png",
+      "staticUrl": "assets/bilibili/66/1640.png",
       "isHide": false,
       "packageId": "66",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[少前小剧场_呆]"
       ],
-      "staticUrl": "assets/bilibili_emoji/66/1641.png",
+      "staticUrl": "assets/bilibili/66/1641.png",
       "isHide": false,
       "packageId": "66",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[少前小剧场_得意]"
       ],
-      "staticUrl": "assets/bilibili_emoji/66/1642.png",
+      "staticUrl": "assets/bilibili/66/1642.png",
       "isHide": false,
       "packageId": "66",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[少前小剧场_干杯]"
       ],
-      "staticUrl": "assets/bilibili_emoji/66/1643.png",
+      "staticUrl": "assets/bilibili/66/1643.png",
       "isHide": false,
       "packageId": "66",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[少前小剧场_害羞]"
       ],
-      "staticUrl": "assets/bilibili_emoji/66/1644.png",
+      "staticUrl": "assets/bilibili/66/1644.png",
       "isHide": false,
       "packageId": "66",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[少前小剧场_黑化]"
       ],
-      "staticUrl": "assets/bilibili_emoji/66/1645.png",
+      "staticUrl": "assets/bilibili/66/1645.png",
       "isHide": false,
       "packageId": "66",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[少前小剧场_精神抖擞]"
       ],
-      "staticUrl": "assets/bilibili_emoji/66/1646.png",
+      "staticUrl": "assets/bilibili/66/1646.png",
       "isHide": false,
       "packageId": "66",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[少前小剧场_哭]"
       ],
-      "staticUrl": "assets/bilibili_emoji/66/1647.png",
+      "staticUrl": "assets/bilibili/66/1647.png",
       "isHide": false,
       "packageId": "66",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[少前小剧场_卖萌]"
       ],
-      "staticUrl": "assets/bilibili_emoji/66/1648.png",
+      "staticUrl": "assets/bilibili/66/1648.png",
       "isHide": false,
       "packageId": "66",
       "meta": {
@@ -234,7 +234,7 @@
       "shortCodes": [
         "[少前小剧场_钱钱]"
       ],
-      "staticUrl": "assets/bilibili_emoji/66/1649.png",
+      "staticUrl": "assets/bilibili/66/1649.png",
       "isHide": false,
       "packageId": "66",
       "meta": {
@@ -249,7 +249,7 @@
       "shortCodes": [
         "[少前小剧场_认真]"
       ],
-      "staticUrl": "assets/bilibili_emoji/66/1650.png",
+      "staticUrl": "assets/bilibili/66/1650.png",
       "isHide": false,
       "packageId": "66",
       "meta": {
@@ -264,7 +264,7 @@
       "shortCodes": [
         "[少前小剧场_色]"
       ],
-      "staticUrl": "assets/bilibili_emoji/66/1651.png",
+      "staticUrl": "assets/bilibili/66/1651.png",
       "isHide": false,
       "packageId": "66",
       "meta": {
@@ -279,7 +279,7 @@
       "shortCodes": [
         "[少前小剧场_睡觉]"
       ],
-      "staticUrl": "assets/bilibili_emoji/66/1652.png",
+      "staticUrl": "assets/bilibili/66/1652.png",
       "isHide": false,
       "packageId": "66",
       "meta": {
@@ -294,7 +294,7 @@
       "shortCodes": [
         "[少前小剧场_晚安]"
       ],
-      "staticUrl": "assets/bilibili_emoji/66/1653.png",
+      "staticUrl": "assets/bilibili/66/1653.png",
       "isHide": false,
       "packageId": "66",
       "meta": {
@@ -309,7 +309,7 @@
       "shortCodes": [
         "[少前小剧场_无语]"
       ],
-      "staticUrl": "assets/bilibili_emoji/66/1654.png",
+      "staticUrl": "assets/bilibili/66/1654.png",
       "isHide": false,
       "packageId": "66",
       "meta": {
@@ -324,7 +324,7 @@
       "shortCodes": [
         "[少前小剧场_嫌弃]"
       ],
-      "staticUrl": "assets/bilibili_emoji/66/1655.png",
+      "staticUrl": "assets/bilibili/66/1655.png",
       "isHide": false,
       "packageId": "66",
       "meta": {
@@ -339,7 +339,7 @@
       "shortCodes": [
         "[少前小剧场_小公主]"
       ],
-      "staticUrl": "assets/bilibili_emoji/66/1656.png",
+      "staticUrl": "assets/bilibili/66/1656.png",
       "isHide": false,
       "packageId": "66",
       "meta": {
@@ -354,7 +354,7 @@
       "shortCodes": [
         "[少前小剧场_耶]"
       ],
-      "staticUrl": "assets/bilibili_emoji/66/1657.png",
+      "staticUrl": "assets/bilibili/66/1657.png",
       "isHide": false,
       "packageId": "66",
       "meta": {
@@ -369,7 +369,7 @@
       "shortCodes": [
         "[少前小剧场_疑惑]"
       ],
-      "staticUrl": "assets/bilibili_emoji/66/1658.png",
+      "staticUrl": "assets/bilibili/66/1658.png",
       "isHide": false,
       "packageId": "66",
       "meta": {
@@ -384,7 +384,7 @@
       "shortCodes": [
         "[少前小剧场_震惊]"
       ],
-      "staticUrl": "assets/bilibili_emoji/66/1659.png",
+      "staticUrl": "assets/bilibili/66/1659.png",
       "isHide": false,
       "packageId": "66",
       "meta": {
@@ -399,7 +399,7 @@
       "shortCodes": [
         "[少前小剧场_醉]"
       ],
-      "staticUrl": "assets/bilibili_emoji/66/1660.png",
+      "staticUrl": "assets/bilibili/66/1660.png",
       "isHide": false,
       "packageId": "66",
       "meta": {

@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "364",
   "name": "千从狩",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/9527d4acad903c910698dac15b64d2bbb7a411b5.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[千从狩_爱的魔力]"
       ],
-      "staticUrl": "assets/bilibili_emoji/364/5997.png",
+      "staticUrl": "assets/bilibili/364/5997.png",
       "isHide": false,
       "packageId": "364",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[千从狩_戳]"
       ],
-      "staticUrl": "assets/bilibili_emoji/364/5998.png",
+      "staticUrl": "assets/bilibili/364/5998.png",
       "isHide": false,
       "packageId": "364",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[千从狩_就这]"
       ],
-      "staticUrl": "assets/bilibili_emoji/364/5999.png",
+      "staticUrl": "assets/bilibili/364/5999.png",
       "isHide": false,
       "packageId": "364",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[千从狩_困]"
       ],
-      "staticUrl": "assets/bilibili_emoji/364/6000.png",
+      "staticUrl": "assets/bilibili/364/6000.png",
       "isHide": false,
       "packageId": "364",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[千从狩_忙碌]"
       ],
-      "staticUrl": "assets/bilibili_emoji/364/6001.png",
+      "staticUrl": "assets/bilibili/364/6001.png",
       "isHide": false,
       "packageId": "364",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[千从狩_让我康康]"
       ],
-      "staticUrl": "assets/bilibili_emoji/364/6002.png",
+      "staticUrl": "assets/bilibili/364/6002.png",
       "isHide": false,
       "packageId": "364",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[千从狩_嘘]"
       ],
-      "staticUrl": "assets/bilibili_emoji/364/6003.png",
+      "staticUrl": "assets/bilibili/364/6003.png",
       "isHide": false,
       "packageId": "364",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[千从狩_着迷]"
       ],
-      "staticUrl": "assets/bilibili_emoji/364/6004.png",
+      "staticUrl": "assets/bilibili/364/6004.png",
       "isHide": false,
       "packageId": "364",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[千从狩_自信]"
       ],
-      "staticUrl": "assets/bilibili_emoji/364/6005.png",
+      "staticUrl": "assets/bilibili/364/6005.png",
       "isHide": false,
       "packageId": "364",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[千从狩_YES!]"
       ],
-      "staticUrl": "assets/bilibili_emoji/364/6006.png",
+      "staticUrl": "assets/bilibili/364/6006.png",
       "isHide": false,
       "packageId": "364",
       "meta": {

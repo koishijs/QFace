@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "91",
   "name": "公主连结",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/765b126bf9a2364e7f9785a2eeefa092c98e49af.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[公主连结_不错]"
       ],
-      "staticUrl": "assets/bilibili_emoji/91/2071.png",
+      "staticUrl": "assets/bilibili/91/2071.png",
       "isHide": false,
       "packageId": "91",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[公主连结_鼓气]"
       ],
-      "staticUrl": "assets/bilibili_emoji/91/2054.png",
+      "staticUrl": "assets/bilibili/91/2054.png",
       "isHide": false,
       "packageId": "91",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[公主连结_害怕]"
       ],
-      "staticUrl": "assets/bilibili_emoji/91/2055.png",
+      "staticUrl": "assets/bilibili/91/2055.png",
       "isHide": false,
       "packageId": "91",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[公主连结_惊吓]"
       ],
-      "staticUrl": "assets/bilibili_emoji/91/2056.png",
+      "staticUrl": "assets/bilibili/91/2056.png",
       "isHide": false,
       "packageId": "91",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[公主连结_来啊]"
       ],
-      "staticUrl": "assets/bilibili_emoji/91/2057.png",
+      "staticUrl": "assets/bilibili/91/2057.png",
       "isHide": false,
       "packageId": "91",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[公主连结_累死了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/91/2058.png",
+      "staticUrl": "assets/bilibili/91/2058.png",
       "isHide": false,
       "packageId": "91",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[公主连结_冷漠]"
       ],
-      "staticUrl": "assets/bilibili_emoji/91/2059.png",
+      "staticUrl": "assets/bilibili/91/2059.png",
       "isHide": false,
       "packageId": "91",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[公主连结_厉害了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/91/2060.png",
+      "staticUrl": "assets/bilibili/91/2060.png",
       "isHide": false,
       "packageId": "91",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[公主连结_你干嘛]"
       ],
-      "staticUrl": "assets/bilibili_emoji/91/2061.png",
+      "staticUrl": "assets/bilibili/91/2061.png",
       "isHide": false,
       "packageId": "91",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[公主连结_扭扭捏捏]"
       ],
-      "staticUrl": "assets/bilibili_emoji/91/2062.png",
+      "staticUrl": "assets/bilibili/91/2062.png",
       "isHide": false,
       "packageId": "91",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[公主连结_祈祷]"
       ],
-      "staticUrl": "assets/bilibili_emoji/91/2063.png",
+      "staticUrl": "assets/bilibili/91/2063.png",
       "isHide": false,
       "packageId": "91",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[公主连结_思索]"
       ],
-      "staticUrl": "assets/bilibili_emoji/91/2064.png",
+      "staticUrl": "assets/bilibili/91/2064.png",
       "isHide": false,
       "packageId": "91",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[公主连结_投币]"
       ],
-      "staticUrl": "assets/bilibili_emoji/91/2065.png",
+      "staticUrl": "assets/bilibili/91/2065.png",
       "isHide": false,
       "packageId": "91",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[公主连结_无奈]"
       ],
-      "staticUrl": "assets/bilibili_emoji/91/2066.png",
+      "staticUrl": "assets/bilibili/91/2066.png",
       "isHide": false,
       "packageId": "91",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[公主连结_邪恶]"
       ],
-      "staticUrl": "assets/bilibili_emoji/91/2067.png",
+      "staticUrl": "assets/bilibili/91/2067.png",
       "isHide": false,
       "packageId": "91",
       "meta": {
@@ -234,7 +234,7 @@
       "shortCodes": [
         "[公主连结_阴谋]"
       ],
-      "staticUrl": "assets/bilibili_emoji/91/2068.png",
+      "staticUrl": "assets/bilibili/91/2068.png",
       "isHide": false,
       "packageId": "91",
       "meta": {
@@ -249,7 +249,7 @@
       "shortCodes": [
         "[公主连结_怎么这样]"
       ],
-      "staticUrl": "assets/bilibili_emoji/91/2069.png",
+      "staticUrl": "assets/bilibili/91/2069.png",
       "isHide": false,
       "packageId": "91",
       "meta": {
@@ -264,7 +264,7 @@
       "shortCodes": [
         "[公主连结_emmm]"
       ],
-      "staticUrl": "assets/bilibili_emoji/91/2070.png",
+      "staticUrl": "assets/bilibili/91/2070.png",
       "isHide": false,
       "packageId": "91",
       "meta": {

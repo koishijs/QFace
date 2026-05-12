@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "138",
   "name": "阴阳师花鸟卷",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/e21ca3c16d70da48078c7f7a2a9db8f22d66dfca.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[花鸟卷_别拦我]"
       ],
-      "staticUrl": "assets/bilibili_emoji/138/2718.png",
+      "staticUrl": "assets/bilibili/138/2718.png",
       "isHide": false,
       "packageId": "138",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[花鸟卷_冲]"
       ],
-      "staticUrl": "assets/bilibili_emoji/138/2719.png",
+      "staticUrl": "assets/bilibili/138/2719.png",
       "isHide": false,
       "packageId": "138",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[花鸟卷_记仇]"
       ],
-      "staticUrl": "assets/bilibili_emoji/138/2720.png",
+      "staticUrl": "assets/bilibili/138/2720.png",
       "isHide": false,
       "packageId": "138",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[花鸟卷_夸我]"
       ],
-      "staticUrl": "assets/bilibili_emoji/138/2721.png",
+      "staticUrl": "assets/bilibili/138/2721.png",
       "isHide": false,
       "packageId": "138",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[花鸟卷_美眼看]"
       ],
-      "staticUrl": "assets/bilibili_emoji/138/2722.png",
+      "staticUrl": "assets/bilibili/138/2722.png",
       "isHide": false,
       "packageId": "138",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[花鸟卷_你行你画]"
       ],
-      "staticUrl": "assets/bilibili_emoji/138/2723.png",
+      "staticUrl": "assets/bilibili/138/2723.png",
       "isHide": false,
       "packageId": "138",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[花鸟卷_晚安]"
       ],
-      "staticUrl": "assets/bilibili_emoji/138/2724.png",
+      "staticUrl": "assets/bilibili/138/2724.png",
       "isHide": false,
       "packageId": "138",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[花鸟卷_我保护你]"
       ],
-      "staticUrl": "assets/bilibili_emoji/138/2725.png",
+      "staticUrl": "assets/bilibili/138/2725.png",
       "isHide": false,
       "packageId": "138",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[花鸟卷_我在]"
       ],
-      "staticUrl": "assets/bilibili_emoji/138/2726.png",
+      "staticUrl": "assets/bilibili/138/2726.png",
       "isHide": false,
       "packageId": "138",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[花鸟卷_要吗]"
       ],
-      "staticUrl": "assets/bilibili_emoji/138/2727.png",
+      "staticUrl": "assets/bilibili/138/2727.png",
       "isHide": false,
       "packageId": "138",
       "meta": {

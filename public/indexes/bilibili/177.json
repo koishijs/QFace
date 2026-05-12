@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "177",
   "name": "星座系列：双鱼座",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/b03bb87b22853ca311a99fecde5895cf6e4b94a4.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[双鱼座_Zzz]"
       ],
-      "staticUrl": "assets/bilibili_emoji/177/3224.png",
+      "staticUrl": "assets/bilibili/177/3224.png",
       "isHide": false,
       "packageId": "177",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[双鱼座_发射爱心]"
       ],
-      "staticUrl": "assets/bilibili_emoji/177/3225.png",
+      "staticUrl": "assets/bilibili/177/3225.png",
       "isHide": false,
       "packageId": "177",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[双鱼座_摸头]"
       ],
-      "staticUrl": "assets/bilibili_emoji/177/3226.png",
+      "staticUrl": "assets/bilibili/177/3226.png",
       "isHide": false,
       "packageId": "177",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[双鱼座_祈愿流星]"
       ],
-      "staticUrl": "assets/bilibili_emoji/177/3227.png",
+      "staticUrl": "assets/bilibili/177/3227.png",
       "isHide": false,
       "packageId": "177",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[双鱼座_叹气]"
       ],
-      "staticUrl": "assets/bilibili_emoji/177/3228.png",
+      "staticUrl": "assets/bilibili/177/3228.png",
       "isHide": false,
       "packageId": "177",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[双鱼座_贴贴]"
       ],
-      "staticUrl": "assets/bilibili_emoji/177/3229.png",
+      "staticUrl": "assets/bilibili/177/3229.png",
       "isHide": false,
       "packageId": "177",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[双鱼座_哇塞]"
       ],
-      "staticUrl": "assets/bilibili_emoji/177/3230.png",
+      "staticUrl": "assets/bilibili/177/3230.png",
       "isHide": false,
       "packageId": "177",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[双鱼座_哭的小声]"
       ],
-      "staticUrl": "assets/bilibili_emoji/177/3231.png",
+      "staticUrl": "assets/bilibili/177/3231.png",
       "isHide": false,
       "packageId": "177",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[双鱼座_有事吗]"
       ],
-      "staticUrl": "assets/bilibili_emoji/177/3232.png",
+      "staticUrl": "assets/bilibili/177/3232.png",
       "isHide": false,
       "packageId": "177",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[双鱼座_做白日梦]"
       ],
-      "staticUrl": "assets/bilibili_emoji/177/3233.png",
+      "staticUrl": "assets/bilibili/177/3233.png",
       "isHide": false,
       "packageId": "177",
       "meta": {

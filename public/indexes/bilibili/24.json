@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "24",
   "name": "异常生物见闻录",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/545b7740869d2f9bd04fb45de751d6aff99c3924.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[异常生物见闻录_good]"
       ],
-      "staticUrl": "assets/bilibili_emoji/24/437.png",
+      "staticUrl": "assets/bilibili/24/437.png",
       "isHide": false,
       "packageId": "24",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[异常生物见闻录_不信任]"
       ],
-      "staticUrl": "assets/bilibili_emoji/24/438.png",
+      "staticUrl": "assets/bilibili/24/438.png",
       "isHide": false,
       "packageId": "24",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[异常生物见闻录_财迷]"
       ],
-      "staticUrl": "assets/bilibili_emoji/24/456.png",
+      "staticUrl": "assets/bilibili/24/456.png",
       "isHide": false,
       "packageId": "24",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[异常生物见闻录_嘲讽]"
       ],
-      "staticUrl": "assets/bilibili_emoji/24/442.png",
+      "staticUrl": "assets/bilibili/24/442.png",
       "isHide": false,
       "packageId": "24",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[异常生物见闻录_痴呆]"
       ],
-      "staticUrl": "assets/bilibili_emoji/24/450.png",
+      "staticUrl": "assets/bilibili/24/450.png",
       "isHide": false,
       "packageId": "24",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[异常生物见闻录_憧憬]"
       ],
-      "staticUrl": "assets/bilibili_emoji/24/447.png",
+      "staticUrl": "assets/bilibili/24/447.png",
       "isHide": false,
       "packageId": "24",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[异常生物见闻录_道德标兵]"
       ],
-      "staticUrl": "assets/bilibili_emoji/24/457.png",
+      "staticUrl": "assets/bilibili/24/457.png",
       "isHide": false,
       "packageId": "24",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[异常生物见闻录_抵死不从]"
       ],
-      "staticUrl": "assets/bilibili_emoji/24/448.png",
+      "staticUrl": "assets/bilibili/24/448.png",
       "isHide": false,
       "packageId": "24",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[异常生物见闻录_发现食物]"
       ],
-      "staticUrl": "assets/bilibili_emoji/24/441.png",
+      "staticUrl": "assets/bilibili/24/441.png",
       "isHide": false,
       "packageId": "24",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[异常生物见闻录_奸笑]"
       ],
-      "staticUrl": "assets/bilibili_emoji/24/444.png",
+      "staticUrl": "assets/bilibili/24/444.png",
       "isHide": false,
       "packageId": "24",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[异常生物见闻录_绝望]"
       ],
-      "staticUrl": "assets/bilibili_emoji/24/451.png",
+      "staticUrl": "assets/bilibili/24/451.png",
       "isHide": false,
       "packageId": "24",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[异常生物见闻录_开心]"
       ],
-      "staticUrl": "assets/bilibili_emoji/24/446.png",
+      "staticUrl": "assets/bilibili/24/446.png",
       "isHide": false,
       "packageId": "24",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[异常生物见闻录_困倦]"
       ],
-      "staticUrl": "assets/bilibili_emoji/24/443.png",
+      "staticUrl": "assets/bilibili/24/443.png",
       "isHide": false,
       "packageId": "24",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[异常生物见闻录_冷汗]"
       ],
-      "staticUrl": "assets/bilibili_emoji/24/439.png",
+      "staticUrl": "assets/bilibili/24/439.png",
       "isHide": false,
       "packageId": "24",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[异常生物见闻录_凉凉]"
       ],
-      "staticUrl": "assets/bilibili_emoji/24/440.png",
+      "staticUrl": "assets/bilibili/24/440.png",
       "isHide": false,
       "packageId": "24",
       "meta": {
@@ -234,7 +234,7 @@
       "shortCodes": [
         "[异常生物见闻录_萌]"
       ],
-      "staticUrl": "assets/bilibili_emoji/24/452.png",
+      "staticUrl": "assets/bilibili/24/452.png",
       "isHide": false,
       "packageId": "24",
       "meta": {
@@ -249,7 +249,7 @@
       "shortCodes": [
         "[异常生物见闻录_请闭嘴]"
       ],
-      "staticUrl": "assets/bilibili_emoji/24/455.png",
+      "staticUrl": "assets/bilibili/24/455.png",
       "isHide": false,
       "packageId": "24",
       "meta": {
@@ -264,7 +264,7 @@
       "shortCodes": [
         "[异常生物见闻录_帅醒]"
       ],
-      "staticUrl": "assets/bilibili_emoji/24/445.png",
+      "staticUrl": "assets/bilibili/24/445.png",
       "isHide": false,
       "packageId": "24",
       "meta": {
@@ -279,7 +279,7 @@
       "shortCodes": [
         "[异常生物见闻录_无语]"
       ],
-      "staticUrl": "assets/bilibili_emoji/24/449.png",
+      "staticUrl": "assets/bilibili/24/449.png",
       "isHide": false,
       "packageId": "24",
       "meta": {
@@ -294,7 +294,7 @@
       "shortCodes": [
         "[异常生物见闻录_装傻]"
       ],
-      "staticUrl": "assets/bilibili_emoji/24/453.png",
+      "staticUrl": "assets/bilibili/24/453.png",
       "isHide": false,
       "packageId": "24",
       "meta": {
@@ -309,7 +309,7 @@
       "shortCodes": [
         "[异常生物见闻录_装文静]"
       ],
-      "staticUrl": "assets/bilibili_emoji/24/454.png",
+      "staticUrl": "assets/bilibili/24/454.png",
       "isHide": false,
       "packageId": "24",
       "meta": {

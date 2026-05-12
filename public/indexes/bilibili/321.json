@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "321",
   "name": "银杏鎏金",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/cf804f8b987bc88f6abfda36a603cbf4062eab98.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[银杏鎏金_6]"
       ],
-      "staticUrl": "assets/bilibili_emoji/321/5265.png",
+      "staticUrl": "assets/bilibili/321/5265.png",
       "isHide": false,
       "packageId": "321",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[银杏鎏金_彩虹屁]"
       ],
-      "staticUrl": "assets/bilibili_emoji/321/5266.png",
+      "staticUrl": "assets/bilibili/321/5266.png",
       "isHide": false,
       "packageId": "321",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[银杏鎏金_巅峰]"
       ],
-      "staticUrl": "assets/bilibili_emoji/321/5267.png",
+      "staticUrl": "assets/bilibili/321/5267.png",
       "isHide": false,
       "packageId": "321",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[银杏鎏金_记住了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/321/5268.png",
+      "staticUrl": "assets/bilibili/321/5268.png",
       "isHide": false,
       "packageId": "321",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[银杏鎏金_可怜巴巴]"
       ],
-      "staticUrl": "assets/bilibili_emoji/321/5269.png",
+      "staticUrl": "assets/bilibili/321/5269.png",
       "isHide": false,
       "packageId": "321",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[银杏鎏金_乐开花]"
       ],
-      "staticUrl": "assets/bilibili_emoji/321/5270.png",
+      "staticUrl": "assets/bilibili/321/5270.png",
       "isHide": false,
       "packageId": "321",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[银杏鎏金_期待]"
       ],
-      "staticUrl": "assets/bilibili_emoji/321/5271.png",
+      "staticUrl": "assets/bilibili/321/5271.png",
       "isHide": false,
       "packageId": "321",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[银杏鎏金_幸运喷雾]"
       ],
-      "staticUrl": "assets/bilibili_emoji/321/5272.png",
+      "staticUrl": "assets/bilibili/321/5272.png",
       "isHide": false,
       "packageId": "321",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[银杏鎏金_欧皇再现]"
       ],
-      "staticUrl": "assets/bilibili_emoji/321/5273.png",
+      "staticUrl": "assets/bilibili/321/5273.png",
       "isHide": false,
       "packageId": "321",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[银杏鎏金_欧里欧气]"
       ],
-      "staticUrl": "assets/bilibili_emoji/321/5274.png",
+      "staticUrl": "assets/bilibili/321/5274.png",
       "isHide": false,
       "packageId": "321",
       "meta": {

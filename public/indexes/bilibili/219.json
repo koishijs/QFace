@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "219",
   "name": "罗小黑战记",
   "coverUrl": "https://i0.hdslb.com/bfs/emote/c1c0eac2fed84da8abf258cb00d72c5932bcf0c1.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[罗小黑战记_棒棒]"
       ],
-      "staticUrl": "assets/bilibili_emoji/219/3843.png",
+      "staticUrl": "assets/bilibili/219/3843.png",
       "isHide": false,
       "packageId": "219",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[罗小黑战记_比心]"
       ],
-      "staticUrl": "assets/bilibili_emoji/219/3844.png",
+      "staticUrl": "assets/bilibili/219/3844.png",
       "isHide": false,
       "packageId": "219",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[罗小黑战记_别惹我]"
       ],
-      "staticUrl": "assets/bilibili_emoji/219/3845.png",
+      "staticUrl": "assets/bilibili/219/3845.png",
       "isHide": false,
       "packageId": "219",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[罗小黑战记_困]"
       ],
-      "staticUrl": "assets/bilibili_emoji/219/3846.png",
+      "staticUrl": "assets/bilibili/219/3846.png",
       "isHide": false,
       "packageId": "219",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[罗小黑战记_生气]"
       ],
-      "staticUrl": "assets/bilibili_emoji/219/3847.png",
+      "staticUrl": "assets/bilibili/219/3847.png",
       "isHide": false,
       "packageId": "219",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[罗小黑战记_听不懂]"
       ],
-      "staticUrl": "assets/bilibili_emoji/219/3848.png",
+      "staticUrl": "assets/bilibili/219/3848.png",
       "isHide": false,
       "packageId": "219",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[罗小黑战记_委屈]"
       ],
-      "staticUrl": "assets/bilibili_emoji/219/3849.png",
+      "staticUrl": "assets/bilibili/219/3849.png",
       "isHide": false,
       "packageId": "219",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[罗小黑战记_吓]"
       ],
-      "staticUrl": "assets/bilibili_emoji/219/3850.png",
+      "staticUrl": "assets/bilibili/219/3850.png",
       "isHide": false,
       "packageId": "219",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[罗小黑战记_耶]"
       ],
-      "staticUrl": "assets/bilibili_emoji/219/3851.png",
+      "staticUrl": "assets/bilibili/219/3851.png",
       "isHide": false,
       "packageId": "219",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[罗小黑战记_疑问]"
       ],
-      "staticUrl": "assets/bilibili_emoji/219/3852.png",
+      "staticUrl": "assets/bilibili/219/3852.png",
       "isHide": false,
       "packageId": "219",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[罗小黑战记_上号]"
       ],
-      "staticUrl": "assets/bilibili_emoji/219/3990.png",
+      "staticUrl": "assets/bilibili/219/3990.png",
       "isHide": false,
       "packageId": "219",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[罗小黑战记_馋馋]"
       ],
-      "staticUrl": "assets/bilibili_emoji/219/3991.png",
+      "staticUrl": "assets/bilibili/219/3991.png",
       "isHide": false,
       "packageId": "219",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[罗小黑战记_开心]"
       ],
-      "staticUrl": "assets/bilibili_emoji/219/3992.png",
+      "staticUrl": "assets/bilibili/219/3992.png",
       "isHide": false,
       "packageId": "219",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[罗小黑战记_冒泡]"
       ],
-      "staticUrl": "assets/bilibili_emoji/219/3993.png",
+      "staticUrl": "assets/bilibili/219/3993.png",
       "isHide": false,
       "packageId": "219",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[罗小黑战记_贴贴]"
       ],
-      "staticUrl": "assets/bilibili_emoji/219/3994.png",
+      "staticUrl": "assets/bilibili/219/3994.png",
       "isHide": false,
       "packageId": "219",
       "meta": {
@@ -234,7 +234,7 @@
       "shortCodes": [
         "[罗小黑战记_偷看]"
       ],
-      "staticUrl": "assets/bilibili_emoji/219/3995.png",
+      "staticUrl": "assets/bilibili/219/3995.png",
       "isHide": false,
       "packageId": "219",
       "meta": {
@@ -249,7 +249,7 @@
       "shortCodes": [
         "[罗小黑战记_哇]"
       ],
-      "staticUrl": "assets/bilibili_emoji/219/3996.png",
+      "staticUrl": "assets/bilibili/219/3996.png",
       "isHide": false,
       "packageId": "219",
       "meta": {
@@ -264,7 +264,7 @@
       "shortCodes": [
         "[罗小黑战记_偷笑]"
       ],
-      "staticUrl": "assets/bilibili_emoji/219/3997.png",
+      "staticUrl": "assets/bilibili/219/3997.png",
       "isHide": false,
       "packageId": "219",
       "meta": {
@@ -279,7 +279,7 @@
       "shortCodes": [
         "[罗小黑战记_晚安]"
       ],
-      "staticUrl": "assets/bilibili_emoji/219/3998.png",
+      "staticUrl": "assets/bilibili/219/3998.png",
       "isHide": false,
       "packageId": "219",
       "meta": {
@@ -294,7 +294,7 @@
       "shortCodes": [
         "[罗小黑战记_无语]"
       ],
-      "staticUrl": "assets/bilibili_emoji/219/3999.png",
+      "staticUrl": "assets/bilibili/219/3999.png",
       "isHide": false,
       "packageId": "219",
       "meta": {

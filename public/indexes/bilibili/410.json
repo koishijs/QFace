@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "410",
   "name": "约战4",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/5685108b73b57ee2f06e70827961b2d79772f472.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[约战4_i了i了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/410/6900.png",
+      "staticUrl": "assets/bilibili/410/6900.png",
       "isHide": false,
       "packageId": "410",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[约战4_不解]"
       ],
-      "staticUrl": "assets/bilibili_emoji/410/6901.png",
+      "staticUrl": "assets/bilibili/410/6901.png",
       "isHide": false,
       "packageId": "410",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[约战4_干杯]"
       ],
-      "staticUrl": "assets/bilibili_emoji/410/6902.png",
+      "staticUrl": "assets/bilibili/410/6902.png",
       "isHide": false,
       "packageId": "410",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[约战4_暗中观察 ]"
       ],
-      "staticUrl": "assets/bilibili_emoji/410/6903.png",
+      "staticUrl": "assets/bilibili/410/6903.png",
       "isHide": false,
       "packageId": "410",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[约战4_烦恼]"
       ],
-      "staticUrl": "assets/bilibili_emoji/410/6904.png",
+      "staticUrl": "assets/bilibili/410/6904.png",
       "isHide": false,
       "packageId": "410",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[约战4_乖巧]"
       ],
-      "staticUrl": "assets/bilibili_emoji/410/6905.png",
+      "staticUrl": "assets/bilibili/410/6905.png",
       "isHide": false,
       "packageId": "410",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[约战4_柠檬]"
       ],
-      "staticUrl": "assets/bilibili_emoji/410/6906.png",
+      "staticUrl": "assets/bilibili/410/6906.png",
       "isHide": false,
       "packageId": "410",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[约战4_全体起立]"
       ],
-      "staticUrl": "assets/bilibili_emoji/410/6907.png",
+      "staticUrl": "assets/bilibili/410/6907.png",
       "isHide": false,
       "packageId": "410",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[约战4_撒花]"
       ],
-      "staticUrl": "assets/bilibili_emoji/410/6908.png",
+      "staticUrl": "assets/bilibili/410/6908.png",
       "isHide": false,
       "packageId": "410",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[约战4_贴贴]"
       ],
-      "staticUrl": "assets/bilibili_emoji/410/6909.png",
+      "staticUrl": "assets/bilibili/410/6909.png",
       "isHide": false,
       "packageId": "410",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[约战4_危]"
       ],
-      "staticUrl": "assets/bilibili_emoji/410/6910.png",
+      "staticUrl": "assets/bilibili/410/6910.png",
       "isHide": false,
       "packageId": "410",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[约战4_无语]"
       ],
-      "staticUrl": "assets/bilibili_emoji/410/6911.png",
+      "staticUrl": "assets/bilibili/410/6911.png",
       "isHide": false,
       "packageId": "410",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[约战4_想桃]"
       ],
-      "staticUrl": "assets/bilibili_emoji/410/6912.png",
+      "staticUrl": "assets/bilibili/410/6912.png",
       "isHide": false,
       "packageId": "410",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[约战4_疑惑]"
       ],
-      "staticUrl": "assets/bilibili_emoji/410/6913.png",
+      "staticUrl": "assets/bilibili/410/6913.png",
       "isHide": false,
       "packageId": "410",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[约战4_再来亿遍]"
       ],
-      "staticUrl": "assets/bilibili_emoji/410/6914.png",
+      "staticUrl": "assets/bilibili/410/6914.png",
       "isHide": false,
       "packageId": "410",
       "meta": {

@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "14",
   "name": "冷兔",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/d6a7bfcb2d74601f27ff90e4ee6cfaaebd6be186.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[冷兔_吃瓜]"
       ],
-      "staticUrl": "assets/bilibili_emoji/14/279.png",
+      "staticUrl": "assets/bilibili/14/279.png",
       "isHide": false,
       "packageId": "14",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[冷兔_233]"
       ],
-      "staticUrl": "assets/bilibili_emoji/14/280.png",
+      "staticUrl": "assets/bilibili/14/280.png",
       "isHide": false,
       "packageId": "14",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[冷兔_这不科学]"
       ],
-      "staticUrl": "assets/bilibili_emoji/14/281.png",
+      "staticUrl": "assets/bilibili/14/281.png",
       "isHide": false,
       "packageId": "14",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[冷兔_？？？]"
       ],
-      "staticUrl": "assets/bilibili_emoji/14/282.png",
+      "staticUrl": "assets/bilibili/14/282.png",
       "isHide": false,
       "packageId": "14",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[冷兔_等更]"
       ],
-      "staticUrl": "assets/bilibili_emoji/14/283.png",
+      "staticUrl": "assets/bilibili/14/283.png",
       "isHide": false,
       "packageId": "14",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[冷兔_丢你雷姆]"
       ],
-      "staticUrl": "assets/bilibili_emoji/14/284.png",
+      "staticUrl": "assets/bilibili/14/284.png",
       "isHide": false,
       "packageId": "14",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[冷兔_耶]"
       ],
-      "staticUrl": "assets/bilibili_emoji/14/285.png",
+      "staticUrl": "assets/bilibili/14/285.png",
       "isHide": false,
       "packageId": "14",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[冷兔_无语]"
       ],
-      "staticUrl": "assets/bilibili_emoji/14/286.png",
+      "staticUrl": "assets/bilibili/14/286.png",
       "isHide": false,
       "packageId": "14",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[冷兔_额]"
       ],
-      "staticUrl": "assets/bilibili_emoji/14/287.png",
+      "staticUrl": "assets/bilibili/14/287.png",
       "isHide": false,
       "packageId": "14",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[冷兔_呵呵]"
       ],
-      "staticUrl": "assets/bilibili_emoji/14/288.png",
+      "staticUrl": "assets/bilibili/14/288.png",
       "isHide": false,
       "packageId": "14",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[冷兔_一无所知]"
       ],
-      "staticUrl": "assets/bilibili_emoji/14/289.png",
+      "staticUrl": "assets/bilibili/14/289.png",
       "isHide": false,
       "packageId": "14",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[冷兔_体前屈]"
       ],
-      "staticUrl": "assets/bilibili_emoji/14/290.png",
+      "staticUrl": "assets/bilibili/14/290.png",
       "isHide": false,
       "packageId": "14",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[冷兔_喜欢]"
       ],
-      "staticUrl": "assets/bilibili_emoji/14/291.png",
+      "staticUrl": "assets/bilibili/14/291.png",
       "isHide": false,
       "packageId": "14",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[冷兔_哭]"
       ],
-      "staticUrl": "assets/bilibili_emoji/14/292.png",
+      "staticUrl": "assets/bilibili/14/292.png",
       "isHide": false,
       "packageId": "14",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[冷兔_赞]"
       ],
-      "staticUrl": "assets/bilibili_emoji/14/293.png",
+      "staticUrl": "assets/bilibili/14/293.png",
       "isHide": false,
       "packageId": "14",
       "meta": {
@@ -234,7 +234,7 @@
       "shortCodes": [
         "[冷兔_低头]"
       ],
-      "staticUrl": "assets/bilibili_emoji/14/294.png",
+      "staticUrl": "assets/bilibili/14/294.png",
       "isHide": false,
       "packageId": "14",
       "meta": {
@@ -249,7 +249,7 @@
       "shortCodes": [
         "[冷兔_卖萌]"
       ],
-      "staticUrl": "assets/bilibili_emoji/14/295.png",
+      "staticUrl": "assets/bilibili/14/295.png",
       "isHide": false,
       "packageId": "14",
       "meta": {
@@ -264,7 +264,7 @@
       "shortCodes": [
         "[冷兔_扶额]"
       ],
-      "staticUrl": "assets/bilibili_emoji/14/296.png",
+      "staticUrl": "assets/bilibili/14/296.png",
       "isHide": false,
       "packageId": "14",
       "meta": {
@@ -279,7 +279,7 @@
       "shortCodes": [
         "[冷兔_掀桌]"
       ],
-      "staticUrl": "assets/bilibili_emoji/14/297.png",
+      "staticUrl": "assets/bilibili/14/297.png",
       "isHide": false,
       "packageId": "14",
       "meta": {
@@ -294,7 +294,7 @@
       "shortCodes": [
         "[冷兔_吸欧气]"
       ],
-      "staticUrl": "assets/bilibili_emoji/14/298.png",
+      "staticUrl": "assets/bilibili/14/298.png",
       "isHide": false,
       "packageId": "14",
       "meta": {

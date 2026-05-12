@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "153",
   "name": "小沪蝶",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/82f747d2bfca1eeb5f5921222a45c055adde7966.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[小沪蝶_比心]"
       ],
-      "staticUrl": "assets/bilibili_emoji/153/2864.png",
+      "staticUrl": "assets/bilibili/153/2864.png",
       "isHide": false,
       "packageId": "153",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[小沪蝶_点赞]"
       ],
-      "staticUrl": "assets/bilibili_emoji/153/2865.png",
+      "staticUrl": "assets/bilibili/153/2865.png",
       "isHide": false,
       "packageId": "153",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[小沪蝶_好棒]"
       ],
-      "staticUrl": "assets/bilibili_emoji/153/2866.png",
+      "staticUrl": "assets/bilibili/153/2866.png",
       "isHide": false,
       "packageId": "153",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[小沪蝶_好的]"
       ],
-      "staticUrl": "assets/bilibili_emoji/153/2867.png",
+      "staticUrl": "assets/bilibili/153/2867.png",
       "isHide": false,
       "packageId": "153",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[小沪蝶_加油]"
       ],
-      "staticUrl": "assets/bilibili_emoji/153/2868.png",
+      "staticUrl": "assets/bilibili/153/2868.png",
       "isHide": false,
       "packageId": "153",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[小沪蝶_厉害了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/153/2869.png",
+      "staticUrl": "assets/bilibili/153/2869.png",
       "isHide": false,
       "packageId": "153",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[小沪蝶_嗯嗯]"
       ],
-      "staticUrl": "assets/bilibili_emoji/153/2870.png",
+      "staticUrl": "assets/bilibili/153/2870.png",
       "isHide": false,
       "packageId": "153",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[小沪蝶_你好]"
       ],
-      "staticUrl": "assets/bilibili_emoji/153/2871.png",
+      "staticUrl": "assets/bilibili/153/2871.png",
       "isHide": false,
       "packageId": "153",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[小沪蝶_收到]"
       ],
-      "staticUrl": "assets/bilibili_emoji/153/2872.png",
+      "staticUrl": "assets/bilibili/153/2872.png",
       "isHide": false,
       "packageId": "153",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[小沪蝶_挑战成功]"
       ],
-      "staticUrl": "assets/bilibili_emoji/153/2873.png",
+      "staticUrl": "assets/bilibili/153/2873.png",
       "isHide": false,
       "packageId": "153",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[小沪蝶_谢谢]"
       ],
-      "staticUrl": "assets/bilibili_emoji/153/2874.png",
+      "staticUrl": "assets/bilibili/153/2874.png",
       "isHide": false,
       "packageId": "153",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[小沪蝶_辛苦啦]"
       ],
-      "staticUrl": "assets/bilibili_emoji/153/2875.png",
+      "staticUrl": "assets/bilibili/153/2875.png",
       "isHide": false,
       "packageId": "153",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[小沪蝶_奋斗]"
       ],
-      "staticUrl": "assets/bilibili_emoji/153/2876.png",
+      "staticUrl": "assets/bilibili/153/2876.png",
       "isHide": false,
       "packageId": "153",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[小沪蝶_学霸]"
       ],
-      "staticUrl": "assets/bilibili_emoji/153/2877.png",
+      "staticUrl": "assets/bilibili/153/2877.png",
       "isHide": false,
       "packageId": "153",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[小沪蝶_学在上海]"
       ],
-      "staticUrl": "assets/bilibili_emoji/153/2878.png",
+      "staticUrl": "assets/bilibili/153/2878.png",
       "isHide": false,
       "packageId": "153",
       "meta": {
@@ -234,7 +234,7 @@
       "shortCodes": [
         "[小沪蝶_一起学习呀]"
       ],
-      "staticUrl": "assets/bilibili_emoji/153/2879.png",
+      "staticUrl": "assets/bilibili/153/2879.png",
       "isHide": false,
       "packageId": "153",
       "meta": {

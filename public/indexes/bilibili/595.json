@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "595",
   "name": "蛋酒一家",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/c7fbec37cc3bcef75ded1e0be006b63e8c67b773.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[蛋酒一家_送心]"
       ],
-      "staticUrl": "assets/bilibili_emoji/595/10804.png",
+      "staticUrl": "assets/bilibili/595/10804.png",
       "isHide": false,
       "packageId": "595",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[蛋酒一家_啊对对对]"
       ],
-      "staticUrl": "assets/bilibili_emoji/595/10805.png",
+      "staticUrl": "assets/bilibili/595/10805.png",
       "isHide": false,
       "packageId": "595",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[蛋酒一家_阿巴]"
       ],
-      "staticUrl": "assets/bilibili_emoji/595/10806.png",
+      "staticUrl": "assets/bilibili/595/10806.png",
       "isHide": false,
       "packageId": "595",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[蛋酒一家_emo]"
       ],
-      "staticUrl": "assets/bilibili_emoji/595/10807.png",
+      "staticUrl": "assets/bilibili/595/10807.png",
       "isHide": false,
       "packageId": "595",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[蛋酒一家_水枪攻击]"
       ],
-      "staticUrl": "assets/bilibili_emoji/595/10808.png",
+      "staticUrl": "assets/bilibili/595/10808.png",
       "isHide": false,
       "packageId": "595",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[蛋酒一家_抬杠]"
       ],
-      "staticUrl": "assets/bilibili_emoji/595/10809.png",
+      "staticUrl": "assets/bilibili/595/10809.png",
       "isHide": false,
       "packageId": "595",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[蛋酒一家_赞啊]"
       ],
-      "staticUrl": "assets/bilibili_emoji/595/10810.png",
+      "staticUrl": "assets/bilibili/595/10810.png",
       "isHide": false,
       "packageId": "595",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[蛋酒一家_看你洗]"
       ],
-      "staticUrl": "assets/bilibili_emoji/595/10811.png",
+      "staticUrl": "assets/bilibili/595/10811.png",
       "isHide": false,
       "packageId": "595",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[蛋酒一家_伤心]"
       ],
-      "staticUrl": "assets/bilibili_emoji/595/10812.png",
+      "staticUrl": "assets/bilibili/595/10812.png",
       "isHide": false,
       "packageId": "595",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[蛋酒一家_上火]"
       ],
-      "staticUrl": "assets/bilibili_emoji/595/10813.png",
+      "staticUrl": "assets/bilibili/595/10813.png",
       "isHide": false,
       "packageId": "595",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[蛋酒一家_帮你灭火]"
       ],
-      "staticUrl": "assets/bilibili_emoji/595/10814.png",
+      "staticUrl": "assets/bilibili/595/10814.png",
       "isHide": false,
       "packageId": "595",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[蛋酒一家_往这看]"
       ],
-      "staticUrl": "assets/bilibili_emoji/595/10815.png",
+      "staticUrl": "assets/bilibili/595/10815.png",
       "isHide": false,
       "packageId": "595",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[蛋酒一家_知道了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/595/10816.png",
+      "staticUrl": "assets/bilibili/595/10816.png",
       "isHide": false,
       "packageId": "595",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[蛋酒一家_达成共识]"
       ],
-      "staticUrl": "assets/bilibili_emoji/595/10817.png",
+      "staticUrl": "assets/bilibili/595/10817.png",
       "isHide": false,
       "packageId": "595",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[蛋酒一家_我丢]"
       ],
-      "staticUrl": "assets/bilibili_emoji/595/10818.png",
+      "staticUrl": "assets/bilibili/595/10818.png",
       "isHide": false,
       "packageId": "595",
       "meta": {
@@ -234,7 +234,7 @@
       "shortCodes": [
         "[蛋酒一家_锤你]"
       ],
-      "staticUrl": "assets/bilibili_emoji/595/10819.png",
+      "staticUrl": "assets/bilibili/595/10819.png",
       "isHide": false,
       "packageId": "595",
       "meta": {
@@ -249,7 +249,7 @@
       "shortCodes": [
         "[蛋酒一家_流口水]"
       ],
-      "staticUrl": "assets/bilibili_emoji/595/10820.png",
+      "staticUrl": "assets/bilibili/595/10820.png",
       "isHide": false,
       "packageId": "595",
       "meta": {
@@ -264,7 +264,7 @@
       "shortCodes": [
         "[蛋酒一家_尬住]"
       ],
-      "staticUrl": "assets/bilibili_emoji/595/10821.png",
+      "staticUrl": "assets/bilibili/595/10821.png",
       "isHide": false,
       "packageId": "595",
       "meta": {
@@ -279,7 +279,7 @@
       "shortCodes": [
         "[蛋酒一家_大佬]"
       ],
-      "staticUrl": "assets/bilibili_emoji/595/10822.png",
+      "staticUrl": "assets/bilibili/595/10822.png",
       "isHide": false,
       "packageId": "595",
       "meta": {
@@ -294,7 +294,7 @@
       "shortCodes": [
         "[蛋酒一家_？]"
       ],
-      "staticUrl": "assets/bilibili_emoji/595/10823.png",
+      "staticUrl": "assets/bilibili/595/10823.png",
       "isHide": false,
       "packageId": "595",
       "meta": {
@@ -309,7 +309,7 @@
       "shortCodes": [
         "[蛋酒一家_冲啊]"
       ],
-      "staticUrl": "assets/bilibili_emoji/595/10824.png",
+      "staticUrl": "assets/bilibili/595/10824.png",
       "isHide": false,
       "packageId": "595",
       "meta": {
@@ -324,7 +324,7 @@
       "shortCodes": [
         "[蛋酒一家_好耶]"
       ],
-      "staticUrl": "assets/bilibili_emoji/595/10825.png",
+      "staticUrl": "assets/bilibili/595/10825.png",
       "isHide": false,
       "packageId": "595",
       "meta": {
@@ -339,7 +339,7 @@
       "shortCodes": [
         "[蛋酒一家_有内鬼]"
       ],
-      "staticUrl": "assets/bilibili_emoji/595/10826.png",
+      "staticUrl": "assets/bilibili/595/10826.png",
       "isHide": false,
       "packageId": "595",
       "meta": {
@@ -354,7 +354,7 @@
       "shortCodes": [
         "[蛋酒一家_溜了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/595/10827.png",
+      "staticUrl": "assets/bilibili/595/10827.png",
       "isHide": false,
       "packageId": "595",
       "meta": {
@@ -369,7 +369,7 @@
       "shortCodes": [
         "[蛋酒一家_电锯警告]"
       ],
-      "staticUrl": "assets/bilibili_emoji/595/10828.png",
+      "staticUrl": "assets/bilibili/595/10828.png",
       "isHide": false,
       "packageId": "595",
       "meta": {
@@ -384,7 +384,7 @@
       "shortCodes": [
         "[蛋酒一家_假笑]"
       ],
-      "staticUrl": "assets/bilibili_emoji/595/10829.png",
+      "staticUrl": "assets/bilibili/595/10829.png",
       "isHide": false,
       "packageId": "595",
       "meta": {
@@ -399,7 +399,7 @@
       "shortCodes": [
         "[蛋酒一家_霸屏]"
       ],
-      "staticUrl": "assets/bilibili_emoji/595/10830.png",
+      "staticUrl": "assets/bilibili/595/10830.png",
       "isHide": false,
       "packageId": "595",
       "meta": {
@@ -414,7 +414,7 @@
       "shortCodes": [
         "[蛋酒一家_盯上你了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/595/10831.png",
+      "staticUrl": "assets/bilibili/595/10831.png",
       "isHide": false,
       "packageId": "595",
       "meta": {
@@ -429,7 +429,7 @@
       "shortCodes": [
         "[蛋酒一家_警告]"
       ],
-      "staticUrl": "assets/bilibili_emoji/595/10842.png",
+      "staticUrl": "assets/bilibili/595/10842.png",
       "isHide": false,
       "packageId": "595",
       "meta": {
@@ -444,7 +444,7 @@
       "shortCodes": [
         "[蛋酒一家_tui]"
       ],
-      "staticUrl": "assets/bilibili_emoji/595/10843.png",
+      "staticUrl": "assets/bilibili/595/10843.png",
       "isHide": false,
       "packageId": "595",
       "meta": {

@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "366",
   "name": "崩坏学园2",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/12f91154c20bdbb906de1ec1da2720185e99b5e1.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[崩坏学园2_震惊]"
       ],
-      "staticUrl": "assets/bilibili_emoji/366/6022.png",
+      "staticUrl": "assets/bilibili/366/6022.png",
       "isHide": false,
       "packageId": "366",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[崩坏学园2_记仇]"
       ],
-      "staticUrl": "assets/bilibili_emoji/366/6023.png",
+      "staticUrl": "assets/bilibili/366/6023.png",
       "isHide": false,
       "packageId": "366",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[崩坏学园2_花痴]"
       ],
-      "staticUrl": "assets/bilibili_emoji/366/6024.png",
+      "staticUrl": "assets/bilibili/366/6024.png",
       "isHide": false,
       "packageId": "366",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[崩坏学园2_绷住]"
       ],
-      "staticUrl": "assets/bilibili_emoji/366/6025.png",
+      "staticUrl": "assets/bilibili/366/6025.png",
       "isHide": false,
       "packageId": "366",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[崩坏学园2_绷不住了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/366/6026.png",
+      "staticUrl": "assets/bilibili/366/6026.png",
       "isHide": false,
       "packageId": "366",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[崩坏学园2_白眼]"
       ],
-      "staticUrl": "assets/bilibili_emoji/366/6027.png",
+      "staticUrl": "assets/bilibili/366/6027.png",
       "isHide": false,
       "packageId": "366",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[崩坏学园2_满头问号]"
       ],
-      "staticUrl": "assets/bilibili_emoji/366/6028.png",
+      "staticUrl": "assets/bilibili/366/6028.png",
       "isHide": false,
       "packageId": "366",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[崩坏学园2_流汗]"
       ],
-      "staticUrl": "assets/bilibili_emoji/366/6029.png",
+      "staticUrl": "assets/bilibili/366/6029.png",
       "isHide": false,
       "packageId": "366",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[崩坏学园2_有一说一]"
       ],
-      "staticUrl": "assets/bilibili_emoji/366/6030.png",
+      "staticUrl": "assets/bilibili/366/6030.png",
       "isHide": false,
       "packageId": "366",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[崩坏学园2_晚安]"
       ],
-      "staticUrl": "assets/bilibili_emoji/366/6031.png",
+      "staticUrl": "assets/bilibili/366/6031.png",
       "isHide": false,
       "packageId": "366",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[崩坏学园2_心碎]"
       ],
-      "staticUrl": "assets/bilibili_emoji/366/6032.png",
+      "staticUrl": "assets/bilibili/366/6032.png",
       "isHide": false,
       "packageId": "366",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[崩坏学园2_就这]"
       ],
-      "staticUrl": "assets/bilibili_emoji/366/6033.png",
+      "staticUrl": "assets/bilibili/366/6033.png",
       "isHide": false,
       "packageId": "366",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[崩坏学园2_害羞]"
       ],
-      "staticUrl": "assets/bilibili_emoji/366/6034.png",
+      "staticUrl": "assets/bilibili/366/6034.png",
       "isHide": false,
       "packageId": "366",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[崩坏学园2_好耶]"
       ],
-      "staticUrl": "assets/bilibili_emoji/366/6035.png",
+      "staticUrl": "assets/bilibili/366/6035.png",
       "isHide": false,
       "packageId": "366",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[崩坏学园2_哭哭]"
       ],
-      "staticUrl": "assets/bilibili_emoji/366/6036.png",
+      "staticUrl": "assets/bilibili/366/6036.png",
       "isHide": false,
       "packageId": "366",
       "meta": {
@@ -234,7 +234,7 @@
       "shortCodes": [
         "[崩坏学园2_和善]"
       ],
-      "staticUrl": "assets/bilibili_emoji/366/6037.png",
+      "staticUrl": "assets/bilibili/366/6037.png",
       "isHide": false,
       "packageId": "366",
       "meta": {
@@ -249,7 +249,7 @@
       "shortCodes": [
         "[崩坏学园2_吃瓜]"
       ],
-      "staticUrl": "assets/bilibili_emoji/366/6038.png",
+      "staticUrl": "assets/bilibili/366/6038.png",
       "isHide": false,
       "packageId": "366",
       "meta": {
@@ -264,7 +264,7 @@
       "shortCodes": [
         "[崩坏学园2_偷瞄]"
       ],
-      "staticUrl": "assets/bilibili_emoji/366/6039.png",
+      "staticUrl": "assets/bilibili/366/6039.png",
       "isHide": false,
       "packageId": "366",
       "meta": {
@@ -279,7 +279,7 @@
       "shortCodes": [
         "[崩坏学园2_乖巧]"
       ],
-      "staticUrl": "assets/bilibili_emoji/366/6040.png",
+      "staticUrl": "assets/bilibili/366/6040.png",
       "isHide": false,
       "packageId": "366",
       "meta": {
@@ -294,7 +294,7 @@
       "shortCodes": [
         "[崩坏学园2_满头叹号]"
       ],
-      "staticUrl": "assets/bilibili_emoji/366/6051.png",
+      "staticUrl": "assets/bilibili/366/6051.png",
       "isHide": false,
       "packageId": "366",
       "meta": {

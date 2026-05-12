@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "15",
   "name": "那兔",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/eaa4423ce29e62cb02f3be2e236ace4665de7363.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[那兔_合个影]"
       ],
-      "staticUrl": "assets/bilibili_emoji/15/299.png",
+      "staticUrl": "assets/bilibili/15/299.png",
       "isHide": false,
       "packageId": "15",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[那兔_囧]"
       ],
-      "staticUrl": "assets/bilibili_emoji/15/300.png",
+      "staticUrl": "assets/bilibili/15/300.png",
       "isHide": false,
       "packageId": "15",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[那兔_。。。]"
       ],
-      "staticUrl": "assets/bilibili_emoji/15/301.png",
+      "staticUrl": "assets/bilibili/15/301.png",
       "isHide": false,
       "packageId": "15",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[那兔_好滴]"
       ],
-      "staticUrl": "assets/bilibili_emoji/15/302.png",
+      "staticUrl": "assets/bilibili/15/302.png",
       "isHide": false,
       "packageId": "15",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[那兔_讲道理]"
       ],
-      "staticUrl": "assets/bilibili_emoji/15/303.png",
+      "staticUrl": "assets/bilibili/15/303.png",
       "isHide": false,
       "packageId": "15",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[那兔_懒得理你]"
       ],
-      "staticUrl": "assets/bilibili_emoji/15/304.png",
+      "staticUrl": "assets/bilibili/15/304.png",
       "isHide": false,
       "packageId": "15",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[那兔_奈我何]"
       ],
-      "staticUrl": "assets/bilibili_emoji/15/305.png",
+      "staticUrl": "assets/bilibili/15/305.png",
       "isHide": false,
       "packageId": "15",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[那兔_你丫试试]"
       ],
-      "staticUrl": "assets/bilibili_emoji/15/306.png",
+      "staticUrl": "assets/bilibili/15/306.png",
       "isHide": false,
       "packageId": "15",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[那兔_深思]"
       ],
-      "staticUrl": "assets/bilibili_emoji/15/307.png",
+      "staticUrl": "assets/bilibili/15/307.png",
       "isHide": false,
       "packageId": "15",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[那兔_恶代官]"
       ],
-      "staticUrl": "assets/bilibili_emoji/15/308.png",
+      "staticUrl": "assets/bilibili/15/308.png",
       "isHide": false,
       "packageId": "15",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[那兔_说什么喵]"
       ],
-      "staticUrl": "assets/bilibili_emoji/15/309.png",
+      "staticUrl": "assets/bilibili/15/309.png",
       "isHide": false,
       "packageId": "15",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[那兔_心碎]"
       ],
-      "staticUrl": "assets/bilibili_emoji/15/310.png",
+      "staticUrl": "assets/bilibili/15/310.png",
       "isHide": false,
       "packageId": "15",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[那兔_一见钟情]"
       ],
-      "staticUrl": "assets/bilibili_emoji/15/311.png",
+      "staticUrl": "assets/bilibili/15/311.png",
       "isHide": false,
       "packageId": "15",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[那兔_找事儿]"
       ],
-      "staticUrl": "assets/bilibili_emoji/15/312.png",
+      "staticUrl": "assets/bilibili/15/312.png",
       "isHide": false,
       "packageId": "15",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[那兔_痴呆]"
       ],
-      "staticUrl": "assets/bilibili_emoji/15/313.png",
+      "staticUrl": "assets/bilibili/15/313.png",
       "isHide": false,
       "packageId": "15",
       "meta": {
@@ -234,7 +234,7 @@
       "shortCodes": [
         "[那兔_呃]"
       ],
-      "staticUrl": "assets/bilibili_emoji/15/314.png",
+      "staticUrl": "assets/bilibili/15/314.png",
       "isHide": false,
       "packageId": "15",
       "meta": {
@@ -249,7 +249,7 @@
       "shortCodes": [
         "[那兔_擦]"
       ],
-      "staticUrl": "assets/bilibili_emoji/15/315.png",
+      "staticUrl": "assets/bilibili/15/315.png",
       "isHide": false,
       "packageId": "15",
       "meta": {

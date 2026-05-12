@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "579",
   "name": "蜜桃猫",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/afd3b129bf7ed15065b17d496eea6465b7766c65.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[蜜桃猫_？？]"
       ],
-      "staticUrl": "assets/bilibili_emoji/579/10479.png",
+      "staticUrl": "assets/bilibili/579/10479.png",
       "isHide": false,
       "packageId": "579",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[蜜桃猫_Hello]"
       ],
-      "staticUrl": "assets/bilibili_emoji/579/10480.png",
+      "staticUrl": "assets/bilibili/579/10480.png",
       "isHide": false,
       "packageId": "579",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[蜜桃猫_阿巴阿巴]"
       ],
-      "staticUrl": "assets/bilibili_emoji/579/10481.png",
+      "staticUrl": "assets/bilibili/579/10481.png",
       "isHide": false,
       "packageId": "579",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[蜜桃猫_啊这]"
       ],
-      "staticUrl": "assets/bilibili_emoji/579/10482.png",
+      "staticUrl": "assets/bilibili/579/10482.png",
       "isHide": false,
       "packageId": "579",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[蜜桃猫_比心]"
       ],
-      "staticUrl": "assets/bilibili_emoji/579/10483.png",
+      "staticUrl": "assets/bilibili/579/10483.png",
       "isHide": false,
       "packageId": "579",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[蜜桃猫_飙泪]"
       ],
-      "staticUrl": "assets/bilibili_emoji/579/10484.png",
+      "staticUrl": "assets/bilibili/579/10484.png",
       "isHide": false,
       "packageId": "579",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[蜜桃猫_超凶]"
       ],
-      "staticUrl": "assets/bilibili_emoji/579/10485.png",
+      "staticUrl": "assets/bilibili/579/10485.png",
       "isHide": false,
       "packageId": "579",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[蜜桃猫_打call]"
       ],
-      "staticUrl": "assets/bilibili_emoji/579/10486.png",
+      "staticUrl": "assets/bilibili/579/10486.png",
       "isHide": false,
       "packageId": "579",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[蜜桃猫_大冤种]"
       ],
-      "staticUrl": "assets/bilibili_emoji/579/10487.png",
+      "staticUrl": "assets/bilibili/579/10487.png",
       "isHide": false,
       "packageId": "579",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[蜜桃猫_盯]"
       ],
-      "staticUrl": "assets/bilibili_emoji/579/10488.png",
+      "staticUrl": "assets/bilibili/579/10488.png",
       "isHide": false,
       "packageId": "579",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[蜜桃猫_飞吻]"
       ],
-      "staticUrl": "assets/bilibili_emoji/579/10489.png",
+      "staticUrl": "assets/bilibili/579/10489.png",
       "isHide": false,
       "packageId": "579",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[蜜桃猫_害羞]"
       ],
-      "staticUrl": "assets/bilibili_emoji/579/10490.png",
+      "staticUrl": "assets/bilibili/579/10490.png",
       "isHide": false,
       "packageId": "579",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[蜜桃猫_哼]"
       ],
-      "staticUrl": "assets/bilibili_emoji/579/10491.png",
+      "staticUrl": "assets/bilibili/579/10491.png",
       "isHide": false,
       "packageId": "579",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[蜜桃猫_坏笑]"
       ],
-      "staticUrl": "assets/bilibili_emoji/579/10492.png",
+      "staticUrl": "assets/bilibili/579/10492.png",
       "isHide": false,
       "packageId": "579",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[蜜桃猫_举高高]"
       ],
-      "staticUrl": "assets/bilibili_emoji/579/10493.png",
+      "staticUrl": "assets/bilibili/579/10493.png",
       "isHide": false,
       "packageId": "579",
       "meta": {
@@ -234,7 +234,7 @@
       "shortCodes": [
         "[蜜桃猫_苦鲁西]"
       ],
-      "staticUrl": "assets/bilibili_emoji/579/10494.png",
+      "staticUrl": "assets/bilibili/579/10494.png",
       "isHide": false,
       "packageId": "579",
       "meta": {
@@ -249,7 +249,7 @@
       "shortCodes": [
         "[蜜桃猫_来啦]"
       ],
-      "staticUrl": "assets/bilibili_emoji/579/10495.png",
+      "staticUrl": "assets/bilibili/579/10495.png",
       "isHide": false,
       "packageId": "579",
       "meta": {
@@ -264,7 +264,7 @@
       "shortCodes": [
         "[蜜桃猫_懒得理你]"
       ],
-      "staticUrl": "assets/bilibili_emoji/579/10496.png",
+      "staticUrl": "assets/bilibili/579/10496.png",
       "isHide": false,
       "packageId": "579",
       "meta": {
@@ -279,7 +279,7 @@
       "shortCodes": [
         "[蜜桃猫_摸鱼]"
       ],
-      "staticUrl": "assets/bilibili_emoji/579/10497.png",
+      "staticUrl": "assets/bilibili/579/10497.png",
       "isHide": false,
       "packageId": "579",
       "meta": {
@@ -294,7 +294,7 @@
       "shortCodes": [
         "[蜜桃猫_你没事吧]"
       ],
-      "staticUrl": "assets/bilibili_emoji/579/10498.png",
+      "staticUrl": "assets/bilibili/579/10498.png",
       "isHide": false,
       "packageId": "579",
       "meta": {
@@ -309,7 +309,7 @@
       "shortCodes": [
         "[蜜桃猫_啪]"
       ],
-      "staticUrl": "assets/bilibili_emoji/579/10499.png",
+      "staticUrl": "assets/bilibili/579/10499.png",
       "isHide": false,
       "packageId": "579",
       "meta": {
@@ -324,7 +324,7 @@
       "shortCodes": [
         "[蜜桃猫_躺]"
       ],
-      "staticUrl": "assets/bilibili_emoji/579/10500.png",
+      "staticUrl": "assets/bilibili/579/10500.png",
       "isHide": false,
       "packageId": "579",
       "meta": {
@@ -339,7 +339,7 @@
       "shortCodes": [
         "[蜜桃猫_贴贴]"
       ],
-      "staticUrl": "assets/bilibili_emoji/579/10501.png",
+      "staticUrl": "assets/bilibili/579/10501.png",
       "isHide": false,
       "packageId": "579",
       "meta": {
@@ -354,7 +354,7 @@
       "shortCodes": [
         "[蜜桃猫_拖走]"
       ],
-      "staticUrl": "assets/bilibili_emoji/579/10502.png",
+      "staticUrl": "assets/bilibili/579/10502.png",
       "isHide": false,
       "packageId": "579",
       "meta": {
@@ -369,7 +369,7 @@
       "shortCodes": [
         "[蜜桃猫_晚安]"
       ],
-      "staticUrl": "assets/bilibili_emoji/579/10503.png",
+      "staticUrl": "assets/bilibili/579/10503.png",
       "isHide": false,
       "packageId": "579",
       "meta": {
@@ -384,7 +384,7 @@
       "shortCodes": [
         "[蜜桃猫_委屈巴巴]"
       ],
-      "staticUrl": "assets/bilibili_emoji/579/10504.png",
+      "staticUrl": "assets/bilibili/579/10504.png",
       "isHide": false,
       "packageId": "579",
       "meta": {
@@ -399,7 +399,7 @@
       "shortCodes": [
         "[蜜桃猫_无语]"
       ],
-      "staticUrl": "assets/bilibili_emoji/579/10505.png",
+      "staticUrl": "assets/bilibili/579/10505.png",
       "isHide": false,
       "packageId": "579",
       "meta": {
@@ -414,7 +414,7 @@
       "shortCodes": [
         "[蜜桃猫_喜欢]"
       ],
-      "staticUrl": "assets/bilibili_emoji/579/10506.png",
+      "staticUrl": "assets/bilibili/579/10506.png",
       "isHide": false,
       "packageId": "579",
       "meta": {
@@ -429,7 +429,7 @@
       "shortCodes": [
         "[蜜桃猫_星星眼]"
       ],
-      "staticUrl": "assets/bilibili_emoji/579/10507.png",
+      "staticUrl": "assets/bilibili/579/10507.png",
       "isHide": false,
       "packageId": "579",
       "meta": {
@@ -444,7 +444,7 @@
       "shortCodes": [
         "[蜜桃猫_赞]"
       ],
-      "staticUrl": "assets/bilibili_emoji/579/10508.png",
+      "staticUrl": "assets/bilibili/579/10508.png",
       "isHide": false,
       "packageId": "579",
       "meta": {

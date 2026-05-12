@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "205",
   "name": "星座系列：金牛座",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/46320ca728a5ef6f85c08b0d160a69b16914490c.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[金牛座_按住]"
       ],
-      "staticUrl": "assets/bilibili_emoji/205/3631.png",
+      "staticUrl": "assets/bilibili/205/3631.png",
       "isHide": false,
       "packageId": "205",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[金牛座_担忧]"
       ],
-      "staticUrl": "assets/bilibili_emoji/205/3632.png",
+      "staticUrl": "assets/bilibili/205/3632.png",
       "isHide": false,
       "packageId": "205",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[金牛座_富有]"
       ],
-      "staticUrl": "assets/bilibili_emoji/205/3633.png",
+      "staticUrl": "assets/bilibili/205/3633.png",
       "isHide": false,
       "packageId": "205",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[金牛座_干饭魂]"
       ],
-      "staticUrl": "assets/bilibili_emoji/205/3634.png",
+      "staticUrl": "assets/bilibili/205/3634.png",
       "isHide": false,
       "packageId": "205",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[金牛座_靠谱]"
       ],
-      "staticUrl": "assets/bilibili_emoji/205/3635.png",
+      "staticUrl": "assets/bilibili/205/3635.png",
       "isHide": false,
       "packageId": "205",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[金牛座_没钱了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/205/3636.png",
+      "staticUrl": "assets/bilibili/205/3636.png",
       "isHide": false,
       "packageId": "205",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[金牛座_牛年大吉]"
       ],
-      "staticUrl": "assets/bilibili_emoji/205/3637.png",
+      "staticUrl": "assets/bilibili/205/3637.png",
       "isHide": false,
       "packageId": "205",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[金牛座_贴贴]"
       ],
-      "staticUrl": "assets/bilibili_emoji/205/3638.png",
+      "staticUrl": "assets/bilibili/205/3638.png",
       "isHide": false,
       "packageId": "205",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[金牛座_我寻思一下]"
       ],
-      "staticUrl": "assets/bilibili_emoji/205/3639.png",
+      "staticUrl": "assets/bilibili/205/3639.png",
       "isHide": false,
       "packageId": "205",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[金牛座_爷青回]"
       ],
-      "staticUrl": "assets/bilibili_emoji/205/3640.png",
+      "staticUrl": "assets/bilibili/205/3640.png",
       "isHide": false,
       "packageId": "205",
       "meta": {

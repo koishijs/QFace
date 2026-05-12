@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "6",
   "name": "2233娘",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/f52830f0c01a4dc91457be5bb2ee49b1b5692cd5.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[2233娘_大笑]"
       ],
-      "staticUrl": "assets/bilibili_emoji/6/136.png",
+      "staticUrl": "assets/bilibili/6/136.png",
       "isHide": false,
       "packageId": "6",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[2233娘_吃惊]"
       ],
-      "staticUrl": "assets/bilibili_emoji/6/137.png",
+      "staticUrl": "assets/bilibili/6/137.png",
       "isHide": false,
       "packageId": "6",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[2233娘_大哭]"
       ],
-      "staticUrl": "assets/bilibili_emoji/6/138.png",
+      "staticUrl": "assets/bilibili/6/138.png",
       "isHide": false,
       "packageId": "6",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[2233娘_耶]"
       ],
-      "staticUrl": "assets/bilibili_emoji/6/139.png",
+      "staticUrl": "assets/bilibili/6/139.png",
       "isHide": false,
       "packageId": "6",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[2233娘_卖萌]"
       ],
-      "staticUrl": "assets/bilibili_emoji/6/140.png",
+      "staticUrl": "assets/bilibili/6/140.png",
       "isHide": false,
       "packageId": "6",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[2233娘_疑问]"
       ],
-      "staticUrl": "assets/bilibili_emoji/6/141.png",
+      "staticUrl": "assets/bilibili/6/141.png",
       "isHide": false,
       "packageId": "6",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[2233娘_汗]"
       ],
-      "staticUrl": "assets/bilibili_emoji/6/142.png",
+      "staticUrl": "assets/bilibili/6/142.png",
       "isHide": false,
       "packageId": "6",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[2233娘_困惑]"
       ],
-      "staticUrl": "assets/bilibili_emoji/6/143.png",
+      "staticUrl": "assets/bilibili/6/143.png",
       "isHide": false,
       "packageId": "6",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[2233娘_怒]"
       ],
-      "staticUrl": "assets/bilibili_emoji/6/144.png",
+      "staticUrl": "assets/bilibili/6/144.png",
       "isHide": false,
       "packageId": "6",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[2233娘_委屈]"
       ],
-      "staticUrl": "assets/bilibili_emoji/6/145.png",
+      "staticUrl": "assets/bilibili/6/145.png",
       "isHide": false,
       "packageId": "6",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[2233娘_郁闷]"
       ],
-      "staticUrl": "assets/bilibili_emoji/6/146.png",
+      "staticUrl": "assets/bilibili/6/146.png",
       "isHide": false,
       "packageId": "6",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[2233娘_第一]"
       ],
-      "staticUrl": "assets/bilibili_emoji/6/147.png",
+      "staticUrl": "assets/bilibili/6/147.png",
       "isHide": false,
       "packageId": "6",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[2233娘_喝水]"
       ],
-      "staticUrl": "assets/bilibili_emoji/6/148.png",
+      "staticUrl": "assets/bilibili/6/148.png",
       "isHide": false,
       "packageId": "6",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[2233娘_吐魂]"
       ],
-      "staticUrl": "assets/bilibili_emoji/6/149.png",
+      "staticUrl": "assets/bilibili/6/149.png",
       "isHide": false,
       "packageId": "6",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[2233娘_无言]"
       ],
-      "staticUrl": "assets/bilibili_emoji/6/150.png",
+      "staticUrl": "assets/bilibili/6/150.png",
       "isHide": false,
       "packageId": "6",
       "meta": {

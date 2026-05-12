@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "192",
   "name": "小会员限定表情包",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/c6d63a09ac12e1f35d344278d6347ef481980241.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[小会员限定_GGMM]"
       ],
-      "staticUrl": "assets/bilibili_emoji/192/3434.png",
+      "staticUrl": "assets/bilibili/192/3434.png",
       "isHide": false,
       "packageId": "192",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[小会员限定_变身]"
       ],
-      "staticUrl": "assets/bilibili_emoji/192/3435.png",
+      "staticUrl": "assets/bilibili/192/3435.png",
       "isHide": false,
       "packageId": "192",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[小会员限定_别鸽]"
       ],
-      "staticUrl": "assets/bilibili_emoji/192/3436.png",
+      "staticUrl": "assets/bilibili/192/3436.png",
       "isHide": false,
       "packageId": "192",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[小会员限定_别说话吻我]"
       ],
-      "staticUrl": "assets/bilibili_emoji/192/3437.png",
+      "staticUrl": "assets/bilibili/192/3437.png",
       "isHide": false,
       "packageId": "192",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[小会员限定_村头见]"
       ],
-      "staticUrl": "assets/bilibili_emoji/192/3438.png",
+      "staticUrl": "assets/bilibili/192/3438.png",
       "isHide": false,
       "packageId": "192",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[小会员限定_电你一下]"
       ],
-      "staticUrl": "assets/bilibili_emoji/192/3439.png",
+      "staticUrl": "assets/bilibili/192/3439.png",
       "isHide": false,
       "packageId": "192",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[小会员限定_请深爱]"
       ],
-      "staticUrl": "assets/bilibili_emoji/192/3440.png",
+      "staticUrl": "assets/bilibili/192/3440.png",
       "isHide": false,
       "packageId": "192",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[小会员限定_玩心么MM]"
       ],
-      "staticUrl": "assets/bilibili_emoji/192/3441.png",
+      "staticUrl": "assets/bilibili/192/3441.png",
       "isHide": false,
       "packageId": "192",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[小会员限定_想当年]"
       ],
-      "staticUrl": "assets/bilibili_emoji/192/3442.png",
+      "staticUrl": "assets/bilibili/192/3442.png",
       "isHide": false,
       "packageId": "192",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[小会员限定_小会员集合]"
       ],
-      "staticUrl": "assets/bilibili_emoji/192/3443.png",
+      "staticUrl": "assets/bilibili/192/3443.png",
       "isHide": false,
       "packageId": "192",
       "meta": {

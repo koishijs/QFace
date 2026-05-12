@@ -1,4 +1,4 @@
-# Logs
+﻿# Logs
 logs
 *.log
 npm-debug.log*
@@ -136,6 +136,6 @@ release
 .backup
 
 # 本地生成的表情包图片（由 gen 脚本下载，不纳入版本控制）
-public/assets/bilibili_emoji/*/
-public/assets/wechat_emoji/*/
-public/assets/qq_emoji/*/
+public/assets/bilibili/*/
+public/assets/wechat/*/
+public/assets/qq/*/

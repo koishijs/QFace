@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "115",
   "name": "初音未来13周年",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/713966a603836061c193b481d3516c2c99c8877e.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[初音未来_抱抱]"
       ],
-      "staticUrl": "assets/bilibili_emoji/115/2402.png",
+      "staticUrl": "assets/bilibili/115/2402.png",
       "isHide": false,
       "packageId": "115",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[初音未来_nice]"
       ],
-      "staticUrl": "assets/bilibili_emoji/115/2403.png",
+      "staticUrl": "assets/bilibili/115/2403.png",
       "isHide": false,
       "packageId": "115",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[初音未来_GKD]"
       ],
-      "staticUrl": "assets/bilibili_emoji/115/2404.png",
+      "staticUrl": "assets/bilibili/115/2404.png",
       "isHide": false,
       "packageId": "115",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[初音未来_问号]"
       ],
-      "staticUrl": "assets/bilibili_emoji/115/2405.png",
+      "staticUrl": "assets/bilibili/115/2405.png",
       "isHide": false,
       "packageId": "115",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[初音未来_吃惊]"
       ],
-      "staticUrl": "assets/bilibili_emoji/115/2406.png",
+      "staticUrl": "assets/bilibili/115/2406.png",
       "isHide": false,
       "packageId": "115",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[初音未来_干杯]"
       ],
-      "staticUrl": "assets/bilibili_emoji/115/2407.png",
+      "staticUrl": "assets/bilibili/115/2407.png",
       "isHide": false,
       "packageId": "115",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[初音未来_端碗]"
       ],
-      "staticUrl": "assets/bilibili_emoji/115/2408.png",
+      "staticUrl": "assets/bilibili/115/2408.png",
       "isHide": false,
       "packageId": "115",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[初音未来_害怕]"
       ],
-      "staticUrl": "assets/bilibili_emoji/115/2409.png",
+      "staticUrl": "assets/bilibili/115/2409.png",
       "isHide": false,
       "packageId": "115",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[初音未来_加油]"
       ],
-      "staticUrl": "assets/bilibili_emoji/115/2410.png",
+      "staticUrl": "assets/bilibili/115/2410.png",
       "isHide": false,
       "packageId": "115",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[初音未来_哭了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/115/2411.png",
+      "staticUrl": "assets/bilibili/115/2411.png",
       "isHide": false,
       "packageId": "115",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[初音未来_困了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/115/2412.png",
+      "staticUrl": "assets/bilibili/115/2412.png",
       "isHide": false,
       "packageId": "115",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[初音未来_鬼脸]"
       ],
-      "staticUrl": "assets/bilibili_emoji/115/2413.png",
+      "staticUrl": "assets/bilibili/115/2413.png",
       "isHide": false,
       "packageId": "115",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[初音未来_期待]"
       ],
-      "staticUrl": "assets/bilibili_emoji/115/2414.png",
+      "staticUrl": "assets/bilibili/115/2414.png",
       "isHide": false,
       "packageId": "115",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[初音未来_生气]"
       ],
-      "staticUrl": "assets/bilibili_emoji/115/2415.png",
+      "staticUrl": "assets/bilibili/115/2415.png",
       "isHide": false,
       "packageId": "115",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[初音未来_睡了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/115/2416.png",
+      "staticUrl": "assets/bilibili/115/2416.png",
       "isHide": false,
       "packageId": "115",
       "meta": {
@@ -234,7 +234,7 @@
       "shortCodes": [
         "[初音未来_委屈]"
       ],
-      "staticUrl": "assets/bilibili_emoji/115/2417.png",
+      "staticUrl": "assets/bilibili/115/2417.png",
       "isHide": false,
       "packageId": "115",
       "meta": {
@@ -249,7 +249,7 @@
       "shortCodes": [
         "[初音未来_无语]"
       ],
-      "staticUrl": "assets/bilibili_emoji/115/2418.png",
+      "staticUrl": "assets/bilibili/115/2418.png",
       "isHide": false,
       "packageId": "115",
       "meta": {
@@ -264,7 +264,7 @@
       "shortCodes": [
         "[初音未来_喜欢]"
       ],
-      "staticUrl": "assets/bilibili_emoji/115/2419.png",
+      "staticUrl": "assets/bilibili/115/2419.png",
       "isHide": false,
       "packageId": "115",
       "meta": {
@@ -279,7 +279,7 @@
       "shortCodes": [
         "[初音未来_嫌弃]"
       ],
-      "staticUrl": "assets/bilibili_emoji/115/2420.png",
+      "staticUrl": "assets/bilibili/115/2420.png",
       "isHide": false,
       "packageId": "115",
       "meta": {
@@ -294,7 +294,7 @@
       "shortCodes": [
         "[初音未来_再见]"
       ],
-      "staticUrl": "assets/bilibili_emoji/115/2421.png",
+      "staticUrl": "assets/bilibili/115/2421.png",
       "isHide": false,
       "packageId": "115",
       "meta": {

@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "432",
   "name": "黑之召唤士",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/882b4ede8c629ab16892cc911e49e3353cbd0a88.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[黑之召唤士_yes]"
       ],
-      "staticUrl": "assets/bilibili_emoji/432/7522.png",
+      "staticUrl": "assets/bilibili/432/7522.png",
       "isHide": false,
       "packageId": "432",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[黑之召唤士_暗中观察]"
       ],
-      "staticUrl": "assets/bilibili_emoji/432/7523.png",
+      "staticUrl": "assets/bilibili/432/7523.png",
       "isHide": false,
       "packageId": "432",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[黑之召唤士_比心]"
       ],
-      "staticUrl": "assets/bilibili_emoji/432/7524.png",
+      "staticUrl": "assets/bilibili/432/7524.png",
       "isHide": false,
       "packageId": "432",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[黑之召唤士_达咩]"
       ],
-      "staticUrl": "assets/bilibili_emoji/432/7525.png",
+      "staticUrl": "assets/bilibili/432/7525.png",
       "isHide": false,
       "packageId": "432",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[黑之召唤士_干杯]"
       ],
-      "staticUrl": "assets/bilibili_emoji/432/7526.png",
+      "staticUrl": "assets/bilibili/432/7526.png",
       "isHide": false,
       "packageId": "432",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[黑之召唤士_害羞]"
       ],
-      "staticUrl": "assets/bilibili_emoji/432/7527.png",
+      "staticUrl": "assets/bilibili/432/7527.png",
       "isHide": false,
       "packageId": "432",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[黑之召唤士_鉴定]"
       ],
-      "staticUrl": "assets/bilibili_emoji/432/7528.png",
+      "staticUrl": "assets/bilibili/432/7528.png",
       "isHide": false,
       "packageId": "432",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[黑之召唤士_夸我]"
       ],
-      "staticUrl": "assets/bilibili_emoji/432/7529.png",
+      "staticUrl": "assets/bilibili/432/7529.png",
       "isHide": false,
       "packageId": "432",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[黑之召唤士_来了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/432/7530.png",
+      "staticUrl": "assets/bilibili/432/7530.png",
       "isHide": false,
       "packageId": "432",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[黑之召唤士_嗯嗯]"
       ],
-      "staticUrl": "assets/bilibili_emoji/432/7531.png",
+      "staticUrl": "assets/bilibili/432/7531.png",
       "isHide": false,
       "packageId": "432",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[黑之召唤士_惬意]"
       ],
-      "staticUrl": "assets/bilibili_emoji/432/7532.png",
+      "staticUrl": "assets/bilibili/432/7532.png",
       "isHide": false,
       "packageId": "432",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[黑之召唤士_失忆]"
       ],
-      "staticUrl": "assets/bilibili_emoji/432/7533.png",
+      "staticUrl": "assets/bilibili/432/7533.png",
       "isHide": false,
       "packageId": "432",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[黑之召唤士_栓q]"
       ],
-      "staticUrl": "assets/bilibili_emoji/432/7534.png",
+      "staticUrl": "assets/bilibili/432/7534.png",
       "isHide": false,
       "packageId": "432",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[黑之召唤士_贴贴]"
       ],
-      "staticUrl": "assets/bilibili_emoji/432/7535.png",
+      "staticUrl": "assets/bilibili/432/7535.png",
       "isHide": false,
       "packageId": "432",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[黑之召唤士_想干饭]"
       ],
-      "staticUrl": "assets/bilibili_emoji/432/7536.png",
+      "staticUrl": "assets/bilibili/432/7536.png",
       "isHide": false,
       "packageId": "432",
       "meta": {
@@ -234,7 +234,7 @@
       "shortCodes": [
         "[黑之召唤士_笑]"
       ],
-      "staticUrl": "assets/bilibili_emoji/432/7537.png",
+      "staticUrl": "assets/bilibili/432/7537.png",
       "isHide": false,
       "packageId": "432",
       "meta": {
@@ -249,7 +249,7 @@
       "shortCodes": [
         "[黑之召唤士_兴奋]"
       ],
-      "staticUrl": "assets/bilibili_emoji/432/7538.png",
+      "staticUrl": "assets/bilibili/432/7538.png",
       "isHide": false,
       "packageId": "432",
       "meta": {
@@ -264,7 +264,7 @@
       "shortCodes": [
         "[黑之召唤士_牙白]"
       ],
-      "staticUrl": "assets/bilibili_emoji/432/7539.png",
+      "staticUrl": "assets/bilibili/432/7539.png",
       "isHide": false,
       "packageId": "432",
       "meta": {
@@ -279,7 +279,7 @@
       "shortCodes": [
         "[黑之召唤士_晕倒]"
       ],
-      "staticUrl": "assets/bilibili_emoji/432/7540.png",
+      "staticUrl": "assets/bilibili/432/7540.png",
       "isHide": false,
       "packageId": "432",
       "meta": {
@@ -294,7 +294,7 @@
       "shortCodes": [
         "[黑之召唤士_在吗]"
       ],
-      "staticUrl": "assets/bilibili_emoji/432/7541.png",
+      "staticUrl": "assets/bilibili/432/7541.png",
       "isHide": false,
       "packageId": "432",
       "meta": {

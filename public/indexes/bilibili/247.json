@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "247",
   "name": "12周年夏日狂欢",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/077a5ce6d518a108aced348e20d3438154b08a50.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[夏日狂欢_阿巴阿巴]"
       ],
-      "staticUrl": "assets/bilibili_emoji/247/4088.png",
+      "staticUrl": "assets/bilibili/247/4088.png",
       "isHide": false,
       "packageId": "247",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[夏日狂欢_吃瓜]"
       ],
-      "staticUrl": "assets/bilibili_emoji/247/4089.png",
+      "staticUrl": "assets/bilibili/247/4089.png",
       "isHide": false,
       "packageId": "247",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[夏日狂欢_冲浪]"
       ],
-      "staticUrl": "assets/bilibili_emoji/247/4090.png",
+      "staticUrl": "assets/bilibili/247/4090.png",
       "isHide": false,
       "packageId": "247",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[夏日狂欢_嘎嘎嘎]"
       ],
-      "staticUrl": "assets/bilibili_emoji/247/4091.png",
+      "staticUrl": "assets/bilibili/247/4091.png",
       "isHide": false,
       "packageId": "247",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[夏日狂欢_好耶]"
       ],
-      "staticUrl": "assets/bilibili_emoji/247/4092.png",
+      "staticUrl": "assets/bilibili/247/4092.png",
       "isHide": false,
       "packageId": "247",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[夏日狂欢_捏个22]"
       ],
-      "staticUrl": "assets/bilibili_emoji/247/4093.png",
+      "staticUrl": "assets/bilibili/247/4093.png",
       "isHide": false,
       "packageId": "247",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[夏日狂欢_捏个33]"
       ],
-      "staticUrl": "assets/bilibili_emoji/247/4094.png",
+      "staticUrl": "assets/bilibili/247/4094.png",
       "isHide": false,
       "packageId": "247",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[夏日狂欢_潜水]"
       ],
-      "staticUrl": "assets/bilibili_emoji/247/4095.png",
+      "staticUrl": "assets/bilibili/247/4095.png",
       "isHide": false,
       "packageId": "247",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[夏日狂欢_沙瘫]"
       ],
-      "staticUrl": "assets/bilibili_emoji/247/4096.png",
+      "staticUrl": "assets/bilibili/247/4096.png",
       "isHide": false,
       "packageId": "247",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[夏日狂欢_嚣张]"
       ],
-      "staticUrl": "assets/bilibili_emoji/247/4097.png",
+      "staticUrl": "assets/bilibili/247/4097.png",
       "isHide": false,
       "packageId": "247",
       "meta": {

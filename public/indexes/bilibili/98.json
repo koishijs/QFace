@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "98",
   "name": "萌妻食神",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/973e2c3bb380b30b93138ef37546986de531ddf6.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[萌妻食神_awsl]"
       ],
-      "staticUrl": "assets/bilibili_emoji/98/2148.png",
+      "staticUrl": "assets/bilibili/98/2148.png",
       "isHide": false,
       "packageId": "98",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[萌妻食神_喝奶茶]"
       ],
-      "staticUrl": "assets/bilibili_emoji/98/2149.png",
+      "staticUrl": "assets/bilibili/98/2149.png",
       "isHide": false,
       "packageId": "98",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[萌妻食神_加鸡腿]"
       ],
-      "staticUrl": "assets/bilibili_emoji/98/2150.png",
+      "staticUrl": "assets/bilibili/98/2150.png",
       "isHide": false,
       "packageId": "98",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[萌妻食神_撒娇]"
       ],
-      "staticUrl": "assets/bilibili_emoji/98/2151.png",
+      "staticUrl": "assets/bilibili/98/2151.png",
       "isHide": false,
       "packageId": "98",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[萌妻食神_秀]"
       ],
-      "staticUrl": "assets/bilibili_emoji/98/2152.png",
+      "staticUrl": "assets/bilibili/98/2152.png",
       "isHide": false,
       "packageId": "98",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[萌妻食神_危]"
       ],
-      "staticUrl": "assets/bilibili_emoji/98/2153.png",
+      "staticUrl": "assets/bilibili/98/2153.png",
       "isHide": false,
       "packageId": "98",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[萌妻食神_中毒]"
       ],
-      "staticUrl": "assets/bilibili_emoji/98/2154.png",
+      "staticUrl": "assets/bilibili/98/2154.png",
       "isHide": false,
       "packageId": "98",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[萌妻食神_主角buff]"
       ],
-      "staticUrl": "assets/bilibili_emoji/98/2155.png",
+      "staticUrl": "assets/bilibili/98/2155.png",
       "isHide": false,
       "packageId": "98",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[萌妻食神_馋]"
       ],
-      "staticUrl": "assets/bilibili_emoji/98/2156.png",
+      "staticUrl": "assets/bilibili/98/2156.png",
       "isHide": false,
       "packageId": "98",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[萌妻食神_饱了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/98/2157.png",
+      "staticUrl": "assets/bilibili/98/2157.png",
       "isHide": false,
       "packageId": "98",
       "meta": {

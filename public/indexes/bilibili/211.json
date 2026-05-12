@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "211",
   "name": "物述有栖",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/01c007d548c513264ea471ea2d659364214c4d9a.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[物述有栖_晚上好]"
       ],
-      "staticUrl": "assets/bilibili_emoji/211/3725.png",
+      "staticUrl": "assets/bilibili/211/3725.png",
       "isHide": false,
       "packageId": "211",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[物述有栖_bilibili]"
       ],
-      "staticUrl": "assets/bilibili_emoji/211/4044.png",
+      "staticUrl": "assets/bilibili/211/4044.png",
       "isHide": false,
       "packageId": "211",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[物述有栖_起来]"
       ],
-      "staticUrl": "assets/bilibili_emoji/211/3718.png",
+      "staticUrl": "assets/bilibili/211/3718.png",
       "isHide": false,
       "packageId": "211",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[物述有栖_香香UP]"
       ],
-      "staticUrl": "assets/bilibili_emoji/211/3726.png",
+      "staticUrl": "assets/bilibili/211/3726.png",
       "isHide": false,
       "packageId": "211",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[物述有栖_Foo↑Foo↑]"
       ],
-      "staticUrl": "assets/bilibili_emoji/211/3712.png",
+      "staticUrl": "assets/bilibili/211/3712.png",
       "isHide": false,
       "packageId": "211",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[物述有栖_mu~a]"
       ],
-      "staticUrl": "assets/bilibili_emoji/211/3713.png",
+      "staticUrl": "assets/bilibili/211/3713.png",
       "isHide": false,
       "packageId": "211",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[物述有栖_好耶]"
       ],
-      "staticUrl": "assets/bilibili_emoji/211/3714.png",
+      "staticUrl": "assets/bilibili/211/3714.png",
       "isHide": false,
       "packageId": "211",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[物述有栖_结婚]"
       ],
-      "staticUrl": "assets/bilibili_emoji/211/3715.png",
+      "staticUrl": "assets/bilibili/211/3715.png",
       "isHide": false,
       "packageId": "211",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[物述有栖_晚安]"
       ],
-      "staticUrl": "assets/bilibili_emoji/211/4045.png",
+      "staticUrl": "assets/bilibili/211/4045.png",
       "isHide": false,
       "packageId": "211",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[物述有栖_看戏]"
       ],
-      "staticUrl": "assets/bilibili_emoji/211/3716.png",
+      "staticUrl": "assets/bilibili/211/3716.png",
       "isHide": false,
       "packageId": "211",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[物述有栖_肯定]"
       ],
-      "staticUrl": "assets/bilibili_emoji/211/3717.png",
+      "staticUrl": "assets/bilibili/211/3717.png",
       "isHide": false,
       "packageId": "211",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[物述有栖_上勾拳]"
       ],
-      "staticUrl": "assets/bilibili_emoji/211/3719.png",
+      "staticUrl": "assets/bilibili/211/3719.png",
       "isHide": false,
       "packageId": "211",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[物述有栖_酸辣]"
       ],
-      "staticUrl": "assets/bilibili_emoji/211/3720.png",
+      "staticUrl": "assets/bilibili/211/3720.png",
       "isHide": false,
       "packageId": "211",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[物述有栖_JK]"
       ],
-      "staticUrl": "assets/bilibili_emoji/211/4046.png",
+      "staticUrl": "assets/bilibili/211/4046.png",
       "isHide": false,
       "packageId": "211",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[物述有栖_JS]"
       ],
-      "staticUrl": "assets/bilibili_emoji/211/4047.png",
+      "staticUrl": "assets/bilibili/211/4047.png",
       "isHide": false,
       "packageId": "211",
       "meta": {
@@ -234,7 +234,7 @@
       "shortCodes": [
         "[物述有栖_panda]"
       ],
-      "staticUrl": "assets/bilibili_emoji/211/4048.png",
+      "staticUrl": "assets/bilibili/211/4048.png",
       "isHide": false,
       "packageId": "211",
       "meta": {
@@ -249,7 +249,7 @@
       "shortCodes": [
         "[物述有栖_天才天才]"
       ],
-      "staticUrl": "assets/bilibili_emoji/211/3721.png",
+      "staticUrl": "assets/bilibili/211/3721.png",
       "isHide": false,
       "packageId": "211",
       "meta": {
@@ -264,7 +264,7 @@
       "shortCodes": [
         "[物述有栖_歪比巴卜]"
       ],
-      "staticUrl": "assets/bilibili_emoji/211/3722.png",
+      "staticUrl": "assets/bilibili/211/3722.png",
       "isHide": false,
       "packageId": "211",
       "meta": {
@@ -279,7 +279,7 @@
       "shortCodes": [
         "[物述有栖_歪头问号]"
       ],
-      "staticUrl": "assets/bilibili_emoji/211/3723.png",
+      "staticUrl": "assets/bilibili/211/3723.png",
       "isHide": false,
       "packageId": "211",
       "meta": {
@@ -294,7 +294,7 @@
       "shortCodes": [
         "[物述有栖_玩手机]"
       ],
-      "staticUrl": "assets/bilibili_emoji/211/3724.png",
+      "staticUrl": "assets/bilibili/211/3724.png",
       "isHide": false,
       "packageId": "211",
       "meta": {

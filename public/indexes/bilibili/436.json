@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "436",
   "name": "夏日美食",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/62fc0798e2322ee43cd9cd9ce1d956dc6c863f51.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[夏日美食_啵啵]"
       ],
-      "staticUrl": "assets/bilibili_emoji/436/7572.png",
+      "staticUrl": "assets/bilibili/436/7572.png",
       "isHide": false,
       "packageId": "436",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[夏日美食_吃瓜]"
       ],
-      "staticUrl": "assets/bilibili_emoji/436/7573.png",
+      "staticUrl": "assets/bilibili/436/7573.png",
       "isHide": false,
       "packageId": "436",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[夏日美食_干杯]"
       ],
-      "staticUrl": "assets/bilibili_emoji/436/7574.png",
+      "staticUrl": "assets/bilibili/436/7574.png",
       "isHide": false,
       "packageId": "436",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[夏日美食_好椰]"
       ],
-      "staticUrl": "assets/bilibili_emoji/436/7575.png",
+      "staticUrl": "assets/bilibili/436/7575.png",
       "isHide": false,
       "packageId": "436",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[夏日美食_降火]"
       ],
-      "staticUrl": "assets/bilibili_emoji/436/7576.png",
+      "staticUrl": "assets/bilibili/436/7576.png",
       "isHide": false,
       "packageId": "436",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[夏日美食_快热化了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/436/7577.png",
+      "staticUrl": "assets/bilibili/436/7577.png",
       "isHide": false,
       "packageId": "436",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[夏日美食_凉凉]"
       ],
-      "staticUrl": "assets/bilibili_emoji/436/7578.png",
+      "staticUrl": "assets/bilibili/436/7578.png",
       "isHide": false,
       "packageId": "436",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[夏日美食_酸了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/436/7579.png",
+      "staticUrl": "assets/bilibili/436/7579.png",
       "isHide": false,
       "packageId": "436",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[夏日美食_虾虾侬]"
       ],
-      "staticUrl": "assets/bilibili_emoji/436/7580.png",
+      "staticUrl": "assets/bilibili/436/7580.png",
       "isHide": false,
       "packageId": "436",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[夏日美食_真香]"
       ],
-      "staticUrl": "assets/bilibili_emoji/436/7581.png",
+      "staticUrl": "assets/bilibili/436/7581.png",
       "isHide": false,
       "packageId": "436",
       "meta": {

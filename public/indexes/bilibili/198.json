@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "198",
   "name": "春游",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/71f3a9d016561ad60e4230f5032d4953f5b48816.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[春游_春眠]"
       ],
-      "staticUrl": "assets/bilibili_emoji/198/3546.png",
+      "staticUrl": "assets/bilibili/198/3546.png",
       "isHide": false,
       "packageId": "198",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[春游_荡秋千]"
       ],
-      "staticUrl": "assets/bilibili_emoji/198/3547.png",
+      "staticUrl": "assets/bilibili/198/3547.png",
       "isHide": false,
       "packageId": "198",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[春游_放风筝]"
       ],
-      "staticUrl": "assets/bilibili_emoji/198/3548.png",
+      "staticUrl": "assets/bilibili/198/3548.png",
       "isHide": false,
       "packageId": "198",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[春游_爬山]"
       ],
-      "staticUrl": "assets/bilibili_emoji/198/3549.png",
+      "staticUrl": "assets/bilibili/198/3549.png",
       "isHide": false,
       "packageId": "198",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[春游_赏花]"
       ],
-      "staticUrl": "assets/bilibili_emoji/198/3550.png",
+      "staticUrl": "assets/bilibili/198/3550.png",
       "isHide": false,
       "packageId": "198",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[春游_踏青]"
       ],
-      "staticUrl": "assets/bilibili_emoji/198/3551.png",
+      "staticUrl": "assets/bilibili/198/3551.png",
       "isHide": false,
       "packageId": "198",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[春游_跳舞]"
       ],
-      "staticUrl": "assets/bilibili_emoji/198/3552.png",
+      "staticUrl": "assets/bilibili/198/3552.png",
       "isHide": false,
       "packageId": "198",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[春游_野餐]"
       ],
-      "staticUrl": "assets/bilibili_emoji/198/3553.png",
+      "staticUrl": "assets/bilibili/198/3553.png",
       "isHide": false,
       "packageId": "198",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[春游_植树]"
       ],
-      "staticUrl": "assets/bilibili_emoji/198/3554.png",
+      "staticUrl": "assets/bilibili/198/3554.png",
       "isHide": false,
       "packageId": "198",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[春游_自拍]"
       ],
-      "staticUrl": "assets/bilibili_emoji/198/3555.png",
+      "staticUrl": "assets/bilibili/198/3555.png",
       "isHide": false,
       "packageId": "198",
       "meta": {

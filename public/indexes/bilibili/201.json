@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "201",
   "name": "水果派对",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/0b9e0453129be7116fa11a8dc33fcb2350a694a0.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[水果派对_春困]"
       ],
-      "staticUrl": "assets/bilibili_emoji/201/3576.png",
+      "staticUrl": "assets/bilibili/201/3576.png",
       "isHide": false,
       "packageId": "201",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[水果派对_打扮]"
       ],
-      "staticUrl": "assets/bilibili_emoji/201/3577.png",
+      "staticUrl": "assets/bilibili/201/3577.png",
       "isHide": false,
       "packageId": "201",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[水果派对_打工魂]"
       ],
-      "staticUrl": "assets/bilibili_emoji/201/3578.png",
+      "staticUrl": "assets/bilibili/201/3578.png",
       "isHide": false,
       "packageId": "201",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[水果派对_干杯]"
       ],
-      "staticUrl": "assets/bilibili_emoji/201/3579.png",
+      "staticUrl": "assets/bilibili/201/3579.png",
       "isHide": false,
       "packageId": "201",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[水果派对_工具人]"
       ],
-      "staticUrl": "assets/bilibili_emoji/201/3580.png",
+      "staticUrl": "assets/bilibili/201/3580.png",
       "isHide": false,
       "packageId": "201",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[水果派对_期待]"
       ],
-      "staticUrl": "assets/bilibili_emoji/201/3581.png",
+      "staticUrl": "assets/bilibili/201/3581.png",
       "isHide": false,
       "packageId": "201",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[水果派对_生气]"
       ],
-      "staticUrl": "assets/bilibili_emoji/201/3582.png",
+      "staticUrl": "assets/bilibili/201/3582.png",
       "isHide": false,
       "packageId": "201",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[水果派对_素质三连]"
       ],
-      "staticUrl": "assets/bilibili_emoji/201/3583.png",
+      "staticUrl": "assets/bilibili/201/3583.png",
       "isHide": false,
       "packageId": "201",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[水果派对_偷偷开心]"
       ],
-      "staticUrl": "assets/bilibili_emoji/201/3584.png",
+      "staticUrl": "assets/bilibili/201/3584.png",
       "isHide": false,
       "packageId": "201",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[水果派对_委屈]"
       ],
-      "staticUrl": "assets/bilibili_emoji/201/3585.png",
+      "staticUrl": "assets/bilibili/201/3585.png",
       "isHide": false,
       "packageId": "201",
       "meta": {

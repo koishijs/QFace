@@ -74,7 +74,7 @@ const { copy, copied } = useClipboard()
 const searchQuery = ref('')
 
 function copyConfig() {
-  copy(`${window.location.origin}/indexes/wechat/index.json`)
+  copy(`${window.location.origin}/indexes/wechat/0.json`)
 }
 
 const filteredEmojiList = computed(() => {

@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "287",
   "name": "少年歌行",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/d0f5112d951cc3dc46b579a41d59dbb2f6f22024.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[少年歌行_no]"
       ],
-      "staticUrl": "assets/bilibili_emoji/287/4762.png",
+      "staticUrl": "assets/bilibili/287/4762.png",
       "isHide": false,
       "packageId": "287",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[少年歌行_yes]"
       ],
-      "staticUrl": "assets/bilibili_emoji/287/4763.png",
+      "staticUrl": "assets/bilibili/287/4763.png",
       "isHide": false,
       "packageId": "287",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[少年歌行_比心]"
       ],
-      "staticUrl": "assets/bilibili_emoji/287/4764.png",
+      "staticUrl": "assets/bilibili/287/4764.png",
       "isHide": false,
       "packageId": "287",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[少年歌行_馋]"
       ],
-      "staticUrl": "assets/bilibili_emoji/287/4765.png",
+      "staticUrl": "assets/bilibili/287/4765.png",
       "isHide": false,
       "packageId": "287",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[少年歌行_冲鸭]"
       ],
-      "staticUrl": "assets/bilibili_emoji/287/4766.png",
+      "staticUrl": "assets/bilibili/287/4766.png",
       "isHide": false,
       "packageId": "287",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[少年歌行_戳]"
       ],
-      "staticUrl": "assets/bilibili_emoji/287/4767.png",
+      "staticUrl": "assets/bilibili/287/4767.png",
       "isHide": false,
       "packageId": "287",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[少年歌行_泪目]"
       ],
-      "staticUrl": "assets/bilibili_emoji/287/4768.png",
+      "staticUrl": "assets/bilibili/287/4768.png",
       "isHide": false,
       "packageId": "287",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[少年歌行_亿点点]"
       ],
-      "staticUrl": "assets/bilibili_emoji/287/4769.png",
+      "staticUrl": "assets/bilibili/287/4769.png",
       "isHide": false,
       "packageId": "287",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[少年歌行_元气满满]"
       ],
-      "staticUrl": "assets/bilibili_emoji/287/4770.png",
+      "staticUrl": "assets/bilibili/287/4770.png",
       "isHide": false,
       "packageId": "287",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[少年歌行_在吗]"
       ],
-      "staticUrl": "assets/bilibili_emoji/287/4771.png",
+      "staticUrl": "assets/bilibili/287/4771.png",
       "isHide": false,
       "packageId": "287",
       "meta": {

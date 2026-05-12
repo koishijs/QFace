@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "119",
   "name": "三周年恋曲",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/5fc7c040c75ad56b9b911b20faeaf37f30eee86e.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[三周年_问号]"
       ],
-      "staticUrl": "assets/bilibili_emoji/119/2453.png",
+      "staticUrl": "assets/bilibili/119/2453.png",
       "isHide": false,
       "packageId": "119",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[三周年_诚信互点]"
       ],
-      "staticUrl": "assets/bilibili_emoji/119/2454.png",
+      "staticUrl": "assets/bilibili/119/2454.png",
       "isHide": false,
       "packageId": "119",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[三周年_这次一定]"
       ],
-      "staticUrl": "assets/bilibili_emoji/119/2455.png",
+      "staticUrl": "assets/bilibili/119/2455.png",
       "isHide": false,
       "packageId": "119",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[三周年_我全都要]"
       ],
-      "staticUrl": "assets/bilibili_emoji/119/2456.png",
+      "staticUrl": "assets/bilibili/119/2456.png",
       "isHide": false,
       "packageId": "119",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[三周年_谢谢老板]"
       ],
-      "staticUrl": "assets/bilibili_emoji/119/2457.png",
+      "staticUrl": "assets/bilibili/119/2457.png",
       "isHide": false,
       "packageId": "119",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[三周年_预定一时爽]"
       ],
-      "staticUrl": "assets/bilibili_emoji/119/2458.png",
+      "staticUrl": "assets/bilibili/119/2458.png",
       "isHide": false,
       "packageId": "119",
       "meta": {

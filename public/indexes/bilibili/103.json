@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "103",
   "name": "BML云LIVE",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/4013bff38f25ae7eb4f715f910661131bd956abb.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[BML云live_打call]"
       ],
-      "staticUrl": "assets/bilibili_emoji/103/2223.png",
+      "staticUrl": "assets/bilibili/103/2223.png",
       "isHide": false,
       "packageId": "103",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[BML云live_22唱歌]"
       ],
-      "staticUrl": "assets/bilibili_emoji/103/2224.png",
+      "staticUrl": "assets/bilibili/103/2224.png",
       "isHide": false,
       "packageId": "103",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[BML云live_33唱歌]"
       ],
-      "staticUrl": "assets/bilibili_emoji/103/2225.png",
+      "staticUrl": "assets/bilibili/103/2225.png",
       "isHide": false,
       "packageId": "103",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[BML云live_治疗]"
       ],
-      "staticUrl": "assets/bilibili_emoji/103/2226.png",
+      "staticUrl": "assets/bilibili/103/2226.png",
       "isHide": false,
       "packageId": "103",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[BML云live_awsl]"
       ],
-      "staticUrl": "assets/bilibili_emoji/103/2227.png",
+      "staticUrl": "assets/bilibili/103/2227.png",
       "isHide": false,
       "packageId": "103",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[BML云live_点赞]"
       ],
-      "staticUrl": "assets/bilibili_emoji/103/2228.png",
+      "staticUrl": "assets/bilibili/103/2228.png",
       "isHide": false,
       "packageId": "103",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[BML云live_黑化22]"
       ],
-      "staticUrl": "assets/bilibili_emoji/103/2229.png",
+      "staticUrl": "assets/bilibili/103/2229.png",
       "isHide": false,
       "packageId": "103",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[BML云live_黑化33]"
       ],
-      "staticUrl": "assets/bilibili_emoji/103/2230.png",
+      "staticUrl": "assets/bilibili/103/2230.png",
       "isHide": false,
       "packageId": "103",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[BML云live_上buff]"
       ],
-      "staticUrl": "assets/bilibili_emoji/103/2231.png",
+      "staticUrl": "assets/bilibili/103/2231.png",
       "isHide": false,
       "packageId": "103",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[BML云live_想桃子]"
       ],
-      "staticUrl": "assets/bilibili_emoji/103/2232.png",
+      "staticUrl": "assets/bilibili/103/2232.png",
       "isHide": false,
       "packageId": "103",
       "meta": {

@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "130",
   "name": "芯觉",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/9fc27413a60099da88a59a3d50e217eb03cfe2ee.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[芯觉-暗中观察]"
       ],
-      "staticUrl": "assets/bilibili_emoji/130/2591.png",
+      "staticUrl": "assets/bilibili/130/2591.png",
       "isHide": false,
       "packageId": "130",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[芯觉-不！]"
       ],
-      "staticUrl": "assets/bilibili_emoji/130/2592.png",
+      "staticUrl": "assets/bilibili/130/2592.png",
       "isHide": false,
       "packageId": "130",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[芯觉-发呆]"
       ],
-      "staticUrl": "assets/bilibili_emoji/130/2593.png",
+      "staticUrl": "assets/bilibili/130/2593.png",
       "isHide": false,
       "packageId": "130",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[芯觉-发射]"
       ],
-      "staticUrl": "assets/bilibili_emoji/130/2594.png",
+      "staticUrl": "assets/bilibili/130/2594.png",
       "isHide": false,
       "packageId": "130",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[芯觉-冷]"
       ],
-      "staticUrl": "assets/bilibili_emoji/130/2595.png",
+      "staticUrl": "assets/bilibili/130/2595.png",
       "isHide": false,
       "packageId": "130",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[芯觉-你不对劲]"
       ],
-      "staticUrl": "assets/bilibili_emoji/130/2596.png",
+      "staticUrl": "assets/bilibili/130/2596.png",
       "isHide": false,
       "packageId": "130",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[芯觉-委屈]"
       ],
-      "staticUrl": "assets/bilibili_emoji/130/2597.png",
+      "staticUrl": "assets/bilibili/130/2597.png",
       "isHide": false,
       "packageId": "130",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[芯觉-无语]"
       ],
-      "staticUrl": "assets/bilibili_emoji/130/2598.png",
+      "staticUrl": "assets/bilibili/130/2598.png",
       "isHide": false,
       "packageId": "130",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[芯觉-嫌弃]"
       ],
-      "staticUrl": "assets/bilibili_emoji/130/2599.png",
+      "staticUrl": "assets/bilibili/130/2599.png",
       "isHide": false,
       "packageId": "130",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[芯觉-中枪]"
       ],
-      "staticUrl": "assets/bilibili_emoji/130/2600.png",
+      "staticUrl": "assets/bilibili/130/2600.png",
       "isHide": false,
       "packageId": "130",
       "meta": {

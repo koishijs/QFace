@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "114",
   "name": "新科娘",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/d9e053c28f92c9309e0cf2af4e7f16e8d7bf8fea.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[新科娘_点赞]"
       ],
-      "staticUrl": "assets/bilibili_emoji/114/2391.png",
+      "staticUrl": "assets/bilibili/114/2391.png",
       "isHide": false,
       "packageId": "114",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[新科娘_得意]"
       ],
-      "staticUrl": "assets/bilibili_emoji/114/2392.png",
+      "staticUrl": "assets/bilibili/114/2392.png",
       "isHide": false,
       "packageId": "114",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[新科娘_花手]"
       ],
-      "staticUrl": "assets/bilibili_emoji/114/2393.png",
+      "staticUrl": "assets/bilibili/114/2393.png",
       "isHide": false,
       "packageId": "114",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[新科娘_懵逼]"
       ],
-      "staticUrl": "assets/bilibili_emoji/114/2394.png",
+      "staticUrl": "assets/bilibili/114/2394.png",
       "isHide": false,
       "packageId": "114",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[新科娘_妙啊]"
       ],
-      "staticUrl": "assets/bilibili_emoji/114/2395.png",
+      "staticUrl": "assets/bilibili/114/2395.png",
       "isHide": false,
       "packageId": "114",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[新科娘_过分了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/114/2396.png",
+      "staticUrl": "assets/bilibili/114/2396.png",
       "isHide": false,
       "packageId": "114",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[新科娘_我装的]"
       ],
-      "staticUrl": "assets/bilibili_emoji/114/2397.png",
+      "staticUrl": "assets/bilibili/114/2397.png",
       "isHide": false,
       "packageId": "114",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[新科娘_无话可说]"
       ],
-      "staticUrl": "assets/bilibili_emoji/114/2398.png",
+      "staticUrl": "assets/bilibili/114/2398.png",
       "isHide": false,
       "packageId": "114",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[新科娘_这题不会]"
       ],
-      "staticUrl": "assets/bilibili_emoji/114/2399.png",
+      "staticUrl": "assets/bilibili/114/2399.png",
       "isHide": false,
       "packageId": "114",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[新科娘_我哭了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/114/2400.png",
+      "staticUrl": "assets/bilibili/114/2400.png",
       "isHide": false,
       "packageId": "114",
       "meta": {

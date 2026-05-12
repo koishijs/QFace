@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "212",
   "name": "星座系列：双子座",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/6c1981fc8b8311e93178b59da942d0b3015f9c1f.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[双子座_爱你]"
       ],
-      "staticUrl": "assets/bilibili_emoji/212/3728.png",
+      "staticUrl": "assets/bilibili/212/3728.png",
       "isHide": false,
       "packageId": "212",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[双子座_按住]"
       ],
-      "staticUrl": "assets/bilibili_emoji/212/3729.png",
+      "staticUrl": "assets/bilibili/212/3729.png",
       "isHide": false,
       "packageId": "212",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[双子座_抱抱]"
       ],
-      "staticUrl": "assets/bilibili_emoji/212/3730.png",
+      "staticUrl": "assets/bilibili/212/3730.png",
       "isHide": false,
       "packageId": "212",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[双子座_饿饿饭饭]"
       ],
-      "staticUrl": "assets/bilibili_emoji/212/3731.png",
+      "staticUrl": "assets/bilibili/212/3731.png",
       "isHide": false,
       "packageId": "212",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[双子座_复读]"
       ],
-      "staticUrl": "assets/bilibili_emoji/212/3732.png",
+      "staticUrl": "assets/bilibili/212/3732.png",
       "isHide": false,
       "packageId": "212",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[双子座_干嘛吖]"
       ],
-      "staticUrl": "assets/bilibili_emoji/212/3733.png",
+      "staticUrl": "assets/bilibili/212/3733.png",
       "isHide": false,
       "packageId": "212",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[双子座_没辙]"
       ],
-      "staticUrl": "assets/bilibili_emoji/212/3734.png",
+      "staticUrl": "assets/bilibili/212/3734.png",
       "isHide": false,
       "packageId": "212",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[双子座_贴贴]"
       ],
-      "staticUrl": "assets/bilibili_emoji/212/3735.png",
+      "staticUrl": "assets/bilibili/212/3735.png",
       "isHide": false,
       "packageId": "212",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[双子座_我哭了我装的]"
       ],
-      "staticUrl": "assets/bilibili_emoji/212/3736.png",
+      "staticUrl": "assets/bilibili/212/3736.png",
       "isHide": false,
       "packageId": "212",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[双子座_糟了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/212/3737.png",
+      "staticUrl": "assets/bilibili/212/3737.png",
       "isHide": false,
       "packageId": "212",
       "meta": {

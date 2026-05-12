@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "128",
   "name": "宇宙机器人",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/056b9a862fcdbd623525412ef7bc391c719454bc.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[宇宙机器人_萌]"
       ],
-      "staticUrl": "assets/bilibili_emoji/128/2561.png",
+      "staticUrl": "assets/bilibili/128/2561.png",
       "isHide": false,
       "packageId": "128",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[宇宙机器人_AWSL]"
       ],
-      "staticUrl": "assets/bilibili_emoji/128/2562.png",
+      "staticUrl": "assets/bilibili/128/2562.png",
       "isHide": false,
       "packageId": "128",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[宇宙机器人_佛]"
       ],
-      "staticUrl": "assets/bilibili_emoji/128/2563.png",
+      "staticUrl": "assets/bilibili/128/2563.png",
       "isHide": false,
       "packageId": "128",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[宇宙机器人_衰]"
       ],
-      "staticUrl": "assets/bilibili_emoji/128/2564.png",
+      "staticUrl": "assets/bilibili/128/2564.png",
       "isHide": false,
       "packageId": "128",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[宇宙机器人_我可以]"
       ],
-      "staticUrl": "assets/bilibili_emoji/128/2565.png",
+      "staticUrl": "assets/bilibili/128/2565.png",
       "isHide": false,
       "packageId": "128",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[宇宙机器人_凝视]"
       ],
-      "staticUrl": "assets/bilibili_emoji/128/2566.png",
+      "staticUrl": "assets/bilibili/128/2566.png",
       "isHide": false,
       "packageId": "128",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[宇宙机器人_炸裂]"
       ],
-      "staticUrl": "assets/bilibili_emoji/128/2567.png",
+      "staticUrl": "assets/bilibili/128/2567.png",
       "isHide": false,
       "packageId": "128",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[宇宙机器人_起飞]"
       ],
-      "staticUrl": "assets/bilibili_emoji/128/2568.png",
+      "staticUrl": "assets/bilibili/128/2568.png",
       "isHide": false,
       "packageId": "128",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[宇宙机器人_前方高能]"
       ],
-      "staticUrl": "assets/bilibili_emoji/128/2569.png",
+      "staticUrl": "assets/bilibili/128/2569.png",
       "isHide": false,
       "packageId": "128",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[宇宙机器人_真香]"
       ],
-      "staticUrl": "assets/bilibili_emoji/128/2570.png",
+      "staticUrl": "assets/bilibili/128/2570.png",
       "isHide": false,
       "packageId": "128",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[宇宙机器人_奥利给]"
       ],
-      "staticUrl": "assets/bilibili_emoji/128/2571.png",
+      "staticUrl": "assets/bilibili/128/2571.png",
       "isHide": false,
       "packageId": "128",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[宇宙机器人_摸鱼]"
       ],
-      "staticUrl": "assets/bilibili_emoji/128/2572.png",
+      "staticUrl": "assets/bilibili/128/2572.png",
       "isHide": false,
       "packageId": "128",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[宇宙机器人_我好了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/128/2573.png",
+      "staticUrl": "assets/bilibili/128/2573.png",
       "isHide": false,
       "packageId": "128",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[宇宙机器人_好会啊]"
       ],
-      "staticUrl": "assets/bilibili_emoji/128/2574.png",
+      "staticUrl": "assets/bilibili/128/2574.png",
       "isHide": false,
       "packageId": "128",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[宇宙机器人_嘴臭]"
       ],
-      "staticUrl": "assets/bilibili_emoji/128/2575.png",
+      "staticUrl": "assets/bilibili/128/2575.png",
       "isHide": false,
       "packageId": "128",
       "meta": {
@@ -234,7 +234,7 @@
       "shortCodes": [
         "[宇宙机器人_气死偶咧]"
       ],
-      "staticUrl": "assets/bilibili_emoji/128/2576.png",
+      "staticUrl": "assets/bilibili/128/2576.png",
       "isHide": false,
       "packageId": "128",
       "meta": {
@@ -249,7 +249,7 @@
       "shortCodes": [
         "[宇宙机器人_Hmmm]"
       ],
-      "staticUrl": "assets/bilibili_emoji/128/2577.png",
+      "staticUrl": "assets/bilibili/128/2577.png",
       "isHide": false,
       "packageId": "128",
       "meta": {
@@ -264,7 +264,7 @@
       "shortCodes": [
         "[宇宙机器人_爱了爱了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/128/2578.png",
+      "staticUrl": "assets/bilibili/128/2578.png",
       "isHide": false,
       "packageId": "128",
       "meta": {
@@ -279,7 +279,7 @@
       "shortCodes": [
         "[宇宙机器人_吹爆]"
       ],
-      "staticUrl": "assets/bilibili_emoji/128/2579.png",
+      "staticUrl": "assets/bilibili/128/2579.png",
       "isHide": false,
       "packageId": "128",
       "meta": {
@@ -294,7 +294,7 @@
       "shortCodes": [
         "[宇宙机器人_快跑]"
       ],
-      "staticUrl": "assets/bilibili_emoji/128/2580.png",
+      "staticUrl": "assets/bilibili/128/2580.png",
       "isHide": false,
       "packageId": "128",
       "meta": {

@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "209",
   "name": "七海演唱会",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/e37fa67c854f72ace4b46ad63ef1e7ee500e563c.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[七海演唱会_kira]"
       ],
-      "staticUrl": "assets/bilibili_emoji/209/3681.png",
+      "staticUrl": "assets/bilibili/209/3681.png",
       "isHide": false,
       "packageId": "209",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[七海演唱会_拜托]"
       ],
-      "staticUrl": "assets/bilibili_emoji/209/3682.png",
+      "staticUrl": "assets/bilibili/209/3682.png",
       "isHide": false,
       "packageId": "209",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[七海演唱会_唱歌]"
       ],
-      "staticUrl": "assets/bilibili_emoji/209/3683.png",
+      "staticUrl": "assets/bilibili/209/3683.png",
       "isHide": false,
       "packageId": "209",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[七海演唱会_大笑]"
       ],
-      "staticUrl": "assets/bilibili_emoji/209/3684.png",
+      "staticUrl": "assets/bilibili/209/3684.png",
       "isHide": false,
       "packageId": "209",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[七海演唱会_呆]"
       ],
-      "staticUrl": "assets/bilibili_emoji/209/3685.png",
+      "staticUrl": "assets/bilibili/209/3685.png",
       "isHide": false,
       "packageId": "209",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[七海演唱会_盯]"
       ],
-      "staticUrl": "assets/bilibili_emoji/209/3686.png",
+      "staticUrl": "assets/bilibili/209/3686.png",
       "isHide": false,
       "packageId": "209",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[七海演唱会_哈欠]"
       ],
-      "staticUrl": "assets/bilibili_emoji/209/3687.png",
+      "staticUrl": "assets/bilibili/209/3687.png",
       "isHide": false,
       "packageId": "209",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[七海演唱会_害羞]"
       ],
-      "staticUrl": "assets/bilibili_emoji/209/3688.png",
+      "staticUrl": "assets/bilibili/209/3688.png",
       "isHide": false,
       "packageId": "209",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[七海演唱会_好诶]"
       ],
-      "staticUrl": "assets/bilibili_emoji/209/3689.png",
+      "staticUrl": "assets/bilibili/209/3689.png",
       "isHide": false,
       "packageId": "209",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[七海演唱会_坏笑]"
       ],
-      "staticUrl": "assets/bilibili_emoji/209/3690.png",
+      "staticUrl": "assets/bilibili/209/3690.png",
       "isHide": false,
       "packageId": "209",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[七海演唱会_迷惑]"
       ],
-      "staticUrl": "assets/bilibili_emoji/209/3691.png",
+      "staticUrl": "assets/bilibili/209/3691.png",
       "isHide": false,
       "packageId": "209",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[七海演唱会_认真]"
       ],
-      "staticUrl": "assets/bilibili_emoji/209/3692.png",
+      "staticUrl": "assets/bilibili/209/3692.png",
       "isHide": false,
       "packageId": "209",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[七海演唱会_瘫]"
       ],
-      "staticUrl": "assets/bilibili_emoji/209/3693.png",
+      "staticUrl": "assets/bilibili/209/3693.png",
       "isHide": false,
       "packageId": "209",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[七海演唱会_委屈]"
       ],
-      "staticUrl": "assets/bilibili_emoji/209/3694.png",
+      "staticUrl": "assets/bilibili/209/3694.png",
       "isHide": false,
       "packageId": "209",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[七海演唱会_无奈]"
       ],
-      "staticUrl": "assets/bilibili_emoji/209/3695.png",
+      "staticUrl": "assets/bilibili/209/3695.png",
       "isHide": false,
       "packageId": "209",
       "meta": {

@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "129",
   "name": "登乐V计划",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/9e7cab03bafb6080ef0b32285bb9213712ab26dc.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[登乐V计划_心动]"
       ],
-      "staticUrl": "assets/bilibili_emoji/129/2587.png",
+      "staticUrl": "assets/bilibili/129/2587.png",
       "isHide": false,
       "packageId": "129",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[登乐V计划_贴贴]"
       ],
-      "staticUrl": "assets/bilibili_emoji/129/2586.png",
+      "staticUrl": "assets/bilibili/129/2586.png",
       "isHide": false,
       "packageId": "129",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[登乐V计划_期待]"
       ],
-      "staticUrl": "assets/bilibili_emoji/129/2585.png",
+      "staticUrl": "assets/bilibili/129/2585.png",
       "isHide": false,
       "packageId": "129",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[登乐V计划_老箱推了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/129/2584.png",
+      "staticUrl": "assets/bilibili/129/2584.png",
       "isHide": false,
       "packageId": "129",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[登乐V计划_快上车]"
       ],
-      "staticUrl": "assets/bilibili_emoji/129/2583.png",
+      "staticUrl": "assets/bilibili/129/2583.png",
       "isHide": false,
       "packageId": "129",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[登乐V计划_工具人]"
       ],
-      "staticUrl": "assets/bilibili_emoji/129/2582.png",
+      "staticUrl": "assets/bilibili/129/2582.png",
       "isHide": false,
       "packageId": "129",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[登乐V计划_干杯]"
       ],
-      "staticUrl": "assets/bilibili_emoji/129/2581.png",
+      "staticUrl": "assets/bilibili/129/2581.png",
       "isHide": false,
       "packageId": "129",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[登乐V计划_skr]"
       ],
-      "staticUrl": "assets/bilibili_emoji/129/2588.png",
+      "staticUrl": "assets/bilibili/129/2588.png",
       "isHide": false,
       "packageId": "129",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[登乐V计划_33唱歌]"
       ],
-      "staticUrl": "assets/bilibili_emoji/129/2589.png",
+      "staticUrl": "assets/bilibili/129/2589.png",
       "isHide": false,
       "packageId": "129",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[登乐V计划_22唱歌]"
       ],
-      "staticUrl": "assets/bilibili_emoji/129/2590.png",
+      "staticUrl": "assets/bilibili/129/2590.png",
       "isHide": false,
       "packageId": "129",
       "meta": {

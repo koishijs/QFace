@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "266",
   "name": "早稻叽",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/cfb11556f3cc040ee760b8b35fb72a766213aba2.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[早稻叽_AWSL]"
       ],
-      "staticUrl": "assets/bilibili_emoji/266/4430.png",
+      "staticUrl": "assets/bilibili/266/4430.png",
       "isHide": false,
       "packageId": "266",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[早稻叽_no]"
       ],
-      "staticUrl": "assets/bilibili_emoji/266/4431.png",
+      "staticUrl": "assets/bilibili/266/4431.png",
       "isHide": false,
       "packageId": "266",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[早稻叽_YES!]"
       ],
-      "staticUrl": "assets/bilibili_emoji/266/4432.png",
+      "staticUrl": "assets/bilibili/266/4432.png",
       "isHide": false,
       "packageId": "266",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[早稻叽_馋]"
       ],
-      "staticUrl": "assets/bilibili_emoji/266/4433.png",
+      "staticUrl": "assets/bilibili/266/4433.png",
       "isHide": false,
       "packageId": "266",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[早稻叽_嘲笑]"
       ],
-      "staticUrl": "assets/bilibili_emoji/266/4434.png",
+      "staticUrl": "assets/bilibili/266/4434.png",
       "isHide": false,
       "packageId": "266",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[早稻叽_冲鸭]"
       ],
-      "staticUrl": "assets/bilibili_emoji/266/4435.png",
+      "staticUrl": "assets/bilibili/266/4435.png",
       "isHide": false,
       "packageId": "266",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[早稻叽_薅呆毛]"
       ],
-      "staticUrl": "assets/bilibili_emoji/266/4436.png",
+      "staticUrl": "assets/bilibili/266/4436.png",
       "isHide": false,
       "packageId": "266",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[早稻叽_老婆]"
       ],
-      "staticUrl": "assets/bilibili_emoji/266/4437.png",
+      "staticUrl": "assets/bilibili/266/4437.png",
       "isHide": false,
       "packageId": "266",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[早稻叽_泪目]"
       ],
-      "staticUrl": "assets/bilibili_emoji/266/4438.png",
+      "staticUrl": "assets/bilibili/266/4438.png",
       "isHide": false,
       "packageId": "266",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[早稻叽_冒头]"
       ],
-      "staticUrl": "assets/bilibili_emoji/266/4439.png",
+      "staticUrl": "assets/bilibili/266/4439.png",
       "isHide": false,
       "packageId": "266",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[早稻叽_生气]"
       ],
-      "staticUrl": "assets/bilibili_emoji/266/4440.png",
+      "staticUrl": "assets/bilibili/266/4440.png",
       "isHide": false,
       "packageId": "266",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[早稻叽_瘫]"
       ],
-      "staticUrl": "assets/bilibili_emoji/266/4441.png",
+      "staticUrl": "assets/bilibili/266/4441.png",
       "isHide": false,
       "packageId": "266",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[早稻叽_打嗝]"
       ],
-      "staticUrl": "assets/bilibili_emoji/266/4442.png",
+      "staticUrl": "assets/bilibili/266/4442.png",
       "isHide": false,
       "packageId": "266",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[早稻叽_元气满满]"
       ],
-      "staticUrl": "assets/bilibili_emoji/266/4443.png",
+      "staticUrl": "assets/bilibili/266/4443.png",
       "isHide": false,
       "packageId": "266",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[早稻叽_比心]"
       ],
-      "staticUrl": "assets/bilibili_emoji/266/4444.png",
+      "staticUrl": "assets/bilibili/266/4444.png",
       "isHide": false,
       "packageId": "266",
       "meta": {
@@ -234,7 +234,7 @@
       "shortCodes": [
         "[早稻叽_戳]"
       ],
-      "staticUrl": "assets/bilibili_emoji/266/4445.png",
+      "staticUrl": "assets/bilibili/266/4445.png",
       "isHide": false,
       "packageId": "266",
       "meta": {
@@ -249,7 +249,7 @@
       "shortCodes": [
         "[早稻叽_牛啊]"
       ],
-      "staticUrl": "assets/bilibili_emoji/266/4446.png",
+      "staticUrl": "assets/bilibili/266/4446.png",
       "isHide": false,
       "packageId": "266",
       "meta": {
@@ -264,7 +264,7 @@
       "shortCodes": [
         "[早稻叽_亲亲]"
       ],
-      "staticUrl": "assets/bilibili_emoji/266/4447.png",
+      "staticUrl": "assets/bilibili/266/4447.png",
       "isHide": false,
       "packageId": "266",
       "meta": {
@@ -279,7 +279,7 @@
       "shortCodes": [
         "[早稻叽_无语]"
       ],
-      "staticUrl": "assets/bilibili_emoji/266/4448.png",
+      "staticUrl": "assets/bilibili/266/4448.png",
       "isHide": false,
       "packageId": "266",
       "meta": {
@@ -294,7 +294,7 @@
       "shortCodes": [
         "[早稻叽_亿点点]"
       ],
-      "staticUrl": "assets/bilibili_emoji/266/4449.png",
+      "staticUrl": "assets/bilibili/266/4449.png",
       "isHide": false,
       "packageId": "266",
       "meta": {

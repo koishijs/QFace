@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "360",
   "name": "新月冰冰!",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/d6c199426dcd8dda34a7d200789d1b48d6940385.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[新月冰冰!_奥利给]"
       ],
-      "staticUrl": "assets/bilibili_emoji/360/5911.png",
+      "staticUrl": "assets/bilibili/360/5911.png",
       "isHide": false,
       "packageId": "360",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[新月冰冰!_达咩]"
       ],
-      "staticUrl": "assets/bilibili_emoji/360/5912.png",
+      "staticUrl": "assets/bilibili/360/5912.png",
       "isHide": false,
       "packageId": "360",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[新月冰冰!_对手指]"
       ],
-      "staticUrl": "assets/bilibili_emoji/360/5913.png",
+      "staticUrl": "assets/bilibili/360/5913.png",
       "isHide": false,
       "packageId": "360",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[新月冰冰!_失魂]"
       ],
-      "staticUrl": "assets/bilibili_emoji/360/5914.png",
+      "staticUrl": "assets/bilibili/360/5914.png",
       "isHide": false,
       "packageId": "360",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[新月冰冰!_问号]"
       ],
-      "staticUrl": "assets/bilibili_emoji/360/5915.png",
+      "staticUrl": "assets/bilibili/360/5915.png",
       "isHide": false,
       "packageId": "360",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[新月冰冰!_掀桌]"
       ],
-      "staticUrl": "assets/bilibili_emoji/360/5916.png",
+      "staticUrl": "assets/bilibili/360/5916.png",
       "isHide": false,
       "packageId": "360",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[新月冰冰!_心脏骤停]"
       ],
-      "staticUrl": "assets/bilibili_emoji/360/5917.png",
+      "staticUrl": "assets/bilibili/360/5917.png",
       "isHide": false,
       "packageId": "360",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[新月冰冰!_加油]"
       ],
-      "staticUrl": "assets/bilibili_emoji/360/5918.png",
+      "staticUrl": "assets/bilibili/360/5918.png",
       "isHide": false,
       "packageId": "360",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[新月冰冰!_比心]"
       ],
-      "staticUrl": "assets/bilibili_emoji/360/5919.png",
+      "staticUrl": "assets/bilibili/360/5919.png",
       "isHide": false,
       "packageId": "360",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[新月冰冰!_不可以色色]"
       ],
-      "staticUrl": "assets/bilibili_emoji/360/5920.png",
+      "staticUrl": "assets/bilibili/360/5920.png",
       "isHide": false,
       "packageId": "360",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[新月冰冰!_大哭]"
       ],
-      "staticUrl": "assets/bilibili_emoji/360/5921.png",
+      "staticUrl": "assets/bilibili/360/5921.png",
       "isHide": false,
       "packageId": "360",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[新月冰冰!_单推]"
       ],
-      "staticUrl": "assets/bilibili_emoji/360/5922.png",
+      "staticUrl": "assets/bilibili/360/5922.png",
       "isHide": false,
       "packageId": "360",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[新月冰冰!_诶嘿]"
       ],
-      "staticUrl": "assets/bilibili_emoji/360/5923.png",
+      "staticUrl": "assets/bilibili/360/5923.png",
       "isHide": false,
       "packageId": "360",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[新月冰冰!_给花花]"
       ],
-      "staticUrl": "assets/bilibili_emoji/360/5924.png",
+      "staticUrl": "assets/bilibili/360/5924.png",
       "isHide": false,
       "packageId": "360",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[新月冰冰!_滑稽]"
       ],
-      "staticUrl": "assets/bilibili_emoji/360/5925.png",
+      "staticUrl": "assets/bilibili/360/5925.png",
       "isHide": false,
       "packageId": "360",
       "meta": {
@@ -234,7 +234,7 @@
       "shortCodes": [
         "[新月冰冰!_举杯浇愁]"
       ],
-      "staticUrl": "assets/bilibili_emoji/360/5926.png",
+      "staticUrl": "assets/bilibili/360/5926.png",
       "isHide": false,
       "packageId": "360",
       "meta": {
@@ -249,7 +249,7 @@
       "shortCodes": [
         "[新月冰冰!_开车]"
       ],
-      "staticUrl": "assets/bilibili_emoji/360/5927.png",
+      "staticUrl": "assets/bilibili/360/5927.png",
       "isHide": false,
       "packageId": "360",
       "meta": {
@@ -264,7 +264,7 @@
       "shortCodes": [
         "[新月冰冰!_开心]"
       ],
-      "staticUrl": "assets/bilibili_emoji/360/5928.png",
+      "staticUrl": "assets/bilibili/360/5928.png",
       "isHide": false,
       "packageId": "360",
       "meta": {
@@ -279,7 +279,7 @@
       "shortCodes": [
         "[新月冰冰!_起床]"
       ],
-      "staticUrl": "assets/bilibili_emoji/360/5929.png",
+      "staticUrl": "assets/bilibili/360/5929.png",
       "isHide": false,
       "packageId": "360",
       "meta": {
@@ -294,7 +294,7 @@
       "shortCodes": [
         "[新月冰冰!_穷醒]"
       ],
-      "staticUrl": "assets/bilibili_emoji/360/5930.png",
+      "staticUrl": "assets/bilibili/360/5930.png",
       "isHide": false,
       "packageId": "360",
       "meta": {
@@ -309,7 +309,7 @@
       "shortCodes": [
         "[新月冰冰!_生气]"
       ],
-      "staticUrl": "assets/bilibili_emoji/360/5931.png",
+      "staticUrl": "assets/bilibili/360/5931.png",
       "isHide": false,
       "packageId": "360",
       "meta": {
@@ -324,7 +324,7 @@
       "shortCodes": [
         "[新月冰冰!_谢谢老板]"
       ],
-      "staticUrl": "assets/bilibili_emoji/360/5932.png",
+      "staticUrl": "assets/bilibili/360/5932.png",
       "isHide": false,
       "packageId": "360",
       "meta": {
@@ -339,7 +339,7 @@
       "shortCodes": [
         "[新月冰冰!_优雅]"
       ],
-      "staticUrl": "assets/bilibili_emoji/360/5933.png",
+      "staticUrl": "assets/bilibili/360/5933.png",
       "isHide": false,
       "packageId": "360",
       "meta": {
@@ -354,7 +354,7 @@
       "shortCodes": [
         "[新月冰冰!_早安晚安]"
       ],
-      "staticUrl": "assets/bilibili_emoji/360/5934.png",
+      "staticUrl": "assets/bilibili/360/5934.png",
       "isHide": false,
       "packageId": "360",
       "meta": {
@@ -369,7 +369,7 @@
       "shortCodes": [
         "[新月冰冰!_kira]"
       ],
-      "staticUrl": "assets/bilibili_emoji/360/5935.png",
+      "staticUrl": "assets/bilibili/360/5935.png",
       "isHide": false,
       "packageId": "360",
       "meta": {

@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "65",
   "name": "灵笼个性表情",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/715b2887c53040e32debca29bc30b0db27c86730.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[个性灵笼_暗中观察]"
       ],
-      "staticUrl": "assets/bilibili_emoji/65/1627.png",
+      "staticUrl": "assets/bilibili/65/1627.png",
       "isHide": false,
       "packageId": "65",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[个性灵笼_开心]"
       ],
-      "staticUrl": "assets/bilibili_emoji/65/1628.png",
+      "staticUrl": "assets/bilibili/65/1628.png",
       "isHide": false,
       "packageId": "65",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[个性灵笼_哭]"
       ],
-      "staticUrl": "assets/bilibili_emoji/65/1629.png",
+      "staticUrl": "assets/bilibili/65/1629.png",
       "isHide": false,
       "packageId": "65",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[个性灵笼_冷]"
       ],
-      "staticUrl": "assets/bilibili_emoji/65/1630.png",
+      "staticUrl": "assets/bilibili/65/1630.png",
       "isHide": false,
       "packageId": "65",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[个性灵笼_难受]"
       ],
-      "staticUrl": "assets/bilibili_emoji/65/1631.png",
+      "staticUrl": "assets/bilibili/65/1631.png",
       "isHide": false,
       "packageId": "65",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[个性灵笼_窃喜]"
       ],
-      "staticUrl": "assets/bilibili_emoji/65/1632.png",
+      "staticUrl": "assets/bilibili/65/1632.png",
       "isHide": false,
       "packageId": "65",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[个性灵笼_石化]"
       ],
-      "staticUrl": "assets/bilibili_emoji/65/1633.png",
+      "staticUrl": "assets/bilibili/65/1633.png",
       "isHide": false,
       "packageId": "65",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[个性灵笼_喜欢]"
       ],
-      "staticUrl": "assets/bilibili_emoji/65/1634.png",
+      "staticUrl": "assets/bilibili/65/1634.png",
       "isHide": false,
       "packageId": "65",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[个性灵笼_凶]"
       ],
-      "staticUrl": "assets/bilibili_emoji/65/1635.png",
+      "staticUrl": "assets/bilibili/65/1635.png",
       "isHide": false,
       "packageId": "65",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[个性灵笼_耶]"
       ],
-      "staticUrl": "assets/bilibili_emoji/65/1636.png",
+      "staticUrl": "assets/bilibili/65/1636.png",
       "isHide": false,
       "packageId": "65",
       "meta": {

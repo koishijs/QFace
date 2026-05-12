@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "495",
   "name": "小彼索",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/45c0fa98196f714c89e77a9bf8e23d47310645b2.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[小彼索_暗中观察]"
       ],
-      "staticUrl": "assets/bilibili_emoji/495/8798.png",
+      "staticUrl": "assets/bilibili/495/8798.png",
       "isHide": false,
       "packageId": "495",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[小彼索_币给你]"
       ],
-      "staticUrl": "assets/bilibili_emoji/495/8799.png",
+      "staticUrl": "assets/bilibili/495/8799.png",
       "isHide": false,
       "packageId": "495",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[小彼索_无语]"
       ],
-      "staticUrl": "assets/bilibili_emoji/495/8800.png",
+      "staticUrl": "assets/bilibili/495/8800.png",
       "isHide": false,
       "packageId": "495",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[小彼索_吃瓜]"
       ],
-      "staticUrl": "assets/bilibili_emoji/495/8801.png",
+      "staticUrl": "assets/bilibili/495/8801.png",
       "isHide": false,
       "packageId": "495",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[小彼索_冲冲冲]"
       ],
-      "staticUrl": "assets/bilibili_emoji/495/8802.png",
+      "staticUrl": "assets/bilibili/495/8802.png",
       "isHide": false,
       "packageId": "495",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[小彼索_对对对]"
       ],
-      "staticUrl": "assets/bilibili_emoji/495/8803.png",
+      "staticUrl": "assets/bilibili/495/8803.png",
       "isHide": false,
       "packageId": "495",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[小彼索_干饭]"
       ],
-      "staticUrl": "assets/bilibili_emoji/495/8804.png",
+      "staticUrl": "assets/bilibili/495/8804.png",
       "isHide": false,
       "packageId": "495",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[小彼索_好气]"
       ],
-      "staticUrl": "assets/bilibili_emoji/495/8805.png",
+      "staticUrl": "assets/bilibili/495/8805.png",
       "isHide": false,
       "packageId": "495",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[小彼索_生气]"
       ],
-      "staticUrl": "assets/bilibili_emoji/495/8806.png",
+      "staticUrl": "assets/bilibili/495/8806.png",
       "isHide": false,
       "packageId": "495",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[小彼索_就这]"
       ],
-      "staticUrl": "assets/bilibili_emoji/495/8807.png",
+      "staticUrl": "assets/bilibili/495/8807.png",
       "isHide": false,
       "packageId": "495",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[小彼索_晚安]"
       ],
-      "staticUrl": "assets/bilibili_emoji/495/8808.png",
+      "staticUrl": "assets/bilibili/495/8808.png",
       "isHide": false,
       "packageId": "495",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[小彼索_心碎一地]"
       ],
-      "staticUrl": "assets/bilibili_emoji/495/8809.png",
+      "staticUrl": "assets/bilibili/495/8809.png",
       "isHide": false,
       "packageId": "495",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[小彼索_赞]"
       ],
-      "staticUrl": "assets/bilibili_emoji/495/8810.png",
+      "staticUrl": "assets/bilibili/495/8810.png",
       "isHide": false,
       "packageId": "495",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[小彼索_震惊]"
       ],
-      "staticUrl": "assets/bilibili_emoji/495/8811.png",
+      "staticUrl": "assets/bilibili/495/8811.png",
       "isHide": false,
       "packageId": "495",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[小彼索_emo]"
       ],
-      "staticUrl": "assets/bilibili_emoji/495/8812.png",
+      "staticUrl": "assets/bilibili/495/8812.png",
       "isHide": false,
       "packageId": "495",
       "meta": {

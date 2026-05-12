@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "269",
   "name": "百妖谱2",
   "coverUrl": "https://i0.hdslb.com/bfs/emote/b7a513f250b39ec522b6eedf0461e58d35dbb091.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[百妖谱2_爱了爱了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/269/4481.png",
+      "staticUrl": "assets/bilibili/269/4481.png",
       "isHide": false,
       "packageId": "269",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[百妖谱2_拜托拜托]"
       ],
-      "staticUrl": "assets/bilibili_emoji/269/4482.png",
+      "staticUrl": "assets/bilibili/269/4482.png",
       "isHide": false,
       "packageId": "269",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[百妖谱2_不安好心]"
       ],
-      "staticUrl": "assets/bilibili_emoji/269/4483.png",
+      "staticUrl": "assets/bilibili/269/4483.png",
       "isHide": false,
       "packageId": "269",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[百妖谱2_放饭了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/269/4484.png",
+      "staticUrl": "assets/bilibili/269/4484.png",
       "isHide": false,
       "packageId": "269",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[百妖谱2_干饭人]"
       ],
-      "staticUrl": "assets/bilibili_emoji/269/4485.png",
+      "staticUrl": "assets/bilibili/269/4485.png",
       "isHide": false,
       "packageId": "269",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[百妖谱2_记仇]"
       ],
-      "staticUrl": "assets/bilibili_emoji/269/4486.png",
+      "staticUrl": "assets/bilibili/269/4486.png",
       "isHide": false,
       "packageId": "269",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[百妖谱2_流泪]"
       ],
-      "staticUrl": "assets/bilibili_emoji/269/4487.png",
+      "staticUrl": "assets/bilibili/269/4487.png",
       "isHide": false,
       "packageId": "269",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[百妖谱2_贴贴]"
       ],
-      "staticUrl": "assets/bilibili_emoji/269/4488.png",
+      "staticUrl": "assets/bilibili/269/4488.png",
       "isHide": false,
       "packageId": "269",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[百妖谱2_星星眼]"
       ],
-      "staticUrl": "assets/bilibili_emoji/269/4489.png",
+      "staticUrl": "assets/bilibili/269/4489.png",
       "isHide": false,
       "packageId": "269",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[百妖谱2_自闭]"
       ],
-      "staticUrl": "assets/bilibili_emoji/269/4490.png",
+      "staticUrl": "assets/bilibili/269/4490.png",
       "isHide": false,
       "packageId": "269",
       "meta": {

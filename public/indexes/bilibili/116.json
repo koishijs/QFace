@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "116",
   "name": "七海Nana7mi",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/85133745e64cb19f4586ebebc101b6bd6a2b90f6.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[七海_比心]"
       ],
-      "staticUrl": "assets/bilibili_emoji/116/2422.png",
+      "staticUrl": "assets/bilibili/116/2422.png",
       "isHide": false,
       "packageId": "116",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[七海_尴尬]"
       ],
-      "staticUrl": "assets/bilibili_emoji/116/2423.png",
+      "staticUrl": "assets/bilibili/116/2423.png",
       "isHide": false,
       "packageId": "116",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[七海_害怕]"
       ],
-      "staticUrl": "assets/bilibili_emoji/116/2424.png",
+      "staticUrl": "assets/bilibili/116/2424.png",
       "isHide": false,
       "packageId": "116",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[七海_惊讶]"
       ],
-      "staticUrl": "assets/bilibili_emoji/116/2425.png",
+      "staticUrl": "assets/bilibili/116/2425.png",
       "isHide": false,
       "packageId": "116",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[七海_哭哭]"
       ],
-      "staticUrl": "assets/bilibili_emoji/116/2426.png",
+      "staticUrl": "assets/bilibili/116/2426.png",
       "isHide": false,
       "packageId": "116",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[七海_柠檬]"
       ],
-      "staticUrl": "assets/bilibili_emoji/116/2427.png",
+      "staticUrl": "assets/bilibili/116/2427.png",
       "isHide": false,
       "packageId": "116",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[七海_捏捏]"
       ],
-      "staticUrl": "assets/bilibili_emoji/116/2428.png",
+      "staticUrl": "assets/bilibili/116/2428.png",
       "isHide": false,
       "packageId": "116",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[七海_生闷气]"
       ],
-      "staticUrl": "assets/bilibili_emoji/116/2429.png",
+      "staticUrl": "assets/bilibili/116/2429.png",
       "isHide": false,
       "packageId": "116",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[七海_贴贴]"
       ],
-      "staticUrl": "assets/bilibili_emoji/116/2430.png",
+      "staticUrl": "assets/bilibili/116/2430.png",
       "isHide": false,
       "packageId": "116",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[七海_沉了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/116/2431.png",
+      "staticUrl": "assets/bilibili/116/2431.png",
       "isHide": false,
       "packageId": "116",
       "meta": {

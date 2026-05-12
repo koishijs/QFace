@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "333",
   "name": "乃琳Queen",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/92542fbb7482e415b36edde10580d26853c6774f.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[乃琳Queen_MUA!]"
       ],
-      "staticUrl": "assets/bilibili_emoji/333/5442.png",
+      "staticUrl": "assets/bilibili/333/5442.png",
       "isHide": false,
       "packageId": "333",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[乃琳Queen_Wink]"
       ],
-      "staticUrl": "assets/bilibili_emoji/333/5443.png",
+      "staticUrl": "assets/bilibili/333/5443.png",
       "isHide": false,
       "packageId": "333",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[乃琳Queen_壁咚]"
       ],
-      "staticUrl": "assets/bilibili_emoji/333/5444.png",
+      "staticUrl": "assets/bilibili/333/5444.png",
       "isHide": false,
       "packageId": "333",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[乃琳Queen_标记]"
       ],
-      "staticUrl": "assets/bilibili_emoji/333/5445.png",
+      "staticUrl": "assets/bilibili/333/5445.png",
       "isHide": false,
       "packageId": "333",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[乃琳Queen_吃火锅]"
       ],
-      "staticUrl": "assets/bilibili_emoji/333/5446.png",
+      "staticUrl": "assets/bilibili/333/5446.png",
       "isHide": false,
       "packageId": "333",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[乃琳Queen_鼓掌]"
       ],
-      "staticUrl": "assets/bilibili_emoji/333/5447.png",
+      "staticUrl": "assets/bilibili/333/5447.png",
       "isHide": false,
       "packageId": "333",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[乃琳Queen_好坏女人]"
       ],
-      "staticUrl": "assets/bilibili_emoji/333/5448.png",
+      "staticUrl": "assets/bilibili/333/5448.png",
       "isHide": false,
       "packageId": "333",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[乃琳Queen_惊吓小乃琳]"
       ],
-      "staticUrl": "assets/bilibili_emoji/333/5449.png",
+      "staticUrl": "assets/bilibili/333/5449.png",
       "isHide": false,
       "packageId": "333",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[乃琳Queen_麻了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/333/5450.png",
+      "staticUrl": "assets/bilibili/333/5450.png",
       "isHide": false,
       "packageId": "333",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[乃琳Queen_摸摸]"
       ],
-      "staticUrl": "assets/bilibili_emoji/333/5451.png",
+      "staticUrl": "assets/bilibili/333/5451.png",
       "isHide": false,
       "packageId": "333",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[乃琳Queen_乃琳摇]"
       ],
-      "staticUrl": "assets/bilibili_emoji/333/5452.png",
+      "staticUrl": "assets/bilibili/333/5452.png",
       "isHide": false,
       "packageId": "333",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[乃琳Queen_奶淇琳宝]"
       ],
-      "staticUrl": "assets/bilibili_emoji/333/5453.png",
+      "staticUrl": "assets/bilibili/333/5453.png",
       "isHide": false,
       "packageId": "333",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[乃琳Queen_女王的肯定]"
       ],
-      "staticUrl": "assets/bilibili_emoji/333/5454.png",
+      "staticUrl": "assets/bilibili/333/5454.png",
       "isHide": false,
       "packageId": "333",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[乃琳Queen_欧耶]"
       ],
-      "staticUrl": "assets/bilibili_emoji/333/5455.png",
+      "staticUrl": "assets/bilibili/333/5455.png",
       "isHide": false,
       "packageId": "333",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[乃琳Queen_取证中]"
       ],
-      "staticUrl": "assets/bilibili_emoji/333/5456.png",
+      "staticUrl": "assets/bilibili/333/5456.png",
       "isHide": false,
       "packageId": "333",
       "meta": {
@@ -234,7 +234,7 @@
       "shortCodes": [
         "[乃琳Queen_双向奔赴]"
       ],
-      "staticUrl": "assets/bilibili_emoji/333/5457.png",
+      "staticUrl": "assets/bilibili/333/5457.png",
       "isHide": false,
       "packageId": "333",
       "meta": {
@@ -249,7 +249,7 @@
       "shortCodes": [
         "[乃琳Queen_太喜欢了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/333/5458.png",
+      "staticUrl": "assets/bilibili/333/5458.png",
       "isHide": false,
       "packageId": "333",
       "meta": {
@@ -264,7 +264,7 @@
       "shortCodes": [
         "[乃琳Queen_晚安小乃琳]"
       ],
-      "staticUrl": "assets/bilibili_emoji/333/5459.png",
+      "staticUrl": "assets/bilibili/333/5459.png",
       "isHide": false,
       "packageId": "333",
       "meta": {
@@ -279,7 +279,7 @@
       "shortCodes": [
         "[乃琳Queen_我们是]"
       ],
-      "staticUrl": "assets/bilibili_emoji/333/5460.png",
+      "staticUrl": "assets/bilibili/333/5460.png",
       "isHide": false,
       "packageId": "333",
       "meta": {
@@ -294,7 +294,7 @@
       "shortCodes": [
         "[乃琳Queen_向日葵]"
       ],
-      "staticUrl": "assets/bilibili_emoji/333/5461.png",
+      "staticUrl": "assets/bilibili/333/5461.png",
       "isHide": false,
       "packageId": "333",
       "meta": {
@@ -309,7 +309,7 @@
       "shortCodes": [
         "[乃琳Queen_小狐狸]"
       ],
-      "staticUrl": "assets/bilibili_emoji/333/5462.png",
+      "staticUrl": "assets/bilibili/333/5462.png",
       "isHide": false,
       "packageId": "333",
       "meta": {
@@ -324,7 +324,7 @@
       "shortCodes": [
         "[乃琳Queen_笑嘻了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/333/5463.png",
+      "staticUrl": "assets/bilibili/333/5463.png",
       "isHide": false,
       "packageId": "333",
       "meta": {
@@ -339,7 +339,7 @@
       "shortCodes": [
         "[乃琳Queen_谢谢大家]"
       ],
-      "staticUrl": "assets/bilibili_emoji/333/5464.png",
+      "staticUrl": "assets/bilibili/333/5464.png",
       "isHide": false,
       "packageId": "333",
       "meta": {
@@ -354,7 +354,7 @@
       "shortCodes": [
         "[乃琳Queen_隐藏gamer]"
       ],
-      "staticUrl": "assets/bilibili_emoji/333/5465.png",
+      "staticUrl": "assets/bilibili/333/5465.png",
       "isHide": false,
       "packageId": "333",
       "meta": {
@@ -369,7 +369,7 @@
       "shortCodes": [
         "[乃琳Queen_遇到困难]"
       ],
-      "staticUrl": "assets/bilibili_emoji/333/5466.png",
+      "staticUrl": "assets/bilibili/333/5466.png",
       "isHide": false,
       "packageId": "333",
       "meta": {

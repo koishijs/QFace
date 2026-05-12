@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "203",
   "name": "赏樱大会欧皇",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/f79b53d8453d2ef7c181b4f8275173f28d4e7494.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[赏樱大会欧皇_拜托了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/203/3601.png",
+      "staticUrl": "assets/bilibili/203/3601.png",
       "isHide": false,
       "packageId": "203",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[赏樱大会欧皇_大小姐]"
       ],
-      "staticUrl": "assets/bilibili_emoji/203/3602.png",
+      "staticUrl": "assets/bilibili/203/3602.png",
       "isHide": false,
       "packageId": "203",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[赏樱大会欧皇_凡尔赛]"
       ],
-      "staticUrl": "assets/bilibili_emoji/203/3603.png",
+      "staticUrl": "assets/bilibili/203/3603.png",
       "isHide": false,
       "packageId": "203",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[赏樱大会欧皇_皇家口气]"
       ],
-      "staticUrl": "assets/bilibili_emoji/203/3604.png",
+      "staticUrl": "assets/bilibili/203/3604.png",
       "isHide": false,
       "packageId": "203",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[赏樱大会欧皇_马萨卡]"
       ],
-      "staticUrl": "assets/bilibili_emoji/203/3605.png",
+      "staticUrl": "assets/bilibili/203/3605.png",
       "isHide": false,
       "packageId": "203",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[赏樱大会欧皇_我也要]"
       ],
-      "staticUrl": "assets/bilibili_emoji/203/3606.png",
+      "staticUrl": "assets/bilibili/203/3606.png",
       "isHide": false,
       "packageId": "203",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[赏樱大会欧皇_吸欧气]"
       ],
-      "staticUrl": "assets/bilibili_emoji/203/3607.png",
+      "staticUrl": "assets/bilibili/203/3607.png",
       "isHide": false,
       "packageId": "203",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[赏樱大会欧皇_一发入魂]"
       ],
-      "staticUrl": "assets/bilibili_emoji/203/3608.png",
+      "staticUrl": "assets/bilibili/203/3608.png",
       "isHide": false,
       "packageId": "203",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[赏樱大会欧皇_中了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/203/3609.png",
+      "staticUrl": "assets/bilibili/203/3609.png",
       "isHide": false,
       "packageId": "203",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[赏樱大会欧皇_抓住希望]"
       ],
-      "staticUrl": "assets/bilibili_emoji/203/3610.png",
+      "staticUrl": "assets/bilibili/203/3610.png",
       "isHide": false,
       "packageId": "203",
       "meta": {

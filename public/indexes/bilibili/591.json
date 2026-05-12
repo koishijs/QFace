@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "591",
   "name": "柚恩不加糖",
   "coverUrl": "https://i0.hdslb.com/bfs/emote/379c7bda99ecb6920adeb8496e29ae5871c58f86.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[柚恩不加糖_SSW]"
       ],
-      "staticUrl": "assets/bilibili_emoji/591/10728.png",
+      "staticUrl": "assets/bilibili/591/10728.png",
       "isHide": false,
       "packageId": "591",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[柚恩不加糖_呆滞]"
       ],
-      "staticUrl": "assets/bilibili_emoji/591/10729.png",
+      "staticUrl": "assets/bilibili/591/10729.png",
       "isHide": false,
       "packageId": "591",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[柚恩不加糖_腹黑]"
       ],
-      "staticUrl": "assets/bilibili_emoji/591/10730.png",
+      "staticUrl": "assets/bilibili/591/10730.png",
       "isHide": false,
       "packageId": "591",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[柚恩不加糖_古神语]"
       ],
-      "staticUrl": "assets/bilibili_emoji/591/10731.png",
+      "staticUrl": "assets/bilibili/591/10731.png",
       "isHide": false,
       "packageId": "591",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[柚恩不加糖_航海]"
       ],
-      "staticUrl": "assets/bilibili_emoji/591/10732.png",
+      "staticUrl": "assets/bilibili/591/10732.png",
       "isHide": false,
       "packageId": "591",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[柚恩不加糖_嘿嘿]"
       ],
-      "staticUrl": "assets/bilibili_emoji/591/10733.png",
+      "staticUrl": "assets/bilibili/591/10733.png",
       "isHide": false,
       "packageId": "591",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[柚恩不加糖_卷]"
       ],
-      "staticUrl": "assets/bilibili_emoji/591/10734.png",
+      "staticUrl": "assets/bilibili/591/10734.png",
       "isHide": false,
       "packageId": "591",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[柚恩不加糖_开心]"
       ],
-      "staticUrl": "assets/bilibili_emoji/591/10735.png",
+      "staticUrl": "assets/bilibili/591/10735.png",
       "isHide": false,
       "packageId": "591",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[柚恩不加糖_撇嘴]"
       ],
-      "staticUrl": "assets/bilibili_emoji/591/10736.png",
+      "staticUrl": "assets/bilibili/591/10736.png",
       "isHide": false,
       "packageId": "591",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[柚恩不加糖_生气]"
       ],
-      "staticUrl": "assets/bilibili_emoji/591/10737.png",
+      "staticUrl": "assets/bilibili/591/10737.png",
       "isHide": false,
       "packageId": "591",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[柚恩不加糖_哇]"
       ],
-      "staticUrl": "assets/bilibili_emoji/591/10738.png",
+      "staticUrl": "assets/bilibili/591/10738.png",
       "isHide": false,
       "packageId": "591",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[柚恩不加糖_温柔]"
       ],
-      "staticUrl": "assets/bilibili_emoji/591/10739.png",
+      "staticUrl": "assets/bilibili/591/10739.png",
       "isHide": false,
       "packageId": "591",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[柚恩不加糖_无语]"
       ],
-      "staticUrl": "assets/bilibili_emoji/591/10740.png",
+      "staticUrl": "assets/bilibili/591/10740.png",
       "isHide": false,
       "packageId": "591",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[柚恩不加糖_要抱抱]"
       ],
-      "staticUrl": "assets/bilibili_emoji/591/10741.png",
+      "staticUrl": "assets/bilibili/591/10741.png",
       "isHide": false,
       "packageId": "591",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[柚恩不加糖_柚恩蜜]"
       ],
-      "staticUrl": "assets/bilibili_emoji/591/10742.png",
+      "staticUrl": "assets/bilibili/591/10742.png",
       "isHide": false,
       "packageId": "591",
       "meta": {
@@ -234,7 +234,7 @@
       "shortCodes": [
         "[柚恩不加糖_出去]"
       ],
-      "staticUrl": "assets/bilibili_emoji/591/14402.png",
+      "staticUrl": "assets/bilibili/591/14402.png",
       "isHide": false,
       "packageId": "591",
       "meta": {
@@ -249,7 +249,7 @@
       "shortCodes": [
         "[柚恩不加糖_对不起]"
       ],
-      "staticUrl": "assets/bilibili_emoji/591/14403.png",
+      "staticUrl": "assets/bilibili/591/14403.png",
       "isHide": false,
       "packageId": "591",
       "meta": {
@@ -264,7 +264,7 @@
       "shortCodes": [
         "[柚恩不加糖_回来]"
       ],
-      "staticUrl": "assets/bilibili_emoji/591/14404.png",
+      "staticUrl": "assets/bilibili/591/14404.png",
       "isHide": false,
       "packageId": "591",
       "meta": {
@@ -279,7 +279,7 @@
       "shortCodes": [
         "[柚恩不加糖_急的长痘痘]"
       ],
-      "staticUrl": "assets/bilibili_emoji/591/14405.png",
+      "staticUrl": "assets/bilibili/591/14405.png",
       "isHide": false,
       "packageId": "591",
       "meta": {
@@ -294,7 +294,7 @@
       "shortCodes": [
         "[柚恩不加糖_饺子皮]"
       ],
-      "staticUrl": "assets/bilibili_emoji/591/14406.png",
+      "staticUrl": "assets/bilibili/591/14406.png",
       "isHide": false,
       "packageId": "591",
       "meta": {
@@ -309,7 +309,7 @@
       "shortCodes": [
         "[柚恩不加糖_可爱]"
       ],
-      "staticUrl": "assets/bilibili_emoji/591/14407.png",
+      "staticUrl": "assets/bilibili/591/14407.png",
       "isHide": false,
       "packageId": "591",
       "meta": {
@@ -324,7 +324,7 @@
       "shortCodes": [
         "[柚恩不加糖_下雪]"
       ],
-      "staticUrl": "assets/bilibili_emoji/591/14408.png",
+      "staticUrl": "assets/bilibili/591/14408.png",
       "isHide": false,
       "packageId": "591",
       "meta": {
@@ -339,7 +339,7 @@
       "shortCodes": [
         "[柚恩不加糖_柚师傅]"
       ],
-      "staticUrl": "assets/bilibili_emoji/591/14409.png",
+      "staticUrl": "assets/bilibili/591/14409.png",
       "isHide": false,
       "packageId": "591",
       "meta": {
@@ -354,7 +354,7 @@
       "shortCodes": [
         "[柚恩不加糖_知道道歉吗]"
       ],
-      "staticUrl": "assets/bilibili_emoji/591/14410.png",
+      "staticUrl": "assets/bilibili/591/14410.png",
       "isHide": false,
       "packageId": "591",
       "meta": {
@@ -369,7 +369,7 @@
       "shortCodes": [
         "[柚恩不加糖_EOE]"
       ],
-      "staticUrl": "assets/bilibili_emoji/591/14411.png",
+      "staticUrl": "assets/bilibili/591/14411.png",
       "isHide": false,
       "packageId": "591",
       "meta": {

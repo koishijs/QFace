@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "195",
   "name": "未定事件簿",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/d336eea557309adac446f306406e9c8af25da9d3.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[未定事件簿_开心]"
       ],
-      "staticUrl": "assets/bilibili_emoji/195/3498.png",
+      "staticUrl": "assets/bilibili/195/3498.png",
       "isHide": false,
       "packageId": "195",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[未定事件簿_不开心]"
       ],
-      "staticUrl": "assets/bilibili_emoji/195/3499.png",
+      "staticUrl": "assets/bilibili/195/3499.png",
       "isHide": false,
       "packageId": "195",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[未定事件簿_点赞]"
       ],
-      "staticUrl": "assets/bilibili_emoji/195/3500.png",
+      "staticUrl": "assets/bilibili/195/3500.png",
       "isHide": false,
       "packageId": "195",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[未定事件簿_呜呜]"
       ],
-      "staticUrl": "assets/bilibili_emoji/195/3501.png",
+      "staticUrl": "assets/bilibili/195/3501.png",
       "isHide": false,
       "packageId": "195",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[未定事件簿_打call]"
       ],
-      "staticUrl": "assets/bilibili_emoji/195/3502.png",
+      "staticUrl": "assets/bilibili/195/3502.png",
       "isHide": false,
       "packageId": "195",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[未定事件簿_燃起来了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/195/3503.png",
+      "staticUrl": "assets/bilibili/195/3503.png",
       "isHide": false,
       "packageId": "195",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[未定事件簿_看手机]"
       ],
-      "staticUrl": "assets/bilibili_emoji/195/3504.png",
+      "staticUrl": "assets/bilibili/195/3504.png",
       "isHide": false,
       "packageId": "195",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[未定事件簿_疑问]"
       ],
-      "staticUrl": "assets/bilibili_emoji/195/3505.png",
+      "staticUrl": "assets/bilibili/195/3505.png",
       "isHide": false,
       "packageId": "195",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[未定事件簿_宕机]"
       ],
-      "staticUrl": "assets/bilibili_emoji/195/3506.png",
+      "staticUrl": "assets/bilibili/195/3506.png",
       "isHide": false,
       "packageId": "195",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[未定事件簿_偷听]"
       ],
-      "staticUrl": "assets/bilibili_emoji/195/3507.png",
+      "staticUrl": "assets/bilibili/195/3507.png",
       "isHide": false,
       "packageId": "195",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[未定事件簿_吸氧]"
       ],
-      "staticUrl": "assets/bilibili_emoji/195/3508.png",
+      "staticUrl": "assets/bilibili/195/3508.png",
       "isHide": false,
       "packageId": "195",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[未定事件簿_你醒啦]"
       ],
-      "staticUrl": "assets/bilibili_emoji/195/3509.png",
+      "staticUrl": "assets/bilibili/195/3509.png",
       "isHide": false,
       "packageId": "195",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[未定事件簿_躲墙角]"
       ],
-      "staticUrl": "assets/bilibili_emoji/195/3510.png",
+      "staticUrl": "assets/bilibili/195/3510.png",
       "isHide": false,
       "packageId": "195",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[未定事件簿_扶额]"
       ],
-      "staticUrl": "assets/bilibili_emoji/195/3511.png",
+      "staticUrl": "assets/bilibili/195/3511.png",
       "isHide": false,
       "packageId": "195",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[未定事件簿_干杯]"
       ],
-      "staticUrl": "assets/bilibili_emoji/195/3512.png",
+      "staticUrl": "assets/bilibili/195/3512.png",
       "isHide": false,
       "packageId": "195",
       "meta": {
@@ -234,7 +234,7 @@
       "shortCodes": [
         "[未定事件簿_盯]"
       ],
-      "staticUrl": "assets/bilibili_emoji/195/3513.png",
+      "staticUrl": "assets/bilibili/195/3513.png",
       "isHide": false,
       "packageId": "195",
       "meta": {
@@ -249,7 +249,7 @@
       "shortCodes": [
         "[未定事件簿_冷笑]"
       ],
-      "staticUrl": "assets/bilibili_emoji/195/3514.png",
+      "staticUrl": "assets/bilibili/195/3514.png",
       "isHide": false,
       "packageId": "195",
       "meta": {
@@ -264,7 +264,7 @@
       "shortCodes": [
         "[未定事件簿_菩萨]"
       ],
-      "staticUrl": "assets/bilibili_emoji/195/3515.png",
+      "staticUrl": "assets/bilibili/195/3515.png",
       "isHide": false,
       "packageId": "195",
       "meta": {
@@ -279,7 +279,7 @@
       "shortCodes": [
         "[未定事件簿_怀疑]"
       ],
-      "staticUrl": "assets/bilibili_emoji/195/3516.png",
+      "staticUrl": "assets/bilibili/195/3516.png",
       "isHide": false,
       "packageId": "195",
       "meta": {
@@ -294,7 +294,7 @@
       "shortCodes": [
         "[未定事件簿_点赞2]"
       ],
-      "staticUrl": "assets/bilibili_emoji/195/3517.png",
+      "staticUrl": "assets/bilibili/195/3517.png",
       "isHide": false,
       "packageId": "195",
       "meta": {
@@ -309,7 +309,7 @@
       "shortCodes": [
         "[未定事件簿_柔弱]"
       ],
-      "staticUrl": "assets/bilibili_emoji/195/3518.png",
+      "staticUrl": "assets/bilibili/195/3518.png",
       "isHide": false,
       "packageId": "195",
       "meta": {
@@ -324,7 +324,7 @@
       "shortCodes": [
         "[未定事件簿_可怜]"
       ],
-      "staticUrl": "assets/bilibili_emoji/195/3519.png",
+      "staticUrl": "assets/bilibili/195/3519.png",
       "isHide": false,
       "packageId": "195",
       "meta": {
@@ -339,7 +339,7 @@
       "shortCodes": [
         "[未定事件簿_走了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/195/3520.png",
+      "staticUrl": "assets/bilibili/195/3520.png",
       "isHide": false,
       "packageId": "195",
       "meta": {
@@ -354,7 +354,7 @@
       "shortCodes": [
         "[未定事件簿_星星眼]"
       ],
-      "staticUrl": "assets/bilibili_emoji/195/3521.png",
+      "staticUrl": "assets/bilibili/195/3521.png",
       "isHide": false,
       "packageId": "195",
       "meta": {
@@ -369,7 +369,7 @@
       "shortCodes": [
         "[未定事件簿_大喊]"
       ],
-      "staticUrl": "assets/bilibili_emoji/195/3522.png",
+      "staticUrl": "assets/bilibili/195/3522.png",
       "isHide": false,
       "packageId": "195",
       "meta": {
@@ -384,7 +384,7 @@
       "shortCodes": [
         "[未定事件簿_no]"
       ],
-      "staticUrl": "assets/bilibili_emoji/195/3523.png",
+      "staticUrl": "assets/bilibili/195/3523.png",
       "isHide": false,
       "packageId": "195",
       "meta": {
@@ -399,7 +399,7 @@
       "shortCodes": [
         "[未定事件簿_震惊]"
       ],
-      "staticUrl": "assets/bilibili_emoji/195/3524.png",
+      "staticUrl": "assets/bilibili/195/3524.png",
       "isHide": false,
       "packageId": "195",
       "meta": {
@@ -414,7 +414,7 @@
       "shortCodes": [
         "[未定事件簿_yes]"
       ],
-      "staticUrl": "assets/bilibili_emoji/195/3525.png",
+      "staticUrl": "assets/bilibili/195/3525.png",
       "isHide": false,
       "packageId": "195",
       "meta": {

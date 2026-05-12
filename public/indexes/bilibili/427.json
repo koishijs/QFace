@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "427",
   "name": "七海地雷套装",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/301f3d49b3801b56001cf22ff61dfea3458bebe4.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[七海地雷套装_mua]"
       ],
-      "staticUrl": "assets/bilibili_emoji/427/7268.png",
+      "staticUrl": "assets/bilibili/427/7268.png",
       "isHide": false,
       "packageId": "427",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[七海地雷套装_night]"
       ],
-      "staticUrl": "assets/bilibili_emoji/427/7269.png",
+      "staticUrl": "assets/bilibili/427/7269.png",
       "isHide": false,
       "packageId": "427",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[七海地雷套装_respect]"
       ],
-      "staticUrl": "assets/bilibili_emoji/427/7270.png",
+      "staticUrl": "assets/bilibili/427/7270.png",
       "isHide": false,
       "packageId": "427",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[七海地雷套装_run了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/427/7271.png",
+      "staticUrl": "assets/bilibili/427/7271.png",
       "isHide": false,
       "packageId": "427",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[七海地雷套装_啊~]"
       ],
-      "staticUrl": "assets/bilibili_emoji/427/7272.png",
+      "staticUrl": "assets/bilibili/427/7272.png",
       "isHide": false,
       "packageId": "427",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[七海地雷套装_别急]"
       ],
-      "staticUrl": "assets/bilibili_emoji/427/7273.png",
+      "staticUrl": "assets/bilibili/427/7273.png",
       "isHide": false,
       "packageId": "427",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[七海地雷套装_呲牙]"
       ],
-      "staticUrl": "assets/bilibili_emoji/427/7274.png",
+      "staticUrl": "assets/bilibili/427/7274.png",
       "isHide": false,
       "packageId": "427",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[七海地雷套装_得意]"
       ],
-      "staticUrl": "assets/bilibili_emoji/427/7275.png",
+      "staticUrl": "assets/bilibili/427/7275.png",
       "isHide": false,
       "packageId": "427",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[七海地雷套装_哈欠]"
       ],
-      "staticUrl": "assets/bilibili_emoji/427/7276.png",
+      "staticUrl": "assets/bilibili/427/7276.png",
       "isHide": false,
       "packageId": "427",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[七海地雷套装_加油]"
       ],
-      "staticUrl": "assets/bilibili_emoji/427/7277.png",
+      "staticUrl": "assets/bilibili/427/7277.png",
       "isHide": false,
       "packageId": "427",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[七海地雷套装_开车]"
       ],
-      "staticUrl": "assets/bilibili_emoji/427/7278.png",
+      "staticUrl": "assets/bilibili/427/7278.png",
       "isHide": false,
       "packageId": "427",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[七海地雷套装_哭哭]"
       ],
-      "staticUrl": "assets/bilibili_emoji/427/7279.png",
+      "staticUrl": "assets/bilibili/427/7279.png",
       "isHide": false,
       "packageId": "427",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[七海地雷套装_流汗]"
       ],
-      "staticUrl": "assets/bilibili_emoji/427/7280.png",
+      "staticUrl": "assets/bilibili/427/7280.png",
       "isHide": false,
       "packageId": "427",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[七海地雷套装_那没办法]"
       ],
-      "staticUrl": "assets/bilibili_emoji/427/7281.png",
+      "staticUrl": "assets/bilibili/427/7281.png",
       "isHide": false,
       "packageId": "427",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[七海地雷套装_期待]"
       ],
-      "staticUrl": "assets/bilibili_emoji/427/7282.png",
+      "staticUrl": "assets/bilibili/427/7282.png",
       "isHide": false,
       "packageId": "427",
       "meta": {
@@ -234,7 +234,7 @@
       "shortCodes": [
         "[七海地雷套装_确实]"
       ],
-      "staticUrl": "assets/bilibili_emoji/427/7283.png",
+      "staticUrl": "assets/bilibili/427/7283.png",
       "isHide": false,
       "packageId": "427",
       "meta": {
@@ -249,7 +249,7 @@
       "shortCodes": [
         "[七海地雷套装_鲨鱼开心]"
       ],
-      "staticUrl": "assets/bilibili_emoji/427/7284.png",
+      "staticUrl": "assets/bilibili/427/7284.png",
       "isHide": false,
       "packageId": "427",
       "meta": {
@@ -264,7 +264,7 @@
       "shortCodes": [
         "[七海地雷套装_生闷气]"
       ],
-      "staticUrl": "assets/bilibili_emoji/427/7285.png",
+      "staticUrl": "assets/bilibili/427/7285.png",
       "isHide": false,
       "packageId": "427",
       "meta": {
@@ -279,7 +279,7 @@
       "shortCodes": [
         "[七海地雷套装_太对了哥]"
       ],
-      "staticUrl": "assets/bilibili_emoji/427/7286.png",
+      "staticUrl": "assets/bilibili/427/7286.png",
       "isHide": false,
       "packageId": "427",
       "meta": {
@@ -294,7 +294,7 @@
       "shortCodes": [
         "[七海地雷套装_通融通融]"
       ],
-      "staticUrl": "assets/bilibili_emoji/427/7287.png",
+      "staticUrl": "assets/bilibili/427/7287.png",
       "isHide": false,
       "packageId": "427",
       "meta": {
@@ -309,7 +309,7 @@
       "shortCodes": [
         "[七海地雷套装_头痛]"
       ],
-      "staticUrl": "assets/bilibili_emoji/427/7288.png",
+      "staticUrl": "assets/bilibili/427/7288.png",
       "isHide": false,
       "packageId": "427",
       "meta": {
@@ -324,7 +324,7 @@
       "shortCodes": [
         "[七海地雷套装_投降]"
       ],
-      "staticUrl": "assets/bilibili_emoji/427/7289.png",
+      "staticUrl": "assets/bilibili/427/7289.png",
       "isHide": false,
       "packageId": "427",
       "meta": {
@@ -339,7 +339,7 @@
       "shortCodes": [
         "[七海地雷套装_问号]"
       ],
-      "staticUrl": "assets/bilibili_emoji/427/7290.png",
+      "staticUrl": "assets/bilibili/427/7290.png",
       "isHide": false,
       "packageId": "427",
       "meta": {
@@ -354,7 +354,7 @@
       "shortCodes": [
         "[七海地雷套装_早上好]"
       ],
-      "staticUrl": "assets/bilibili_emoji/427/7291.png",
+      "staticUrl": "assets/bilibili/427/7291.png",
       "isHide": false,
       "packageId": "427",
       "meta": {
@@ -369,7 +369,7 @@
       "shortCodes": [
         "[七海地雷套装_支持]"
       ],
-      "staticUrl": "assets/bilibili_emoji/427/7292.png",
+      "staticUrl": "assets/bilibili/427/7292.png",
       "isHide": false,
       "packageId": "427",
       "meta": {

@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "552",
   "name": "塔克Tako-时湖万象",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/dda7202d3b74b844cc02a74b88e8197e43c335de.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[塔克Tako-时湖万象_不关我事]"
       ],
-      "staticUrl": "assets/bilibili_emoji/552/10080.png",
+      "staticUrl": "assets/bilibili/552/10080.png",
       "isHide": false,
       "packageId": "552",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[塔克Tako-时湖万象_不满意？]"
       ],
-      "staticUrl": "assets/bilibili_emoji/552/10081.png",
+      "staticUrl": "assets/bilibili/552/10081.png",
       "isHide": false,
       "packageId": "552",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[塔克Tako-时湖万象_呃呃OK]"
       ],
-      "staticUrl": "assets/bilibili_emoji/552/10082.png",
+      "staticUrl": "assets/bilibili/552/10082.png",
       "isHide": false,
       "packageId": "552",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[塔克Tako-时湖万象_哈啊？]"
       ],
-      "staticUrl": "assets/bilibili_emoji/552/10083.png",
+      "staticUrl": "assets/bilibili/552/10083.png",
       "isHide": false,
       "packageId": "552",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[塔克Tako-时湖万象_哈哈]"
       ],
-      "staticUrl": "assets/bilibili_emoji/552/10084.png",
+      "staticUrl": "assets/bilibili/552/10084.png",
       "isHide": false,
       "packageId": "552",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[塔克Tako-时湖万象_好鸭]"
       ],
-      "staticUrl": "assets/bilibili_emoji/552/10085.png",
+      "staticUrl": "assets/bilibili/552/10085.png",
       "isHide": false,
       "packageId": "552",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[塔克Tako-时湖万象_监工]"
       ],
-      "staticUrl": "assets/bilibili_emoji/552/10086.png",
+      "staticUrl": "assets/bilibili/552/10086.png",
       "isHide": false,
       "packageId": "552",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[塔克Tako-时湖万象_瞄]"
       ],
-      "staticUrl": "assets/bilibili_emoji/552/10087.png",
+      "staticUrl": "assets/bilibili/552/10087.png",
       "isHide": false,
       "packageId": "552",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[塔克Tako-时湖万象_男瓜]"
       ],
-      "staticUrl": "assets/bilibili_emoji/552/10088.png",
+      "staticUrl": "assets/bilibili/552/10088.png",
       "isHide": false,
       "packageId": "552",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[塔克Tako-时湖万象_难绷]"
       ],
-      "staticUrl": "assets/bilibili_emoji/552/10089.png",
+      "staticUrl": "assets/bilibili/552/10089.png",
       "isHide": false,
       "packageId": "552",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[塔克Tako-时湖万象_你抱井吧]"
       ],
-      "staticUrl": "assets/bilibili_emoji/552/10090.png",
+      "staticUrl": "assets/bilibili/552/10090.png",
       "isHide": false,
       "packageId": "552",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[塔克Tako-时湖万象_你最好是]"
       ],
-      "staticUrl": "assets/bilibili_emoji/552/10091.png",
+      "staticUrl": "assets/bilibili/552/10091.png",
       "isHide": false,
       "packageId": "552",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[塔克Tako-时湖万象_请用茶]"
       ],
-      "staticUrl": "assets/bilibili_emoji/552/10092.png",
+      "staticUrl": "assets/bilibili/552/10092.png",
       "isHide": false,
       "packageId": "552",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[塔克Tako-时湖万象_求求]"
       ],
-      "staticUrl": "assets/bilibili_emoji/552/10093.png",
+      "staticUrl": "assets/bilibili/552/10093.png",
       "isHide": false,
       "packageId": "552",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[塔克Tako-时湖万象_惹]"
       ],
-      "staticUrl": "assets/bilibili_emoji/552/10094.png",
+      "staticUrl": "assets/bilibili/552/10094.png",
       "isHide": false,
       "packageId": "552",
       "meta": {
@@ -234,7 +234,7 @@
       "shortCodes": [
         "[塔克Tako-时湖万象_收收味]"
       ],
-      "staticUrl": "assets/bilibili_emoji/552/10095.png",
+      "staticUrl": "assets/bilibili/552/10095.png",
       "isHide": false,
       "packageId": "552",
       "meta": {
@@ -249,7 +249,7 @@
       "shortCodes": [
         "[塔克Tako-时湖万象_我抱井了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/552/10096.png",
+      "staticUrl": "assets/bilibili/552/10096.png",
       "isHide": false,
       "packageId": "552",
       "meta": {
@@ -264,7 +264,7 @@
       "shortCodes": [
         "[塔克Tako-时湖万象_我碟]"
       ],
-      "staticUrl": "assets/bilibili_emoji/552/10097.png",
+      "staticUrl": "assets/bilibili/552/10097.png",
       "isHide": false,
       "packageId": "552",
       "meta": {
@@ -279,7 +279,7 @@
       "shortCodes": [
         "[塔克Tako-时湖万象_我先哭]"
       ],
-      "staticUrl": "assets/bilibili_emoji/552/10098.png",
+      "staticUrl": "assets/bilibili/552/10098.png",
       "isHide": false,
       "packageId": "552",
       "meta": {
@@ -294,7 +294,7 @@
       "shortCodes": [
         "[塔克Tako-时湖万象_小丑]"
       ],
-      "staticUrl": "assets/bilibili_emoji/552/10099.png",
+      "staticUrl": "assets/bilibili/552/10099.png",
       "isHide": false,
       "packageId": "552",
       "meta": {
@@ -309,7 +309,7 @@
       "shortCodes": [
         "[塔克Tako-时湖万象_削发为尼]"
       ],
-      "staticUrl": "assets/bilibili_emoji/552/10100.png",
+      "staticUrl": "assets/bilibili/552/10100.png",
       "isHide": false,
       "packageId": "552",
       "meta": {
@@ -324,7 +324,7 @@
       "shortCodes": [
         "[塔克Tako-时湖万象_怨]"
       ],
-      "staticUrl": "assets/bilibili_emoji/552/10101.png",
+      "staticUrl": "assets/bilibili/552/10101.png",
       "isHide": false,
       "packageId": "552",
       "meta": {
@@ -339,7 +339,7 @@
       "shortCodes": [
         "[塔克Tako-时湖万象_栽种]"
       ],
-      "staticUrl": "assets/bilibili_emoji/552/10102.png",
+      "staticUrl": "assets/bilibili/552/10102.png",
       "isHide": false,
       "packageId": "552",
       "meta": {
@@ -354,7 +354,7 @@
       "shortCodes": [
         "[塔克Tako-时湖万象_猪瘾犯了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/552/10103.png",
+      "staticUrl": "assets/bilibili/552/10103.png",
       "isHide": false,
       "packageId": "552",
       "meta": {
@@ -369,7 +369,7 @@
       "shortCodes": [
         "[塔克Tako-时湖万象_呲牙咧嘴]"
       ],
-      "staticUrl": "assets/bilibili_emoji/552/10104.png",
+      "staticUrl": "assets/bilibili/552/10104.png",
       "isHide": false,
       "packageId": "552",
       "meta": {

@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "296",
   "name": "猫之茗",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/daadee0f063580002940c19a460fbccb1160d72c.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[猫之茗_盯住]"
       ],
-      "staticUrl": "assets/bilibili_emoji/296/4873.png",
+      "staticUrl": "assets/bilibili/296/4873.png",
       "isHide": false,
       "packageId": "296",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[猫之茗_害羞]"
       ],
-      "staticUrl": "assets/bilibili_emoji/296/4874.png",
+      "staticUrl": "assets/bilibili/296/4874.png",
       "isHide": false,
       "packageId": "296",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[猫之茗_好耶]"
       ],
-      "staticUrl": "assets/bilibili_emoji/296/4875.png",
+      "staticUrl": "assets/bilibili/296/4875.png",
       "isHide": false,
       "packageId": "296",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[猫之茗_竟然]"
       ],
-      "staticUrl": "assets/bilibili_emoji/296/4876.png",
+      "staticUrl": "assets/bilibili/296/4876.png",
       "isHide": false,
       "packageId": "296",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[猫之茗_开心]"
       ],
-      "staticUrl": "assets/bilibili_emoji/296/4877.png",
+      "staticUrl": "assets/bilibili/296/4877.png",
       "isHide": false,
       "packageId": "296",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[猫之茗_来了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/296/4878.png",
+      "staticUrl": "assets/bilibili/296/4878.png",
       "isHide": false,
       "packageId": "296",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[猫之茗_冷汗]"
       ],
-      "staticUrl": "assets/bilibili_emoji/296/4879.png",
+      "staticUrl": "assets/bilibili/296/4879.png",
       "isHide": false,
       "packageId": "296",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[猫之茗_弱智]"
       ],
-      "staticUrl": "assets/bilibili_emoji/296/4880.png",
+      "staticUrl": "assets/bilibili/296/4880.png",
       "isHide": false,
       "packageId": "296",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[猫之茗_生气]"
       ],
-      "staticUrl": "assets/bilibili_emoji/296/4881.png",
+      "staticUrl": "assets/bilibili/296/4881.png",
       "isHide": false,
       "packageId": "296",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[猫之茗_睡觉]"
       ],
-      "staticUrl": "assets/bilibili_emoji/296/4882.png",
+      "staticUrl": "assets/bilibili/296/4882.png",
       "isHide": false,
       "packageId": "296",
       "meta": {

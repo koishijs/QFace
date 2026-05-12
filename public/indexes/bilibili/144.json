@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "144",
   "name": "Kizuna AI",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/9d4b5f77794ad214ba4d2cae3bb7d13d5dceb756.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[Kizuna AI _比心]"
       ],
-      "staticUrl": "assets/bilibili_emoji/144/2934.png",
+      "staticUrl": "assets/bilibili/144/2934.png",
       "isHide": false,
       "packageId": "144",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[Kizuna AI_哭哭]"
       ],
-      "staticUrl": "assets/bilibili_emoji/144/2935.png",
+      "staticUrl": "assets/bilibili/144/2935.png",
       "isHide": false,
       "packageId": "144",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[Kizuna AI_嘤嘤嘤]"
       ],
-      "staticUrl": "assets/bilibili_emoji/144/2937.png",
+      "staticUrl": "assets/bilibili/144/2937.png",
       "isHide": false,
       "packageId": "144",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[Kizuna AI_无语]"
       ],
-      "staticUrl": "assets/bilibili_emoji/144/2936.png",
+      "staticUrl": "assets/bilibili/144/2936.png",
       "isHide": false,
       "packageId": "144",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[Kizuna AI_震惊]"
       ],
-      "staticUrl": "assets/bilibili_emoji/144/2938.png",
+      "staticUrl": "assets/bilibili/144/2938.png",
       "isHide": false,
       "packageId": "144",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[Kizuna AI _得意脸]"
       ],
-      "staticUrl": "assets/bilibili_emoji/144/2751.png",
+      "staticUrl": "assets/bilibili/144/2751.png",
       "isHide": false,
       "packageId": "144",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[Kizuna AI _OK]"
       ],
-      "staticUrl": "assets/bilibili_emoji/144/2750.png",
+      "staticUrl": "assets/bilibili/144/2750.png",
       "isHide": false,
       "packageId": "144",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[Kizuna AI _嗨多摩]"
       ],
-      "staticUrl": "assets/bilibili_emoji/144/2752.png",
+      "staticUrl": "assets/bilibili/144/2752.png",
       "isHide": false,
       "packageId": "144",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[Kizuna AI _花q]"
       ],
-      "staticUrl": "assets/bilibili_emoji/144/2753.png",
+      "staticUrl": "assets/bilibili/144/2753.png",
       "isHide": false,
       "packageId": "144",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[Kizuna AI _怀疑]"
       ],
-      "staticUrl": "assets/bilibili_emoji/144/2754.png",
+      "staticUrl": "assets/bilibili/144/2754.png",
       "isHide": false,
       "packageId": "144",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[Kizuna AI _惊讶]"
       ],
-      "staticUrl": "assets/bilibili_emoji/144/2755.png",
+      "staticUrl": "assets/bilibili/144/2755.png",
       "isHide": false,
       "packageId": "144",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[Kizuna AI _拿第一]"
       ],
-      "staticUrl": "assets/bilibili_emoji/144/2756.png",
+      "staticUrl": "assets/bilibili/144/2756.png",
       "isHide": false,
       "packageId": "144",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[KizunaAI _天才天才]"
       ],
-      "staticUrl": "assets/bilibili_emoji/144/2757.png",
+      "staticUrl": "assets/bilibili/144/2757.png",
       "isHide": false,
       "packageId": "144",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[KizunaAI _摇晃悠悠]"
       ],
-      "staticUrl": "assets/bilibili_emoji/144/2758.png",
+      "staticUrl": "assets/bilibili/144/2758.png",
       "isHide": false,
       "packageId": "144",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[KizunaAI _原来如此]"
       ],
-      "staticUrl": "assets/bilibili_emoji/144/2759.png",
+      "staticUrl": "assets/bilibili/144/2759.png",
       "isHide": false,
       "packageId": "144",
       "meta": {

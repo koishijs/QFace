@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "145",
   "name": "星座系列：射手座",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/f7979b308d6d7db016ee9a8aef921e600b839b96.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[射手座_好家伙]"
       ],
-      "staticUrl": "assets/bilibili_emoji/145/2776.png",
+      "staticUrl": "assets/bilibili/145/2776.png",
       "isHide": false,
       "packageId": "145",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[射手座_浪起来！]"
       ],
-      "staticUrl": "assets/bilibili_emoji/145/2777.png",
+      "staticUrl": "assets/bilibili/145/2777.png",
       "isHide": false,
       "packageId": "145",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[射手座_乐观]"
       ],
-      "staticUrl": "assets/bilibili_emoji/145/2778.png",
+      "staticUrl": "assets/bilibili/145/2778.png",
       "isHide": false,
       "packageId": "145",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[射手座_撩你]"
       ],
-      "staticUrl": "assets/bilibili_emoji/145/2779.png",
+      "staticUrl": "assets/bilibili/145/2779.png",
       "isHide": false,
       "packageId": "145",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[射手座_认识一下]"
       ],
-      "staticUrl": "assets/bilibili_emoji/145/2780.png",
+      "staticUrl": "assets/bilibili/145/2780.png",
       "isHide": false,
       "packageId": "145",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[射手座_随便]"
       ],
-      "staticUrl": "assets/bilibili_emoji/145/2781.png",
+      "staticUrl": "assets/bilibili/145/2781.png",
       "isHide": false,
       "packageId": "145",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[射手座_贴贴]"
       ],
-      "staticUrl": "assets/bilibili_emoji/145/2782.png",
+      "staticUrl": "assets/bilibili/145/2782.png",
       "isHide": false,
       "packageId": "145",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[射手座_突然消失]"
       ],
-      "staticUrl": "assets/bilibili_emoji/145/2783.png",
+      "staticUrl": "assets/bilibili/145/2783.png",
       "isHide": false,
       "packageId": "145",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[射手座_真麻烦]"
       ],
-      "staticUrl": "assets/bilibili_emoji/145/2784.png",
+      "staticUrl": "assets/bilibili/145/2784.png",
       "isHide": false,
       "packageId": "145",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[射手座_自由万岁！]"
       ],
-      "staticUrl": "assets/bilibili_emoji/145/2785.png",
+      "staticUrl": "assets/bilibili/145/2785.png",
       "isHide": false,
       "packageId": "145",
       "meta": {

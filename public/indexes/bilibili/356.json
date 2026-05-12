@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "356",
   "name": "狼行者",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/7af75e4aa5e8a9920310d5fd0ce92c507808fca0.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[狼行者_暗中观察]"
       ],
-      "staticUrl": "assets/bilibili_emoji/356/5847.png",
+      "staticUrl": "assets/bilibili/356/5847.png",
       "isHide": false,
       "packageId": "356",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[狼行者_鄙视]"
       ],
-      "staticUrl": "assets/bilibili_emoji/356/5848.png",
+      "staticUrl": "assets/bilibili/356/5848.png",
       "isHide": false,
       "packageId": "356",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[狼行者_吃瓜]"
       ],
-      "staticUrl": "assets/bilibili_emoji/356/5849.png",
+      "staticUrl": "assets/bilibili/356/5849.png",
       "isHide": false,
       "packageId": "356",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[狼行者_打咩]"
       ],
-      "staticUrl": "assets/bilibili_emoji/356/5850.png",
+      "staticUrl": "assets/bilibili/356/5850.png",
       "isHide": false,
       "packageId": "356",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[狼行者_鸽子]"
       ],
-      "staticUrl": "assets/bilibili_emoji/356/5851.png",
+      "staticUrl": "assets/bilibili/356/5851.png",
       "isHide": false,
       "packageId": "356",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[狼行者_嘿嘿]"
       ],
-      "staticUrl": "assets/bilibili_emoji/356/5852.png",
+      "staticUrl": "assets/bilibili/356/5852.png",
       "isHide": false,
       "packageId": "356",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[狼行者_失去欲望]"
       ],
-      "staticUrl": "assets/bilibili_emoji/356/5853.png",
+      "staticUrl": "assets/bilibili/356/5853.png",
       "isHide": false,
       "packageId": "356",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[狼行者_委屈]"
       ],
-      "staticUrl": "assets/bilibili_emoji/356/5854.png",
+      "staticUrl": "assets/bilibili/356/5854.png",
       "isHide": false,
       "packageId": "356",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[狼行者_我来啦]"
       ],
-      "staticUrl": "assets/bilibili_emoji/356/5855.png",
+      "staticUrl": "assets/bilibili/356/5855.png",
       "isHide": false,
       "packageId": "356",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[狼行者_下饭]"
       ],
-      "staticUrl": "assets/bilibili_emoji/356/5856.png",
+      "staticUrl": "assets/bilibili/356/5856.png",
       "isHide": false,
       "packageId": "356",
       "meta": {

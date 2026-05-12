@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "545",
   "name": "CEN",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/38e97209182dba48ebacd776fe0fb34b8af8b10d.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[CEN_zzZ]"
       ],
-      "staticUrl": "assets/bilibili_emoji/545/10004.png",
+      "staticUrl": "assets/bilibili/545/10004.png",
       "isHide": false,
       "packageId": "545",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[CEN_安详]"
       ],
-      "staticUrl": "assets/bilibili_emoji/545/10005.png",
+      "staticUrl": "assets/bilibili/545/10005.png",
       "isHide": false,
       "packageId": "545",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[CEN_沉思]"
       ],
-      "staticUrl": "assets/bilibili_emoji/545/10006.png",
+      "staticUrl": "assets/bilibili/545/10006.png",
       "isHide": false,
       "packageId": "545",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[CEN_吃瓜]"
       ],
-      "staticUrl": "assets/bilibili_emoji/545/10007.png",
+      "staticUrl": "assets/bilibili/545/10007.png",
       "isHide": false,
       "packageId": "545",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[CEN_哒咩]"
       ],
-      "staticUrl": "assets/bilibili_emoji/545/10008.png",
+      "staticUrl": "assets/bilibili/545/10008.png",
       "isHide": false,
       "packageId": "545",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[CEN_打卡]"
       ],
-      "staticUrl": "assets/bilibili_emoji/545/10009.png",
+      "staticUrl": "assets/bilibili/545/10009.png",
       "isHide": false,
       "packageId": "545",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[CEN_躲进小被几]"
       ],
-      "staticUrl": "assets/bilibili_emoji/545/10010.png",
+      "staticUrl": "assets/bilibili/545/10010.png",
       "isHide": false,
       "packageId": "545",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[CEN_好耶]"
       ],
-      "staticUrl": "assets/bilibili_emoji/545/10011.png",
+      "staticUrl": "assets/bilibili/545/10011.png",
       "isHide": false,
       "packageId": "545",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[CEN_黑线]"
       ],
-      "staticUrl": "assets/bilibili_emoji/545/10012.png",
+      "staticUrl": "assets/bilibili/545/10012.png",
       "isHide": false,
       "packageId": "545",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[CEN_花花]"
       ],
-      "staticUrl": "assets/bilibili_emoji/545/10013.png",
+      "staticUrl": "assets/bilibili/545/10013.png",
       "isHide": false,
       "packageId": "545",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[CEN_开创]"
       ],
-      "staticUrl": "assets/bilibili_emoji/545/10014.png",
+      "staticUrl": "assets/bilibili/545/10014.png",
       "isHide": false,
       "packageId": "545",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[CEN_看戏]"
       ],
-      "staticUrl": "assets/bilibili_emoji/545/10015.png",
+      "staticUrl": "assets/bilibili/545/10015.png",
       "isHide": false,
       "packageId": "545",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[CEN_啃啃]"
       ],
-      "staticUrl": "assets/bilibili_emoji/545/10016.png",
+      "staticUrl": "assets/bilibili/545/10016.png",
       "isHide": false,
       "packageId": "545",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[CEN_哭哭]"
       ],
-      "staticUrl": "assets/bilibili_emoji/545/10017.png",
+      "staticUrl": "assets/bilibili/545/10017.png",
       "isHide": false,
       "packageId": "545",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[CEN_苦涩]"
       ],
-      "staticUrl": "assets/bilibili_emoji/545/10018.png",
+      "staticUrl": "assets/bilibili/545/10018.png",
       "isHide": false,
       "packageId": "545",
       "meta": {
@@ -234,7 +234,7 @@
       "shortCodes": [
         "[CEN_乐]"
       ],
-      "staticUrl": "assets/bilibili_emoji/545/10019.png",
+      "staticUrl": "assets/bilibili/545/10019.png",
       "isHide": false,
       "packageId": "545",
       "meta": {
@@ -249,7 +249,7 @@
       "shortCodes": [
         "[CEN_愣住]"
       ],
-      "staticUrl": "assets/bilibili_emoji/545/10020.png",
+      "staticUrl": "assets/bilibili/545/10020.png",
       "isHide": false,
       "packageId": "545",
       "meta": {
@@ -264,7 +264,7 @@
       "shortCodes": [
         "[CEN_流汗]"
       ],
-      "staticUrl": "assets/bilibili_emoji/545/10021.png",
+      "staticUrl": "assets/bilibili/545/10021.png",
       "isHide": false,
       "packageId": "545",
       "meta": {
@@ -279,7 +279,7 @@
       "shortCodes": [
         "[CEN_摸摸]"
       ],
-      "staticUrl": "assets/bilibili_emoji/545/10022.png",
+      "staticUrl": "assets/bilibili/545/10022.png",
       "isHide": false,
       "packageId": "545",
       "meta": {
@@ -294,7 +294,7 @@
       "shortCodes": [
         "[CEN_破防]"
       ],
-      "staticUrl": "assets/bilibili_emoji/545/10023.png",
+      "staticUrl": "assets/bilibili/545/10023.png",
       "isHide": false,
       "packageId": "545",
       "meta": {
@@ -309,7 +309,7 @@
       "shortCodes": [
         "[CEN_小丑]"
       ],
-      "staticUrl": "assets/bilibili_emoji/545/10024.png",
+      "staticUrl": "assets/bilibili/545/10024.png",
       "isHide": false,
       "packageId": "545",
       "meta": {
@@ -324,7 +324,7 @@
       "shortCodes": [
         "[CEN_咬牙切齿]"
       ],
-      "staticUrl": "assets/bilibili_emoji/545/10025.png",
+      "staticUrl": "assets/bilibili/545/10025.png",
       "isHide": false,
       "packageId": "545",
       "meta": {
@@ -339,7 +339,7 @@
       "shortCodes": [
         "[CEN_一库搜]"
       ],
-      "staticUrl": "assets/bilibili_emoji/545/10026.png",
+      "staticUrl": "assets/bilibili/545/10026.png",
       "isHide": false,
       "packageId": "545",
       "meta": {
@@ -354,7 +354,7 @@
       "shortCodes": [
         "[CEN_疑惑]"
       ],
-      "staticUrl": "assets/bilibili_emoji/545/10027.png",
+      "staticUrl": "assets/bilibili/545/10027.png",
       "isHide": false,
       "packageId": "545",
       "meta": {
@@ -369,7 +369,7 @@
       "shortCodes": [
         "[CEN_赞]"
       ],
-      "staticUrl": "assets/bilibili_emoji/545/10028.png",
+      "staticUrl": "assets/bilibili/545/10028.png",
       "isHide": false,
       "packageId": "545",
       "meta": {

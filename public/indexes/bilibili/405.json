@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "405",
   "name": "眞白花音",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/f1e2c0d32ad07a41729d6e68169b1709335880c6.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[眞白花音_菜]"
       ],
-      "staticUrl": "assets/bilibili_emoji/405/6794.png",
+      "staticUrl": "assets/bilibili/405/6794.png",
       "isHide": false,
       "packageId": "405",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[眞白花音_打call]"
       ],
-      "staticUrl": "assets/bilibili_emoji/405/6795.png",
+      "staticUrl": "assets/bilibili/405/6795.png",
       "isHide": false,
       "packageId": "405",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[眞白花音_大头]"
       ],
-      "staticUrl": "assets/bilibili_emoji/405/6796.png",
+      "staticUrl": "assets/bilibili/405/6796.png",
       "isHide": false,
       "packageId": "405",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[眞白花音_对不起]"
       ],
-      "staticUrl": "assets/bilibili_emoji/405/6797.png",
+      "staticUrl": "assets/bilibili/405/6797.png",
       "isHide": false,
       "packageId": "405",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[眞白花音_对对对]"
       ],
-      "staticUrl": "assets/bilibili_emoji/405/6798.png",
+      "staticUrl": "assets/bilibili/405/6798.png",
       "isHide": false,
       "packageId": "405",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[眞白花音_干杯]"
       ],
-      "staticUrl": "assets/bilibili_emoji/405/6799.png",
+      "staticUrl": "assets/bilibili/405/6799.png",
       "isHide": false,
       "packageId": "405",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[眞白花音_恭喜]"
       ],
-      "staticUrl": "assets/bilibili_emoji/405/6800.png",
+      "staticUrl": "assets/bilibili/405/6800.png",
       "isHide": false,
       "packageId": "405",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[眞白花音_好吃]"
       ],
-      "staticUrl": "assets/bilibili_emoji/405/6801.png",
+      "staticUrl": "assets/bilibili/405/6801.png",
       "isHide": false,
       "packageId": "405",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[眞白花音_好耶]"
       ],
-      "staticUrl": "assets/bilibili_emoji/405/6802.png",
+      "staticUrl": "assets/bilibili/405/6802.png",
       "isHide": false,
       "packageId": "405",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[眞白花音_加油]"
       ],
-      "staticUrl": "assets/bilibili_emoji/405/6803.png",
+      "staticUrl": "assets/bilibili/405/6803.png",
       "isHide": false,
       "packageId": "405",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[眞白花音_举拳攻击]"
       ],
-      "staticUrl": "assets/bilibili_emoji/405/6804.png",
+      "staticUrl": "assets/bilibili/405/6804.png",
       "isHide": false,
       "packageId": "405",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[眞白花音_哭哭]"
       ],
-      "staticUrl": "assets/bilibili_emoji/405/6805.png",
+      "staticUrl": "assets/bilibili/405/6805.png",
       "isHide": false,
       "packageId": "405",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[眞白花音_拿着白菜]"
       ],
-      "staticUrl": "assets/bilibili_emoji/405/6806.png",
+      "staticUrl": "assets/bilibili/405/6806.png",
       "isHide": false,
       "packageId": "405",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[眞白花音_你好]"
       ],
-      "staticUrl": "assets/bilibili_emoji/405/6807.png",
+      "staticUrl": "assets/bilibili/405/6807.png",
       "isHide": false,
       "packageId": "405",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[眞白花音_亲]"
       ],
-      "staticUrl": "assets/bilibili_emoji/405/6808.png",
+      "staticUrl": "assets/bilibili/405/6808.png",
       "isHide": false,
       "packageId": "405",
       "meta": {
@@ -234,7 +234,7 @@
       "shortCodes": [
         "[眞白花音_认真学习中]"
       ],
-      "staticUrl": "assets/bilibili_emoji/405/6809.png",
+      "staticUrl": "assets/bilibili/405/6809.png",
       "isHide": false,
       "packageId": "405",
       "meta": {
@@ -249,7 +249,7 @@
       "shortCodes": [
         "[眞白花音_生气]"
       ],
-      "staticUrl": "assets/bilibili_emoji/405/6810.png",
+      "staticUrl": "assets/bilibili/405/6810.png",
       "isHide": false,
       "packageId": "405",
       "meta": {
@@ -264,7 +264,7 @@
       "shortCodes": [
         "[眞白花音_晚安]"
       ],
-      "staticUrl": "assets/bilibili_emoji/405/6811.png",
+      "staticUrl": "assets/bilibili/405/6811.png",
       "isHide": false,
       "packageId": "405",
       "meta": {
@@ -279,7 +279,7 @@
       "shortCodes": [
         "[眞白花音_我是天才吧]"
       ],
-      "staticUrl": "assets/bilibili_emoji/405/6812.png",
+      "staticUrl": "assets/bilibili/405/6812.png",
       "isHide": false,
       "packageId": "405",
       "meta": {
@@ -294,7 +294,7 @@
       "shortCodes": [
         "[眞白花音_下次还敢]"
       ],
-      "staticUrl": "assets/bilibili_emoji/405/6813.png",
+      "staticUrl": "assets/bilibili/405/6813.png",
       "isHide": false,
       "packageId": "405",
       "meta": {
@@ -309,7 +309,7 @@
       "shortCodes": [
         "[眞白花音_现在是什么感觉啊]"
       ],
-      "staticUrl": "assets/bilibili_emoji/405/6814.png",
+      "staticUrl": "assets/bilibili/405/6814.png",
       "isHide": false,
       "packageId": "405",
       "meta": {
@@ -324,7 +324,7 @@
       "shortCodes": [
         "[眞白花音_笑脸]"
       ],
-      "staticUrl": "assets/bilibili_emoji/405/6815.png",
+      "staticUrl": "assets/bilibili/405/6815.png",
       "isHide": false,
       "packageId": "405",
       "meta": {
@@ -339,7 +339,7 @@
       "shortCodes": [
         "[眞白花音_谢谢]"
       ],
-      "staticUrl": "assets/bilibili_emoji/405/6816.png",
+      "staticUrl": "assets/bilibili/405/6816.png",
       "isHide": false,
       "packageId": "405",
       "meta": {
@@ -354,7 +354,7 @@
       "shortCodes": [
         "[眞白花音_星星眼]"
       ],
-      "staticUrl": "assets/bilibili_emoji/405/6817.png",
+      "staticUrl": "assets/bilibili/405/6817.png",
       "isHide": false,
       "packageId": "405",
       "meta": {
@@ -369,7 +369,7 @@
       "shortCodes": [
         "[眞白花音_疑问]"
       ],
-      "staticUrl": "assets/bilibili_emoji/405/6818.png",
+      "staticUrl": "assets/bilibili/405/6818.png",
       "isHide": false,
       "packageId": "405",
       "meta": {

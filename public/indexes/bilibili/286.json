@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "286",
   "name": "小电视看s11",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/742bd7f0a1612ccd55b42ae19fcb7787da507586.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[小电视看s11_666]"
       ],
-      "staticUrl": "assets/bilibili_emoji/286/4752.png",
+      "staticUrl": "assets/bilibili/286/4752.png",
       "isHide": false,
       "packageId": "286",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[小电视看s11_MVP]"
       ],
-      "staticUrl": "assets/bilibili_emoji/286/4753.png",
+      "staticUrl": "assets/bilibili/286/4753.png",
       "isHide": false,
       "packageId": "286",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[小电视看s11_别浪]"
       ],
-      "staticUrl": "assets/bilibili_emoji/286/4754.png",
+      "staticUrl": "assets/bilibili/286/4754.png",
       "isHide": false,
       "packageId": "286",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[小电视看s11_冲冲冲]"
       ],
-      "staticUrl": "assets/bilibili_emoji/286/4755.png",
+      "staticUrl": "assets/bilibili/286/4755.png",
       "isHide": false,
       "packageId": "286",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[小电视看s11_打call]"
       ],
-      "staticUrl": "assets/bilibili_emoji/286/4756.png",
+      "staticUrl": "assets/bilibili/286/4756.png",
       "isHide": false,
       "packageId": "286",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[小电视看s11_逆风翻盘]"
       ],
-      "staticUrl": "assets/bilibili_emoji/286/4757.png",
+      "staticUrl": "assets/bilibili/286/4757.png",
       "isHide": false,
       "packageId": "286",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[小电视看s11_下次一定]"
       ],
-      "staticUrl": "assets/bilibili_emoji/286/4758.png",
+      "staticUrl": "assets/bilibili/286/4758.png",
       "isHide": false,
       "packageId": "286",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[小电视看s11_一起看]"
       ],
-      "staticUrl": "assets/bilibili_emoji/286/4759.png",
+      "staticUrl": "assets/bilibili/286/4759.png",
       "isHide": false,
       "packageId": "286",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[小电视看s11_永远的神]"
       ],
-      "staticUrl": "assets/bilibili_emoji/286/4760.png",
+      "staticUrl": "assets/bilibili/286/4760.png",
       "isHide": false,
       "packageId": "286",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[小电视看s11_这合理么]"
       ],
-      "staticUrl": "assets/bilibili_emoji/286/4761.png",
+      "staticUrl": "assets/bilibili/286/4761.png",
       "isHide": false,
       "packageId": "286",
       "meta": {

@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "271",
   "name": "星座系列：处女座",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/0815c9f32f363abc53d8d958f9d121906225b909.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[处女座_nice]"
       ],
-      "staticUrl": "assets/bilibili_emoji/271/4501.png",
+      "staticUrl": "assets/bilibili/271/4501.png",
       "isHide": false,
       "packageId": "271",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[处女座_sos]"
       ],
-      "staticUrl": "assets/bilibili_emoji/271/4502.png",
+      "staticUrl": "assets/bilibili/271/4502.png",
       "isHide": false,
       "packageId": "271",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[处女座_啊呀呀]"
       ],
-      "staticUrl": "assets/bilibili_emoji/271/4503.png",
+      "staticUrl": "assets/bilibili/271/4503.png",
       "isHide": false,
       "packageId": "271",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[处女座_净化]"
       ],
-      "staticUrl": "assets/bilibili_emoji/271/4504.png",
+      "staticUrl": "assets/bilibili/271/4504.png",
       "isHide": false,
       "packageId": "271",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[处女座_拿来吧你]"
       ],
-      "staticUrl": "assets/bilibili_emoji/271/4505.png",
+      "staticUrl": "assets/bilibili/271/4505.png",
       "isHide": false,
       "packageId": "271",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[处女座_让我康康]"
       ],
-      "staticUrl": "assets/bilibili_emoji/271/4506.png",
+      "staticUrl": "assets/bilibili/271/4506.png",
       "isHide": false,
       "packageId": "271",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[处女座_贴贴]"
       ],
-      "staticUrl": "assets/bilibili_emoji/271/4507.png",
+      "staticUrl": "assets/bilibili/271/4507.png",
       "isHide": false,
       "packageId": "271",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[处女座_呜呜]"
       ],
-      "staticUrl": "assets/bilibili_emoji/271/4508.png",
+      "staticUrl": "assets/bilibili/271/4508.png",
       "isHide": false,
       "packageId": "271",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[处女座_优雅]"
       ],
-      "staticUrl": "assets/bilibili_emoji/271/4509.png",
+      "staticUrl": "assets/bilibili/271/4509.png",
       "isHide": false,
       "packageId": "271",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[处女座_啊？]"
       ],
-      "staticUrl": "assets/bilibili_emoji/271/4510.png",
+      "staticUrl": "assets/bilibili/271/4510.png",
       "isHide": false,
       "packageId": "271",
       "meta": {

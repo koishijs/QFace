@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "7",
   "name": "蛆音娘",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/2afa12abaad687ee1be56447eb9aa26deba067db.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[蛆音娘_卖萌]"
       ],
-      "staticUrl": "assets/bilibili_emoji/7/151.png",
+      "staticUrl": "assets/bilibili/7/151.png",
       "isHide": false,
       "packageId": "7",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[蛆音娘_吃瓜群众]"
       ],
-      "staticUrl": "assets/bilibili_emoji/7/152.png",
+      "staticUrl": "assets/bilibili/7/152.png",
       "isHide": false,
       "packageId": "7",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[蛆音娘_吃惊]"
       ],
-      "staticUrl": "assets/bilibili_emoji/7/153.png",
+      "staticUrl": "assets/bilibili/7/153.png",
       "isHide": false,
       "packageId": "7",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[蛆音娘_害怕]"
       ],
-      "staticUrl": "assets/bilibili_emoji/7/154.png",
+      "staticUrl": "assets/bilibili/7/154.png",
       "isHide": false,
       "packageId": "7",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[蛆音娘_扶额]"
       ],
-      "staticUrl": "assets/bilibili_emoji/7/155.png",
+      "staticUrl": "assets/bilibili/7/155.png",
       "isHide": false,
       "packageId": "7",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[蛆音娘_滑稽]"
       ],
-      "staticUrl": "assets/bilibili_emoji/7/156.png",
+      "staticUrl": "assets/bilibili/7/156.png",
       "isHide": false,
       "packageId": "7",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[蛆音娘_哼]"
       ],
-      "staticUrl": "assets/bilibili_emoji/7/157.png",
+      "staticUrl": "assets/bilibili/7/157.png",
       "isHide": false,
       "packageId": "7",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[蛆音娘_机智]"
       ],
-      "staticUrl": "assets/bilibili_emoji/7/158.png",
+      "staticUrl": "assets/bilibili/7/158.png",
       "isHide": false,
       "packageId": "7",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[蛆音娘_哭泣]"
       ],
-      "staticUrl": "assets/bilibili_emoji/7/159.png",
+      "staticUrl": "assets/bilibili/7/159.png",
       "isHide": false,
       "packageId": "7",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[蛆音娘_睡觉觉]"
       ],
-      "staticUrl": "assets/bilibili_emoji/7/160.png",
+      "staticUrl": "assets/bilibili/7/160.png",
       "isHide": false,
       "packageId": "7",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[蛆音娘_生气]"
       ],
-      "staticUrl": "assets/bilibili_emoji/7/161.png",
+      "staticUrl": "assets/bilibili/7/161.png",
       "isHide": false,
       "packageId": "7",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[蛆音娘_偷看]"
       ],
-      "staticUrl": "assets/bilibili_emoji/7/162.png",
+      "staticUrl": "assets/bilibili/7/162.png",
       "isHide": false,
       "packageId": "7",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[蛆音娘_吐血]"
       ],
-      "staticUrl": "assets/bilibili_emoji/7/163.png",
+      "staticUrl": "assets/bilibili/7/163.png",
       "isHide": false,
       "packageId": "7",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[蛆音娘_无语]"
       ],
-      "staticUrl": "assets/bilibili_emoji/7/164.png",
+      "staticUrl": "assets/bilibili/7/164.png",
       "isHide": false,
       "packageId": "7",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[蛆音娘_摇头]"
       ],
-      "staticUrl": "assets/bilibili_emoji/7/165.png",
+      "staticUrl": "assets/bilibili/7/165.png",
       "isHide": false,
       "packageId": "7",
       "meta": {
@@ -234,7 +234,7 @@
       "shortCodes": [
         "[蛆音娘_疑问]"
       ],
-      "staticUrl": "assets/bilibili_emoji/7/166.png",
+      "staticUrl": "assets/bilibili/7/166.png",
       "isHide": false,
       "packageId": "7",
       "meta": {
@@ -249,7 +249,7 @@
       "shortCodes": [
         "[蛆音娘_die]"
       ],
-      "staticUrl": "assets/bilibili_emoji/7/167.png",
+      "staticUrl": "assets/bilibili/7/167.png",
       "isHide": false,
       "packageId": "7",
       "meta": {
@@ -264,7 +264,7 @@
       "shortCodes": [
         "[蛆音娘_OK]"
       ],
-      "staticUrl": "assets/bilibili_emoji/7/168.png",
+      "staticUrl": "assets/bilibili/7/168.png",
       "isHide": false,
       "packageId": "7",
       "meta": {
@@ -279,7 +279,7 @@
       "shortCodes": [
         "[蛆音娘_肥皂]"
       ],
-      "staticUrl": "assets/bilibili_emoji/7/169.png",
+      "staticUrl": "assets/bilibili/7/169.png",
       "isHide": false,
       "packageId": "7",
       "meta": {
@@ -294,7 +294,7 @@
       "shortCodes": [
         "[蛆音娘_大笑]"
       ],
-      "staticUrl": "assets/bilibili_emoji/7/170.png",
+      "staticUrl": "assets/bilibili/7/170.png",
       "isHide": false,
       "packageId": "7",
       "meta": {

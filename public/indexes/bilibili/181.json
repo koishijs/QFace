@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "181",
   "name": "良辰美景·不问天",
   "coverUrl": "https://i0.hdslb.com/bfs/emote/1c455847f5f1521345b108bdbc1761715850a15e.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[不问天_大哭]"
       ],
-      "staticUrl": "assets/bilibili_emoji/181/3276.png",
+      "staticUrl": "assets/bilibili/181/3276.png",
       "isHide": false,
       "packageId": "181",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[不问天_飞吻]"
       ],
-      "staticUrl": "assets/bilibili_emoji/181/3277.png",
+      "staticUrl": "assets/bilibili/181/3277.png",
       "isHide": false,
       "packageId": "181",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[不问天_好耶]"
       ],
-      "staticUrl": "assets/bilibili_emoji/181/3278.png",
+      "staticUrl": "assets/bilibili/181/3278.png",
       "isHide": false,
       "packageId": "181",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[不问天_大笑]"
       ],
-      "staticUrl": "assets/bilibili_emoji/181/3279.png",
+      "staticUrl": "assets/bilibili/181/3279.png",
       "isHide": false,
       "packageId": "181",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[不问天_prpr]"
       ],
-      "staticUrl": "assets/bilibili_emoji/181/3280.png",
+      "staticUrl": "assets/bilibili/181/3280.png",
       "isHide": false,
       "packageId": "181",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[不问天_和我结婚]"
       ],
-      "staticUrl": "assets/bilibili_emoji/181/3281.png",
+      "staticUrl": "assets/bilibili/181/3281.png",
       "isHide": false,
       "packageId": "181",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[不问天_啊这]"
       ],
-      "staticUrl": "assets/bilibili_emoji/181/3282.png",
+      "staticUrl": "assets/bilibili/181/3282.png",
       "isHide": false,
       "packageId": "181",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[不问天_吃瓜]"
       ],
-      "staticUrl": "assets/bilibili_emoji/181/3283.png",
+      "staticUrl": "assets/bilibili/181/3283.png",
       "isHide": false,
       "packageId": "181",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[不问天_干杯]"
       ],
-      "staticUrl": "assets/bilibili_emoji/181/3284.png",
+      "staticUrl": "assets/bilibili/181/3284.png",
       "isHide": false,
       "packageId": "181",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[不问天_喜喜]"
       ],
-      "staticUrl": "assets/bilibili_emoji/181/3285.png",
+      "staticUrl": "assets/bilibili/181/3285.png",
       "isHide": false,
       "packageId": "181",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[不问天_害羞]"
       ],
-      "staticUrl": "assets/bilibili_emoji/181/3286.png",
+      "staticUrl": "assets/bilibili/181/3286.png",
       "isHide": false,
       "packageId": "181",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[不问天_问号]"
       ],
-      "staticUrl": "assets/bilibili_emoji/181/3287.png",
+      "staticUrl": "assets/bilibili/181/3287.png",
       "isHide": false,
       "packageId": "181",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[不问天_感叹号]"
       ],
-      "staticUrl": "assets/bilibili_emoji/181/3288.png",
+      "staticUrl": "assets/bilibili/181/3288.png",
       "isHide": false,
       "packageId": "181",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[不问天_赞]"
       ],
-      "staticUrl": "assets/bilibili_emoji/181/3289.png",
+      "staticUrl": "assets/bilibili/181/3289.png",
       "isHide": false,
       "packageId": "181",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[不问天_来了！]"
       ],
-      "staticUrl": "assets/bilibili_emoji/181/3290.png",
+      "staticUrl": "assets/bilibili/181/3290.png",
       "isHide": false,
       "packageId": "181",
       "meta": {

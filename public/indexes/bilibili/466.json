@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "466",
   "name": "团团奇米莫",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/884861b25150512df45a5cb297bd67e83daec5b7.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[团团奇米莫_good]"
       ],
-      "staticUrl": "assets/bilibili_emoji/466/8153.png",
+      "staticUrl": "assets/bilibili/466/8153.png",
       "isHide": false,
       "packageId": "466",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[团团奇米莫_收到]"
       ],
-      "staticUrl": "assets/bilibili_emoji/466/8154.png",
+      "staticUrl": "assets/bilibili/466/8154.png",
       "isHide": false,
       "packageId": "466",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[团团奇米莫_嗯嗯]"
       ],
-      "staticUrl": "assets/bilibili_emoji/466/8155.png",
+      "staticUrl": "assets/bilibili/466/8155.png",
       "isHide": false,
       "packageId": "466",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[团团奇米莫_爱你]"
       ],
-      "staticUrl": "assets/bilibili_emoji/466/8156.png",
+      "staticUrl": "assets/bilibili/466/8156.png",
       "isHide": false,
       "packageId": "466",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[团团奇米莫_球球啦]"
       ],
-      "staticUrl": "assets/bilibili_emoji/466/8157.png",
+      "staticUrl": "assets/bilibili/466/8157.png",
       "isHide": false,
       "packageId": "466",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[团团奇米莫_好耶]"
       ],
-      "staticUrl": "assets/bilibili_emoji/466/8158.png",
+      "staticUrl": "assets/bilibili/466/8158.png",
       "isHide": false,
       "packageId": "466",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[团团奇米莫_拜托了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/466/8159.png",
+      "staticUrl": "assets/bilibili/466/8159.png",
       "isHide": false,
       "packageId": "466",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[团团奇米莫_对不起]"
       ],
-      "staticUrl": "assets/bilibili_emoji/466/8160.png",
+      "staticUrl": "assets/bilibili/466/8160.png",
       "isHide": false,
       "packageId": "466",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[团团奇米莫_暗中观察]"
       ],
-      "staticUrl": "assets/bilibili_emoji/466/8161.png",
+      "staticUrl": "assets/bilibili/466/8161.png",
       "isHide": false,
       "packageId": "466",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[团团奇米莫_瘫]"
       ],
-      "staticUrl": "assets/bilibili_emoji/466/8162.png",
+      "staticUrl": "assets/bilibili/466/8162.png",
       "isHide": false,
       "packageId": "466",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[团团奇米莫_辛苦啦]"
       ],
-      "staticUrl": "assets/bilibili_emoji/466/8188.png",
+      "staticUrl": "assets/bilibili/466/8188.png",
       "isHide": false,
       "packageId": "466",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[团团奇米莫_惊]"
       ],
-      "staticUrl": "assets/bilibili_emoji/466/8189.png",
+      "staticUrl": "assets/bilibili/466/8189.png",
       "isHide": false,
       "packageId": "466",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[团团奇米莫_让我康康]"
       ],
-      "staticUrl": "assets/bilibili_emoji/466/8190.png",
+      "staticUrl": "assets/bilibili/466/8190.png",
       "isHide": false,
       "packageId": "466",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[团团奇米莫_吧唧]"
       ],
-      "staticUrl": "assets/bilibili_emoji/466/8191.png",
+      "staticUrl": "assets/bilibili/466/8191.png",
       "isHide": false,
       "packageId": "466",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[团团奇米莫_哇]"
       ],
-      "staticUrl": "assets/bilibili_emoji/466/8192.png",
+      "staticUrl": "assets/bilibili/466/8192.png",
       "isHide": false,
       "packageId": "466",
       "meta": {
@@ -234,7 +234,7 @@
       "shortCodes": [
         "[团团奇米莫_加油]"
       ],
-      "staticUrl": "assets/bilibili_emoji/466/8193.png",
+      "staticUrl": "assets/bilibili/466/8193.png",
       "isHide": false,
       "packageId": "466",
       "meta": {
@@ -249,7 +249,7 @@
       "shortCodes": [
         "[团团奇米莫_得意]"
       ],
-      "staticUrl": "assets/bilibili_emoji/466/8194.png",
+      "staticUrl": "assets/bilibili/466/8194.png",
       "isHide": false,
       "packageId": "466",
       "meta": {
@@ -264,7 +264,7 @@
       "shortCodes": [
         "[团团奇米莫_我来啦]"
       ],
-      "staticUrl": "assets/bilibili_emoji/466/8195.png",
+      "staticUrl": "assets/bilibili/466/8195.png",
       "isHide": false,
       "packageId": "466",
       "meta": {
@@ -279,7 +279,7 @@
       "shortCodes": [
         "[团团奇米莫_哭]"
       ],
-      "staticUrl": "assets/bilibili_emoji/466/8196.png",
+      "staticUrl": "assets/bilibili/466/8196.png",
       "isHide": false,
       "packageId": "466",
       "meta": {
@@ -294,7 +294,7 @@
       "shortCodes": [
         "[团团奇米莫_超凶]"
       ],
-      "staticUrl": "assets/bilibili_emoji/466/8197.png",
+      "staticUrl": "assets/bilibili/466/8197.png",
       "isHide": false,
       "packageId": "466",
       "meta": {
@@ -309,7 +309,7 @@
       "shortCodes": [
         "[团团奇米莫_紧张]"
       ],
-      "staticUrl": "assets/bilibili_emoji/466/8198.png",
+      "staticUrl": "assets/bilibili/466/8198.png",
       "isHide": false,
       "packageId": "466",
       "meta": {
@@ -324,7 +324,7 @@
       "shortCodes": [
         "[团团奇米莫_谢谢]"
       ],
-      "staticUrl": "assets/bilibili_emoji/466/8199.png",
+      "staticUrl": "assets/bilibili/466/8199.png",
       "isHide": false,
       "packageId": "466",
       "meta": {
@@ -339,7 +339,7 @@
       "shortCodes": [
         "[团团奇米莫_问号]"
       ],
-      "staticUrl": "assets/bilibili_emoji/466/8200.png",
+      "staticUrl": "assets/bilibili/466/8200.png",
       "isHide": false,
       "packageId": "466",
       "meta": {
@@ -354,7 +354,7 @@
       "shortCodes": [
         "[团团奇米莫_啊啊啊]"
       ],
-      "staticUrl": "assets/bilibili_emoji/466/8201.png",
+      "staticUrl": "assets/bilibili/466/8201.png",
       "isHide": false,
       "packageId": "466",
       "meta": {
@@ -369,7 +369,7 @@
       "shortCodes": [
         "[团团奇米莫_晚安]"
       ],
-      "staticUrl": "assets/bilibili_emoji/466/8202.png",
+      "staticUrl": "assets/bilibili/466/8202.png",
       "isHide": false,
       "packageId": "466",
       "meta": {
@@ -384,7 +384,7 @@
       "shortCodes": [
         "[团团奇米莫_保重身体]"
       ],
-      "staticUrl": "assets/bilibili_emoji/466/8203.png",
+      "staticUrl": "assets/bilibili/466/8203.png",
       "isHide": false,
       "packageId": "466",
       "meta": {
@@ -399,7 +399,7 @@
       "shortCodes": [
         "[团团奇米莫_无语]"
       ],
-      "staticUrl": "assets/bilibili_emoji/466/8204.png",
+      "staticUrl": "assets/bilibili/466/8204.png",
       "isHide": false,
       "packageId": "466",
       "meta": {
@@ -414,7 +414,7 @@
       "shortCodes": [
         "[团团奇米莫_啊这]"
       ],
-      "staticUrl": "assets/bilibili_emoji/466/8205.png",
+      "staticUrl": "assets/bilibili/466/8205.png",
       "isHide": false,
       "packageId": "466",
       "meta": {
@@ -429,7 +429,7 @@
       "shortCodes": [
         "[团团奇米莫_被你迷倒]"
       ],
-      "staticUrl": "assets/bilibili_emoji/466/8206.png",
+      "staticUrl": "assets/bilibili/466/8206.png",
       "isHide": false,
       "packageId": "466",
       "meta": {
@@ -444,7 +444,7 @@
       "shortCodes": [
         "[团团奇米莫_累了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/466/8207.png",
+      "staticUrl": "assets/bilibili/466/8207.png",
       "isHide": false,
       "packageId": "466",
       "meta": {

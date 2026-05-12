@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "288",
   "name": "向晚大魔王",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/9ab1eb7cc52dea2dbd49cafdb801075cbaa0afc3.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[向晚_打游戏]"
       ],
-      "staticUrl": "assets/bilibili_emoji/288/4772.png",
+      "staticUrl": "assets/bilibili/288/4772.png",
       "isHide": false,
       "packageId": "288",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[向晚_弹吉他]"
       ],
-      "staticUrl": "assets/bilibili_emoji/288/4773.png",
+      "staticUrl": "assets/bilibili/288/4773.png",
       "isHide": false,
       "packageId": "288",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[向晚_得意]"
       ],
-      "staticUrl": "assets/bilibili_emoji/288/4774.png",
+      "staticUrl": "assets/bilibili/288/4774.png",
       "isHide": false,
       "packageId": "288",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[向晚_顶碗]"
       ],
-      "staticUrl": "assets/bilibili_emoji/288/4775.png",
+      "staticUrl": "assets/bilibili/288/4775.png",
       "isHide": false,
       "packageId": "288",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[向晚_哈！]"
       ],
-      "staticUrl": "assets/bilibili_emoji/288/4776.png",
+      "staticUrl": "assets/bilibili/288/4776.png",
       "isHide": false,
       "packageId": "288",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[向晚_嗨起来]"
       ],
-      "staticUrl": "assets/bilibili_emoji/288/4777.png",
+      "staticUrl": "assets/bilibili/288/4777.png",
       "isHide": false,
       "packageId": "288",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[向晚_害羞]"
       ],
-      "staticUrl": "assets/bilibili_emoji/288/4778.png",
+      "staticUrl": "assets/bilibili/288/4778.png",
       "isHide": false,
       "packageId": "288",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[向晚_好可怕]"
       ],
-      "staticUrl": "assets/bilibili_emoji/288/4779.png",
+      "staticUrl": "assets/bilibili/288/4779.png",
       "isHide": false,
       "packageId": "288",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[向晚_嗯？]"
       ],
-      "staticUrl": "assets/bilibili_emoji/288/4780.png",
+      "staticUrl": "assets/bilibili/288/4780.png",
       "isHide": false,
       "packageId": "288",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[向晚_晚步]"
       ],
-      "staticUrl": "assets/bilibili_emoji/288/4781.png",
+      "staticUrl": "assets/bilibili/288/4781.png",
       "isHide": false,
       "packageId": "288",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[向晚_捂头]"
       ],
-      "staticUrl": "assets/bilibili_emoji/288/4782.png",
+      "staticUrl": "assets/bilibili/288/4782.png",
       "isHide": false,
       "packageId": "288",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[向晚_喜欢]"
       ],
-      "staticUrl": "assets/bilibili_emoji/288/4783.png",
+      "staticUrl": "assets/bilibili/288/4783.png",
       "isHide": false,
       "packageId": "288",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[向晚_下雨了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/288/4784.png",
+      "staticUrl": "assets/bilibili/288/4784.png",
       "isHide": false,
       "packageId": "288",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[向晚_星星眼]"
       ],
-      "staticUrl": "assets/bilibili_emoji/288/4785.png",
+      "staticUrl": "assets/bilibili/288/4785.png",
       "isHide": false,
       "packageId": "288",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[向晚_AVA]"
       ],
-      "staticUrl": "assets/bilibili_emoji/288/4786.png",
+      "staticUrl": "assets/bilibili/288/4786.png",
       "isHide": false,
       "packageId": "288",
       "meta": {
@@ -234,7 +234,7 @@
       "shortCodes": [
         "[向晚_等待]"
       ],
-      "staticUrl": "assets/bilibili_emoji/288/4787.png",
+      "staticUrl": "assets/bilibili/288/4787.png",
       "isHide": false,
       "packageId": "288",
       "meta": {
@@ -249,7 +249,7 @@
       "shortCodes": [
         "[向晚_困]"
       ],
-      "staticUrl": "assets/bilibili_emoji/288/4788.png",
+      "staticUrl": "assets/bilibili/288/4788.png",
       "isHide": false,
       "packageId": "288",
       "meta": {
@@ -264,7 +264,7 @@
       "shortCodes": [
         "[向晚_陶醉]"
       ],
-      "staticUrl": "assets/bilibili_emoji/288/4789.png",
+      "staticUrl": "assets/bilibili/288/4789.png",
       "isHide": false,
       "packageId": "288",
       "meta": {
@@ -279,7 +279,7 @@
       "shortCodes": [
         "[向晚_头大]"
       ],
-      "staticUrl": "assets/bilibili_emoji/288/4790.png",
+      "staticUrl": "assets/bilibili/288/4790.png",
       "isHide": false,
       "packageId": "288",
       "meta": {
@@ -294,7 +294,7 @@
       "shortCodes": [
         "[向晚_微笑]"
       ],
-      "staticUrl": "assets/bilibili_emoji/288/4791.png",
+      "staticUrl": "assets/bilibili/288/4791.png",
       "isHide": false,
       "packageId": "288",
       "meta": {
@@ -309,7 +309,7 @@
       "shortCodes": [
         "[向晚_鼻涕泡]"
       ],
-      "staticUrl": "assets/bilibili_emoji/288/5741.png",
+      "staticUrl": "assets/bilibili/288/5741.png",
       "isHide": false,
       "packageId": "288",
       "meta": {
@@ -324,7 +324,7 @@
       "shortCodes": [
         "[向晚_大头]"
       ],
-      "staticUrl": "assets/bilibili_emoji/288/5742.png",
+      "staticUrl": "assets/bilibili/288/5742.png",
       "isHide": false,
       "packageId": "288",
       "meta": {
@@ -339,7 +339,7 @@
       "shortCodes": [
         "[向晚_给你一拳]"
       ],
-      "staticUrl": "assets/bilibili_emoji/288/5743.png",
+      "staticUrl": "assets/bilibili/288/5743.png",
       "isHide": false,
       "packageId": "288",
       "meta": {
@@ -354,7 +354,7 @@
       "shortCodes": [
         "[向晚_水母]"
       ],
-      "staticUrl": "assets/bilibili_emoji/288/5744.png",
+      "staticUrl": "assets/bilibili/288/5744.png",
       "isHide": false,
       "packageId": "288",
       "meta": {
@@ -369,7 +369,7 @@
       "shortCodes": [
         "[向晚_我们是]"
       ],
-      "staticUrl": "assets/bilibili_emoji/288/5745.png",
+      "staticUrl": "assets/bilibili/288/5745.png",
       "isHide": false,
       "packageId": "288",
       "meta": {

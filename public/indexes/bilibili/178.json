@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "178",
   "name": "崩坏3·天穹流星",
   "coverUrl": "https://i0.hdslb.com/bfs/emote/a57d7c0003ed93d743bb65dcb9d4685de457d987.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[崩坏3_GKD]"
       ],
-      "staticUrl": "assets/bilibili_emoji/178/3234.png",
+      "staticUrl": "assets/bilibili/178/3234.png",
       "isHide": false,
       "packageId": "178",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[崩坏3_拜托了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/178/3235.png",
+      "staticUrl": "assets/bilibili/178/3235.png",
       "isHide": false,
       "packageId": "178",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[崩坏3_吃饭团]"
       ],
-      "staticUrl": "assets/bilibili_emoji/178/3236.png",
+      "staticUrl": "assets/bilibili/178/3236.png",
       "isHide": false,
       "packageId": "178",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[崩坏3_吃惊]"
       ],
-      "staticUrl": "assets/bilibili_emoji/178/3237.png",
+      "staticUrl": "assets/bilibili/178/3237.png",
       "isHide": false,
       "packageId": "178",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[崩坏3_赞]"
       ],
-      "staticUrl": "assets/bilibili_emoji/178/3238.png",
+      "staticUrl": "assets/bilibili/178/3238.png",
       "isHide": false,
       "packageId": "178",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[崩坏3_饿了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/178/3239.png",
+      "staticUrl": "assets/bilibili/178/3239.png",
       "isHide": false,
       "packageId": "178",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[崩坏3_干杯]"
       ],
-      "staticUrl": "assets/bilibili_emoji/178/3240.png",
+      "staticUrl": "assets/bilibili/178/3240.png",
       "isHide": false,
       "packageId": "178",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[崩坏3_看书]"
       ],
-      "staticUrl": "assets/bilibili_emoji/178/3241.png",
+      "staticUrl": "assets/bilibili/178/3241.png",
       "isHide": false,
       "packageId": "178",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[崩坏3_生气]"
       ],
-      "staticUrl": "assets/bilibili_emoji/178/3242.png",
+      "staticUrl": "assets/bilibili/178/3242.png",
       "isHide": false,
       "packageId": "178",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[崩坏3_思考]"
       ],
-      "staticUrl": "assets/bilibili_emoji/178/3243.png",
+      "staticUrl": "assets/bilibili/178/3243.png",
       "isHide": false,
       "packageId": "178",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[崩坏3_叹气]"
       ],
-      "staticUrl": "assets/bilibili_emoji/178/3244.png",
+      "staticUrl": "assets/bilibili/178/3244.png",
       "isHide": false,
       "packageId": "178",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[崩坏3_疑惑]"
       ],
-      "staticUrl": "assets/bilibili_emoji/178/3245.png",
+      "staticUrl": "assets/bilibili/178/3245.png",
       "isHide": false,
       "packageId": "178",
       "meta": {

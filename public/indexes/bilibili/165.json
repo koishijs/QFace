@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "165",
   "name": "2233幻星集",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/5ec90c9c3469d7e16121ee080a5e2386c79901fd.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[2233塔罗牌_？？？]"
       ],
-      "staticUrl": "assets/bilibili_emoji/165/3060.png",
+      "staticUrl": "assets/bilibili/165/3060.png",
       "isHide": false,
       "packageId": "165",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[2233塔罗牌_666]"
       ],
-      "staticUrl": "assets/bilibili_emoji/165/3061.png",
+      "staticUrl": "assets/bilibili/165/3061.png",
       "isHide": false,
       "packageId": "165",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[2233塔罗牌_AWSL]"
       ],
-      "staticUrl": "assets/bilibili_emoji/165/3062.png",
+      "staticUrl": "assets/bilibili/165/3062.png",
       "isHide": false,
       "packageId": "165",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[2233塔罗牌_奥利给]"
       ],
-      "staticUrl": "assets/bilibili_emoji/165/3063.png",
+      "staticUrl": "assets/bilibili/165/3063.png",
       "isHide": false,
       "packageId": "165",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[2233塔罗牌_比心心]"
       ],
-      "staticUrl": "assets/bilibili_emoji/165/3064.png",
+      "staticUrl": "assets/bilibili/165/3064.png",
       "isHide": false,
       "packageId": "165",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[2233塔罗牌_不愧是我]"
       ],
-      "staticUrl": "assets/bilibili_emoji/165/3065.png",
+      "staticUrl": "assets/bilibili/165/3065.png",
       "isHide": false,
       "packageId": "165",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[2233塔罗牌_不约]"
       ],
-      "staticUrl": "assets/bilibili_emoji/165/3066.png",
+      "staticUrl": "assets/bilibili/165/3066.png",
       "isHide": false,
       "packageId": "165",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[2233塔罗牌_撒花]"
       ],
-      "staticUrl": "assets/bilibili_emoji/165/3067.png",
+      "staticUrl": "assets/bilibili/165/3067.png",
       "isHide": false,
       "packageId": "165",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[2233塔罗牌_我觉得星]"
       ],
-      "staticUrl": "assets/bilibili_emoji/165/3068.png",
+      "staticUrl": "assets/bilibili/165/3068.png",
       "isHide": false,
       "packageId": "165",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[2233塔罗牌_下次一定]"
       ],
-      "staticUrl": "assets/bilibili_emoji/165/3069.png",
+      "staticUrl": "assets/bilibili/165/3069.png",
       "isHide": false,
       "packageId": "165",
       "meta": {

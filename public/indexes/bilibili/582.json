@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "582",
   "name": "茶茶龙",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/ae48266a7acdcf76882a827d8116cebed24b05cd.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[茶茶龙_emo]"
       ],
-      "staticUrl": "assets/bilibili_emoji/582/10552.png",
+      "staticUrl": "assets/bilibili/582/10552.png",
       "isHide": false,
       "packageId": "582",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[茶茶龙_爱你]"
       ],
-      "staticUrl": "assets/bilibili_emoji/582/10553.png",
+      "staticUrl": "assets/bilibili/582/10553.png",
       "isHide": false,
       "packageId": "582",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[茶茶龙_抱抱]"
       ],
-      "staticUrl": "assets/bilibili_emoji/582/10554.png",
+      "staticUrl": "assets/bilibili/582/10554.png",
       "isHide": false,
       "packageId": "582",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[茶茶龙_吃瓜]"
       ],
-      "staticUrl": "assets/bilibili_emoji/582/10555.png",
+      "staticUrl": "assets/bilibili/582/10555.png",
       "isHide": false,
       "packageId": "582",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[茶茶龙_呆]"
       ],
-      "staticUrl": "assets/bilibili_emoji/582/10556.png",
+      "staticUrl": "assets/bilibili/582/10556.png",
       "isHide": false,
       "packageId": "582",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[茶茶龙_盯]"
       ],
-      "staticUrl": "assets/bilibili_emoji/582/10557.png",
+      "staticUrl": "assets/bilibili/582/10557.png",
       "isHide": false,
       "packageId": "582",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[茶茶龙_吃饭饭]"
       ],
-      "staticUrl": "assets/bilibili_emoji/582/10558.png",
+      "staticUrl": "assets/bilibili/582/10558.png",
       "isHide": false,
       "packageId": "582",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[茶茶龙_慌]"
       ],
-      "staticUrl": "assets/bilibili_emoji/582/10559.png",
+      "staticUrl": "assets/bilibili/582/10559.png",
       "isHide": false,
       "packageId": "582",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[茶茶龙_开心]"
       ],
-      "staticUrl": "assets/bilibili_emoji/582/10560.png",
+      "staticUrl": "assets/bilibili/582/10560.png",
       "isHide": false,
       "packageId": "582",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[茶茶龙_哭哭]"
       ],
-      "staticUrl": "assets/bilibili_emoji/582/10561.png",
+      "staticUrl": "assets/bilibili/582/10561.png",
       "isHide": false,
       "packageId": "582",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[茶茶龙_溜了溜了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/582/10562.png",
+      "staticUrl": "assets/bilibili/582/10562.png",
       "isHide": false,
       "packageId": "582",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[茶茶龙_生气]"
       ],
-      "staticUrl": "assets/bilibili_emoji/582/10563.png",
+      "staticUrl": "assets/bilibili/582/10563.png",
       "isHide": false,
       "packageId": "582",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[茶茶龙_悠闲]"
       ],
-      "staticUrl": "assets/bilibili_emoji/582/10564.png",
+      "staticUrl": "assets/bilibili/582/10564.png",
       "isHide": false,
       "packageId": "582",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[茶茶龙_拳头硬了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/582/10565.png",
+      "staticUrl": "assets/bilibili/582/10565.png",
       "isHide": false,
       "packageId": "582",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[茶茶龙_揉揉脸]"
       ],
-      "staticUrl": "assets/bilibili_emoji/582/10566.png",
+      "staticUrl": "assets/bilibili/582/10566.png",
       "isHide": false,
       "packageId": "582",
       "meta": {
@@ -234,7 +234,7 @@
       "shortCodes": [
         "[茶茶龙_三连]"
       ],
-      "staticUrl": "assets/bilibili_emoji/582/10567.png",
+      "staticUrl": "assets/bilibili/582/10567.png",
       "isHide": false,
       "packageId": "582",
       "meta": {
@@ -249,7 +249,7 @@
       "shortCodes": [
         "[茶茶龙_收到]"
       ],
-      "staticUrl": "assets/bilibili_emoji/582/10568.png",
+      "staticUrl": "assets/bilibili/582/10568.png",
       "isHide": false,
       "packageId": "582",
       "meta": {
@@ -264,7 +264,7 @@
       "shortCodes": [
         "[茶茶龙_睡觉觉]"
       ],
-      "staticUrl": "assets/bilibili_emoji/582/10569.png",
+      "staticUrl": "assets/bilibili/582/10569.png",
       "isHide": false,
       "packageId": "582",
       "meta": {
@@ -279,7 +279,7 @@
       "shortCodes": [
         "[茶茶龙_酸了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/582/10570.png",
+      "staticUrl": "assets/bilibili/582/10570.png",
       "isHide": false,
       "packageId": "582",
       "meta": {
@@ -294,7 +294,7 @@
       "shortCodes": [
         "[茶茶龙_叹气]"
       ],
-      "staticUrl": "assets/bilibili_emoji/582/10571.png",
+      "staticUrl": "assets/bilibili/582/10571.png",
       "isHide": false,
       "packageId": "582",
       "meta": {
@@ -309,7 +309,7 @@
       "shortCodes": [
         "[茶茶龙_羞]"
       ],
-      "staticUrl": "assets/bilibili_emoji/582/10572.png",
+      "staticUrl": "assets/bilibili/582/10572.png",
       "isHide": false,
       "packageId": "582",
       "meta": {
@@ -324,7 +324,7 @@
       "shortCodes": [
         "[茶茶龙_呀哒]"
       ],
-      "staticUrl": "assets/bilibili_emoji/582/10573.png",
+      "staticUrl": "assets/bilibili/582/10573.png",
       "isHide": false,
       "packageId": "582",
       "meta": {
@@ -339,7 +339,7 @@
       "shortCodes": [
         "[茶茶龙_疑惑]"
       ],
-      "staticUrl": "assets/bilibili_emoji/582/10574.png",
+      "staticUrl": "assets/bilibili/582/10574.png",
       "isHide": false,
       "packageId": "582",
       "meta": {
@@ -354,7 +354,7 @@
       "shortCodes": [
         "[茶茶龙_阔以]"
       ],
-      "staticUrl": "assets/bilibili_emoji/582/10575.png",
+      "staticUrl": "assets/bilibili/582/10575.png",
       "isHide": false,
       "packageId": "582",
       "meta": {
@@ -369,7 +369,7 @@
       "shortCodes": [
         "[茶茶龙_震惊]"
       ],
-      "staticUrl": "assets/bilibili_emoji/582/10576.png",
+      "staticUrl": "assets/bilibili/582/10576.png",
       "isHide": false,
       "packageId": "582",
       "meta": {

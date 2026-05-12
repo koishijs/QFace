@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "309",
   "name": "萌宠小熊",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/b6fa7855cc76f14d5729469d8bd9c06ce123e8e9.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[萌宠小熊_抱抱]"
       ],
-      "staticUrl": "assets/bilibili_emoji/309/5073.png",
+      "staticUrl": "assets/bilibili/309/5073.png",
       "isHide": false,
       "packageId": "309",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[萌宠小熊_吃了你]"
       ],
-      "staticUrl": "assets/bilibili_emoji/309/5074.png",
+      "staticUrl": "assets/bilibili/309/5074.png",
       "isHide": false,
       "packageId": "309",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[萌宠小熊_吃甜食]"
       ],
-      "staticUrl": "assets/bilibili_emoji/309/5075.png",
+      "staticUrl": "assets/bilibili/309/5075.png",
       "isHide": false,
       "packageId": "309",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[萌宠小熊_冲]"
       ],
-      "staticUrl": "assets/bilibili_emoji/309/5076.png",
+      "staticUrl": "assets/bilibili/309/5076.png",
       "isHide": false,
       "packageId": "309",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[萌宠小熊_打瞌睡]"
       ],
-      "staticUrl": "assets/bilibili_emoji/309/5077.png",
+      "staticUrl": "assets/bilibili/309/5077.png",
       "isHide": false,
       "packageId": "309",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[萌宠小熊_脸红]"
       ],
-      "staticUrl": "assets/bilibili_emoji/309/5078.png",
+      "staticUrl": "assets/bilibili/309/5078.png",
       "isHide": false,
       "packageId": "309",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[萌宠小熊_摔]"
       ],
-      "staticUrl": "assets/bilibili_emoji/309/5079.png",
+      "staticUrl": "assets/bilibili/309/5079.png",
       "isHide": false,
       "packageId": "309",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[萌宠小熊_跳舞]"
       ],
-      "staticUrl": "assets/bilibili_emoji/309/5080.png",
+      "staticUrl": "assets/bilibili/309/5080.png",
       "isHide": false,
       "packageId": "309",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[萌宠小熊_贴贴]"
       ],
-      "staticUrl": "assets/bilibili_emoji/309/5081.png",
+      "staticUrl": "assets/bilibili/309/5081.png",
       "isHide": false,
       "packageId": "309",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[萌宠小熊_委屈屈]"
       ],
-      "staticUrl": "assets/bilibili_emoji/309/5082.png",
+      "staticUrl": "assets/bilibili/309/5082.png",
       "isHide": false,
       "packageId": "309",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[萌宠小熊_我酸了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/309/5083.png",
+      "staticUrl": "assets/bilibili/309/5083.png",
       "isHide": false,
       "packageId": "309",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[萌宠小熊_小熊无语]"
       ],
-      "staticUrl": "assets/bilibili_emoji/309/5084.png",
+      "staticUrl": "assets/bilibili/309/5084.png",
       "isHide": false,
       "packageId": "309",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[萌宠小熊_一熊抗所有]"
       ],
-      "staticUrl": "assets/bilibili_emoji/309/5085.png",
+      "staticUrl": "assets/bilibili/309/5085.png",
       "isHide": false,
       "packageId": "309",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[萌宠小熊_又胖了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/309/5086.png",
+      "staticUrl": "assets/bilibili/309/5086.png",
       "isHide": false,
       "packageId": "309",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[萌宠小熊_又瘦了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/309/5087.png",
+      "staticUrl": "assets/bilibili/309/5087.png",
       "isHide": false,
       "packageId": "309",
       "meta": {

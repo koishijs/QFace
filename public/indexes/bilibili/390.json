@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "390",
   "name": "蔬菜精灵第二弹",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/f377a93347ae3ef0a39bae661316e0d5c5bed45f.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[蔬菜精灵第二弹_？？？]"
       ],
-      "staticUrl": "assets/bilibili_emoji/390/6503.png",
+      "staticUrl": "assets/bilibili/390/6503.png",
       "isHide": false,
       "packageId": "390",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[蔬菜精灵第二弹_100分]"
       ],
-      "staticUrl": "assets/bilibili_emoji/390/6504.png",
+      "staticUrl": "assets/bilibili/390/6504.png",
       "isHide": false,
       "packageId": "390",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[蔬菜精灵第二弹_HAHA]"
       ],
-      "staticUrl": "assets/bilibili_emoji/390/6505.png",
+      "staticUrl": "assets/bilibili/390/6505.png",
       "isHide": false,
       "packageId": "390",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[蔬菜精灵第二弹_NO]"
       ],
-      "staticUrl": "assets/bilibili_emoji/390/6506.png",
+      "staticUrl": "assets/bilibili/390/6506.png",
       "isHide": false,
       "packageId": "390",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[蔬菜精灵第二弹_OK]"
       ],
-      "staticUrl": "assets/bilibili_emoji/390/6507.png",
+      "staticUrl": "assets/bilibili/390/6507.png",
       "isHide": false,
       "packageId": "390",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[蔬菜精灵第二弹_YES]"
       ],
-      "staticUrl": "assets/bilibili_emoji/390/6508.png",
+      "staticUrl": "assets/bilibili/390/6508.png",
       "isHide": false,
       "packageId": "390",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[蔬菜精灵第二弹_暗中观察]"
       ],
-      "staticUrl": "assets/bilibili_emoji/390/6509.png",
+      "staticUrl": "assets/bilibili/390/6509.png",
       "isHide": false,
       "packageId": "390",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[蔬菜精灵第二弹_拜拜]"
       ],
-      "staticUrl": "assets/bilibili_emoji/390/6510.png",
+      "staticUrl": "assets/bilibili/390/6510.png",
       "isHide": false,
       "packageId": "390",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[蔬菜精灵第二弹_点赞]"
       ],
-      "staticUrl": "assets/bilibili_emoji/390/6511.png",
+      "staticUrl": "assets/bilibili/390/6511.png",
       "isHide": false,
       "packageId": "390",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[蔬菜精灵第二弹_夺笋鸭]"
       ],
-      "staticUrl": "assets/bilibili_emoji/390/6512.png",
+      "staticUrl": "assets/bilibili/390/6512.png",
       "isHide": false,
       "packageId": "390",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[蔬菜精灵第二弹_哈哈哈哈]"
       ],
-      "staticUrl": "assets/bilibili_emoji/390/6513.png",
+      "staticUrl": "assets/bilibili/390/6513.png",
       "isHide": false,
       "packageId": "390",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[蔬菜精灵第二弹_嗨皮]"
       ],
-      "staticUrl": "assets/bilibili_emoji/390/6514.png",
+      "staticUrl": "assets/bilibili/390/6514.png",
       "isHide": false,
       "packageId": "390",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[蔬菜精灵第二弹_害怕]"
       ],
-      "staticUrl": "assets/bilibili_emoji/390/6515.png",
+      "staticUrl": "assets/bilibili/390/6515.png",
       "isHide": false,
       "packageId": "390",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[蔬菜精灵第二弹_害羞]"
       ],
-      "staticUrl": "assets/bilibili_emoji/390/6516.png",
+      "staticUrl": "assets/bilibili/390/6516.png",
       "isHide": false,
       "packageId": "390",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[蔬菜精灵第二弹_好样的]"
       ],
-      "staticUrl": "assets/bilibili_emoji/390/6517.png",
+      "staticUrl": "assets/bilibili/390/6517.png",
       "isHide": false,
       "packageId": "390",
       "meta": {
@@ -234,7 +234,7 @@
       "shortCodes": [
         "[蔬菜精灵第二弹_活下去]"
       ],
-      "staticUrl": "assets/bilibili_emoji/390/6518.png",
+      "staticUrl": "assets/bilibili/390/6518.png",
       "isHide": false,
       "packageId": "390",
       "meta": {
@@ -249,7 +249,7 @@
       "shortCodes": [
         "[蔬菜精灵第二弹_卷起来了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/390/6519.png",
+      "staticUrl": "assets/bilibili/390/6519.png",
       "isHide": false,
       "packageId": "390",
       "meta": {
@@ -264,7 +264,7 @@
       "shortCodes": [
         "[蔬菜精灵第二弹_哭哭]"
       ],
-      "staticUrl": "assets/bilibili_emoji/390/6520.png",
+      "staticUrl": "assets/bilibili/390/6520.png",
       "isHide": false,
       "packageId": "390",
       "meta": {
@@ -279,7 +279,7 @@
       "shortCodes": [
         "[蔬菜精灵第二弹_嗯嗯]"
       ],
-      "staticUrl": "assets/bilibili_emoji/390/6521.png",
+      "staticUrl": "assets/bilibili/390/6521.png",
       "isHide": false,
       "packageId": "390",
       "meta": {
@@ -294,7 +294,7 @@
       "shortCodes": [
         "[蔬菜精灵第二弹_咆哮]"
       ],
-      "staticUrl": "assets/bilibili_emoji/390/6522.png",
+      "staticUrl": "assets/bilibili/390/6522.png",
       "isHide": false,
       "packageId": "390",
       "meta": {
@@ -309,7 +309,7 @@
       "shortCodes": [
         "[蔬菜精灵第二弹_求收养]"
       ],
-      "staticUrl": "assets/bilibili_emoji/390/6523.png",
+      "staticUrl": "assets/bilibili/390/6523.png",
       "isHide": false,
       "packageId": "390",
       "meta": {
@@ -324,7 +324,7 @@
       "shortCodes": [
         "[蔬菜精灵第二弹_撒娇]"
       ],
-      "staticUrl": "assets/bilibili_emoji/390/6524.png",
+      "staticUrl": "assets/bilibili/390/6524.png",
       "isHide": false,
       "packageId": "390",
       "meta": {
@@ -339,7 +339,7 @@
       "shortCodes": [
         "[蔬菜精灵第二弹_睡觉]"
       ],
-      "staticUrl": "assets/bilibili_emoji/390/6525.png",
+      "staticUrl": "assets/bilibili/390/6525.png",
       "isHide": false,
       "packageId": "390",
       "meta": {
@@ -354,7 +354,7 @@
       "shortCodes": [
         "[蔬菜精灵第二弹_太棒了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/390/6526.png",
+      "staticUrl": "assets/bilibili/390/6526.png",
       "isHide": false,
       "packageId": "390",
       "meta": {
@@ -369,7 +369,7 @@
       "shortCodes": [
         "[蔬菜精灵第二弹_哇哦]"
       ],
-      "staticUrl": "assets/bilibili_emoji/390/6527.png",
+      "staticUrl": "assets/bilibili/390/6527.png",
       "isHide": false,
       "packageId": "390",
       "meta": {
@@ -384,7 +384,7 @@
       "shortCodes": [
         "[蔬菜精灵第二弹_我爱工作]"
       ],
-      "staticUrl": "assets/bilibili_emoji/390/6528.png",
+      "staticUrl": "assets/bilibili/390/6528.png",
       "isHide": false,
       "packageId": "390",
       "meta": {
@@ -399,7 +399,7 @@
       "shortCodes": [
         "[蔬菜精灵第二弹_小辣鸡]"
       ],
-      "staticUrl": "assets/bilibili_emoji/390/6529.png",
+      "staticUrl": "assets/bilibili/390/6529.png",
       "isHide": false,
       "packageId": "390",
       "meta": {
@@ -414,7 +414,7 @@
       "shortCodes": [
         "[蔬菜精灵第二弹_歇歇]"
       ],
-      "staticUrl": "assets/bilibili_emoji/390/6530.png",
+      "staticUrl": "assets/bilibili/390/6530.png",
       "isHide": false,
       "packageId": "390",
       "meta": {
@@ -429,7 +429,7 @@
       "shortCodes": [
         "[蔬菜精灵第二弹_谢谢]"
       ],
-      "staticUrl": "assets/bilibili_emoji/390/6531.png",
+      "staticUrl": "assets/bilibili/390/6531.png",
       "isHide": false,
       "packageId": "390",
       "meta": {
@@ -444,7 +444,7 @@
       "shortCodes": [
         "[蔬菜精灵第二弹_辛苦了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/390/6532.png",
+      "staticUrl": "assets/bilibili/390/6532.png",
       "isHide": false,
       "packageId": "390",
       "meta": {

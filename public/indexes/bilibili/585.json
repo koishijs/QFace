@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "585",
   "name": "籽岷（充电）",
   "coverUrl": "https://i0.hdslb.com/bfs/garb/c2651543ac1436022fdc69e8bb7d2fcd4848056e.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[UPOWER_686127_疲惫]"
       ],
-      "staticUrl": "assets/bilibili_emoji/585/129414.png",
+      "staticUrl": "assets/bilibili/585/129414.png",
       "isHide": false,
       "packageId": "585",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[UPOWER_686127_开怀大笑]"
       ],
-      "staticUrl": "assets/bilibili_emoji/585/10622.png",
+      "staticUrl": "assets/bilibili/585/10622.png",
       "isHide": false,
       "packageId": "585",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[UPOWER_686127_闪亮登场]"
       ],
-      "staticUrl": "assets/bilibili_emoji/585/10623.png",
+      "staticUrl": "assets/bilibili/585/10623.png",
       "isHide": false,
       "packageId": "585",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[UPOWER_686127_实力]"
       ],
-      "staticUrl": "assets/bilibili_emoji/585/10624.png",
+      "staticUrl": "assets/bilibili/585/10624.png",
       "isHide": false,
       "packageId": "585",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[UPOWER_686127_否认]"
       ],
-      "staticUrl": "assets/bilibili_emoji/585/129415.png",
+      "staticUrl": "assets/bilibili/585/129415.png",
       "isHide": false,
       "packageId": "585",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[UPOWER_686127_我的神镐]"
       ],
-      "staticUrl": "assets/bilibili_emoji/585/10626.png",
+      "staticUrl": "assets/bilibili/585/10626.png",
       "isHide": false,
       "packageId": "585",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[UPOWER_686127_心痛]"
       ],
-      "staticUrl": "assets/bilibili_emoji/585/10627.png",
+      "staticUrl": "assets/bilibili/585/10627.png",
       "isHide": false,
       "packageId": "585",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[UPOWER_686127_吃我一剑]"
       ],
-      "staticUrl": "assets/bilibili_emoji/585/15607.png",
+      "staticUrl": "assets/bilibili/585/15607.png",
       "isHide": false,
       "packageId": "585",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[UPOWER_686127_头大]"
       ],
-      "staticUrl": "assets/bilibili_emoji/585/10625.png",
+      "staticUrl": "assets/bilibili/585/10625.png",
       "isHide": false,
       "packageId": "585",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[UPOWER_686127_得意]"
       ],
-      "staticUrl": "assets/bilibili_emoji/585/129416.png",
+      "staticUrl": "assets/bilibili/585/129416.png",
       "isHide": false,
       "packageId": "585",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[UPOWER_686127_开心极了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/585/45072.png",
+      "staticUrl": "assets/bilibili/585/45072.png",
       "isHide": false,
       "packageId": "585",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[UPOWER_686127_嫌弃]"
       ],
-      "staticUrl": "assets/bilibili_emoji/585/45073.png",
+      "staticUrl": "assets/bilibili/585/45073.png",
       "isHide": false,
       "packageId": "585",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[UPOWER_686127_白泽趴]"
       ],
-      "staticUrl": "assets/bilibili_emoji/585/114431.png",
+      "staticUrl": "assets/bilibili/585/114431.png",
       "isHide": false,
       "packageId": "585",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[UPOWER_686127_生日快乐]"
       ],
-      "staticUrl": "assets/bilibili_emoji/585/103990.png",
+      "staticUrl": "assets/bilibili/585/103990.png",
       "isHide": false,
       "packageId": "585",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[UPOWER_686127_这么强]"
       ],
-      "staticUrl": "assets/bilibili_emoji/585/114430.png",
+      "staticUrl": "assets/bilibili/585/114430.png",
       "isHide": false,
       "packageId": "585",
       "meta": {
@@ -234,7 +234,7 @@
       "shortCodes": [
         "[UPOWER_686127_机智]"
       ],
-      "staticUrl": "assets/bilibili_emoji/585/129417.png",
+      "staticUrl": "assets/bilibili/585/129417.png",
       "isHide": false,
       "packageId": "585",
       "meta": {
@@ -249,7 +249,7 @@
       "shortCodes": [
         "[UPOWER_686127_岷岷子]"
       ],
-      "staticUrl": "assets/bilibili_emoji/585/105127.png",
+      "staticUrl": "assets/bilibili/585/105127.png",
       "isHide": false,
       "packageId": "585",
       "meta": {
@@ -264,7 +264,7 @@
       "shortCodes": [
         "[UPOWER_686127_震惊]"
       ],
-      "staticUrl": "assets/bilibili_emoji/585/45079.png",
+      "staticUrl": "assets/bilibili/585/45079.png",
       "isHide": false,
       "packageId": "585",
       "meta": {
@@ -279,7 +279,7 @@
       "shortCodes": [
         "[UPOWER_686127_逢考必过]"
       ],
-      "staticUrl": "assets/bilibili_emoji/585/129304.png",
+      "staticUrl": "assets/bilibili/585/129304.png",
       "isHide": false,
       "packageId": "585",
       "meta": {
@@ -294,7 +294,7 @@
       "shortCodes": [
         "[UPOWER_686127_嫌弃]"
       ],
-      "staticUrl": "assets/bilibili_emoji/585/45073.png",
+      "staticUrl": "assets/bilibili/585/45073.png",
       "isHide": false,
       "packageId": "585",
       "meta": {
@@ -309,7 +309,7 @@
       "shortCodes": [
         "[UPOWER_686127_神降临]"
       ],
-      "staticUrl": "assets/bilibili_emoji/585/129419.png",
+      "staticUrl": "assets/bilibili/585/129419.png",
       "isHide": false,
       "packageId": "585",
       "meta": {

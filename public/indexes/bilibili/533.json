@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "533",
   "name": "一二和布布",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/a0220e9f272aa5cf5a8b1cdc6e6459ca20eb8059.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[一二和布布_还挺牛]"
       ],
-      "staticUrl": "assets/bilibili_emoji/533/9741.png",
+      "staticUrl": "assets/bilibili/533/9741.png",
       "isHide": false,
       "packageId": "533",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[一二和布布_爱你哦]"
       ],
-      "staticUrl": "assets/bilibili_emoji/533/9742.png",
+      "staticUrl": "assets/bilibili/533/9742.png",
       "isHide": false,
       "packageId": "533",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[一二和布布_酷]"
       ],
-      "staticUrl": "assets/bilibili_emoji/533/9743.png",
+      "staticUrl": "assets/bilibili/533/9743.png",
       "isHide": false,
       "packageId": "533",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[一二和布布_警告]"
       ],
-      "staticUrl": "assets/bilibili_emoji/533/9744.png",
+      "staticUrl": "assets/bilibili/533/9744.png",
       "isHide": false,
       "packageId": "533",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[一二和布布_好哒]"
       ],
-      "staticUrl": "assets/bilibili_emoji/533/9745.png",
+      "staticUrl": "assets/bilibili/533/9745.png",
       "isHide": false,
       "packageId": "533",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[一二和布布_额]"
       ],
-      "staticUrl": "assets/bilibili_emoji/533/9746.png",
+      "staticUrl": "assets/bilibili/533/9746.png",
       "isHide": false,
       "packageId": "533",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[一二和布布_达咩]"
       ],
-      "staticUrl": "assets/bilibili_emoji/533/9747.png",
+      "staticUrl": "assets/bilibili/533/9747.png",
       "isHide": false,
       "packageId": "533",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[一二和布布_比心]"
       ],
-      "staticUrl": "assets/bilibili_emoji/533/9748.png",
+      "staticUrl": "assets/bilibili/533/9748.png",
       "isHide": false,
       "packageId": "533",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[一二和布布_走了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/533/9749.png",
+      "staticUrl": "assets/bilibili/533/9749.png",
       "isHide": false,
       "packageId": "533",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[一二和布布_让我看看]"
       ],
-      "staticUrl": "assets/bilibili_emoji/533/9750.png",
+      "staticUrl": "assets/bilibili/533/9750.png",
       "isHide": false,
       "packageId": "533",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[一二和布布_哇哦]"
       ],
-      "staticUrl": "assets/bilibili_emoji/533/9751.png",
+      "staticUrl": "assets/bilibili/533/9751.png",
       "isHide": false,
       "packageId": "533",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[一二和布布_拳头]"
       ],
-      "staticUrl": "assets/bilibili_emoji/533/9752.png",
+      "staticUrl": "assets/bilibili/533/9752.png",
       "isHide": false,
       "packageId": "533",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[一二和布布_不想理你]"
       ],
-      "staticUrl": "assets/bilibili_emoji/533/9753.png",
+      "staticUrl": "assets/bilibili/533/9753.png",
       "isHide": false,
       "packageId": "533",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[一二和布布_晕]"
       ],
-      "staticUrl": "assets/bilibili_emoji/533/9754.png",
+      "staticUrl": "assets/bilibili/533/9754.png",
       "isHide": false,
       "packageId": "533",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[一二和布布_偷看]"
       ],
-      "staticUrl": "assets/bilibili_emoji/533/9755.png",
+      "staticUrl": "assets/bilibili/533/9755.png",
       "isHide": false,
       "packageId": "533",
       "meta": {
@@ -234,7 +234,7 @@
       "shortCodes": [
         "[一二和布布_ok]"
       ],
-      "staticUrl": "assets/bilibili_emoji/533/9756.png",
+      "staticUrl": "assets/bilibili/533/9756.png",
       "isHide": false,
       "packageId": "533",
       "meta": {
@@ -249,7 +249,7 @@
       "shortCodes": [
         "[一二和布布_勾引]"
       ],
-      "staticUrl": "assets/bilibili_emoji/533/9757.png",
+      "staticUrl": "assets/bilibili/533/9757.png",
       "isHide": false,
       "packageId": "533",
       "meta": {
@@ -264,7 +264,7 @@
       "shortCodes": [
         "[一二和布布_可爱]"
       ],
-      "staticUrl": "assets/bilibili_emoji/533/9758.png",
+      "staticUrl": "assets/bilibili/533/9758.png",
       "isHide": false,
       "packageId": "533",
       "meta": {
@@ -279,7 +279,7 @@
       "shortCodes": [
         "[一二和布布_拉手手]"
       ],
-      "staticUrl": "assets/bilibili_emoji/533/9759.png",
+      "staticUrl": "assets/bilibili/533/9759.png",
       "isHide": false,
       "packageId": "533",
       "meta": {
@@ -294,7 +294,7 @@
       "shortCodes": [
         "[一二和布布_敬礼]"
       ],
-      "staticUrl": "assets/bilibili_emoji/533/9760.png",
+      "staticUrl": "assets/bilibili/533/9760.png",
       "isHide": false,
       "packageId": "533",
       "meta": {
@@ -309,7 +309,7 @@
       "shortCodes": [
         "[一二和布布_开心]"
       ],
-      "staticUrl": "assets/bilibili_emoji/533/9761.png",
+      "staticUrl": "assets/bilibili/533/9761.png",
       "isHide": false,
       "packageId": "533",
       "meta": {
@@ -324,7 +324,7 @@
       "shortCodes": [
         "[一二和布布_摸头]"
       ],
-      "staticUrl": "assets/bilibili_emoji/533/9762.png",
+      "staticUrl": "assets/bilibili/533/9762.png",
       "isHide": false,
       "packageId": "533",
       "meta": {
@@ -339,7 +339,7 @@
       "shortCodes": [
         "[一二和布布_哦]"
       ],
-      "staticUrl": "assets/bilibili_emoji/533/9763.png",
+      "staticUrl": "assets/bilibili/533/9763.png",
       "isHide": false,
       "packageId": "533",
       "meta": {
@@ -354,7 +354,7 @@
       "shortCodes": [
         "[一二和布布_贴贴]"
       ],
-      "staticUrl": "assets/bilibili_emoji/533/9764.png",
+      "staticUrl": "assets/bilibili/533/9764.png",
       "isHide": false,
       "packageId": "533",
       "meta": {
@@ -369,7 +369,7 @@
       "shortCodes": [
         "[一二和布布_悲伤]"
       ],
-      "staticUrl": "assets/bilibili_emoji/533/9765.png",
+      "staticUrl": "assets/bilibili/533/9765.png",
       "isHide": false,
       "packageId": "533",
       "meta": {
@@ -384,7 +384,7 @@
       "shortCodes": [
         "[一二和布布_脑阔疼]"
       ],
-      "staticUrl": "assets/bilibili_emoji/533/9766.png",
+      "staticUrl": "assets/bilibili/533/9766.png",
       "isHide": false,
       "packageId": "533",
       "meta": {
@@ -399,7 +399,7 @@
       "shortCodes": [
         "[一二和布布_耶]"
       ],
-      "staticUrl": "assets/bilibili_emoji/533/9767.png",
+      "staticUrl": "assets/bilibili/533/9767.png",
       "isHide": false,
       "packageId": "533",
       "meta": {
@@ -414,7 +414,7 @@
       "shortCodes": [
         "[一二和布布_等你]"
       ],
-      "staticUrl": "assets/bilibili_emoji/533/9768.png",
+      "staticUrl": "assets/bilibili/533/9768.png",
       "isHide": false,
       "packageId": "533",
       "meta": {
@@ -429,7 +429,7 @@
       "shortCodes": [
         "[一二和布布_卖萌]"
       ],
-      "staticUrl": "assets/bilibili_emoji/533/9769.png",
+      "staticUrl": "assets/bilibili/533/9769.png",
       "isHide": false,
       "packageId": "533",
       "meta": {
@@ -444,7 +444,7 @@
       "shortCodes": [
         "[一二和布布_嗨起来]"
       ],
-      "staticUrl": "assets/bilibili_emoji/533/9770.png",
+      "staticUrl": "assets/bilibili/533/9770.png",
       "isHide": false,
       "packageId": "533",
       "meta": {
@@ -459,7 +459,7 @@
       "shortCodes": [
         "[一二和布布_大佬坐姿]"
       ],
-      "staticUrl": "assets/bilibili_emoji/533/9887.png",
+      "staticUrl": "assets/bilibili/533/9887.png",
       "isHide": false,
       "packageId": "533",
       "meta": {
@@ -474,7 +474,7 @@
       "shortCodes": [
         "[一二和布布_站岗]"
       ],
-      "staticUrl": "assets/bilibili_emoji/533/9888.png",
+      "staticUrl": "assets/bilibili/533/9888.png",
       "isHide": false,
       "packageId": "533",
       "meta": {
@@ -489,7 +489,7 @@
       "shortCodes": [
         "[一二和布布_大冤种]"
       ],
-      "staticUrl": "assets/bilibili_emoji/533/9889.png",
+      "staticUrl": "assets/bilibili/533/9889.png",
       "isHide": false,
       "packageId": "533",
       "meta": {
@@ -504,7 +504,7 @@
       "shortCodes": [
         "[一二和布布_欺负布布]"
       ],
-      "staticUrl": "assets/bilibili_emoji/533/9890.png",
+      "staticUrl": "assets/bilibili/533/9890.png",
       "isHide": false,
       "packageId": "533",
       "meta": {
@@ -519,7 +519,7 @@
       "shortCodes": [
         "[一二和布布_抽我]"
       ],
-      "staticUrl": "assets/bilibili_emoji/533/9891.png",
+      "staticUrl": "assets/bilibili/533/9891.png",
       "isHide": false,
       "packageId": "533",
       "meta": {

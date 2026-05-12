@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "224",
   "name": "咩栗",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/9670117c11af4576f5c0910d66baed9cf571b936.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[咩栗_……]"
       ],
-      "staticUrl": "assets/bilibili_emoji/224/3915.png",
+      "staticUrl": "assets/bilibili/224/3915.png",
       "isHide": false,
       "packageId": "224",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[咩栗_DD斩首]"
       ],
-      "staticUrl": "assets/bilibili_emoji/224/3916.png",
+      "staticUrl": "assets/bilibili/224/3916.png",
       "isHide": false,
       "packageId": "224",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[咩栗_nya]"
       ],
-      "staticUrl": "assets/bilibili_emoji/224/3917.png",
+      "staticUrl": "assets/bilibili/224/3917.png",
       "isHide": false,
       "packageId": "224",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[咩栗_吃草]"
       ],
-      "staticUrl": "assets/bilibili_emoji/224/3918.png",
+      "staticUrl": "assets/bilibili/224/3918.png",
       "isHide": false,
       "packageId": "224",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[咩栗_吃桃子]"
       ],
-      "staticUrl": "assets/bilibili_emoji/224/3919.png",
+      "staticUrl": "assets/bilibili/224/3919.png",
       "isHide": false,
       "packageId": "224",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[咩栗_聪明]"
       ],
-      "staticUrl": "assets/bilibili_emoji/224/3920.png",
+      "staticUrl": "assets/bilibili/224/3920.png",
       "isHide": false,
       "packageId": "224",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[咩栗_打call]"
       ],
-      "staticUrl": "assets/bilibili_emoji/224/3921.png",
+      "staticUrl": "assets/bilibili/224/3921.png",
       "isHide": false,
       "packageId": "224",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[咩栗_大哭]"
       ],
-      "staticUrl": "assets/bilibili_emoji/224/3922.png",
+      "staticUrl": "assets/bilibili/224/3922.png",
       "isHide": false,
       "packageId": "224",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[咩栗_害羞]"
       ],
-      "staticUrl": "assets/bilibili_emoji/224/3923.png",
+      "staticUrl": "assets/bilibili/224/3923.png",
       "isHide": false,
       "packageId": "224",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[咩栗_好耶]"
       ],
-      "staticUrl": "assets/bilibili_emoji/224/3924.png",
+      "staticUrl": "assets/bilibili/224/3924.png",
       "isHide": false,
       "packageId": "224",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[咩栗_哼！]"
       ],
-      "staticUrl": "assets/bilibili_emoji/224/3925.png",
+      "staticUrl": "assets/bilibili/224/3925.png",
       "isHide": false,
       "packageId": "224",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[咩栗_惊]"
       ],
-      "staticUrl": "assets/bilibili_emoji/224/3926.png",
+      "staticUrl": "assets/bilibili/224/3926.png",
       "isHide": false,
       "packageId": "224",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[咩栗_咩？]"
       ],
-      "staticUrl": "assets/bilibili_emoji/224/3927.png",
+      "staticUrl": "assets/bilibili/224/3927.png",
       "isHide": false,
       "packageId": "224",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[咩栗_咩呀！]"
       ],
-      "staticUrl": "assets/bilibili_emoji/224/3928.png",
+      "staticUrl": "assets/bilibili/224/3928.png",
       "isHide": false,
       "packageId": "224",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[咩栗_斯米马三]"
       ],
-      "staticUrl": "assets/bilibili_emoji/224/3929.png",
+      "staticUrl": "assets/bilibili/224/3929.png",
       "isHide": false,
       "packageId": "224",
       "meta": {
@@ -234,7 +234,7 @@
       "shortCodes": [
         "[咩栗_贴贴]"
       ],
-      "staticUrl": "assets/bilibili_emoji/224/3930.png",
+      "staticUrl": "assets/bilibili/224/3930.png",
       "isHide": false,
       "packageId": "224",
       "meta": {
@@ -249,7 +249,7 @@
       "shortCodes": [
         "[咩栗_压咩咯]"
       ],
-      "staticUrl": "assets/bilibili_emoji/224/3931.png",
+      "staticUrl": "assets/bilibili/224/3931.png",
       "isHide": false,
       "packageId": "224",
       "meta": {
@@ -264,7 +264,7 @@
       "shortCodes": [
         "[咩栗_羊来！]"
       ],
-      "staticUrl": "assets/bilibili_emoji/224/3932.png",
+      "staticUrl": "assets/bilibili/224/3932.png",
       "isHide": false,
       "packageId": "224",
       "meta": {
@@ -279,7 +279,7 @@
       "shortCodes": [
         "[咩栗_羊名立万]"
       ],
-      "staticUrl": "assets/bilibili_emoji/224/3933.png",
+      "staticUrl": "assets/bilibili/224/3933.png",
       "isHide": false,
       "packageId": "224",
       "meta": {
@@ -294,7 +294,7 @@
       "shortCodes": [
         "[咩栗_羊羊得意]"
       ],
-      "staticUrl": "assets/bilibili_emoji/224/3934.png",
+      "staticUrl": "assets/bilibili/224/3934.png",
       "isHide": false,
       "packageId": "224",
       "meta": {

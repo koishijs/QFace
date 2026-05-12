@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "117",
   "name": "元龙",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/92afa3a99ce86ec5eed0832db9c0aacd9e2c7494.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[元龙_嘲讽]"
       ],
-      "staticUrl": "assets/bilibili_emoji/117/2432.png",
+      "staticUrl": "assets/bilibili/117/2432.png",
       "isHide": false,
       "packageId": "117",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[元龙_偷笑]"
       ],
-      "staticUrl": "assets/bilibili_emoji/117/2433.png",
+      "staticUrl": "assets/bilibili/117/2433.png",
       "isHide": false,
       "packageId": "117",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[元龙_生气]"
       ],
-      "staticUrl": "assets/bilibili_emoji/117/2434.png",
+      "staticUrl": "assets/bilibili/117/2434.png",
       "isHide": false,
       "packageId": "117",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[元龙_哭哭]"
       ],
-      "staticUrl": "assets/bilibili_emoji/117/2435.png",
+      "staticUrl": "assets/bilibili/117/2435.png",
       "isHide": false,
       "packageId": "117",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[元龙_嫌弃]"
       ],
-      "staticUrl": "assets/bilibili_emoji/117/2436.png",
+      "staticUrl": "assets/bilibili/117/2436.png",
       "isHide": false,
       "packageId": "117",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[元龙_时代变了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/117/2437.png",
+      "staticUrl": "assets/bilibili/117/2437.png",
       "isHide": false,
       "packageId": "117",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[元龙_好汉饶命]"
       ],
-      "staticUrl": "assets/bilibili_emoji/117/2438.png",
+      "staticUrl": "assets/bilibili/117/2438.png",
       "isHide": false,
       "packageId": "117",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[元龙_捂脸]"
       ],
-      "staticUrl": "assets/bilibili_emoji/117/2439.png",
+      "staticUrl": "assets/bilibili/117/2439.png",
       "isHide": false,
       "packageId": "117",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[元龙_我错了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/117/2440.png",
+      "staticUrl": "assets/bilibili/117/2440.png",
       "isHide": false,
       "packageId": "117",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[元龙_我投降]"
       ],
-      "staticUrl": "assets/bilibili_emoji/117/2441.png",
+      "staticUrl": "assets/bilibili/117/2441.png",
       "isHide": false,
       "packageId": "117",
       "meta": {

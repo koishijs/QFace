@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "445",
   "name": "传统美食",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/3504558c81a77272668563cce37a9bcc992d7c07.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[传统美食_八宝饭]"
       ],
-      "staticUrl": "assets/bilibili_emoji/445/7713.png",
+      "staticUrl": "assets/bilibili/445/7713.png",
       "isHide": false,
       "packageId": "445",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[传统美食_大蒜]"
       ],
-      "staticUrl": "assets/bilibili_emoji/445/7714.png",
+      "staticUrl": "assets/bilibili/445/7714.png",
       "isHide": false,
       "packageId": "445",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[传统美食_大肘子]"
       ],
-      "staticUrl": "assets/bilibili_emoji/445/7715.png",
+      "staticUrl": "assets/bilibili/445/7715.png",
       "isHide": false,
       "packageId": "445",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[传统美食_火锅]"
       ],
-      "staticUrl": "assets/bilibili_emoji/445/7716.png",
+      "staticUrl": "assets/bilibili/445/7716.png",
       "isHide": false,
       "packageId": "445",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[传统美食_饺子]"
       ],
-      "staticUrl": "assets/bilibili_emoji/445/7717.png",
+      "staticUrl": "assets/bilibili/445/7717.png",
       "isHide": false,
       "packageId": "445",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[传统美食_年年有鱼]"
       ],
-      "staticUrl": "assets/bilibili_emoji/445/7718.png",
+      "staticUrl": "assets/bilibili/445/7718.png",
       "isHide": false,
       "packageId": "445",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[传统美食_狮子头]"
       ],
-      "staticUrl": "assets/bilibili_emoji/445/7719.png",
+      "staticUrl": "assets/bilibili/445/7719.png",
       "isHide": false,
       "packageId": "445",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[传统美食_汤圆]"
       ],
-      "staticUrl": "assets/bilibili_emoji/445/7720.png",
+      "staticUrl": "assets/bilibili/445/7720.png",
       "isHide": false,
       "packageId": "445",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[传统美食_糖葫芦]"
       ],
-      "staticUrl": "assets/bilibili_emoji/445/7721.png",
+      "staticUrl": "assets/bilibili/445/7721.png",
       "isHide": false,
       "packageId": "445",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[传统美食_香肠]"
       ],
-      "staticUrl": "assets/bilibili_emoji/445/7722.png",
+      "staticUrl": "assets/bilibili/445/7722.png",
       "isHide": false,
       "packageId": "445",
       "meta": {

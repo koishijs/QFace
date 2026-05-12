@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "336",
   "name": "逍遥散人",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/6de7c5b5b24c5b156b86fe210c63566798e9d11f.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[逍遥散人_比刺刺]"
       ],
-      "staticUrl": "assets/bilibili_emoji/336/5507.png",
+      "staticUrl": "assets/bilibili/336/5507.png",
       "isHide": false,
       "packageId": "336",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[逍遥散人_勾引一下]"
       ],
-      "staticUrl": "assets/bilibili_emoji/336/5508.png",
+      "staticUrl": "assets/bilibili/336/5508.png",
       "isHide": false,
       "packageId": "336",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[逍遥散人_好的]"
       ],
-      "staticUrl": "assets/bilibili_emoji/336/5509.png",
+      "staticUrl": "assets/bilibili/336/5509.png",
       "isHide": false,
       "packageId": "336",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[逍遥散人_金毛乐乐]"
       ],
-      "staticUrl": "assets/bilibili_emoji/336/5510.png",
+      "staticUrl": "assets/bilibili/336/5510.png",
       "isHide": false,
       "packageId": "336",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[逍遥散人_哭唧唧]"
       ],
-      "staticUrl": "assets/bilibili_emoji/336/5511.png",
+      "staticUrl": "assets/bilibili/336/5511.png",
       "isHide": false,
       "packageId": "336",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[逍遥散人_嘛玩意]"
       ],
-      "staticUrl": "assets/bilibili_emoji/336/5512.png",
+      "staticUrl": "assets/bilibili/336/5512.png",
       "isHide": false,
       "packageId": "336",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[逍遥散人_奈斯]"
       ],
-      "staticUrl": "assets/bilibili_emoji/336/5513.png",
+      "staticUrl": "assets/bilibili/336/5513.png",
       "isHide": false,
       "packageId": "336",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[逍遥散人_撒子]"
       ],
-      "staticUrl": "assets/bilibili_emoji/336/5514.png",
+      "staticUrl": "assets/bilibili/336/5514.png",
       "isHide": false,
       "packageId": "336",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[逍遥散人_我要谈恋爱]"
       ],
-      "staticUrl": "assets/bilibili_emoji/336/5515.png",
+      "staticUrl": "assets/bilibili/336/5515.png",
       "isHide": false,
       "packageId": "336",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[逍遥散人_勇敢刺刺]"
       ],
-      "staticUrl": "assets/bilibili_emoji/336/5516.png",
+      "staticUrl": "assets/bilibili/336/5516.png",
       "isHide": false,
       "packageId": "336",
       "meta": {

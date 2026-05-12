@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "197",
   "name": "萌宠派对",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/ee292adf29084dd451932605550498f4ded41831.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[萌宠派对_拜拜]"
       ],
-      "staticUrl": "assets/bilibili_emoji/197/3536.png",
+      "staticUrl": "assets/bilibili/197/3536.png",
       "isHide": false,
       "packageId": "197",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[萌宠派对_唱歌]"
       ],
-      "staticUrl": "assets/bilibili_emoji/197/3537.png",
+      "staticUrl": "assets/bilibili/197/3537.png",
       "isHide": false,
       "packageId": "197",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[萌宠派对_吃瓜]"
       ],
-      "staticUrl": "assets/bilibili_emoji/197/3538.png",
+      "staticUrl": "assets/bilibili/197/3538.png",
       "isHide": false,
       "packageId": "197",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[萌宠派对_躲雨]"
       ],
-      "staticUrl": "assets/bilibili_emoji/197/3539.png",
+      "staticUrl": "assets/bilibili/197/3539.png",
       "isHide": false,
       "packageId": "197",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[萌宠派对_干饭]"
       ],
-      "staticUrl": "assets/bilibili_emoji/197/3540.png",
+      "staticUrl": "assets/bilibili/197/3540.png",
       "isHide": false,
       "packageId": "197",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[萌宠派对_给你花花]"
       ],
-      "staticUrl": "assets/bilibili_emoji/197/3541.png",
+      "staticUrl": "assets/bilibili/197/3541.png",
       "isHide": false,
       "packageId": "197",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[萌宠派对_好快乐]"
       ],
-      "staticUrl": "assets/bilibili_emoji/197/3542.png",
+      "staticUrl": "assets/bilibili/197/3542.png",
       "isHide": false,
       "packageId": "197",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[萌宠派对_撒花]"
       ],
-      "staticUrl": "assets/bilibili_emoji/197/3543.png",
+      "staticUrl": "assets/bilibili/197/3543.png",
       "isHide": false,
       "packageId": "197",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[萌宠派对_我来了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/197/3544.png",
+      "staticUrl": "assets/bilibili/197/3544.png",
       "isHide": false,
       "packageId": "197",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[萌宠派对_喜欢]"
       ],
-      "staticUrl": "assets/bilibili_emoji/197/3545.png",
+      "staticUrl": "assets/bilibili/197/3545.png",
       "isHide": false,
       "packageId": "197",
       "meta": {

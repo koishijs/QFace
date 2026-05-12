@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "301",
   "name": "仙王",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/c336278c8df84a5574fe02a526e8548a91fe61e3.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[仙王_salute]"
       ],
-      "staticUrl": "assets/bilibili_emoji/301/4948.png",
+      "staticUrl": "assets/bilibili/301/4948.png",
       "isHide": false,
       "packageId": "301",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[仙王_啊这]"
       ],
-      "staticUrl": "assets/bilibili_emoji/301/4949.png",
+      "staticUrl": "assets/bilibili/301/4949.png",
       "isHide": false,
       "packageId": "301",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[仙王_感动]"
       ],
-      "staticUrl": "assets/bilibili_emoji/301/4950.png",
+      "staticUrl": "assets/bilibili/301/4950.png",
       "isHide": false,
       "packageId": "301",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[仙王_害怕]"
       ],
-      "staticUrl": "assets/bilibili_emoji/301/4951.png",
+      "staticUrl": "assets/bilibili/301/4951.png",
       "isHide": false,
       "packageId": "301",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[仙王_害羞]"
       ],
-      "staticUrl": "assets/bilibili_emoji/301/4952.png",
+      "staticUrl": "assets/bilibili/301/4952.png",
       "isHide": false,
       "packageId": "301",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[仙王_略略略]"
       ],
-      "staticUrl": "assets/bilibili_emoji/301/4953.png",
+      "staticUrl": "assets/bilibili/301/4953.png",
       "isHide": false,
       "packageId": "301",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[仙王_揉]"
       ],
-      "staticUrl": "assets/bilibili_emoji/301/4954.png",
+      "staticUrl": "assets/bilibili/301/4954.png",
       "isHide": false,
       "packageId": "301",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[仙王_闪亮]"
       ],
-      "staticUrl": "assets/bilibili_emoji/301/4955.png",
+      "staticUrl": "assets/bilibili/301/4955.png",
       "isHide": false,
       "packageId": "301",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[仙王_无奈]"
       ],
-      "staticUrl": "assets/bilibili_emoji/301/4956.png",
+      "staticUrl": "assets/bilibili/301/4956.png",
       "isHide": false,
       "packageId": "301",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[仙王_自信回头]"
       ],
-      "staticUrl": "assets/bilibili_emoji/301/4957.png",
+      "staticUrl": "assets/bilibili/301/4957.png",
       "isHide": false,
       "packageId": "301",
       "meta": {

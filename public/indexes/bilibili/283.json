@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "283",
   "name": "EveOneCat2",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/c3c09c8129af271e87323329827a993e8a8ec9eb.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[Cat2_FallInto!]"
       ],
-      "staticUrl": "assets/bilibili_emoji/283/4697.png",
+      "staticUrl": "assets/bilibili/283/4697.png",
       "isHide": false,
       "packageId": "283",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[Cat2_FallOut!?]"
       ],
-      "staticUrl": "assets/bilibili_emoji/283/4698.png",
+      "staticUrl": "assets/bilibili/283/4698.png",
       "isHide": false,
       "packageId": "283",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[Cat2_Watching!]"
       ],
-      "staticUrl": "assets/bilibili_emoji/283/4699.png",
+      "staticUrl": "assets/bilibili/283/4699.png",
       "isHide": false,
       "packageId": "283",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[Cat2_Nyampage]"
       ],
-      "staticUrl": "assets/bilibili_emoji/283/4700.png",
+      "staticUrl": "assets/bilibili/283/4700.png",
       "isHide": false,
       "packageId": "283",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[Cat2_Astromeawt!]"
       ],
-      "staticUrl": "assets/bilibili_emoji/283/4701.png",
+      "staticUrl": "assets/bilibili/283/4701.png",
       "isHide": false,
       "packageId": "283",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[Cat2_Inbox!]"
       ],
-      "staticUrl": "assets/bilibili_emoji/283/4702.png",
+      "staticUrl": "assets/bilibili/283/4702.png",
       "isHide": false,
       "packageId": "283",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[Cat2_Boom!]"
       ],
-      "staticUrl": "assets/bilibili_emoji/283/4703.png",
+      "staticUrl": "assets/bilibili/283/4703.png",
       "isHide": false,
       "packageId": "283",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[Cat2_SushiBed!]"
       ],
-      "staticUrl": "assets/bilibili_emoji/283/4704.png",
+      "staticUrl": "assets/bilibili/283/4704.png",
       "isHide": false,
       "packageId": "283",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[Cat2_EatByDonut]"
       ],
-      "staticUrl": "assets/bilibili_emoji/283/4705.png",
+      "staticUrl": "assets/bilibili/283/4705.png",
       "isHide": false,
       "packageId": "283",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[Cat2_EatDonut]"
       ],
-      "staticUrl": "assets/bilibili_emoji/283/4706.png",
+      "staticUrl": "assets/bilibili/283/4706.png",
       "isHide": false,
       "packageId": "283",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[Cat2_SpaceNyan!]"
       ],
-      "staticUrl": "assets/bilibili_emoji/283/4707.png",
+      "staticUrl": "assets/bilibili/283/4707.png",
       "isHide": false,
       "packageId": "283",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[Cat2_OddFriend]"
       ],
-      "staticUrl": "assets/bilibili_emoji/283/4708.png",
+      "staticUrl": "assets/bilibili/283/4708.png",
       "isHide": false,
       "packageId": "283",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[Cat2_IsLiquid!]"
       ],
-      "staticUrl": "assets/bilibili_emoji/283/4709.png",
+      "staticUrl": "assets/bilibili/283/4709.png",
       "isHide": false,
       "packageId": "283",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[Cat2_Hoop!]"
       ],
-      "staticUrl": "assets/bilibili_emoji/283/4710.png",
+      "staticUrl": "assets/bilibili/283/4710.png",
       "isHide": false,
       "packageId": "283",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[Cat2_DoorKeeper!]"
       ],
-      "staticUrl": "assets/bilibili_emoji/283/4711.png",
+      "staticUrl": "assets/bilibili/283/4711.png",
       "isHide": false,
       "packageId": "283",
       "meta": {
@@ -234,7 +234,7 @@
       "shortCodes": [
         "[Cat2_Stargazer!]"
       ],
-      "staticUrl": "assets/bilibili_emoji/283/4712.png",
+      "staticUrl": "assets/bilibili/283/4712.png",
       "isHide": false,
       "packageId": "283",
       "meta": {
@@ -249,7 +249,7 @@
       "shortCodes": [
         "[Cat2_JupiterSpot]"
       ],
-      "staticUrl": "assets/bilibili_emoji/283/4713.png",
+      "staticUrl": "assets/bilibili/283/4713.png",
       "isHide": false,
       "packageId": "283",
       "meta": {
@@ -264,7 +264,7 @@
       "shortCodes": [
         "[Cat2_Catkitchen]"
       ],
-      "staticUrl": "assets/bilibili_emoji/283/4714.png",
+      "staticUrl": "assets/bilibili/283/4714.png",
       "isHide": false,
       "packageId": "283",
       "meta": {
@@ -279,7 +279,7 @@
       "shortCodes": [
         "[Cat2_Launch!]"
       ],
-      "staticUrl": "assets/bilibili_emoji/283/4715.png",
+      "staticUrl": "assets/bilibili/283/4715.png",
       "isHide": false,
       "packageId": "283",
       "meta": {
@@ -294,7 +294,7 @@
       "shortCodes": [
         "[Cat2_CatAMail]"
       ],
-      "staticUrl": "assets/bilibili_emoji/283/4716.png",
+      "staticUrl": "assets/bilibili/283/4716.png",
       "isHide": false,
       "packageId": "283",
       "meta": {
@@ -309,7 +309,7 @@
       "shortCodes": [
         "[Cat2_Spark!!]"
       ],
-      "staticUrl": "assets/bilibili_emoji/283/4717.png",
+      "staticUrl": "assets/bilibili/283/4717.png",
       "isHide": false,
       "packageId": "283",
       "meta": {
@@ -324,7 +324,7 @@
       "shortCodes": [
         "[Cat2_BlackHole!]"
       ],
-      "staticUrl": "assets/bilibili_emoji/283/4718.png",
+      "staticUrl": "assets/bilibili/283/4718.png",
       "isHide": false,
       "packageId": "283",
       "meta": {
@@ -339,7 +339,7 @@
       "shortCodes": [
         "[Cat2_Slacking!]"
       ],
-      "staticUrl": "assets/bilibili_emoji/283/4719.png",
+      "staticUrl": "assets/bilibili/283/4719.png",
       "isHide": false,
       "packageId": "283",
       "meta": {
@@ -354,7 +354,7 @@
       "shortCodes": [
         "[Cat2_Pinch!!]"
       ],
-      "staticUrl": "assets/bilibili_emoji/283/4720.png",
+      "staticUrl": "assets/bilibili/283/4720.png",
       "isHide": false,
       "packageId": "283",
       "meta": {
@@ -369,7 +369,7 @@
       "shortCodes": [
         "[Cat2_Leak]"
       ],
-      "staticUrl": "assets/bilibili_emoji/283/4721.png",
+      "staticUrl": "assets/bilibili/283/4721.png",
       "isHide": false,
       "packageId": "283",
       "meta": {
@@ -384,7 +384,7 @@
       "shortCodes": [
         "[Cat2_FatCat!？]"
       ],
-      "staticUrl": "assets/bilibili_emoji/283/4722.png",
+      "staticUrl": "assets/bilibili/283/4722.png",
       "isHide": false,
       "packageId": "283",
       "meta": {
@@ -399,7 +399,7 @@
       "shortCodes": [
         "[Cat2_Cross!]"
       ],
-      "staticUrl": "assets/bilibili_emoji/283/4723.png",
+      "staticUrl": "assets/bilibili/283/4723.png",
       "isHide": false,
       "packageId": "283",
       "meta": {
@@ -414,7 +414,7 @@
       "shortCodes": [
         "[Cat2_Infinite!]"
       ],
-      "staticUrl": "assets/bilibili_emoji/283/4724.png",
+      "staticUrl": "assets/bilibili/283/4724.png",
       "isHide": false,
       "packageId": "283",
       "meta": {
@@ -429,7 +429,7 @@
       "shortCodes": [
         "[Cat2_Escort2!]"
       ],
-      "staticUrl": "assets/bilibili_emoji/283/4725.png",
+      "staticUrl": "assets/bilibili/283/4725.png",
       "isHide": false,
       "packageId": "283",
       "meta": {
@@ -444,7 +444,7 @@
       "shortCodes": [
         "[Cat2_Chaos]"
       ],
-      "staticUrl": "assets/bilibili_emoji/283/4726.png",
+      "staticUrl": "assets/bilibili/283/4726.png",
       "isHide": false,
       "packageId": "283",
       "meta": {

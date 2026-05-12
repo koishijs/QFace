@@ -23,7 +23,7 @@ import { homedir } from 'os'
  * QQ Emoji 资源生成器
  *
  * 此脚本自动从 QQ 的软件文件夹中读取 Emoji 相关的资源文件
- * 拷贝资源到 public/assets/qq_emoji 文件夹中
+ * 拷贝资源到 public/assets/qq 文件夹中
  * 并生成一个索引文件
  * 目前只支持 macOS 系统
  */
@@ -40,7 +40,7 @@ const CONFIG = {
     'nt_data/Emoji/BaseEmojiSyastems/EmojiSystermResource',
   EMOJI_RESOURCE_WIN32_RELATIVE_PATH:
     'global/nt_data/Emoji/emoji-resource/sysface_res',
-  OUTPUT_RELATIVE_PATH: 'public/assets/qq_emoji',
+  OUTPUT_RELATIVE_PATH: 'public/assets/qq',
   BACKUP_RELATIVE_PATH: '.backup',
   INDEX_FILE_NAME: '_index.json',
   FACE_CONFIG_FILE_NAME: 'face_config.json',
@@ -107,7 +107,7 @@ class PathManager {
 
   /**
    * 获取相对路径（从 assets 文件夹开始）
-   * 例如: C:\path\to\assets\qq_emoji\resfile\emoji\123456.png -> assets/resfile/emoji/123456.png
+   * 例如: C:\path\to\assets\qq\resfile\emoji\123456.png -> assets/resfile/emoji/123456.png
    */
   getRelativePath(path: string): string {
     return path
@@ -315,7 +315,7 @@ class FileManager {
         const timestamp = new Date().toISOString().replace(/:/g, '-')
         const backupPath = resolve(
           this.pathManager.getBackupDir(),
-          `qq_emoji_${timestamp}`
+          `qq_${timestamp}`
         )
         try {
           await rename(this.pathManager.getOutputDir(), backupPath)

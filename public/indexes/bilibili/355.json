@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "355",
   "name": "梦奇",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/d49a7f803f71eed951c2e9b62e5b5d2638358765.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[梦奇_I]"
       ],
-      "staticUrl": "assets/bilibili_emoji/355/5837.png",
+      "staticUrl": "assets/bilibili/355/5837.png",
       "isHide": false,
       "packageId": "355",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[梦奇_K]"
       ],
-      "staticUrl": "assets/bilibili_emoji/355/5838.png",
+      "staticUrl": "assets/bilibili/355/5838.png",
       "isHide": false,
       "packageId": "355",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[梦奇_MONKI]"
       ],
-      "staticUrl": "assets/bilibili_emoji/355/5839.png",
+      "staticUrl": "assets/bilibili/355/5839.png",
       "isHide": false,
       "packageId": "355",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[梦奇_M]"
       ],
-      "staticUrl": "assets/bilibili_emoji/355/5840.png",
+      "staticUrl": "assets/bilibili/355/5840.png",
       "isHide": false,
       "packageId": "355",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[梦奇_N]"
       ],
-      "staticUrl": "assets/bilibili_emoji/355/5841.png",
+      "staticUrl": "assets/bilibili/355/5841.png",
       "isHide": false,
       "packageId": "355",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[梦奇_O]"
       ],
-      "staticUrl": "assets/bilibili_emoji/355/5842.png",
+      "staticUrl": "assets/bilibili/355/5842.png",
       "isHide": false,
       "packageId": "355",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[梦奇_发呆中]"
       ],
-      "staticUrl": "assets/bilibili_emoji/355/5843.png",
+      "staticUrl": "assets/bilibili/355/5843.png",
       "isHide": false,
       "packageId": "355",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[梦奇_来贴贴]"
       ],
-      "staticUrl": "assets/bilibili_emoji/355/5844.png",
+      "staticUrl": "assets/bilibili/355/5844.png",
       "isHide": false,
       "packageId": "355",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[梦奇_睡觉觉]"
       ],
-      "staticUrl": "assets/bilibili_emoji/355/5845.png",
+      "staticUrl": "assets/bilibili/355/5845.png",
       "isHide": false,
       "packageId": "355",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[梦奇_超开心]"
       ],
-      "staticUrl": "assets/bilibili_emoji/355/5846.png",
+      "staticUrl": "assets/bilibili/355/5846.png",
       "isHide": false,
       "packageId": "355",
       "meta": {

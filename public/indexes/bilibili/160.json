@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "160",
   "name": "拾忆长安·明月几时有",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/e8256d1279ec34243f63f6c608a71664a56b113f.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[拾忆长安_仔细阅读]"
       ],
-      "staticUrl": "assets/bilibili_emoji/160/2980.png",
+      "staticUrl": "assets/bilibili/160/2980.png",
       "isHide": false,
       "packageId": "160",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[拾忆长安_大哥]"
       ],
-      "staticUrl": "assets/bilibili_emoji/160/2981.png",
+      "staticUrl": "assets/bilibili/160/2981.png",
       "isHide": false,
       "packageId": "160",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[拾忆长安_大唐颜艺王]"
       ],
-      "staticUrl": "assets/bilibili_emoji/160/2982.png",
+      "staticUrl": "assets/bilibili/160/2982.png",
       "isHide": false,
       "packageId": "160",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[拾忆长安_绞面]"
       ],
-      "staticUrl": "assets/bilibili_emoji/160/2983.png",
+      "staticUrl": "assets/bilibili/160/2983.png",
       "isHide": false,
       "packageId": "160",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[拾忆长安_九嫂威武]"
       ],
-      "staticUrl": "assets/bilibili_emoji/160/2984.png",
+      "staticUrl": "assets/bilibili/160/2984.png",
       "isHide": false,
       "packageId": "160",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[拾忆长安_女单书]"
       ],
-      "staticUrl": "assets/bilibili_emoji/160/2985.png",
+      "staticUrl": "assets/bilibili/160/2985.png",
       "isHide": false,
       "packageId": "160",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[拾忆长安_三箭齐发]"
       ],
-      "staticUrl": "assets/bilibili_emoji/160/2986.png",
+      "staticUrl": "assets/bilibili/160/2986.png",
       "isHide": false,
       "packageId": "160",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[拾忆长安_圣人]"
       ],
-      "staticUrl": "assets/bilibili_emoji/160/2987.png",
+      "staticUrl": "assets/bilibili/160/2987.png",
       "isHide": false,
       "packageId": "160",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[拾忆长安_不要啊]"
       ],
-      "staticUrl": "assets/bilibili_emoji/160/2988.png",
+      "staticUrl": "assets/bilibili/160/2988.png",
       "isHide": false,
       "packageId": "160",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[拾忆长安_夕阳下奔跑]"
       ],
-      "staticUrl": "assets/bilibili_emoji/160/2989.png",
+      "staticUrl": "assets/bilibili/160/2989.png",
       "isHide": false,
       "packageId": "160",
       "meta": {

@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "385",
   "name": "最后的召唤师",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/7978e89ee93384d08b13b8555389a563af279e97.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[最后的召唤师_报警了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/385/6408.png",
+      "staticUrl": "assets/bilibili/385/6408.png",
       "isHide": false,
       "packageId": "385",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[最后的召唤师_吃瓜]"
       ],
-      "staticUrl": "assets/bilibili_emoji/385/6409.png",
+      "staticUrl": "assets/bilibili/385/6409.png",
       "isHide": false,
       "packageId": "385",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[最后的召唤师_吃惊]"
       ],
-      "staticUrl": "assets/bilibili_emoji/385/6410.png",
+      "staticUrl": "assets/bilibili/385/6410.png",
       "isHide": false,
       "packageId": "385",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[最后的召唤师_冲]"
       ],
-      "staticUrl": "assets/bilibili_emoji/385/6411.png",
+      "staticUrl": "assets/bilibili/385/6411.png",
       "isHide": false,
       "packageId": "385",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[最后的召唤师_打扰了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/385/6412.png",
+      "staticUrl": "assets/bilibili/385/6412.png",
       "isHide": false,
       "packageId": "385",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[最后的召唤师_呆滞]"
       ],
-      "staticUrl": "assets/bilibili_emoji/385/6413.png",
+      "staticUrl": "assets/bilibili/385/6413.png",
       "isHide": false,
       "packageId": "385",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[最后的召唤师_点赞]"
       ],
-      "staticUrl": "assets/bilibili_emoji/385/6414.png",
+      "staticUrl": "assets/bilibili/385/6414.png",
       "isHide": false,
       "packageId": "385",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[最后的召唤师_盯]"
       ],
-      "staticUrl": "assets/bilibili_emoji/385/6415.png",
+      "staticUrl": "assets/bilibili/385/6415.png",
       "isHide": false,
       "packageId": "385",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[最后的召唤师_朵拉嘲笑]"
       ],
-      "staticUrl": "assets/bilibili_emoji/385/6416.png",
+      "staticUrl": "assets/bilibili/385/6416.png",
       "isHide": false,
       "packageId": "385",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[最后的召唤师_惊]"
       ],
-      "staticUrl": "assets/bilibili_emoji/385/6417.png",
+      "staticUrl": "assets/bilibili/385/6417.png",
       "isHide": false,
       "packageId": "385",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[最后的召唤师_来了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/385/6418.png",
+      "staticUrl": "assets/bilibili/385/6418.png",
       "isHide": false,
       "packageId": "385",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[最后的召唤师_摸摸]"
       ],
-      "staticUrl": "assets/bilibili_emoji/385/6419.png",
+      "staticUrl": "assets/bilibili/385/6419.png",
       "isHide": false,
       "packageId": "385",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[最后的召唤师_去吧]"
       ],
-      "staticUrl": "assets/bilibili_emoji/385/6420.png",
+      "staticUrl": "assets/bilibili/385/6420.png",
       "isHide": false,
       "packageId": "385",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[最后的召唤师_忍耐]"
       ],
-      "staticUrl": "assets/bilibili_emoji/385/6421.png",
+      "staticUrl": "assets/bilibili/385/6421.png",
       "isHide": false,
       "packageId": "385",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[最后的召唤师_生气]"
       ],
-      "staticUrl": "assets/bilibili_emoji/385/6422.png",
+      "staticUrl": "assets/bilibili/385/6422.png",
       "isHide": false,
       "packageId": "385",
       "meta": {
@@ -234,7 +234,7 @@
       "shortCodes": [
         "[最后的召唤师_吐]"
       ],
-      "staticUrl": "assets/bilibili_emoji/385/6423.png",
+      "staticUrl": "assets/bilibili/385/6423.png",
       "isHide": false,
       "packageId": "385",
       "meta": {
@@ -249,7 +249,7 @@
       "shortCodes": [
         "[最后的召唤师_问号]"
       ],
-      "staticUrl": "assets/bilibili_emoji/385/6424.png",
+      "staticUrl": "assets/bilibili/385/6424.png",
       "isHide": false,
       "packageId": "385",
       "meta": {
@@ -264,7 +264,7 @@
       "shortCodes": [
         "[最后的召唤师_歇歇]"
       ],
-      "staticUrl": "assets/bilibili_emoji/385/6425.png",
+      "staticUrl": "assets/bilibili/385/6425.png",
       "isHide": false,
       "packageId": "385",
       "meta": {
@@ -279,7 +279,7 @@
       "shortCodes": [
         "[最后的召唤师_摇尾巴]"
       ],
-      "staticUrl": "assets/bilibili_emoji/385/6426.png",
+      "staticUrl": "assets/bilibili/385/6426.png",
       "isHide": false,
       "packageId": "385",
       "meta": {
@@ -294,7 +294,7 @@
       "shortCodes": [
         "[最后的召唤师_一顿操作]"
       ],
-      "staticUrl": "assets/bilibili_emoji/385/6427.png",
+      "staticUrl": "assets/bilibili/385/6427.png",
       "isHide": false,
       "packageId": "385",
       "meta": {

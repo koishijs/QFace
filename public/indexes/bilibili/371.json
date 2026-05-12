@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "371",
   "name": "非正式会谈",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/b7e890acc0811ee7422b62ee374d087083b2cbf4.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[非正式会谈_nice]"
       ],
-      "staticUrl": "assets/bilibili_emoji/371/6112.png",
+      "staticUrl": "assets/bilibili/371/6112.png",
       "isHide": false,
       "packageId": "371",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[非正式会谈_O式嫌弃]"
       ],
-      "staticUrl": "assets/bilibili_emoji/371/6113.png",
+      "staticUrl": "assets/bilibili/371/6113.png",
       "isHide": false,
       "packageId": "371",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[非正式会谈_yes]"
       ],
-      "staticUrl": "assets/bilibili_emoji/371/6114.png",
+      "staticUrl": "assets/bilibili/371/6114.png",
       "isHide": false,
       "packageId": "371",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[非正式会谈_沉迷学习]"
       ],
-      "staticUrl": "assets/bilibili_emoji/371/6115.png",
+      "staticUrl": "assets/bilibili/371/6115.png",
       "isHide": false,
       "packageId": "371",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[非正式会谈_感到气气]"
       ],
-      "staticUrl": "assets/bilibili_emoji/371/6116.png",
+      "staticUrl": "assets/bilibili/371/6116.png",
       "isHide": false,
       "packageId": "371",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[非正式会谈_干哈呢]"
       ],
-      "staticUrl": "assets/bilibili_emoji/371/6117.png",
+      "staticUrl": "assets/bilibili/371/6117.png",
       "isHide": false,
       "packageId": "371",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[非正式会谈_贵妇震惊]"
       ],
-      "staticUrl": "assets/bilibili_emoji/371/6118.png",
+      "staticUrl": "assets/bilibili/371/6118.png",
       "isHide": false,
       "packageId": "371",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[非正式会谈_你明白吗]"
       ],
-      "staticUrl": "assets/bilibili_emoji/371/6119.png",
+      "staticUrl": "assets/bilibili/371/6119.png",
       "isHide": false,
       "packageId": "371",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[非正式会谈_贴贴]"
       ],
-      "staticUrl": "assets/bilibili_emoji/371/6121.png",
+      "staticUrl": "assets/bilibili/371/6121.png",
       "isHide": false,
       "packageId": "371",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[非正式会谈_耶]"
       ],
-      "staticUrl": "assets/bilibili_emoji/371/6122.png",
+      "staticUrl": "assets/bilibili/371/6122.png",
       "isHide": false,
       "packageId": "371",
       "meta": {

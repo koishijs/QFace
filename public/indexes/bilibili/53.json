@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "53",
   "name": "热词系列一",
   "coverUrl": "https://i0.hdslb.com/bfs/emote/3e2f1385777a3428f413dea75755abb5d4fd7b08.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[热词系列_再给一集]"
       ],
-      "staticUrl": "assets/bilibili_emoji/53/102630.png",
+      "staticUrl": "assets/bilibili/53/102630.png",
       "isHide": false,
       "packageId": "53",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[热词系列_啊?]"
       ],
-      "staticUrl": "assets/bilibili_emoji/53/56450.png",
+      "staticUrl": "assets/bilibili/53/56450.png",
       "isHide": false,
       "packageId": "53",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[热词系列_发刀大队]"
       ],
-      "staticUrl": "assets/bilibili_emoji/53/114875.png",
+      "staticUrl": "assets/bilibili/53/114875.png",
       "isHide": false,
       "packageId": "53",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[热词系列_道友请了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/53/116115.png",
+      "staticUrl": "assets/bilibili/53/116115.png",
       "isHide": false,
       "packageId": "53",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[热词系列_念头通达]"
       ],
-      "staticUrl": "assets/bilibili_emoji/53/116116.png",
+      "staticUrl": "assets/bilibili/53/116116.png",
       "isHide": false,
       "packageId": "53",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[热词表情_世萌双冠]"
       ],
-      "staticUrl": "assets/bilibili_emoji/53/14690.png",
+      "staticUrl": "assets/bilibili/53/14690.png",
       "isHide": false,
       "packageId": "53",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[热词系列_谢谢老师]"
       ],
-      "staticUrl": "assets/bilibili_emoji/53/4649.png",
+      "staticUrl": "assets/bilibili/53/4649.png",
       "isHide": false,
       "packageId": "53",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[热词系列_六到无语]"
       ],
-      "staticUrl": "assets/bilibili_emoji/53/39017.png",
+      "staticUrl": "assets/bilibili/53/39017.png",
       "isHide": false,
       "packageId": "53",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[热词系列_美貌惊人]"
       ],
-      "staticUrl": "assets/bilibili_emoji/53/40563.png",
+      "staticUrl": "assets/bilibili/53/40563.png",
       "isHide": false,
       "packageId": "53",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[热词系列_干杯]"
       ],
-      "staticUrl": "assets/bilibili_emoji/53/5402.png",
+      "staticUrl": "assets/bilibili/53/5402.png",
       "isHide": false,
       "packageId": "53",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[热词系列_肥肠自信]"
       ],
-      "staticUrl": "assets/bilibili_emoji/53/14716.png",
+      "staticUrl": "assets/bilibili/53/14716.png",
       "isHide": false,
       "packageId": "53",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[热词系列_我故意的]"
       ],
-      "staticUrl": "assets/bilibili_emoji/53/14717.png",
+      "staticUrl": "assets/bilibili/53/14717.png",
       "isHide": false,
       "packageId": "53",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[热词系列_知识增加]"
       ],
-      "staticUrl": "assets/bilibili_emoji/53/1937.png",
+      "staticUrl": "assets/bilibili/53/1937.png",
       "isHide": false,
       "packageId": "53",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[热词系列_三连]"
       ],
-      "staticUrl": "assets/bilibili_emoji/53/1483.png",
+      "staticUrl": "assets/bilibili/53/1483.png",
       "isHide": false,
       "packageId": "53",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[热词系列_妙啊]"
       ],
-      "staticUrl": "assets/bilibili_emoji/53/1493.png",
+      "staticUrl": "assets/bilibili/53/1493.png",
       "isHide": false,
       "packageId": "53",
       "meta": {
@@ -234,7 +234,7 @@
       "shortCodes": [
         "[热词系列_哇酷哇酷]"
       ],
-      "staticUrl": "assets/bilibili_emoji/53/52225.png",
+      "staticUrl": "assets/bilibili/53/52225.png",
       "isHide": false,
       "packageId": "53",
       "meta": {
@@ -249,7 +249,7 @@
       "shortCodes": [
         "[热词系列_呵呵]"
       ],
-      "staticUrl": "assets/bilibili_emoji/53/52226.png",
+      "staticUrl": "assets/bilibili/53/52226.png",
       "isHide": false,
       "packageId": "53",
       "meta": {
@@ -264,7 +264,7 @@
       "shortCodes": [
         "[热词系列_上任鹅城]"
       ],
-      "staticUrl": "assets/bilibili_emoji/53/62994.png",
+      "staticUrl": "assets/bilibili/53/62994.png",
       "isHide": false,
       "packageId": "53",
       "meta": {
@@ -279,7 +279,7 @@
       "shortCodes": [
         "[热词系列_优雅]"
       ],
-      "staticUrl": "assets/bilibili_emoji/53/6533.png",
+      "staticUrl": "assets/bilibili/53/6533.png",
       "isHide": false,
       "packageId": "53",
       "meta": {
@@ -294,7 +294,7 @@
       "shortCodes": [
         "[热词表情_哎呦不错哦]"
       ],
-      "staticUrl": "assets/bilibili_emoji/53/7179.png",
+      "staticUrl": "assets/bilibili/53/7179.png",
       "isHide": false,
       "packageId": "53",
       "meta": {
@@ -309,7 +309,7 @@
       "shortCodes": [
         "[热词系列_好耶]"
       ],
-      "staticUrl": "assets/bilibili_emoji/53/3218.png",
+      "staticUrl": "assets/bilibili/53/3218.png",
       "isHide": false,
       "packageId": "53",
       "meta": {
@@ -324,7 +324,7 @@
       "shortCodes": [
         "[热词系列_你币有了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/53/1492.png",
+      "staticUrl": "assets/bilibili/53/1492.png",
       "isHide": false,
       "packageId": "53",
       "meta": {
@@ -339,7 +339,7 @@
       "shortCodes": [
         "[热词系列_吹爆]"
       ],
-      "staticUrl": "assets/bilibili_emoji/53/1482.png",
+      "staticUrl": "assets/bilibili/53/1482.png",
       "isHide": false,
       "packageId": "53",
       "meta": {
@@ -354,7 +354,7 @@
       "shortCodes": [
         "[念诗之王]"
       ],
-      "staticUrl": "assets/bilibili_emoji/53/13712.png",
+      "staticUrl": "assets/bilibili/53/13712.png",
       "isHide": false,
       "packageId": "53",
       "meta": {
@@ -369,7 +369,7 @@
       "shortCodes": [
         "[热词系列_对象]"
       ],
-      "staticUrl": "assets/bilibili_emoji/53/4450.png",
+      "staticUrl": "assets/bilibili/53/4450.png",
       "isHide": false,
       "packageId": "53",
       "meta": {
@@ -384,7 +384,7 @@
       "shortCodes": [
         "[热词系列_不孤鸟]"
       ],
-      "staticUrl": "assets/bilibili_emoji/53/3304.png",
+      "staticUrl": "assets/bilibili/53/3304.png",
       "isHide": false,
       "packageId": "53",
       "meta": {
@@ -399,7 +399,7 @@
       "shortCodes": [
         "[热词系列_洛水天依]"
       ],
-      "staticUrl": "assets/bilibili_emoji/53/7257.png",
+      "staticUrl": "assets/bilibili/53/7257.png",
       "isHide": false,
       "packageId": "53",
       "meta": {
@@ -414,7 +414,7 @@
       "shortCodes": [
         "[热词系列_秀]"
       ],
-      "staticUrl": "assets/bilibili_emoji/53/1494.png",
+      "staticUrl": "assets/bilibili/53/1494.png",
       "isHide": false,
       "packageId": "53",
       "meta": {
@@ -429,7 +429,7 @@
       "shortCodes": [
         "[热词系列_标准结局]"
       ],
-      "staticUrl": "assets/bilibili_emoji/53/1966.png",
+      "staticUrl": "assets/bilibili/53/1966.png",
       "isHide": false,
       "packageId": "53",
       "meta": {
@@ -444,7 +444,7 @@
       "shortCodes": [
         "[热词系列_B站有房]"
       ],
-      "staticUrl": "assets/bilibili_emoji/53/5584.png",
+      "staticUrl": "assets/bilibili/53/5584.png",
       "isHide": false,
       "packageId": "53",
       "meta": {
@@ -459,7 +459,7 @@
       "shortCodes": [
         "[热词系列_破防了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/53/5275.png",
+      "staticUrl": "assets/bilibili/53/5275.png",
       "isHide": false,
       "packageId": "53",
       "meta": {
@@ -474,7 +474,7 @@
       "shortCodes": [
         "[热词系列_多谢款待]"
       ],
-      "staticUrl": "assets/bilibili_emoji/53/5037.png",
+      "staticUrl": "assets/bilibili/53/5037.png",
       "isHide": false,
       "packageId": "53",
       "meta": {
@@ -489,7 +489,7 @@
       "shortCodes": [
         "[热词系列_燃起来了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/53/4842.png",
+      "staticUrl": "assets/bilibili/53/4842.png",
       "isHide": false,
       "packageId": "53",
       "meta": {
@@ -504,7 +504,7 @@
       "shortCodes": [
         "[热词系列_赛博考古]"
       ],
-      "staticUrl": "assets/bilibili_emoji/53/107279.png",
+      "staticUrl": "assets/bilibili/53/107279.png",
       "isHide": false,
       "packageId": "53",
       "meta": {
@@ -519,7 +519,7 @@
       "shortCodes": [
         "[热词系列_饮茶先啦]"
       ],
-      "staticUrl": "assets/bilibili_emoji/53/3727.png",
+      "staticUrl": "assets/bilibili/53/3727.png",
       "isHide": false,
       "packageId": "53",
       "meta": {
@@ -534,7 +534,7 @@
       "shortCodes": [
         "[热词系列_再来亿遍]"
       ],
-      "staticUrl": "assets/bilibili_emoji/53/3219.png",
+      "staticUrl": "assets/bilibili/53/3219.png",
       "isHide": false,
       "packageId": "53",
       "meta": {
@@ -549,7 +549,7 @@
       "shortCodes": [
         "[热词系列_热乎]"
       ],
-      "staticUrl": "assets/bilibili_emoji/53/3220.png",
+      "staticUrl": "assets/bilibili/53/3220.png",
       "isHide": false,
       "packageId": "53",
       "meta": {
@@ -564,7 +564,7 @@
       "shortCodes": [
         "[热词系列_好活]"
       ],
-      "staticUrl": "assets/bilibili_emoji/53/3221.png",
+      "staticUrl": "assets/bilibili/53/3221.png",
       "isHide": false,
       "packageId": "53",
       "meta": {
@@ -579,7 +579,7 @@
       "shortCodes": [
         "[热词系列_好家伙]"
       ],
-      "staticUrl": "assets/bilibili_emoji/53/2651.png",
+      "staticUrl": "assets/bilibili/53/2651.png",
       "isHide": false,
       "packageId": "53",
       "meta": {
@@ -594,7 +594,7 @@
       "shortCodes": [
         "[热词系列_排面]"
       ],
-      "staticUrl": "assets/bilibili_emoji/53/3222.png",
+      "staticUrl": "assets/bilibili/53/3222.png",
       "isHide": false,
       "packageId": "53",
       "meta": {
@@ -609,7 +609,7 @@
       "shortCodes": [
         "[热词系列_爷青回]"
       ],
-      "staticUrl": "assets/bilibili_emoji/53/2545.png",
+      "staticUrl": "assets/bilibili/53/2545.png",
       "isHide": false,
       "packageId": "53",
       "meta": {
@@ -624,7 +624,7 @@
       "shortCodes": [
         "[热词系列_芜湖起飞]"
       ],
-      "staticUrl": "assets/bilibili_emoji/53/2494.png",
+      "staticUrl": "assets/bilibili/53/2494.png",
       "isHide": false,
       "packageId": "53",
       "meta": {
@@ -639,7 +639,7 @@
       "shortCodes": [
         "[热词系列_夺笋呐]"
       ],
-      "staticUrl": "assets/bilibili_emoji/53/3444.png",
+      "staticUrl": "assets/bilibili/53/3444.png",
       "isHide": false,
       "packageId": "53",
       "meta": {
@@ -654,7 +654,7 @@
       "shortCodes": [
         "[热词系列_两面包夹芝士]"
       ],
-      "staticUrl": "assets/bilibili_emoji/53/3696.png",
+      "staticUrl": "assets/bilibili/53/3696.png",
       "isHide": false,
       "packageId": "53",
       "meta": {
@@ -669,7 +669,7 @@
       "shortCodes": [
         "[热词系列_梦幻联动]"
       ],
-      "staticUrl": "assets/bilibili_emoji/53/2212.png",
+      "staticUrl": "assets/bilibili/53/2212.png",
       "isHide": false,
       "packageId": "53",
       "meta": {
@@ -684,7 +684,7 @@
       "shortCodes": [
         "[热词系列_泪目]"
       ],
-      "staticUrl": "assets/bilibili_emoji/53/2083.png",
+      "staticUrl": "assets/bilibili/53/2083.png",
       "isHide": false,
       "packageId": "53",
       "meta": {
@@ -699,7 +699,7 @@
       "shortCodes": [
         "[热词系列_保护]"
       ],
-      "staticUrl": "assets/bilibili_emoji/53/2082.png",
+      "staticUrl": "assets/bilibili/53/2082.png",
       "isHide": false,
       "packageId": "53",
       "meta": {
@@ -714,7 +714,7 @@
       "shortCodes": [
         "[热词系列_爱了爱了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/53/1967.png",
+      "staticUrl": "assets/bilibili/53/1967.png",
       "isHide": false,
       "packageId": "53",
       "meta": {
@@ -729,7 +729,7 @@
       "shortCodes": [
         "[热词系列_可以]"
       ],
-      "staticUrl": "assets/bilibili_emoji/53/1487.png",
+      "staticUrl": "assets/bilibili/53/1487.png",
       "isHide": false,
       "packageId": "53",
       "meta": {
@@ -744,7 +744,7 @@
       "shortCodes": [
         "[热词系列_希望没事]"
       ],
-      "staticUrl": "assets/bilibili_emoji/53/2147.png",
+      "staticUrl": "assets/bilibili/53/2147.png",
       "isHide": false,
       "packageId": "53",
       "meta": {
@@ -759,7 +759,7 @@
       "shortCodes": [
         "[热词系列_打卡]"
       ],
-      "staticUrl": "assets/bilibili_emoji/53/1485.png",
+      "staticUrl": "assets/bilibili/53/1485.png",
       "isHide": false,
       "packageId": "53",
       "meta": {
@@ -774,7 +774,7 @@
       "shortCodes": [
         "[热词系列_DNA]"
       ],
-      "staticUrl": "assets/bilibili_emoji/53/2321.png",
+      "staticUrl": "assets/bilibili/53/2321.png",
       "isHide": false,
       "packageId": "53",
       "meta": {
@@ -789,7 +789,7 @@
       "shortCodes": [
         "[热词系列_这次一定]"
       ],
-      "staticUrl": "assets/bilibili_emoji/53/1963.png",
+      "staticUrl": "assets/bilibili/53/1963.png",
       "isHide": false,
       "packageId": "53",
       "meta": {
@@ -804,7 +804,7 @@
       "shortCodes": [
         "[热词系列_AWSL]"
       ],
-      "staticUrl": "assets/bilibili_emoji/53/1884.png",
+      "staticUrl": "assets/bilibili/53/1884.png",
       "isHide": false,
       "packageId": "53",
       "meta": {
@@ -819,7 +819,7 @@
       "shortCodes": [
         "[热词系列_霸体在此]"
       ],
-      "staticUrl": "assets/bilibili_emoji/53/124053.png",
+      "staticUrl": "assets/bilibili/53/124053.png",
       "isHide": false,
       "packageId": "53",
       "meta": {
@@ -834,7 +834,7 @@
       "shortCodes": [
         "[热词系列_递话筒]"
       ],
-      "staticUrl": "assets/bilibili_emoji/53/2022.png",
+      "staticUrl": "assets/bilibili/53/2022.png",
       "isHide": false,
       "packageId": "53",
       "meta": {
@@ -849,7 +849,7 @@
       "shortCodes": [
         "[热词系列_你细品]"
       ],
-      "staticUrl": "assets/bilibili_emoji/53/1959.png",
+      "staticUrl": "assets/bilibili/53/1959.png",
       "isHide": false,
       "packageId": "53",
       "meta": {
@@ -864,7 +864,7 @@
       "shortCodes": [
         "[热词系列_咕咕]"
       ],
-      "staticUrl": "assets/bilibili_emoji/53/2009.png",
+      "staticUrl": "assets/bilibili/53/2009.png",
       "isHide": false,
       "packageId": "53",
       "meta": {
@@ -879,7 +879,7 @@
       "shortCodes": [
         "[热词系列_张三]"
       ],
-      "staticUrl": "assets/bilibili_emoji/53/1998.png",
+      "staticUrl": "assets/bilibili/53/1998.png",
       "isHide": false,
       "packageId": "53",
       "meta": {
@@ -894,7 +894,7 @@
       "shortCodes": [
         "[热词系列_害]"
       ],
-      "staticUrl": "assets/bilibili_emoji/53/1965.png",
+      "staticUrl": "assets/bilibili/53/1965.png",
       "isHide": false,
       "packageId": "53",
       "meta": {
@@ -909,7 +909,7 @@
       "shortCodes": [
         "[热词系列_我裂开了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/53/1969.png",
+      "staticUrl": "assets/bilibili/53/1969.png",
       "isHide": false,
       "packageId": "53",
       "meta": {
@@ -924,7 +924,7 @@
       "shortCodes": [
         "[热词系列_有内味了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/53/1960.png",
+      "staticUrl": "assets/bilibili/53/1960.png",
       "isHide": false,
       "packageId": "53",
       "meta": {
@@ -939,7 +939,7 @@
       "shortCodes": [
         "[热词系列_猛男必看]"
       ],
-      "staticUrl": "assets/bilibili_emoji/53/1961.png",
+      "staticUrl": "assets/bilibili/53/1961.png",
       "isHide": false,
       "packageId": "53",
       "meta": {
@@ -954,7 +954,7 @@
       "shortCodes": [
         "[热词系列_奥力给]"
       ],
-      "staticUrl": "assets/bilibili_emoji/53/1885.png",
+      "staticUrl": "assets/bilibili/53/1885.png",
       "isHide": false,
       "packageId": "53",
       "meta": {
@@ -969,7 +969,7 @@
       "shortCodes": [
         "[热词系列_神仙UP]"
       ],
-      "staticUrl": "assets/bilibili_emoji/53/1869.png",
+      "staticUrl": "assets/bilibili/53/1869.png",
       "isHide": false,
       "packageId": "53",
       "meta": {
@@ -984,7 +984,7 @@
       "shortCodes": [
         "[热词系列_问号]"
       ],
-      "staticUrl": "assets/bilibili_emoji/53/2021.png",
+      "staticUrl": "assets/bilibili/53/2021.png",
       "isHide": false,
       "packageId": "53",
       "meta": {
@@ -999,7 +999,7 @@
       "shortCodes": [
         "[热词系列_我哭了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/53/1962.png",
+      "staticUrl": "assets/bilibili/53/1962.png",
       "isHide": false,
       "packageId": "53",
       "meta": {
@@ -1014,7 +1014,7 @@
       "shortCodes": [
         "[热词系列_不愧是你]"
       ],
-      "staticUrl": "assets/bilibili_emoji/53/1867.png",
+      "staticUrl": "assets/bilibili/53/1867.png",
       "isHide": false,
       "packageId": "53",
       "meta": {
@@ -1029,7 +1029,7 @@
       "shortCodes": [
         "[热词系列_高产]"
       ],
-      "staticUrl": "assets/bilibili_emoji/53/1484.png",
+      "staticUrl": "assets/bilibili/53/1484.png",
       "isHide": false,
       "packageId": "53",
       "meta": {
@@ -1044,7 +1044,7 @@
       "shortCodes": [
         "[热词系列_真香]"
       ],
-      "staticUrl": "assets/bilibili_emoji/53/1491.png",
+      "staticUrl": "assets/bilibili/53/1491.png",
       "isHide": false,
       "packageId": "53",
       "meta": {
@@ -1059,7 +1059,7 @@
       "shortCodes": [
         "[热词系列_我全都要]"
       ],
-      "staticUrl": "assets/bilibili_emoji/53/1490.png",
+      "staticUrl": "assets/bilibili/53/1490.png",
       "isHide": false,
       "packageId": "53",
       "meta": {
@@ -1074,7 +1074,7 @@
       "shortCodes": [
         "[热词系列_爷关更]"
       ],
-      "staticUrl": "assets/bilibili_emoji/53/1495.png",
+      "staticUrl": "assets/bilibili/53/1495.png",
       "isHide": false,
       "packageId": "53",
       "meta": {
@@ -1089,7 +1089,7 @@
       "shortCodes": [
         "[热词系列_锤]"
       ],
-      "staticUrl": "assets/bilibili_emoji/53/1488.png",
+      "staticUrl": "assets/bilibili/53/1488.png",
       "isHide": false,
       "packageId": "53",
       "meta": {
@@ -1104,7 +1104,7 @@
       "shortCodes": [
         "[热词系列_我酸了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/53/1486.png",
+      "staticUrl": "assets/bilibili/53/1486.png",
       "isHide": false,
       "packageId": "53",
       "meta": {
@@ -1119,7 +1119,7 @@
       "shortCodes": [
         "[热词系列_有生之年]"
       ],
-      "staticUrl": "assets/bilibili_emoji/53/1496.png",
+      "staticUrl": "assets/bilibili/53/1496.png",
       "isHide": false,
       "packageId": "53",
       "meta": {
@@ -1134,7 +1134,7 @@
       "shortCodes": [
         "[热词系列_镇站之宝]"
       ],
-      "staticUrl": "assets/bilibili_emoji/53/1497.png",
+      "staticUrl": "assets/bilibili/53/1497.png",
       "isHide": false,
       "packageId": "53",
       "meta": {
@@ -1149,7 +1149,7 @@
       "shortCodes": [
         "[热词系列_我太南了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/53/1870.png",
+      "staticUrl": "assets/bilibili/53/1870.png",
       "isHide": false,
       "packageId": "53",
       "meta": {
@@ -1164,7 +1164,7 @@
       "shortCodes": [
         "[热词系列_完结撒花]"
       ],
-      "staticUrl": "assets/bilibili_emoji/53/1489.png",
+      "staticUrl": "assets/bilibili/53/1489.png",
       "isHide": false,
       "packageId": "53",
       "meta": {
@@ -1179,7 +1179,7 @@
       "shortCodes": [
         "[热词系列_大师球]"
       ],
-      "staticUrl": "assets/bilibili_emoji/53/1868.png",
+      "staticUrl": "assets/bilibili/53/1868.png",
       "isHide": false,
       "packageId": "53",
       "meta": {
@@ -1194,7 +1194,7 @@
       "shortCodes": [
         "[热词系列_知识盲区]"
       ],
-      "staticUrl": "assets/bilibili_emoji/53/1871.png",
+      "staticUrl": "assets/bilibili/53/1871.png",
       "isHide": false,
       "packageId": "53",
       "meta": {
@@ -1209,7 +1209,7 @@
       "shortCodes": [
         "[热词系列_“狼火”]"
       ],
-      "staticUrl": "assets/bilibili_emoji/53/1873.png",
+      "staticUrl": "assets/bilibili/53/1873.png",
       "isHide": false,
       "packageId": "53",
       "meta": {
@@ -1224,7 +1224,7 @@
       "shortCodes": [
         "[热词系列_你可真星]"
       ],
-      "staticUrl": "assets/bilibili_emoji/53/2125.png",
+      "staticUrl": "assets/bilibili/53/2125.png",
       "isHide": false,
       "packageId": "53",
       "meta": {

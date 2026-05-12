@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "120",
   "name": "阴阳师海国之境",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/b2f2d90eb012b423e342fb7d6a267b646039cccf.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[海国之境_爱你哦]"
       ],
-      "staticUrl": "assets/bilibili_emoji/120/2459.png",
+      "staticUrl": "assets/bilibili/120/2459.png",
       "isHide": false,
       "packageId": "120",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[海国之境_暗中观察]"
       ],
-      "staticUrl": "assets/bilibili_emoji/120/2460.png",
+      "staticUrl": "assets/bilibili/120/2460.png",
       "isHide": false,
       "packageId": "120",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[海国之境_宝藏男孩]"
       ],
-      "staticUrl": "assets/bilibili_emoji/120/2461.png",
+      "staticUrl": "assets/bilibili/120/2461.png",
       "isHide": false,
       "packageId": "120",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[海国之境_补防晒]"
       ],
-      "staticUrl": "assets/bilibili_emoji/120/2462.png",
+      "staticUrl": "assets/bilibili/120/2462.png",
       "isHide": false,
       "packageId": "120",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[海国之境_不过如此]"
       ],
-      "staticUrl": "assets/bilibili_emoji/120/2463.png",
+      "staticUrl": "assets/bilibili/120/2463.png",
       "isHide": false,
       "packageId": "120",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[海国之境_不会吧]"
       ],
-      "staticUrl": "assets/bilibili_emoji/120/2464.png",
+      "staticUrl": "assets/bilibili/120/2464.png",
       "isHide": false,
       "packageId": "120",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[海国之境_心碎等待]"
       ],
-      "staticUrl": "assets/bilibili_emoji/120/2465.png",
+      "staticUrl": "assets/bilibili/120/2465.png",
       "isHide": false,
       "packageId": "120",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[海国之境_来份鱼丸]"
       ],
-      "staticUrl": "assets/bilibili_emoji/120/2466.png",
+      "staticUrl": "assets/bilibili/120/2466.png",
       "isHide": false,
       "packageId": "120",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[海国之境_你有吗]"
       ],
-      "staticUrl": "assets/bilibili_emoji/120/2467.png",
+      "staticUrl": "assets/bilibili/120/2467.png",
       "isHide": false,
       "packageId": "120",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[海国之境_我不听]"
       ],
-      "staticUrl": "assets/bilibili_emoji/120/2468.png",
+      "staticUrl": "assets/bilibili/120/2468.png",
       "isHide": false,
       "packageId": "120",
       "meta": {

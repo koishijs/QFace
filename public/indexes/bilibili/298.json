@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "298",
   "name": "阿巳小铃铛",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/ea7245b758ffcb427ab977037387a7b4f4870459.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[阿巳小铃铛_不愧是你]"
       ],
-      "staticUrl": "assets/bilibili_emoji/298/4902.png",
+      "staticUrl": "assets/bilibili/298/4902.png",
       "isHide": false,
       "packageId": "298",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[阿巳小铃铛_吃我一砖]"
       ],
-      "staticUrl": "assets/bilibili_emoji/298/4903.png",
+      "staticUrl": "assets/bilibili/298/4903.png",
       "isHide": false,
       "packageId": "298",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[阿巳小铃铛_冲鸭]"
       ],
-      "staticUrl": "assets/bilibili_emoji/298/4904.png",
+      "staticUrl": "assets/bilibili/298/4904.png",
       "isHide": false,
       "packageId": "298",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[阿巳小铃铛_抚摸抚摸]"
       ],
-      "staticUrl": "assets/bilibili_emoji/298/4905.png",
+      "staticUrl": "assets/bilibili/298/4905.png",
       "isHide": false,
       "packageId": "298",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[阿巳小铃铛_干饭]"
       ],
-      "staticUrl": "assets/bilibili_emoji/298/2748.png",
+      "staticUrl": "assets/bilibili/298/2748.png",
       "isHide": false,
       "packageId": "298",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[阿巳小铃铛_惊呆]"
       ],
-      "staticUrl": "assets/bilibili_emoji/298/4906.png",
+      "staticUrl": "assets/bilibili/298/4906.png",
       "isHide": false,
       "packageId": "298",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[阿巳小铃铛_没爱了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/298/4907.png",
+      "staticUrl": "assets/bilibili/298/4907.png",
       "isHide": false,
       "packageId": "298",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[阿巳小铃铛_你礼貌吗]"
       ],
-      "staticUrl": "assets/bilibili_emoji/298/4908.png",
+      "staticUrl": "assets/bilibili/298/4908.png",
       "isHide": false,
       "packageId": "298",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[阿巳小铃铛_生气]"
       ],
-      "staticUrl": "assets/bilibili_emoji/298/4909.png",
+      "staticUrl": "assets/bilibili/298/4909.png",
       "isHide": false,
       "packageId": "298",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[阿巳小铃铛_是心动呀]"
       ],
-      "staticUrl": "assets/bilibili_emoji/298/4910.png",
+      "staticUrl": "assets/bilibili/298/4910.png",
       "isHide": false,
       "packageId": "298",
       "meta": {

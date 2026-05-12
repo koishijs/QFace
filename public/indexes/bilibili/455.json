@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "455",
   "name": "Vox Akuma",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/2260a8739cc92895ad2cb93b34d2ec7344075b56.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[Vox Akuma_酒菜盒子]"
       ],
-      "staticUrl": "assets/bilibili_emoji/455/7930.png",
+      "staticUrl": "assets/bilibili/455/7930.png",
       "isHide": false,
       "packageId": "455",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[Vox Akuma_冷静]"
       ],
-      "staticUrl": "assets/bilibili_emoji/455/7931.png",
+      "staticUrl": "assets/bilibili/455/7931.png",
       "isHide": false,
       "packageId": "455",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[Vox Akuma_眠了眠了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/455/7932.png",
+      "staticUrl": "assets/bilibili/455/7932.png",
       "isHide": false,
       "packageId": "455",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[Vox Akuma_技术故障]"
       ],
-      "staticUrl": "assets/bilibili_emoji/455/7933.png",
+      "staticUrl": "assets/bilibili/455/7933.png",
       "isHide": false,
       "packageId": "455",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[Vox Akuma_威胁]"
       ],
-      "staticUrl": "assets/bilibili_emoji/455/7934.png",
+      "staticUrl": "assets/bilibili/455/7934.png",
       "isHide": false,
       "packageId": "455",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[Vox Akuma_猩猩]"
       ],
-      "staticUrl": "assets/bilibili_emoji/455/7935.png",
+      "staticUrl": "assets/bilibili/455/7935.png",
       "isHide": false,
       "packageId": "455",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[Vox Akuma_认可]"
       ],
-      "staticUrl": "assets/bilibili_emoji/455/7936.png",
+      "staticUrl": "assets/bilibili/455/7936.png",
       "isHide": false,
       "packageId": "455",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[Vox Akuma_淦]"
       ],
-      "staticUrl": "assets/bilibili_emoji/455/7937.png",
+      "staticUrl": "assets/bilibili/455/7937.png",
       "isHide": false,
       "packageId": "455",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[Vox Akuma_专业]"
       ],
-      "staticUrl": "assets/bilibili_emoji/455/7938.png",
+      "staticUrl": "assets/bilibili/455/7938.png",
       "isHide": false,
       "packageId": "455",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[Vox Akuma_思考]"
       ],
-      "staticUrl": "assets/bilibili_emoji/455/7939.png",
+      "staticUrl": "assets/bilibili/455/7939.png",
       "isHide": false,
       "packageId": "455",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[Vox Akuma_嘿嘿]"
       ],
-      "staticUrl": "assets/bilibili_emoji/455/7940.png",
+      "staticUrl": "assets/bilibili/455/7940.png",
       "isHide": false,
       "packageId": "455",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[Vox Akuma_哼]"
       ],
-      "staticUrl": "assets/bilibili_emoji/455/7941.png",
+      "staticUrl": "assets/bilibili/455/7941.png",
       "isHide": false,
       "packageId": "455",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[Vox Akuma_祈祷]"
       ],
-      "staticUrl": "assets/bilibili_emoji/455/7942.png",
+      "staticUrl": "assets/bilibili/455/7942.png",
       "isHide": false,
       "packageId": "455",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[Vox Akuma_无语]"
       ],
-      "staticUrl": "assets/bilibili_emoji/455/7943.png",
+      "staticUrl": "assets/bilibili/455/7943.png",
       "isHide": false,
       "packageId": "455",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[Vox Akuma_吸氧]"
       ],
-      "staticUrl": "assets/bilibili_emoji/455/7944.png",
+      "staticUrl": "assets/bilibili/455/7944.png",
       "isHide": false,
       "packageId": "455",
       "meta": {
@@ -234,7 +234,7 @@
       "shortCodes": [
         "[Vox Akuma_震惊]"
       ],
-      "staticUrl": "assets/bilibili_emoji/455/7945.png",
+      "staticUrl": "assets/bilibili/455/7945.png",
       "isHide": false,
       "packageId": "455",
       "meta": {
@@ -249,7 +249,7 @@
       "shortCodes": [
         "[Vox Akuma_难过]"
       ],
-      "staticUrl": "assets/bilibili_emoji/455/7946.png",
+      "staticUrl": "assets/bilibili/455/7946.png",
       "isHide": false,
       "packageId": "455",
       "meta": {
@@ -264,7 +264,7 @@
       "shortCodes": [
         "[Vox Akuma_害怕]"
       ],
-      "staticUrl": "assets/bilibili_emoji/455/7947.png",
+      "staticUrl": "assets/bilibili/455/7947.png",
       "isHide": false,
       "packageId": "455",
       "meta": {
@@ -279,7 +279,7 @@
       "shortCodes": [
         "[Vox Akuma_帮大忙了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/455/7948.png",
+      "staticUrl": "assets/bilibili/455/7948.png",
       "isHide": false,
       "packageId": "455",
       "meta": {
@@ -294,7 +294,7 @@
       "shortCodes": [
         "[Vox Akuma_累了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/455/7949.png",
+      "staticUrl": "assets/bilibili/455/7949.png",
       "isHide": false,
       "packageId": "455",
       "meta": {

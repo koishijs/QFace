@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "499",
   "name": "纳豆 nado",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/6e3406d99ed64b25f3c8b5dec124afda316d6c4a.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[纳豆 nado_GKD]"
       ],
-      "staticUrl": "assets/bilibili_emoji/499/8873.png",
+      "staticUrl": "assets/bilibili/499/8873.png",
       "isHide": false,
       "packageId": "499",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[纳豆 nado_no]"
       ],
-      "staticUrl": "assets/bilibili_emoji/499/8874.png",
+      "staticUrl": "assets/bilibili/499/8874.png",
       "isHide": false,
       "packageId": "499",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[纳豆 nado_yes]"
       ],
-      "staticUrl": "assets/bilibili_emoji/499/8875.png",
+      "staticUrl": "assets/bilibili/499/8875.png",
       "isHide": false,
       "packageId": "499",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[纳豆 nado_比心]"
       ],
-      "staticUrl": "assets/bilibili_emoji/499/8876.png",
+      "staticUrl": "assets/bilibili/499/8876.png",
       "isHide": false,
       "packageId": "499",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[纳豆 nado_馋]"
       ],
-      "staticUrl": "assets/bilibili_emoji/499/8877.png",
+      "staticUrl": "assets/bilibili/499/8877.png",
       "isHide": false,
       "packageId": "499",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[纳豆 nado_冲鸭]"
       ],
-      "staticUrl": "assets/bilibili_emoji/499/8878.png",
+      "staticUrl": "assets/bilibili/499/8878.png",
       "isHide": false,
       "packageId": "499",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[纳豆 nado_戳]"
       ],
-      "staticUrl": "assets/bilibili_emoji/499/8879.png",
+      "staticUrl": "assets/bilibili/499/8879.png",
       "isHide": false,
       "packageId": "499",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[纳豆 nado_薅呆毛]"
       ],
-      "staticUrl": "assets/bilibili_emoji/499/8880.png",
+      "staticUrl": "assets/bilibili/499/8880.png",
       "isHide": false,
       "packageId": "499",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[纳豆 nado_就这]"
       ],
-      "staticUrl": "assets/bilibili_emoji/499/8881.png",
+      "staticUrl": "assets/bilibili/499/8881.png",
       "isHide": false,
       "packageId": "499",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[纳豆 nado_老音乐人]"
       ],
-      "staticUrl": "assets/bilibili_emoji/499/8882.png",
+      "staticUrl": "assets/bilibili/499/8882.png",
       "isHide": false,
       "packageId": "499",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[纳豆 nado_泪目]"
       ],
-      "staticUrl": "assets/bilibili_emoji/499/8883.png",
+      "staticUrl": "assets/bilibili/499/8883.png",
       "isHide": false,
       "packageId": "499",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[纳豆 nado_冒头]"
       ],
-      "staticUrl": "assets/bilibili_emoji/499/8884.png",
+      "staticUrl": "assets/bilibili/499/8884.png",
       "isHide": false,
       "packageId": "499",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[纳豆 nado_柠檬精]"
       ],
-      "staticUrl": "assets/bilibili_emoji/499/8885.png",
+      "staticUrl": "assets/bilibili/499/8885.png",
       "isHide": false,
       "packageId": "499",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[纳豆 nado_亲亲]"
       ],
-      "staticUrl": "assets/bilibili_emoji/499/8886.png",
+      "staticUrl": "assets/bilibili/499/8886.png",
       "isHide": false,
       "packageId": "499",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[纳豆 nado_舒服了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/499/8887.png",
+      "staticUrl": "assets/bilibili/499/8887.png",
       "isHide": false,
       "packageId": "499",
       "meta": {
@@ -234,7 +234,7 @@
       "shortCodes": [
         "[纳豆 nado_晚安]"
       ],
-      "staticUrl": "assets/bilibili_emoji/499/8888.png",
+      "staticUrl": "assets/bilibili/499/8888.png",
       "isHide": false,
       "packageId": "499",
       "meta": {
@@ -249,7 +249,7 @@
       "shortCodes": [
         "[纳豆 nado_问号]"
       ],
-      "staticUrl": "assets/bilibili_emoji/499/8889.png",
+      "staticUrl": "assets/bilibili/499/8889.png",
       "isHide": false,
       "packageId": "499",
       "meta": {
@@ -264,7 +264,7 @@
       "shortCodes": [
         "[纳豆 nado_洗手]"
       ],
-      "staticUrl": "assets/bilibili_emoji/499/8890.png",
+      "staticUrl": "assets/bilibili/499/8890.png",
       "isHide": false,
       "packageId": "499",
       "meta": {
@@ -279,7 +279,7 @@
       "shortCodes": [
         "[纳豆 nado_亿点点]"
       ],
-      "staticUrl": "assets/bilibili_emoji/499/8891.png",
+      "staticUrl": "assets/bilibili/499/8891.png",
       "isHide": false,
       "packageId": "499",
       "meta": {
@@ -294,7 +294,7 @@
       "shortCodes": [
         "[纳豆 nado_元气满满]"
       ],
-      "staticUrl": "assets/bilibili_emoji/499/8892.png",
+      "staticUrl": "assets/bilibili/499/8892.png",
       "isHide": false,
       "packageId": "499",
       "meta": {

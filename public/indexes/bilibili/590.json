@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "590",
   "name": "米诺高分少女",
   "coverUrl": "https://i0.hdslb.com/bfs/emote/cc61a365fc193c9bdc581dcf9eb033a6bca6660e.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[米诺高分少女_哎呀米诺]"
       ],
-      "staticUrl": "assets/bilibili_emoji/590/10713.png",
+      "staticUrl": "assets/bilibili/590/10713.png",
       "isHide": false,
       "packageId": "590",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[米诺高分少女_诶]"
       ],
-      "staticUrl": "assets/bilibili_emoji/590/10714.png",
+      "staticUrl": "assets/bilibili/590/10714.png",
       "isHide": false,
       "packageId": "590",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[米诺高分少女_分我一口]"
       ],
-      "staticUrl": "assets/bilibili_emoji/590/10715.png",
+      "staticUrl": "assets/bilibili/590/10715.png",
       "isHide": false,
       "packageId": "590",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[米诺高分少女_开编]"
       ],
-      "staticUrl": "assets/bilibili_emoji/590/10716.png",
+      "staticUrl": "assets/bilibili/590/10716.png",
       "isHide": false,
       "packageId": "590",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[米诺高分少女_开大]"
       ],
-      "staticUrl": "assets/bilibili_emoji/590/10717.png",
+      "staticUrl": "assets/bilibili/590/10717.png",
       "isHide": false,
       "packageId": "590",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[米诺高分少女_开心]"
       ],
-      "staticUrl": "assets/bilibili_emoji/590/10718.png",
+      "staticUrl": "assets/bilibili/590/10718.png",
       "isHide": false,
       "packageId": "590",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[米诺高分少女_哭]"
       ],
-      "staticUrl": "assets/bilibili_emoji/590/10719.png",
+      "staticUrl": "assets/bilibili/590/10719.png",
       "isHide": false,
       "packageId": "590",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[米诺高分少女_酷诺米]"
       ],
-      "staticUrl": "assets/bilibili_emoji/590/10720.png",
+      "staticUrl": "assets/bilibili/590/10720.png",
       "isHide": false,
       "packageId": "590",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[米诺高分少女_么么哒]"
       ],
-      "staticUrl": "assets/bilibili_emoji/590/10721.png",
+      "staticUrl": "assets/bilibili/590/10721.png",
       "isHide": false,
       "packageId": "590",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[米诺高分少女_米蝓]"
       ],
-      "staticUrl": "assets/bilibili_emoji/590/10722.png",
+      "staticUrl": "assets/bilibili/590/10722.png",
       "isHide": false,
       "packageId": "590",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[米诺高分少女_摸鱼]"
       ],
-      "staticUrl": "assets/bilibili_emoji/590/10723.png",
+      "staticUrl": "assets/bilibili/590/10723.png",
       "isHide": false,
       "packageId": "590",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[米诺高分少女_生气]"
       ],
-      "staticUrl": "assets/bilibili_emoji/590/10724.png",
+      "staticUrl": "assets/bilibili/590/10724.png",
       "isHide": false,
       "packageId": "590",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[米诺高分少女_刷碗]"
       ],
-      "staticUrl": "assets/bilibili_emoji/590/10725.png",
+      "staticUrl": "assets/bilibili/590/10725.png",
       "isHide": false,
       "packageId": "590",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[米诺高分少女_说的道理]"
       ],
-      "staticUrl": "assets/bilibili_emoji/590/10726.png",
+      "staticUrl": "assets/bilibili/590/10726.png",
       "isHide": false,
       "packageId": "590",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[米诺高分少女_疑问]"
       ],
-      "staticUrl": "assets/bilibili_emoji/590/10727.png",
+      "staticUrl": "assets/bilibili/590/10727.png",
       "isHide": false,
       "packageId": "590",
       "meta": {
@@ -234,7 +234,7 @@
       "shortCodes": [
         "[米诺高分少女_EOE]"
       ],
-      "staticUrl": "assets/bilibili_emoji/590/14382.png",
+      "staticUrl": "assets/bilibili/590/14382.png",
       "isHide": false,
       "packageId": "590",
       "meta": {
@@ -249,7 +249,7 @@
       "shortCodes": [
         "[米诺高分少女_prpr]"
       ],
-      "staticUrl": "assets/bilibili_emoji/590/14383.png",
+      "staticUrl": "assets/bilibili/590/14383.png",
       "isHide": false,
       "packageId": "590",
       "meta": {
@@ -264,7 +264,7 @@
       "shortCodes": [
         "[米诺高分少女_绷]"
       ],
-      "staticUrl": "assets/bilibili_emoji/590/14384.png",
+      "staticUrl": "assets/bilibili/590/14384.png",
       "isHide": false,
       "packageId": "590",
       "meta": {
@@ -279,7 +279,7 @@
       "shortCodes": [
         "[米诺高分少女_别急]"
       ],
-      "staticUrl": "assets/bilibili_emoji/590/14385.png",
+      "staticUrl": "assets/bilibili/590/14385.png",
       "isHide": false,
       "packageId": "590",
       "meta": {
@@ -294,7 +294,7 @@
       "shortCodes": [
         "[米诺高分少女_光鼙鼓]"
       ],
-      "staticUrl": "assets/bilibili_emoji/590/14386.png",
+      "staticUrl": "assets/bilibili/590/14386.png",
       "isHide": false,
       "packageId": "590",
       "meta": {
@@ -309,7 +309,7 @@
       "shortCodes": [
         "[米诺高分少女_流汗]"
       ],
-      "staticUrl": "assets/bilibili_emoji/590/14387.png",
+      "staticUrl": "assets/bilibili/590/14387.png",
       "isHide": false,
       "packageId": "590",
       "meta": {
@@ -324,7 +324,7 @@
       "shortCodes": [
         "[米诺高分少女_是碟]"
       ],
-      "staticUrl": "assets/bilibili_emoji/590/14388.png",
+      "staticUrl": "assets/bilibili/590/14388.png",
       "isHide": false,
       "packageId": "590",
       "meta": {
@@ -339,7 +339,7 @@
       "shortCodes": [
         "[米诺高分少女_讨口子]"
       ],
-      "staticUrl": "assets/bilibili_emoji/590/14389.png",
+      "staticUrl": "assets/bilibili/590/14389.png",
       "isHide": false,
       "packageId": "590",
       "meta": {
@@ -354,7 +354,7 @@
       "shortCodes": [
         "[米诺高分少女_吐血]"
       ],
-      "staticUrl": "assets/bilibili_emoji/590/14390.png",
+      "staticUrl": "assets/bilibili/590/14390.png",
       "isHide": false,
       "packageId": "590",
       "meta": {
@@ -369,7 +369,7 @@
       "shortCodes": [
         "[米诺高分少女_易拉罐]"
       ],
-      "staticUrl": "assets/bilibili_emoji/590/14391.png",
+      "staticUrl": "assets/bilibili/590/14391.png",
       "isHide": false,
       "packageId": "590",
       "meta": {

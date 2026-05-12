@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "175",
   "name": "约战·白之女王",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/0ee47379418bc7fc47ee493870cbcb08720ffb26.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[白之女王_傲慢]"
       ],
-      "staticUrl": "assets/bilibili_emoji/175/3192.png",
+      "staticUrl": "assets/bilibili/175/3192.png",
       "isHide": false,
       "packageId": "175",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[白之女王_生气]"
       ],
-      "staticUrl": "assets/bilibili_emoji/175/3193.png",
+      "staticUrl": "assets/bilibili/175/3193.png",
       "isHide": false,
       "packageId": "175",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[白之女王_哼]"
       ],
-      "staticUrl": "assets/bilibili_emoji/175/3194.png",
+      "staticUrl": "assets/bilibili/175/3194.png",
       "isHide": false,
       "packageId": "175",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[白之女王_吐血]"
       ],
-      "staticUrl": "assets/bilibili_emoji/175/3195.png",
+      "staticUrl": "assets/bilibili/175/3195.png",
       "isHide": false,
       "packageId": "175",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[白之女王_害羞]"
       ],
-      "staticUrl": "assets/bilibili_emoji/175/3196.png",
+      "staticUrl": "assets/bilibili/175/3196.png",
       "isHide": false,
       "packageId": "175",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[白之女王_害怕]"
       ],
-      "staticUrl": "assets/bilibili_emoji/175/3197.png",
+      "staticUrl": "assets/bilibili/175/3197.png",
       "isHide": false,
       "packageId": "175",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[白之女王_点赞]"
       ],
-      "staticUrl": "assets/bilibili_emoji/175/3198.png",
+      "staticUrl": "assets/bilibili/175/3198.png",
       "isHide": false,
       "packageId": "175",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[白之女王_无语]"
       ],
-      "staticUrl": "assets/bilibili_emoji/175/3199.png",
+      "staticUrl": "assets/bilibili/175/3199.png",
       "isHide": false,
       "packageId": "175",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[白之女王_崇拜]"
       ],
-      "staticUrl": "assets/bilibili_emoji/175/3200.png",
+      "staticUrl": "assets/bilibili/175/3200.png",
       "isHide": false,
       "packageId": "175",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[白之女王_疑惑]"
       ],
-      "staticUrl": "assets/bilibili_emoji/175/3201.png",
+      "staticUrl": "assets/bilibili/175/3201.png",
       "isHide": false,
       "packageId": "175",
       "meta": {

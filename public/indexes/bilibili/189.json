@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "189",
   "name": "星座系列：白羊座",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/4108bc904461e41a45c5b4f9130395df12865aca.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[星座系列：白羊座_爱心表白]"
       ],
-      "staticUrl": "assets/bilibili_emoji/189/3399.png",
+      "staticUrl": "assets/bilibili/189/3399.png",
       "isHide": false,
       "packageId": "189",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[星座系列：白羊座_蹭蹭]"
       ],
-      "staticUrl": "assets/bilibili_emoji/189/3400.png",
+      "staticUrl": "assets/bilibili/189/3400.png",
       "isHide": false,
       "packageId": "189",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[星座系列：白羊座_冲鸭]"
       ],
-      "staticUrl": "assets/bilibili_emoji/189/3401.png",
+      "staticUrl": "assets/bilibili/189/3401.png",
       "isHide": false,
       "packageId": "189",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[星座系列：白羊座_乖巧]"
       ],
-      "staticUrl": "assets/bilibili_emoji/189/3402.png",
+      "staticUrl": "assets/bilibili/189/3402.png",
       "isHide": false,
       "packageId": "189",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[星座系列：白羊座_懒洋洋]"
       ],
-      "staticUrl": "assets/bilibili_emoji/189/3403.png",
+      "staticUrl": "assets/bilibili/189/3403.png",
       "isHide": false,
       "packageId": "189",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[星座系列：白羊座_哦是吗]"
       ],
-      "staticUrl": "assets/bilibili_emoji/189/3404.png",
+      "staticUrl": "assets/bilibili/189/3404.png",
       "isHide": false,
       "packageId": "189",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[星座系列：白羊座_起床小助手]"
       ],
-      "staticUrl": "assets/bilibili_emoji/189/3405.png",
+      "staticUrl": "assets/bilibili/189/3405.png",
       "isHide": false,
       "packageId": "189",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[星座系列：白羊座_贴贴]"
       ],
-      "staticUrl": "assets/bilibili_emoji/189/3406.png",
+      "staticUrl": "assets/bilibili/189/3406.png",
       "isHide": false,
       "packageId": "189",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[星座系列：白羊座_我直接回嗨]"
       ],
-      "staticUrl": "assets/bilibili_emoji/189/3407.png",
+      "staticUrl": "assets/bilibili/189/3407.png",
       "isHide": false,
       "packageId": "189",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[星座系列：白羊座_雨中肖邦]"
       ],
-      "staticUrl": "assets/bilibili_emoji/189/3408.png",
+      "staticUrl": "assets/bilibili/189/3408.png",
       "isHide": false,
       "packageId": "189",
       "meta": {

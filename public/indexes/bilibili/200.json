@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "200",
   "name": "橘猫",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/811abf7c09abb1113bfe3fc00eb41e9630f0e100.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[橘猫_打call]"
       ],
-      "staticUrl": "assets/bilibili_emoji/200/3566.png",
+      "staticUrl": "assets/bilibili/200/3566.png",
       "isHide": false,
       "packageId": "200",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[橘猫_对不起]"
       ],
-      "staticUrl": "assets/bilibili_emoji/200/3567.png",
+      "staticUrl": "assets/bilibili/200/3567.png",
       "isHide": false,
       "packageId": "200",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[橘猫_干饭人]"
       ],
-      "staticUrl": "assets/bilibili_emoji/200/3568.png",
+      "staticUrl": "assets/bilibili/200/3568.png",
       "isHide": false,
       "packageId": "200",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[橘猫_咕咕]"
       ],
-      "staticUrl": "assets/bilibili_emoji/200/3569.png",
+      "staticUrl": "assets/bilibili/200/3569.png",
       "isHide": false,
       "packageId": "200",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[橘猫_记仇]"
       ],
-      "staticUrl": "assets/bilibili_emoji/200/3570.png",
+      "staticUrl": "assets/bilibili/200/3570.png",
       "isHide": false,
       "packageId": "200",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[橘猫_歇歇]"
       ],
-      "staticUrl": "assets/bilibili_emoji/200/3571.png",
+      "staticUrl": "assets/bilibili/200/3571.png",
       "isHide": false,
       "packageId": "200",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[橘猫_想你]"
       ],
-      "staticUrl": "assets/bilibili_emoji/200/3572.png",
+      "staticUrl": "assets/bilibili/200/3572.png",
       "isHide": false,
       "packageId": "200",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[橘猫_小丑]"
       ],
-      "staticUrl": "assets/bilibili_emoji/200/3573.png",
+      "staticUrl": "assets/bilibili/200/3573.png",
       "isHide": false,
       "packageId": "200",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[橘猫_星星眼]"
       ],
-      "staticUrl": "assets/bilibili_emoji/200/3574.png",
+      "staticUrl": "assets/bilibili/200/3574.png",
       "isHide": false,
       "packageId": "200",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[橘猫_自动分类]"
       ],
-      "staticUrl": "assets/bilibili_emoji/200/3575.png",
+      "staticUrl": "assets/bilibili/200/3575.png",
       "isHide": false,
       "packageId": "200",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[橘猫_打咩]"
       ],
-      "staticUrl": "assets/bilibili_emoji/200/4405.png",
+      "staticUrl": "assets/bilibili/200/4405.png",
       "isHide": false,
       "packageId": "200",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[橘猫_大橘为重]"
       ],
-      "staticUrl": "assets/bilibili_emoji/200/4406.png",
+      "staticUrl": "assets/bilibili/200/4406.png",
       "isHide": false,
       "packageId": "200",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[橘猫_拿来吧你]"
       ],
-      "staticUrl": "assets/bilibili_emoji/200/4407.png",
+      "staticUrl": "assets/bilibili/200/4407.png",
       "isHide": false,
       "packageId": "200",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[橘猫_贴贴]"
       ],
-      "staticUrl": "assets/bilibili_emoji/200/4408.png",
+      "staticUrl": "assets/bilibili/200/4408.png",
       "isHide": false,
       "packageId": "200",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[橘猫_超凶]"
       ],
-      "staticUrl": "assets/bilibili_emoji/200/4409.png",
+      "staticUrl": "assets/bilibili/200/4409.png",
       "isHide": false,
       "packageId": "200",
       "meta": {

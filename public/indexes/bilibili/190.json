@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "190",
   "name": "催更行动",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/b9adf257bb3d448f3625deca4099f231e46960e0.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[催更行动_催更机器]"
       ],
-      "staticUrl": "assets/bilibili_emoji/190/3409.png",
+      "staticUrl": "assets/bilibili/190/3409.png",
       "isHide": false,
       "packageId": "190",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[催更行动_对酒当鸽]"
       ],
-      "staticUrl": "assets/bilibili_emoji/190/3410.png",
+      "staticUrl": "assets/bilibili/190/3410.png",
       "isHide": false,
       "packageId": "190",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[催更行动_快更]"
       ],
-      "staticUrl": "assets/bilibili_emoji/190/3411.png",
+      "staticUrl": "assets/bilibili/190/3411.png",
       "isHide": false,
       "packageId": "190",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[催更行动_下次一定]"
       ],
-      "staticUrl": "assets/bilibili_emoji/190/3412.png",
+      "staticUrl": "assets/bilibili/190/3412.png",
       "isHide": false,
       "packageId": "190",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[催更行动_想看]"
       ],
-      "staticUrl": "assets/bilibili_emoji/190/3413.png",
+      "staticUrl": "assets/bilibili/190/3413.png",
       "isHide": false,
       "packageId": "190",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[催更行动_新建文件夹]"
       ],
-      "staticUrl": "assets/bilibili_emoji/190/3414.png",
+      "staticUrl": "assets/bilibili/190/3414.png",
       "isHide": false,
       "packageId": "190",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[催更行动_悬赏]"
       ],
-      "staticUrl": "assets/bilibili_emoji/190/3415.png",
+      "staticUrl": "assets/bilibili/190/3415.png",
       "isHide": false,
       "packageId": "190",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[催更行动_一直鸽一直爽]"
       ],
-      "staticUrl": "assets/bilibili_emoji/190/3416.png",
+      "staticUrl": "assets/bilibili/190/3416.png",
       "isHide": false,
       "packageId": "190",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[催更行动_在做了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/190/3417.png",
+      "staticUrl": "assets/bilibili/190/3417.png",
       "isHide": false,
       "packageId": "190",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[催更行动_追更不停]"
       ],
-      "staticUrl": "assets/bilibili_emoji/190/3418.png",
+      "staticUrl": "assets/bilibili/190/3418.png",
       "isHide": false,
       "packageId": "190",
       "meta": {

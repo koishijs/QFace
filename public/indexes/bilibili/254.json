@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "254",
   "name": "我的爸爸是条龙",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/ffd9cf151768d3e2be732f21bd81da2fb77dce16.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[龙爸_爱你]"
       ],
-      "staticUrl": "assets/bilibili_emoji/254/4214.png",
+      "staticUrl": "assets/bilibili/254/4214.png",
       "isHide": false,
       "packageId": "254",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[龙爸_不行]"
       ],
-      "staticUrl": "assets/bilibili_emoji/254/4215.png",
+      "staticUrl": "assets/bilibili/254/4215.png",
       "isHide": false,
       "packageId": "254",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[龙爸_打call]"
       ],
-      "staticUrl": "assets/bilibili_emoji/254/4216.png",
+      "staticUrl": "assets/bilibili/254/4216.png",
       "isHide": false,
       "packageId": "254",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[龙爸_害羞]"
       ],
-      "staticUrl": "assets/bilibili_emoji/254/4217.png",
+      "staticUrl": "assets/bilibili/254/4217.png",
       "isHide": false,
       "packageId": "254",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[龙爸_惊]"
       ],
-      "staticUrl": "assets/bilibili_emoji/254/4218.png",
+      "staticUrl": "assets/bilibili/254/4218.png",
       "isHide": false,
       "packageId": "254",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[龙爸_惊喜]"
       ],
-      "staticUrl": "assets/bilibili_emoji/254/4219.png",
+      "staticUrl": "assets/bilibili/254/4219.png",
       "isHide": false,
       "packageId": "254",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[龙爸_开心]"
       ],
-      "staticUrl": "assets/bilibili_emoji/254/4220.png",
+      "staticUrl": "assets/bilibili/254/4220.png",
       "isHide": false,
       "packageId": "254",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[龙爸_可怜]"
       ],
-      "staticUrl": "assets/bilibili_emoji/254/4221.png",
+      "staticUrl": "assets/bilibili/254/4221.png",
       "isHide": false,
       "packageId": "254",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[龙爸_哭唧唧]"
       ],
-      "staticUrl": "assets/bilibili_emoji/254/4222.png",
+      "staticUrl": "assets/bilibili/254/4222.png",
       "isHide": false,
       "packageId": "254",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[龙爸_亲亲]"
       ],
-      "staticUrl": "assets/bilibili_emoji/254/4223.png",
+      "staticUrl": "assets/bilibili/254/4223.png",
       "isHide": false,
       "packageId": "254",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[龙爸_哇]"
       ],
-      "staticUrl": "assets/bilibili_emoji/254/4224.png",
+      "staticUrl": "assets/bilibili/254/4224.png",
       "isHide": false,
       "packageId": "254",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[龙爸_问号]"
       ],
-      "staticUrl": "assets/bilibili_emoji/254/4225.png",
+      "staticUrl": "assets/bilibili/254/4225.png",
       "isHide": false,
       "packageId": "254",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[龙爸_无语]"
       ],
-      "staticUrl": "assets/bilibili_emoji/254/4226.png",
+      "staticUrl": "assets/bilibili/254/4226.png",
       "isHide": false,
       "packageId": "254",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[龙爸_想想]"
       ],
-      "staticUrl": "assets/bilibili_emoji/254/4227.png",
+      "staticUrl": "assets/bilibili/254/4227.png",
       "isHide": false,
       "packageId": "254",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[龙爸_一键三连]"
       ],
-      "staticUrl": "assets/bilibili_emoji/254/4228.png",
+      "staticUrl": "assets/bilibili/254/4228.png",
       "isHide": false,
       "packageId": "254",
       "meta": {

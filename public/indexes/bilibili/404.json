@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "404",
   "name": "暂停！让我查攻略",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/f07f1afed3489bf746e78f638b86b1ff6cffe1c2.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[暂停！让我查攻略_阿巴阿巴]"
       ],
-      "staticUrl": "assets/bilibili_emoji/404/6784.png",
+      "staticUrl": "assets/bilibili/404/6784.png",
       "isHide": false,
       "packageId": "404",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[暂停！让我查攻略_安详]"
       ],
-      "staticUrl": "assets/bilibili_emoji/404/6785.png",
+      "staticUrl": "assets/bilibili/404/6785.png",
       "isHide": false,
       "packageId": "404",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[暂停！让我查攻略_吃瓜]"
       ],
-      "staticUrl": "assets/bilibili_emoji/404/6786.png",
+      "staticUrl": "assets/bilibili/404/6786.png",
       "isHide": false,
       "packageId": "404",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[暂停！让我查攻略_大佬]"
       ],
-      "staticUrl": "assets/bilibili_emoji/404/6787.png",
+      "staticUrl": "assets/bilibili/404/6787.png",
       "isHide": false,
       "packageId": "404",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[暂停！让我查攻略_呆]"
       ],
-      "staticUrl": "assets/bilibili_emoji/404/6788.png",
+      "staticUrl": "assets/bilibili/404/6788.png",
       "isHide": false,
       "packageId": "404",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[暂停！让我查攻略_就这]"
       ],
-      "staticUrl": "assets/bilibili_emoji/404/6789.png",
+      "staticUrl": "assets/bilibili/404/6789.png",
       "isHide": false,
       "packageId": "404",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[暂停！让我查攻略_什么]"
       ],
-      "staticUrl": "assets/bilibili_emoji/404/6790.png",
+      "staticUrl": "assets/bilibili/404/6790.png",
       "isHide": false,
       "packageId": "404",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[暂停！让我查攻略_生气]"
       ],
-      "staticUrl": "assets/bilibili_emoji/404/6791.png",
+      "staticUrl": "assets/bilibili/404/6791.png",
       "isHide": false,
       "packageId": "404",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[暂停！让我查攻略_贴贴]"
       ],
-      "staticUrl": "assets/bilibili_emoji/404/6792.png",
+      "staticUrl": "assets/bilibili/404/6792.png",
       "isHide": false,
       "packageId": "404",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[暂停！让我查攻略_呜呜]"
       ],
-      "staticUrl": "assets/bilibili_emoji/404/6793.png",
+      "staticUrl": "assets/bilibili/404/6793.png",
       "isHide": false,
       "packageId": "404",
       "meta": {

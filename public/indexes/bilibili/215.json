@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "215",
   "name": "舰长",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/5c6f78d9a1db8207e20b85d1efd7aecc4e71bd6c.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[舰长_暗中观察]"
       ],
-      "staticUrl": "assets/bilibili_emoji/215/3782.png",
+      "staticUrl": "assets/bilibili/215/3782.png",
       "isHide": false,
       "packageId": "215",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[舰长_吃瓜]"
       ],
-      "staticUrl": "assets/bilibili_emoji/215/3783.png",
+      "staticUrl": "assets/bilibili/215/3783.png",
       "isHide": false,
       "packageId": "215",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[舰长_挥手]"
       ],
-      "staticUrl": "assets/bilibili_emoji/215/3786.png",
+      "staticUrl": "assets/bilibili/215/3786.png",
       "isHide": false,
       "packageId": "215",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[舰长_好耶]"
       ],
-      "staticUrl": "assets/bilibili_emoji/215/3787.png",
+      "staticUrl": "assets/bilibili/215/3787.png",
       "isHide": false,
       "packageId": "215",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[舰长_泪目]"
       ],
-      "staticUrl": "assets/bilibili_emoji/215/3788.png",
+      "staticUrl": "assets/bilibili/215/3788.png",
       "isHide": false,
       "packageId": "215",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[舰长_柠檬酸]"
       ],
-      "staticUrl": "assets/bilibili_emoji/215/3789.png",
+      "staticUrl": "assets/bilibili/215/3789.png",
       "isHide": false,
       "packageId": "215",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[舰长_气鼓鼓]"
       ],
-      "staticUrl": "assets/bilibili_emoji/215/3790.png",
+      "staticUrl": "assets/bilibili/215/3790.png",
       "isHide": false,
       "packageId": "215",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[舰长_思考中]"
       ],
-      "staticUrl": "assets/bilibili_emoji/215/3791.png",
+      "staticUrl": "assets/bilibili/215/3791.png",
       "isHide": false,
       "packageId": "215",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[舰长_哇哦]"
       ],
-      "staticUrl": "assets/bilibili_emoji/215/3792.png",
+      "staticUrl": "assets/bilibili/215/3792.png",
       "isHide": false,
       "packageId": "215",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[舰长_晚安]"
       ],
-      "staticUrl": "assets/bilibili_emoji/215/3793.png",
+      "staticUrl": "assets/bilibili/215/3793.png",
       "isHide": false,
       "packageId": "215",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[舰长_喜欢]"
       ],
-      "staticUrl": "assets/bilibili_emoji/215/3794.png",
+      "staticUrl": "assets/bilibili/215/3794.png",
       "isHide": false,
       "packageId": "215",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[舰长_谢谢]"
       ],
-      "staticUrl": "assets/bilibili_emoji/215/3795.png",
+      "staticUrl": "assets/bilibili/215/3795.png",
       "isHide": false,
       "packageId": "215",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[舰长_疑惑]"
       ],
-      "staticUrl": "assets/bilibili_emoji/215/3796.png",
+      "staticUrl": "assets/bilibili/215/3796.png",
       "isHide": false,
       "packageId": "215",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[舰长_赞]"
       ],
-      "staticUrl": "assets/bilibili_emoji/215/3797.png",
+      "staticUrl": "assets/bilibili/215/3797.png",
       "isHide": false,
       "packageId": "215",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[舰长_震惊]"
       ],
-      "staticUrl": "assets/bilibili_emoji/215/3798.png",
+      "staticUrl": "assets/bilibili/215/3798.png",
       "isHide": false,
       "packageId": "215",
       "meta": {

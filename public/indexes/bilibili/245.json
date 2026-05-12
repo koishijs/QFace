@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "245",
   "name": "嘉然今天吃什么",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/b29f3f08a7edf548b1a92a6f668f4a14aab15295.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[嘉然_mua]"
       ],
-      "staticUrl": "assets/bilibili_emoji/245/4057.png",
+      "staticUrl": "assets/bilibili/245/4057.png",
       "isHide": false,
       "packageId": "245",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[嘉然_安详]"
       ],
-      "staticUrl": "assets/bilibili_emoji/245/4058.png",
+      "staticUrl": "assets/bilibili/245/4058.png",
       "isHide": false,
       "packageId": "245",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[嘉然_暗中观察]"
       ],
-      "staticUrl": "assets/bilibili_emoji/245/4059.png",
+      "staticUrl": "assets/bilibili/245/4059.png",
       "isHide": false,
       "packageId": "245",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[嘉然_锤头丧气]"
       ],
-      "staticUrl": "assets/bilibili_emoji/245/4060.png",
+      "staticUrl": "assets/bilibili/245/4060.png",
       "isHide": false,
       "packageId": "245",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[嘉然_点赞]"
       ],
-      "staticUrl": "assets/bilibili_emoji/245/4061.png",
+      "staticUrl": "assets/bilibili/245/4061.png",
       "isHide": false,
       "packageId": "245",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[嘉然_嘉人们]"
       ],
-      "staticUrl": "assets/bilibili_emoji/245/4062.png",
+      "staticUrl": "assets/bilibili/245/4062.png",
       "isHide": false,
       "packageId": "245",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[嘉然_嘉速心动]"
       ],
-      "staticUrl": "assets/bilibili_emoji/245/4063.png",
+      "staticUrl": "assets/bilibili/245/4063.png",
       "isHide": false,
       "packageId": "245",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[嘉然_流口水]"
       ],
-      "staticUrl": "assets/bilibili_emoji/245/4064.png",
+      "staticUrl": "assets/bilibili/245/4064.png",
       "isHide": false,
       "packageId": "245",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[嘉然_你好]"
       ],
-      "staticUrl": "assets/bilibili_emoji/245/4065.png",
+      "staticUrl": "assets/bilibili/245/4065.png",
       "isHide": false,
       "packageId": "245",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[嘉然_一米八]"
       ],
-      "staticUrl": "assets/bilibili_emoji/245/4066.png",
+      "staticUrl": "assets/bilibili/245/4066.png",
       "isHide": false,
       "packageId": "245",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[嘉然_一眼真]"
       ],
-      "staticUrl": "assets/bilibili_emoji/245/4067.png",
+      "staticUrl": "assets/bilibili/245/4067.png",
       "isHide": false,
       "packageId": "245",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[嘉然_biu]"
       ],
-      "staticUrl": "assets/bilibili_emoji/245/4068.png",
+      "staticUrl": "assets/bilibili/245/4068.png",
       "isHide": false,
       "packageId": "245",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[嘉然_绷不住了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/245/4069.png",
+      "staticUrl": "assets/bilibili/245/4069.png",
       "isHide": false,
       "packageId": "245",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[嘉然_笔芯]"
       ],
-      "staticUrl": "assets/bilibili_emoji/245/4070.png",
+      "staticUrl": "assets/bilibili/245/4070.png",
       "isHide": false,
       "packageId": "245",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[嘉然_番茄炒蛋拳]"
       ],
-      "staticUrl": "assets/bilibili_emoji/245/4071.png",
+      "staticUrl": "assets/bilibili/245/4071.png",
       "isHide": false,
       "packageId": "245",
       "meta": {
@@ -234,7 +234,7 @@
       "shortCodes": [
         "[嘉然_嘉油]"
       ],
-      "staticUrl": "assets/bilibili_emoji/245/4072.png",
+      "staticUrl": "assets/bilibili/245/4072.png",
       "isHide": false,
       "packageId": "245",
       "meta": {
@@ -249,7 +249,7 @@
       "shortCodes": [
         "[嘉然_剪刀手]"
       ],
-      "staticUrl": "assets/bilibili_emoji/245/4073.png",
+      "staticUrl": "assets/bilibili/245/4073.png",
       "isHide": false,
       "packageId": "245",
       "meta": {
@@ -264,7 +264,7 @@
       "shortCodes": [
         "[嘉然_略略略]"
       ],
-      "staticUrl": "assets/bilibili_emoji/245/4074.png",
+      "staticUrl": "assets/bilibili/245/4074.png",
       "isHide": false,
       "packageId": "245",
       "meta": {
@@ -279,7 +279,7 @@
       "shortCodes": [
         "[嘉然_敲打]"
       ],
-      "staticUrl": "assets/bilibili_emoji/245/4075.png",
+      "staticUrl": "assets/bilibili/245/4075.png",
       "isHide": false,
       "packageId": "245",
       "meta": {
@@ -294,7 +294,7 @@
       "shortCodes": [
         "[嘉然_吓人]"
       ],
-      "staticUrl": "assets/bilibili_emoji/245/4076.png",
+      "staticUrl": "assets/bilibili/245/4076.png",
       "isHide": false,
       "packageId": "245",
       "meta": {
@@ -309,7 +309,7 @@
       "shortCodes": [
         "[嘉然_粉色小恶魔]"
       ],
-      "staticUrl": "assets/bilibili_emoji/245/5746.png",
+      "staticUrl": "assets/bilibili/245/5746.png",
       "isHide": false,
       "packageId": "245",
       "meta": {
@@ -324,7 +324,7 @@
       "shortCodes": [
         "[嘉然_干饭]"
       ],
-      "staticUrl": "assets/bilibili_emoji/245/5747.png",
+      "staticUrl": "assets/bilibili/245/5747.png",
       "isHide": false,
       "packageId": "245",
       "meta": {
@@ -339,7 +339,7 @@
       "shortCodes": [
         "[嘉然_嘉步]"
       ],
-      "staticUrl": "assets/bilibili_emoji/245/5748.png",
+      "staticUrl": "assets/bilibili/245/5748.png",
       "isHide": false,
       "packageId": "245",
       "meta": {
@@ -354,7 +354,7 @@
       "shortCodes": [
         "[嘉然_我有嘉心糖]"
       ],
-      "staticUrl": "assets/bilibili_emoji/245/5749.png",
+      "staticUrl": "assets/bilibili/245/5749.png",
       "isHide": false,
       "packageId": "245",
       "meta": {
@@ -369,7 +369,7 @@
       "shortCodes": [
         "[嘉然_我们是]"
       ],
-      "staticUrl": "assets/bilibili_emoji/245/5750.png",
+      "staticUrl": "assets/bilibili/245/5750.png",
       "isHide": false,
       "packageId": "245",
       "meta": {

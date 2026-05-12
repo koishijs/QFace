@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "199",
   "name": "Q萌语录",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/83429f74af7ab445eae0a59a31172adee38da02a.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[热词_催更]"
       ],
-      "staticUrl": "assets/bilibili_emoji/199/3556.png",
+      "staticUrl": "assets/bilibili/199/3556.png",
       "isHide": false,
       "packageId": "199",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[热词_集美]"
       ],
-      "staticUrl": "assets/bilibili_emoji/199/3557.png",
+      "staticUrl": "assets/bilibili/199/3557.png",
       "isHide": false,
       "packageId": "199",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[热词_就服你]"
       ],
-      "staticUrl": "assets/bilibili_emoji/199/3558.png",
+      "staticUrl": "assets/bilibili/199/3558.png",
       "isHide": false,
       "packageId": "199",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[热词_磕死我了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/199/3559.png",
+      "staticUrl": "assets/bilibili/199/3559.png",
       "isHide": false,
       "packageId": "199",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[热词_你开心就好]"
       ],
-      "staticUrl": "assets/bilibili_emoji/199/3560.png",
+      "staticUrl": "assets/bilibili/199/3560.png",
       "isHide": false,
       "packageId": "199",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[热词_盘它]"
       ],
-      "staticUrl": "assets/bilibili_emoji/199/3561.png",
+      "staticUrl": "assets/bilibili/199/3561.png",
       "isHide": false,
       "packageId": "199",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[热词_世界的参差]"
       ],
-      "staticUrl": "assets/bilibili_emoji/199/3562.png",
+      "staticUrl": "assets/bilibili/199/3562.png",
       "isHide": false,
       "packageId": "199",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[热词_心脏骤停]"
       ],
-      "staticUrl": "assets/bilibili_emoji/199/3563.png",
+      "staticUrl": "assets/bilibili/199/3563.png",
       "isHide": false,
       "packageId": "199",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[热词_这河里吗]"
       ],
-      "staticUrl": "assets/bilibili_emoji/199/3564.png",
+      "staticUrl": "assets/bilibili/199/3564.png",
       "isHide": false,
       "packageId": "199",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[热词_支棱起来]"
       ],
-      "staticUrl": "assets/bilibili_emoji/199/3565.png",
+      "staticUrl": "assets/bilibili/199/3565.png",
       "isHide": false,
       "packageId": "199",
       "meta": {

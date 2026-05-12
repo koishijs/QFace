@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "55",
   "name": "剑网3·侠肝义胆沈剑心",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/9b2985dc8e02f3c3a5a3684b31a39682097f4789.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[沈剑心_滑稽]"
       ],
-      "staticUrl": "assets/bilibili_emoji/55/1499.png",
+      "staticUrl": "assets/bilibili/55/1499.png",
       "isHide": false,
       "packageId": "55",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[沈剑心_抱大腿]"
       ],
-      "staticUrl": "assets/bilibili_emoji/55/1500.png",
+      "staticUrl": "assets/bilibili/55/1500.png",
       "isHide": false,
       "packageId": "55",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[沈剑心_不屑]"
       ],
-      "staticUrl": "assets/bilibili_emoji/55/1501.png",
+      "staticUrl": "assets/bilibili/55/1501.png",
       "isHide": false,
       "packageId": "55",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[沈剑心_苍天呐]"
       ],
-      "staticUrl": "assets/bilibili_emoji/55/1502.png",
+      "staticUrl": "assets/bilibili/55/1502.png",
       "isHide": false,
       "packageId": "55",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[沈剑心_我秃了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/55/1503.png",
+      "staticUrl": "assets/bilibili/55/1503.png",
       "isHide": false,
       "packageId": "55",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[沈剑心_得意]"
       ],
-      "staticUrl": "assets/bilibili_emoji/55/1504.png",
+      "staticUrl": "assets/bilibili/55/1504.png",
       "isHide": false,
       "packageId": "55",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[沈剑心_方了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/55/1505.png",
+      "staticUrl": "assets/bilibili/55/1505.png",
       "isHide": false,
       "packageId": "55",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[沈剑心_开心]"
       ],
-      "staticUrl": "assets/bilibili_emoji/55/1506.png",
+      "staticUrl": "assets/bilibili/55/1506.png",
       "isHide": false,
       "packageId": "55",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[沈剑心_呕吐]"
       ],
-      "staticUrl": "assets/bilibili_emoji/55/1507.png",
+      "staticUrl": "assets/bilibili/55/1507.png",
       "isHide": false,
       "packageId": "55",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[沈剑心_咆哮]"
       ],
-      "staticUrl": "assets/bilibili_emoji/55/1508.png",
+      "staticUrl": "assets/bilibili/55/1508.png",
       "isHide": false,
       "packageId": "55",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[沈剑心_悄悄话]"
       ],
-      "staticUrl": "assets/bilibili_emoji/55/1509.png",
+      "staticUrl": "assets/bilibili/55/1509.png",
       "isHide": false,
       "packageId": "55",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[沈剑心_问号]"
       ],
-      "staticUrl": "assets/bilibili_emoji/55/1510.png",
+      "staticUrl": "assets/bilibili/55/1510.png",
       "isHide": false,
       "packageId": "55",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[沈剑心_无语]"
       ],
-      "staticUrl": "assets/bilibili_emoji/55/1511.png",
+      "staticUrl": "assets/bilibili/55/1511.png",
       "isHide": false,
       "packageId": "55",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[沈剑心_郁闷]"
       ],
-      "staticUrl": "assets/bilibili_emoji/55/1525.png",
+      "staticUrl": "assets/bilibili/55/1525.png",
       "isHide": false,
       "packageId": "55",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[沈剑心_吓到]"
       ],
-      "staticUrl": "assets/bilibili_emoji/55/1526.png",
+      "staticUrl": "assets/bilibili/55/1526.png",
       "isHide": false,
       "packageId": "55",
       "meta": {
@@ -234,7 +234,7 @@
       "shortCodes": [
         "[沈剑心_摸鱼]"
       ],
-      "staticUrl": "assets/bilibili_emoji/55/3172.png",
+      "staticUrl": "assets/bilibili/55/3172.png",
       "isHide": false,
       "packageId": "55",
       "meta": {
@@ -249,7 +249,7 @@
       "shortCodes": [
         "[沈剑心_让我看看]"
       ],
-      "staticUrl": "assets/bilibili_emoji/55/3173.png",
+      "staticUrl": "assets/bilibili/55/3173.png",
       "isHide": false,
       "packageId": "55",
       "meta": {
@@ -264,7 +264,7 @@
       "shortCodes": [
         "[沈剑心_傻眼]"
       ],
-      "staticUrl": "assets/bilibili_emoji/55/3174.png",
+      "staticUrl": "assets/bilibili/55/3174.png",
       "isHide": false,
       "packageId": "55",
       "meta": {
@@ -279,7 +279,7 @@
       "shortCodes": [
         "[沈剑心_思考]"
       ],
-      "staticUrl": "assets/bilibili_emoji/55/3175.png",
+      "staticUrl": "assets/bilibili/55/3175.png",
       "isHide": false,
       "packageId": "55",
       "meta": {
@@ -294,7 +294,7 @@
       "shortCodes": [
         "[沈剑心_赌气]"
       ],
-      "staticUrl": "assets/bilibili_emoji/55/3176.png",
+      "staticUrl": "assets/bilibili/55/3176.png",
       "isHide": false,
       "packageId": "55",
       "meta": {

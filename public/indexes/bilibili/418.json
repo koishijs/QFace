@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "418",
   "name": "高田熊和高田狗",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/2b7c16fe128e2f411a09172c3007eea93e7868b1.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[高田熊和高田狗_Good]"
       ],
-      "staticUrl": "assets/bilibili_emoji/418/7044.png",
+      "staticUrl": "assets/bilibili/418/7044.png",
       "isHide": false,
       "packageId": "418",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[高田熊和高田狗_Hi]"
       ],
-      "staticUrl": "assets/bilibili_emoji/418/7045.png",
+      "staticUrl": "assets/bilibili/418/7045.png",
       "isHide": false,
       "packageId": "418",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[高田熊和高田狗_oh no]"
       ],
-      "staticUrl": "assets/bilibili_emoji/418/7046.png",
+      "staticUrl": "assets/bilibili/418/7046.png",
       "isHide": false,
       "packageId": "418",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[高田熊和高田狗_爱心]"
       ],
-      "staticUrl": "assets/bilibili_emoji/418/7047.png",
+      "staticUrl": "assets/bilibili/418/7047.png",
       "isHide": false,
       "packageId": "418",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[高田熊和高田狗_饱了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/418/7048.png",
+      "staticUrl": "assets/bilibili/418/7048.png",
       "isHide": false,
       "packageId": "418",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[高田熊和高田狗_冲呀]"
       ],
-      "staticUrl": "assets/bilibili_emoji/418/7049.png",
+      "staticUrl": "assets/bilibili/418/7049.png",
       "isHide": false,
       "packageId": "418",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[高田熊和高田狗_达成共识]"
       ],
-      "staticUrl": "assets/bilibili_emoji/418/7050.png",
+      "staticUrl": "assets/bilibili/418/7050.png",
       "isHide": false,
       "packageId": "418",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[高田熊和高田狗_诶诶]"
       ],
-      "staticUrl": "assets/bilibili_emoji/418/7051.png",
+      "staticUrl": "assets/bilibili/418/7051.png",
       "isHide": false,
       "packageId": "418",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[高田熊和高田狗_诶嘿]"
       ],
-      "staticUrl": "assets/bilibili_emoji/418/7052.png",
+      "staticUrl": "assets/bilibili/418/7052.png",
       "isHide": false,
       "packageId": "418",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[高田熊和高田狗_哈欠]"
       ],
-      "staticUrl": "assets/bilibili_emoji/418/7053.png",
+      "staticUrl": "assets/bilibili/418/7053.png",
       "isHide": false,
       "packageId": "418",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[高田熊和高田狗_嗨嗨]"
       ],
-      "staticUrl": "assets/bilibili_emoji/418/7054.png",
+      "staticUrl": "assets/bilibili/418/7054.png",
       "isHide": false,
       "packageId": "418",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[高田熊和高田狗_害羞]"
       ],
-      "staticUrl": "assets/bilibili_emoji/418/7055.png",
+      "staticUrl": "assets/bilibili/418/7055.png",
       "isHide": false,
       "packageId": "418",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[高田熊和高田狗_汗]"
       ],
-      "staticUrl": "assets/bilibili_emoji/418/7056.png",
+      "staticUrl": "assets/bilibili/418/7056.png",
       "isHide": false,
       "packageId": "418",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[高田熊和高田狗_欢呼]"
       ],
-      "staticUrl": "assets/bilibili_emoji/418/7057.png",
+      "staticUrl": "assets/bilibili/418/7057.png",
       "isHide": false,
       "packageId": "418",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[高田熊和高田狗_静静看]"
       ],
-      "staticUrl": "assets/bilibili_emoji/418/7058.png",
+      "staticUrl": "assets/bilibili/418/7058.png",
       "isHide": false,
       "packageId": "418",
       "meta": {
@@ -234,7 +234,7 @@
       "shortCodes": [
         "[高田熊和高田狗_开心]"
       ],
-      "staticUrl": "assets/bilibili_emoji/418/7059.png",
+      "staticUrl": "assets/bilibili/418/7059.png",
       "isHide": false,
       "packageId": "418",
       "meta": {
@@ -249,7 +249,7 @@
       "shortCodes": [
         "[高田熊和高田狗_了解]"
       ],
-      "staticUrl": "assets/bilibili_emoji/418/7060.png",
+      "staticUrl": "assets/bilibili/418/7060.png",
       "isHide": false,
       "packageId": "418",
       "meta": {
@@ -264,7 +264,7 @@
       "shortCodes": [
         "[高田熊和高田狗_灵魂出窍]"
       ],
-      "staticUrl": "assets/bilibili_emoji/418/7061.png",
+      "staticUrl": "assets/bilibili/418/7061.png",
       "isHide": false,
       "packageId": "418",
       "meta": {
@@ -279,7 +279,7 @@
       "shortCodes": [
         "[高田熊和高田狗_毛巾狗]"
       ],
-      "staticUrl": "assets/bilibili_emoji/418/7062.png",
+      "staticUrl": "assets/bilibili/418/7062.png",
       "isHide": false,
       "packageId": "418",
       "meta": {
@@ -294,7 +294,7 @@
       "shortCodes": [
         "[高田熊和高田狗_毛巾熊]"
       ],
-      "staticUrl": "assets/bilibili_emoji/418/7063.png",
+      "staticUrl": "assets/bilibili/418/7063.png",
       "isHide": false,
       "packageId": "418",
       "meta": {
@@ -309,7 +309,7 @@
       "shortCodes": [
         "[高田熊和高田狗_起床]"
       ],
-      "staticUrl": "assets/bilibili_emoji/418/7064.png",
+      "staticUrl": "assets/bilibili/418/7064.png",
       "isHide": false,
       "packageId": "418",
       "meta": {
@@ -324,7 +324,7 @@
       "shortCodes": [
         "[高田熊和高田狗_气]"
       ],
-      "staticUrl": "assets/bilibili_emoji/418/7065.png",
+      "staticUrl": "assets/bilibili/418/7065.png",
       "isHide": false,
       "packageId": "418",
       "meta": {
@@ -339,7 +339,7 @@
       "shortCodes": [
         "[高田熊和高田狗_沙发瘫]"
       ],
-      "staticUrl": "assets/bilibili_emoji/418/7066.png",
+      "staticUrl": "assets/bilibili/418/7066.png",
       "isHide": false,
       "packageId": "418",
       "meta": {
@@ -354,7 +354,7 @@
       "shortCodes": [
         "[高田熊和高田狗_上网]"
       ],
-      "staticUrl": "assets/bilibili_emoji/418/7067.png",
+      "staticUrl": "assets/bilibili/418/7067.png",
       "isHide": false,
       "packageId": "418",
       "meta": {
@@ -369,7 +369,7 @@
       "shortCodes": [
         "[高田熊和高田狗_双手耶]"
       ],
-      "staticUrl": "assets/bilibili_emoji/418/7068.png",
+      "staticUrl": "assets/bilibili/418/7068.png",
       "isHide": false,
       "packageId": "418",
       "meta": {
@@ -384,7 +384,7 @@
       "shortCodes": [
         "[高田熊和高田狗_哇啊啊啊]"
       ],
-      "staticUrl": "assets/bilibili_emoji/418/7069.png",
+      "staticUrl": "assets/bilibili/418/7069.png",
       "isHide": false,
       "packageId": "418",
       "meta": {
@@ -399,7 +399,7 @@
       "shortCodes": [
         "[高田熊和高田狗_哇哦]"
       ],
-      "staticUrl": "assets/bilibili_emoji/418/7070.png",
+      "staticUrl": "assets/bilibili/418/7070.png",
       "isHide": false,
       "packageId": "418",
       "meta": {
@@ -414,7 +414,7 @@
       "shortCodes": [
         "[高田熊和高田狗_笑趴]"
       ],
-      "staticUrl": "assets/bilibili_emoji/418/7071.png",
+      "staticUrl": "assets/bilibili/418/7071.png",
       "isHide": false,
       "packageId": "418",
       "meta": {
@@ -429,7 +429,7 @@
       "shortCodes": [
         "[高田熊和高田狗_压力]"
       ],
-      "staticUrl": "assets/bilibili_emoji/418/7072.png",
+      "staticUrl": "assets/bilibili/418/7072.png",
       "isHide": false,
       "packageId": "418",
       "meta": {
@@ -444,7 +444,7 @@
       "shortCodes": [
         "[高田熊和高田狗_一起玩]"
       ],
-      "staticUrl": "assets/bilibili_emoji/418/7073.png",
+      "staticUrl": "assets/bilibili/418/7073.png",
       "isHide": false,
       "packageId": "418",
       "meta": {

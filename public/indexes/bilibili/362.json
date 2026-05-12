@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "362",
   "name": "绊爱第二弹",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/66723a42d8f1b6777cf6412939534a7f938433f1.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[绊爱第二弹_丧]"
       ],
-      "staticUrl": "assets/bilibili_emoji/362/5952.png",
+      "staticUrl": "assets/bilibili/362/5952.png",
       "isHide": false,
       "packageId": "362",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[绊爱第二弹_啊呜]"
       ],
-      "staticUrl": "assets/bilibili_emoji/362/5953.png",
+      "staticUrl": "assets/bilibili/362/5953.png",
       "isHide": false,
       "packageId": "362",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[绊爱第二弹_生气气]"
       ],
-      "staticUrl": "assets/bilibili_emoji/362/5954.png",
+      "staticUrl": "assets/bilibili/362/5954.png",
       "isHide": false,
       "packageId": "362",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[绊爱第二弹_盯]"
       ],
-      "staticUrl": "assets/bilibili_emoji/362/5955.png",
+      "staticUrl": "assets/bilibili/362/5955.png",
       "isHide": false,
       "packageId": "362",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[绊爱第二弹_忍耐]"
       ],
-      "staticUrl": "assets/bilibili_emoji/362/5956.png",
+      "staticUrl": "assets/bilibili/362/5956.png",
       "isHide": false,
       "packageId": "362",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[绊爱第二弹_紧张]"
       ],
-      "staticUrl": "assets/bilibili_emoji/362/5957.png",
+      "staticUrl": "assets/bilibili/362/5957.png",
       "isHide": false,
       "packageId": "362",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[绊爱第二弹_无能狂怒]"
       ],
-      "staticUrl": "assets/bilibili_emoji/362/5958.png",
+      "staticUrl": "assets/bilibili/362/5958.png",
       "isHide": false,
       "packageId": "362",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[绊爱第二弹_再见]"
       ],
-      "staticUrl": "assets/bilibili_emoji/362/5959.png",
+      "staticUrl": "assets/bilibili/362/5959.png",
       "isHide": false,
       "packageId": "362",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[绊爱第二弹_哈？]"
       ],
-      "staticUrl": "assets/bilibili_emoji/362/5960.png",
+      "staticUrl": "assets/bilibili/362/5960.png",
       "isHide": false,
       "packageId": "362",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[绊爱第二弹_好耶]"
       ],
-      "staticUrl": "assets/bilibili_emoji/362/5961.png",
+      "staticUrl": "assets/bilibili/362/5961.png",
       "isHide": false,
       "packageId": "362",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[绊爱第二弹_充电]"
       ],
-      "staticUrl": "assets/bilibili_emoji/362/5962.png",
+      "staticUrl": "assets/bilibili/362/5962.png",
       "isHide": false,
       "packageId": "362",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[绊爱第二弹_晕晕]"
       ],
-      "staticUrl": "assets/bilibili_emoji/362/5963.png",
+      "staticUrl": "assets/bilibili/362/5963.png",
       "isHide": false,
       "packageId": "362",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[绊爱第二弹_开始了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/362/5964.png",
+      "staticUrl": "assets/bilibili/362/5964.png",
       "isHide": false,
       "packageId": "362",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[绊爱第二弹_撒花]"
       ],
-      "staticUrl": "assets/bilibili_emoji/362/5965.png",
+      "staticUrl": "assets/bilibili/362/5965.png",
       "isHide": false,
       "packageId": "362",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[绊爱第二弹_哼]"
       ],
-      "staticUrl": "assets/bilibili_emoji/362/5966.png",
+      "staticUrl": "assets/bilibili/362/5966.png",
       "isHide": false,
       "packageId": "362",
       "meta": {
@@ -234,7 +234,7 @@
       "shortCodes": [
         "[绊爱第二弹_酷]"
       ],
-      "staticUrl": "assets/bilibili_emoji/362/5967.png",
+      "staticUrl": "assets/bilibili/362/5967.png",
       "isHide": false,
       "packageId": "362",
       "meta": {
@@ -249,7 +249,7 @@
       "shortCodes": [
         "[绊爱第二弹_睡觉]"
       ],
-      "staticUrl": "assets/bilibili_emoji/362/5968.png",
+      "staticUrl": "assets/bilibili/362/5968.png",
       "isHide": false,
       "packageId": "362",
       "meta": {
@@ -264,7 +264,7 @@
       "shortCodes": [
         "[绊爱第二弹_吃瓜]"
       ],
-      "staticUrl": "assets/bilibili_emoji/362/5969.png",
+      "staticUrl": "assets/bilibili/362/5969.png",
       "isHide": false,
       "packageId": "362",
       "meta": {
@@ -279,7 +279,7 @@
       "shortCodes": [
         "[绊爱第二弹_挑衅]"
       ],
-      "staticUrl": "assets/bilibili_emoji/362/5970.png",
+      "staticUrl": "assets/bilibili/362/5970.png",
       "isHide": false,
       "packageId": "362",
       "meta": {
@@ -294,7 +294,7 @@
       "shortCodes": [
         "[绊爱第二弹_悟了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/362/5971.png",
+      "staticUrl": "assets/bilibili/362/5971.png",
       "isHide": false,
       "packageId": "362",
       "meta": {

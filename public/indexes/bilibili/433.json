@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "433",
   "name": "萌宠小鼠",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/f7d44dd837c7b8e15f64a157d8747ee7433c97f2.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[萌宠小鼠_抱抱]"
       ],
-      "staticUrl": "assets/bilibili_emoji/433/7542.png",
+      "staticUrl": "assets/bilibili/433/7542.png",
       "isHide": false,
       "packageId": "433",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[萌宠小鼠_吃货]"
       ],
-      "staticUrl": "assets/bilibili_emoji/433/7543.png",
+      "staticUrl": "assets/bilibili/433/7543.png",
       "isHide": false,
       "packageId": "433",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[萌宠小鼠_嘿嘿]"
       ],
-      "staticUrl": "assets/bilibili_emoji/433/7544.png",
+      "staticUrl": "assets/bilibili/433/7544.png",
       "isHide": false,
       "packageId": "433",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[萌宠小鼠_卖萌]"
       ],
-      "staticUrl": "assets/bilibili_emoji/433/7545.png",
+      "staticUrl": "assets/bilibili/433/7545.png",
       "isHide": false,
       "packageId": "433",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[萌宠小鼠_伸懒腰]"
       ],
-      "staticUrl": "assets/bilibili_emoji/433/7546.png",
+      "staticUrl": "assets/bilibili/433/7546.png",
       "isHide": false,
       "packageId": "433",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[萌宠小鼠_生气]"
       ],
-      "staticUrl": "assets/bilibili_emoji/433/7547.png",
+      "staticUrl": "assets/bilibili/433/7547.png",
       "isHide": false,
       "packageId": "433",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[萌宠小鼠_贴贴]"
       ],
-      "staticUrl": "assets/bilibili_emoji/433/7548.png",
+      "staticUrl": "assets/bilibili/433/7548.png",
       "isHide": false,
       "packageId": "433",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[萌宠小鼠_委屈]"
       ],
-      "staticUrl": "assets/bilibili_emoji/433/7549.png",
+      "staticUrl": "assets/bilibili/433/7549.png",
       "isHide": false,
       "packageId": "433",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[萌宠小鼠_无语]"
       ],
-      "staticUrl": "assets/bilibili_emoji/433/7550.png",
+      "staticUrl": "assets/bilibili/433/7550.png",
       "isHide": false,
       "packageId": "433",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[萌宠小鼠_嘻嘻]"
       ],
-      "staticUrl": "assets/bilibili_emoji/433/7551.png",
+      "staticUrl": "assets/bilibili/433/7551.png",
       "isHide": false,
       "packageId": "433",
       "meta": {

@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "398",
   "name": "天涯明月刀移花",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/f66b62c90fea114c1882b60cdb32d52d13854bf9.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[天涯明月刀移花_比心]"
       ],
-      "staticUrl": "assets/bilibili_emoji/398/6669.png",
+      "staticUrl": "assets/bilibili/398/6669.png",
       "isHide": false,
       "packageId": "398",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[天涯明月刀移花_吃瓜]"
       ],
-      "staticUrl": "assets/bilibili_emoji/398/6670.png",
+      "staticUrl": "assets/bilibili/398/6670.png",
       "isHide": false,
       "packageId": "398",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[天涯明月刀移花_冲鸭]"
       ],
-      "staticUrl": "assets/bilibili_emoji/398/6671.png",
+      "staticUrl": "assets/bilibili/398/6671.png",
       "isHide": false,
       "packageId": "398",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[天涯明月刀移花_得意]"
       ],
-      "staticUrl": "assets/bilibili_emoji/398/6672.png",
+      "staticUrl": "assets/bilibili/398/6672.png",
       "isHide": false,
       "packageId": "398",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[天涯明月刀移花_滴汗]"
       ],
-      "staticUrl": "assets/bilibili_emoji/398/6673.png",
+      "staticUrl": "assets/bilibili/398/6673.png",
       "isHide": false,
       "packageId": "398",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[天涯明月刀移花_干杯]"
       ],
-      "staticUrl": "assets/bilibili_emoji/398/6674.png",
+      "staticUrl": "assets/bilibili/398/6674.png",
       "isHide": false,
       "packageId": "398",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[天涯明月刀移花_击掌]"
       ],
-      "staticUrl": "assets/bilibili_emoji/398/6675.png",
+      "staticUrl": "assets/bilibili/398/6675.png",
       "isHide": false,
       "packageId": "398",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[天涯明月刀移花_锦鲤光环]"
       ],
-      "staticUrl": "assets/bilibili_emoji/398/6676.png",
+      "staticUrl": "assets/bilibili/398/6676.png",
       "isHide": false,
       "packageId": "398",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[天涯明月刀移花_氪]"
       ],
-      "staticUrl": "assets/bilibili_emoji/398/6677.png",
+      "staticUrl": "assets/bilibili/398/6677.png",
       "isHide": false,
       "packageId": "398",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[天涯明月刀移花_麻了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/398/6678.png",
+      "staticUrl": "assets/bilibili/398/6678.png",
       "isHide": false,
       "packageId": "398",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[天涯明月刀移花_破防]"
       ],
-      "staticUrl": "assets/bilibili_emoji/398/6679.png",
+      "staticUrl": "assets/bilibili/398/6679.png",
       "isHide": false,
       "packageId": "398",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[天涯明月刀移花_闪亮登场]"
       ],
-      "staticUrl": "assets/bilibili_emoji/398/6680.png",
+      "staticUrl": "assets/bilibili/398/6680.png",
       "isHide": false,
       "packageId": "398",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[天涯明月刀移花_上班]"
       ],
-      "staticUrl": "assets/bilibili_emoji/398/6681.png",
+      "staticUrl": "assets/bilibili/398/6681.png",
       "isHide": false,
       "packageId": "398",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[天涯明月刀移花_生气]"
       ],
-      "staticUrl": "assets/bilibili_emoji/398/6682.png",
+      "staticUrl": "assets/bilibili/398/6682.png",
       "isHide": false,
       "packageId": "398",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[天涯明月刀移花_酸]"
       ],
-      "staticUrl": "assets/bilibili_emoji/398/6683.png",
+      "staticUrl": "assets/bilibili/398/6683.png",
       "isHide": false,
       "packageId": "398",
       "meta": {
@@ -234,7 +234,7 @@
       "shortCodes": [
         "[天涯明月刀移花_天下第一]"
       ],
-      "staticUrl": "assets/bilibili_emoji/398/6684.png",
+      "staticUrl": "assets/bilibili/398/6684.png",
       "isHide": false,
       "packageId": "398",
       "meta": {
@@ -249,7 +249,7 @@
       "shortCodes": [
         "[天涯明月刀移花_问号]"
       ],
-      "staticUrl": "assets/bilibili_emoji/398/6685.png",
+      "staticUrl": "assets/bilibili/398/6685.png",
       "isHide": false,
       "packageId": "398",
       "meta": {
@@ -264,7 +264,7 @@
       "shortCodes": [
         "[天涯明月刀移花_羡慕]"
       ],
-      "staticUrl": "assets/bilibili_emoji/398/6686.png",
+      "staticUrl": "assets/bilibili/398/6686.png",
       "isHide": false,
       "packageId": "398",
       "meta": {
@@ -279,7 +279,7 @@
       "shortCodes": [
         "[天涯明月刀移花_优雅]"
       ],
-      "staticUrl": "assets/bilibili_emoji/398/6687.png",
+      "staticUrl": "assets/bilibili/398/6687.png",
       "isHide": false,
       "packageId": "398",
       "meta": {
@@ -294,7 +294,7 @@
       "shortCodes": [
         "[天涯明月刀移花_赞]"
       ],
-      "staticUrl": "assets/bilibili_emoji/398/6688.png",
+      "staticUrl": "assets/bilibili/398/6688.png",
       "isHide": false,
       "packageId": "398",
       "meta": {

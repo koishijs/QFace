@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "289",
   "name": "RNG战队",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/9adef44a4820ee70d6b56bc477e42c2f1f20af53.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[RNG_出征]"
       ],
-      "staticUrl": "assets/bilibili_emoji/289/4792.png",
+      "staticUrl": "assets/bilibili/289/4792.png",
       "isHide": false,
       "packageId": "289",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[RNG_点点]"
       ],
-      "staticUrl": "assets/bilibili_emoji/289/4793.png",
+      "staticUrl": "assets/bilibili/289/4793.png",
       "isHide": false,
       "packageId": "289",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[RNG_666]"
       ],
-      "staticUrl": "assets/bilibili_emoji/289/4794.png",
+      "staticUrl": "assets/bilibili/289/4794.png",
       "isHide": false,
       "packageId": "289",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[RNG_牛]"
       ],
-      "staticUrl": "assets/bilibili_emoji/289/4795.png",
+      "staticUrl": "assets/bilibili/289/4795.png",
       "isHide": false,
       "packageId": "289",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[RNG_哭哭]"
       ],
-      "staticUrl": "assets/bilibili_emoji/289/4796.png",
+      "staticUrl": "assets/bilibili/289/4796.png",
       "isHide": false,
       "packageId": "289",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[RNG_集合]"
       ],
-      "staticUrl": "assets/bilibili_emoji/289/4797.png",
+      "staticUrl": "assets/bilibili/289/4797.png",
       "isHide": false,
       "packageId": "289",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[RNG_荣光加冕]"
       ],
-      "staticUrl": "assets/bilibili_emoji/289/4798.png",
+      "staticUrl": "assets/bilibili/289/4798.png",
       "isHide": false,
       "packageId": "289",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[RNG_庆祝]"
       ],
-      "staticUrl": "assets/bilibili_emoji/289/4799.png",
+      "staticUrl": "assets/bilibili/289/4799.png",
       "isHide": false,
       "packageId": "289",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[RNG_冲]"
       ],
-      "staticUrl": "assets/bilibili_emoji/289/4800.png",
+      "staticUrl": "assets/bilibili/289/4800.png",
       "isHide": false,
       "packageId": "289",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[RNG_RNG]"
       ],
-      "staticUrl": "assets/bilibili_emoji/289/4801.png",
+      "staticUrl": "assets/bilibili/289/4801.png",
       "isHide": false,
       "packageId": "289",
       "meta": {

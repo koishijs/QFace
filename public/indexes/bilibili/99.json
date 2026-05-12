@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "99",
   "name": "百鬼幼儿园",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/545055554f9043e42b5ca0cc2c1354a0d3d07347.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[百鬼幼儿园_加油]"
       ],
-      "staticUrl": "assets/bilibili_emoji/99/2158.png",
+      "staticUrl": "assets/bilibili/99/2158.png",
       "isHide": false,
       "packageId": "99",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[百鬼幼儿园_惊讶]"
       ],
-      "staticUrl": "assets/bilibili_emoji/99/2159.png",
+      "staticUrl": "assets/bilibili/99/2159.png",
       "isHide": false,
       "packageId": "99",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[百鬼幼儿园_尴尬]"
       ],
-      "staticUrl": "assets/bilibili_emoji/99/2160.png",
+      "staticUrl": "assets/bilibili/99/2160.png",
       "isHide": false,
       "packageId": "99",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[百鬼幼儿园_噗嗤]"
       ],
-      "staticUrl": "assets/bilibili_emoji/99/2161.png",
+      "staticUrl": "assets/bilibili/99/2161.png",
       "isHide": false,
       "packageId": "99",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[百鬼幼儿园_气抖冷]"
       ],
-      "staticUrl": "assets/bilibili_emoji/99/2162.png",
+      "staticUrl": "assets/bilibili/99/2162.png",
       "isHide": false,
       "packageId": "99",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[百鬼幼儿园_点赞]"
       ],
-      "staticUrl": "assets/bilibili_emoji/99/2163.png",
+      "staticUrl": "assets/bilibili/99/2163.png",
       "isHide": false,
       "packageId": "99",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[百鬼幼儿园_小问号]"
       ],
-      "staticUrl": "assets/bilibili_emoji/99/2164.png",
+      "staticUrl": "assets/bilibili/99/2164.png",
       "isHide": false,
       "packageId": "99",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[百鬼幼儿园_晕了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/99/2165.png",
+      "staticUrl": "assets/bilibili/99/2165.png",
       "isHide": false,
       "packageId": "99",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[百鬼幼儿园_哭哭]"
       ],
-      "staticUrl": "assets/bilibili_emoji/99/2166.png",
+      "staticUrl": "assets/bilibili/99/2166.png",
       "isHide": false,
       "packageId": "99",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[百鬼幼儿园_生气]"
       ],
-      "staticUrl": "assets/bilibili_emoji/99/2167.png",
+      "staticUrl": "assets/bilibili/99/2167.png",
       "isHide": false,
       "packageId": "99",
       "meta": {

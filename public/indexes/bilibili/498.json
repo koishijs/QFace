@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "498",
   "name": "广州TTG",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/f6028a20ff65edf1da1b054d627349ca31626c85.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[广州TTG_no]"
       ],
-      "staticUrl": "assets/bilibili_emoji/498/8853.png",
+      "staticUrl": "assets/bilibili/498/8853.png",
       "isHide": false,
       "packageId": "498",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[广州TTG_yes]"
       ],
-      "staticUrl": "assets/bilibili_emoji/498/8854.png",
+      "staticUrl": "assets/bilibili/498/8854.png",
       "isHide": false,
       "packageId": "498",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[广州TTG_心碎]"
       ],
-      "staticUrl": "assets/bilibili_emoji/498/8855.png",
+      "staticUrl": "assets/bilibili/498/8855.png",
       "isHide": false,
       "packageId": "498",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[广州TTG_操作起来]"
       ],
-      "staticUrl": "assets/bilibili_emoji/498/8856.png",
+      "staticUrl": "assets/bilibili/498/8856.png",
       "isHide": false,
       "packageId": "498",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[广州TTG_馋]"
       ],
-      "staticUrl": "assets/bilibili_emoji/498/8857.png",
+      "staticUrl": "assets/bilibili/498/8857.png",
       "isHide": false,
       "packageId": "498",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[广州TTG_冲鸭]"
       ],
-      "staticUrl": "assets/bilibili_emoji/498/8858.png",
+      "staticUrl": "assets/bilibili/498/8858.png",
       "isHide": false,
       "packageId": "498",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[广州TTG_戳]"
       ],
-      "staticUrl": "assets/bilibili_emoji/498/8859.png",
+      "staticUrl": "assets/bilibili/498/8859.png",
       "isHide": false,
       "packageId": "498",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[广州TTG_薅呆毛]"
       ],
-      "staticUrl": "assets/bilibili_emoji/498/8860.png",
+      "staticUrl": "assets/bilibili/498/8860.png",
       "isHide": false,
       "packageId": "498",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[广州TTG_加餐]"
       ],
-      "staticUrl": "assets/bilibili_emoji/498/8861.png",
+      "staticUrl": "assets/bilibili/498/8861.png",
       "isHide": false,
       "packageId": "498",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[广州TTG_就这]"
       ],
-      "staticUrl": "assets/bilibili_emoji/498/8862.png",
+      "staticUrl": "assets/bilibili/498/8862.png",
       "isHide": false,
       "packageId": "498",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[广州TTG_溜了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/498/8863.png",
+      "staticUrl": "assets/bilibili/498/8863.png",
       "isHide": false,
       "packageId": "498",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[广州TTG_冒头]"
       ],
-      "staticUrl": "assets/bilibili_emoji/498/8864.png",
+      "staticUrl": "assets/bilibili/498/8864.png",
       "isHide": false,
       "packageId": "498",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[广州TTG_捧花]"
       ],
-      "staticUrl": "assets/bilibili_emoji/498/8865.png",
+      "staticUrl": "assets/bilibili/498/8865.png",
       "isHide": false,
       "packageId": "498",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[广州TTG_亲亲]"
       ],
-      "staticUrl": "assets/bilibili_emoji/498/8866.png",
+      "staticUrl": "assets/bilibili/498/8866.png",
       "isHide": false,
       "packageId": "498",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[广州TTG_偷看]"
       ],
-      "staticUrl": "assets/bilibili_emoji/498/8867.png",
+      "staticUrl": "assets/bilibili/498/8867.png",
       "isHide": false,
       "packageId": "498",
       "meta": {
@@ -234,7 +234,7 @@
       "shortCodes": [
         "[广州TTG_呜呜]"
       ],
-      "staticUrl": "assets/bilibili_emoji/498/8868.png",
+      "staticUrl": "assets/bilibili/498/8868.png",
       "isHide": false,
       "packageId": "498",
       "meta": {
@@ -249,7 +249,7 @@
       "shortCodes": [
         "[广州TTG_芜湖]"
       ],
-      "staticUrl": "assets/bilibili_emoji/498/8869.png",
+      "staticUrl": "assets/bilibili/498/8869.png",
       "isHide": false,
       "packageId": "498",
       "meta": {
@@ -264,7 +264,7 @@
       "shortCodes": [
         "[广州TTG_亿点点]"
       ],
-      "staticUrl": "assets/bilibili_emoji/498/8870.png",
+      "staticUrl": "assets/bilibili/498/8870.png",
       "isHide": false,
       "packageId": "498",
       "meta": {
@@ -279,7 +279,7 @@
       "shortCodes": [
         "[广州TTG_元气满满]"
       ],
-      "staticUrl": "assets/bilibili_emoji/498/8871.png",
+      "staticUrl": "assets/bilibili/498/8871.png",
       "isHide": false,
       "packageId": "498",
       "meta": {
@@ -294,7 +294,7 @@
       "shortCodes": [
         "[广州TTG_窒息]"
       ],
-      "staticUrl": "assets/bilibili_emoji/498/8872.png",
+      "staticUrl": "assets/bilibili/498/8872.png",
       "isHide": false,
       "packageId": "498",
       "meta": {

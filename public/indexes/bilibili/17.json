@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "17",
   "name": "喂，看见耳朵啦！",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/0e99fd418d5ee4ec0b235dc8c1cba96dcd92e52f.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[喂，看见耳朵啦！_懵]"
       ],
-      "staticUrl": "assets/bilibili_emoji/17/326.png",
+      "staticUrl": "assets/bilibili/17/326.png",
       "isHide": false,
       "packageId": "17",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[喂，看见耳朵啦！_嗷]"
       ],
-      "staticUrl": "assets/bilibili_emoji/17/327.png",
+      "staticUrl": "assets/bilibili/17/327.png",
       "isHide": false,
       "packageId": "17",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[喂，看见耳朵啦！_抱大腿]"
       ],
-      "staticUrl": "assets/bilibili_emoji/17/328.png",
+      "staticUrl": "assets/bilibili/17/328.png",
       "isHide": false,
       "packageId": "17",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[喂，看见耳朵啦！_抱走]"
       ],
-      "staticUrl": "assets/bilibili_emoji/17/329.png",
+      "staticUrl": "assets/bilibili/17/329.png",
       "isHide": false,
       "packageId": "17",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[喂，看见耳朵啦！_壁咚]"
       ],
-      "staticUrl": "assets/bilibili_emoji/17/330.png",
+      "staticUrl": "assets/bilibili/17/330.png",
       "isHide": false,
       "packageId": "17",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[喂，看见耳朵啦！_冷漠]"
       ],
-      "staticUrl": "assets/bilibili_emoji/17/331.png",
+      "staticUrl": "assets/bilibili/17/331.png",
       "isHide": false,
       "packageId": "17",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[喂，看见耳朵啦！_嘤嘤嘤]"
       ],
-      "staticUrl": "assets/bilibili_emoji/17/332.png",
+      "staticUrl": "assets/bilibili/17/332.png",
       "isHide": false,
       "packageId": "17",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[喂，看见耳朵啦！_吓]"
       ],
-      "staticUrl": "assets/bilibili_emoji/17/333.png",
+      "staticUrl": "assets/bilibili/17/333.png",
       "isHide": false,
       "packageId": "17",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[喂，看见耳朵啦！_chu]"
       ],
-      "staticUrl": "assets/bilibili_emoji/17/334.png",
+      "staticUrl": "assets/bilibili/17/334.png",
       "isHide": false,
       "packageId": "17",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[喂，看见耳朵啦！_爱你]"
       ],
-      "staticUrl": "assets/bilibili_emoji/17/335.png",
+      "staticUrl": "assets/bilibili/17/335.png",
       "isHide": false,
       "packageId": "17",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[喂，看见耳朵啦！_舔]"
       ],
-      "staticUrl": "assets/bilibili_emoji/17/336.png",
+      "staticUrl": "assets/bilibili/17/336.png",
       "isHide": false,
       "packageId": "17",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[喂，看见耳朵啦！_睡觉觉]"
       ],
-      "staticUrl": "assets/bilibili_emoji/17/337.png",
+      "staticUrl": "assets/bilibili/17/337.png",
       "isHide": false,
       "packageId": "17",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[喂，看见耳朵啦！_举高高]"
       ],
-      "staticUrl": "assets/bilibili_emoji/17/338.png",
+      "staticUrl": "assets/bilibili/17/338.png",
       "isHide": false,
       "packageId": "17",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[喂，看见耳朵啦！_说什么都对]"
       ],
-      "staticUrl": "assets/bilibili_emoji/17/339.png",
+      "staticUrl": "assets/bilibili/17/339.png",
       "isHide": false,
       "packageId": "17",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[喂，看见耳朵啦！_不可描述]"
       ],
-      "staticUrl": "assets/bilibili_emoji/17/340.png",
+      "staticUrl": "assets/bilibili/17/340.png",
       "isHide": false,
       "packageId": "17",
       "meta": {
@@ -234,7 +234,7 @@
       "shortCodes": [
         "[喂，看见耳朵啦！_摔倒啦]"
       ],
-      "staticUrl": "assets/bilibili_emoji/17/341.png",
+      "staticUrl": "assets/bilibili/17/341.png",
       "isHide": false,
       "packageId": "17",
       "meta": {

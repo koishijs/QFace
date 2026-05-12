@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "373",
   "name": "小可学妹",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/bdaafa4020b5108c5ef3a224d7985f5107d0d3b0.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[小可学妹_？？？]"
       ],
-      "staticUrl": "assets/bilibili_emoji/373/6138.png",
+      "staticUrl": "assets/bilibili/373/6138.png",
       "isHide": false,
       "packageId": "373",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[小可学妹_爱你]"
       ],
-      "staticUrl": "assets/bilibili_emoji/373/6139.png",
+      "staticUrl": "assets/bilibili/373/6139.png",
       "isHide": false,
       "packageId": "373",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[小可学妹_不可以哦]"
       ],
-      "staticUrl": "assets/bilibili_emoji/373/6140.png",
+      "staticUrl": "assets/bilibili/373/6140.png",
       "isHide": false,
       "packageId": "373",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[小可学妹_www]"
       ],
-      "staticUrl": "assets/bilibili_emoji/373/6141.png",
+      "staticUrl": "assets/bilibili/373/6141.png",
       "isHide": false,
       "packageId": "373",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[小可学妹_馋]"
       ],
-      "staticUrl": "assets/bilibili_emoji/373/6142.png",
+      "staticUrl": "assets/bilibili/373/6142.png",
       "isHide": false,
       "packageId": "373",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[小可学妹_大哭]"
       ],
-      "staticUrl": "assets/bilibili_emoji/373/6143.png",
+      "staticUrl": "assets/bilibili/373/6143.png",
       "isHide": false,
       "packageId": "373",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[小可学妹_大笑]"
       ],
-      "staticUrl": "assets/bilibili_emoji/373/6144.png",
+      "staticUrl": "assets/bilibili/373/6144.png",
       "isHide": false,
       "packageId": "373",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[小可学妹_害怕]"
       ],
-      "staticUrl": "assets/bilibili_emoji/373/6145.png",
+      "staticUrl": "assets/bilibili/373/6145.png",
       "isHide": false,
       "packageId": "373",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[小可学妹_哼]"
       ],
-      "staticUrl": "assets/bilibili_emoji/373/6146.png",
+      "staticUrl": "assets/bilibili/373/6146.png",
       "isHide": false,
       "packageId": "373",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[小可学妹_击剑]"
       ],
-      "staticUrl": "assets/bilibili_emoji/373/6147.png",
+      "staticUrl": "assets/bilibili/373/6147.png",
       "isHide": false,
       "packageId": "373",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[小可学妹_加油呀]"
       ],
-      "staticUrl": "assets/bilibili_emoji/373/6148.png",
+      "staticUrl": "assets/bilibili/373/6148.png",
       "isHide": false,
       "packageId": "373",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[小可学妹_就这？]"
       ],
-      "staticUrl": "assets/bilibili_emoji/373/6149.png",
+      "staticUrl": "assets/bilibili/373/6149.png",
       "isHide": false,
       "packageId": "373",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[小可学妹_老板大气]"
       ],
-      "staticUrl": "assets/bilibili_emoji/373/6150.png",
+      "staticUrl": "assets/bilibili/373/6150.png",
       "isHide": false,
       "packageId": "373",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[小可学妹_太牛啦]"
       ],
-      "staticUrl": "assets/bilibili_emoji/373/6151.png",
+      "staticUrl": "assets/bilibili/373/6151.png",
       "isHide": false,
       "packageId": "373",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[小可学妹_哇]"
       ],
-      "staticUrl": "assets/bilibili_emoji/373/6152.png",
+      "staticUrl": "assets/bilibili/373/6152.png",
       "isHide": false,
       "packageId": "373",
       "meta": {
@@ -234,7 +234,7 @@
       "shortCodes": [
         "[小可学妹_我流汗了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/373/6153.png",
+      "staticUrl": "assets/bilibili/373/6153.png",
       "isHide": false,
       "packageId": "373",
       "meta": {
@@ -249,7 +249,7 @@
       "shortCodes": [
         "[小可学妹_下饭]"
       ],
-      "staticUrl": "assets/bilibili_emoji/373/6154.png",
+      "staticUrl": "assets/bilibili/373/6154.png",
       "isHide": false,
       "packageId": "373",
       "meta": {
@@ -264,7 +264,7 @@
       "shortCodes": [
         "[小可学妹_一起吗]"
       ],
-      "staticUrl": "assets/bilibili_emoji/373/6155.png",
+      "staticUrl": "assets/bilibili/373/6155.png",
       "isHide": false,
       "packageId": "373",
       "meta": {
@@ -279,7 +279,7 @@
       "shortCodes": [
         "[小可学妹_抓住你了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/373/6156.png",
+      "staticUrl": "assets/bilibili/373/6156.png",
       "isHide": false,
       "packageId": "373",
       "meta": {
@@ -294,7 +294,7 @@
       "shortCodes": [
         "[小可学妹_MUA]"
       ],
-      "staticUrl": "assets/bilibili_emoji/373/6157.png",
+      "staticUrl": "assets/bilibili/373/6157.png",
       "isHide": false,
       "packageId": "373",
       "meta": {
@@ -309,7 +309,7 @@
       "shortCodes": [
         "[小可学妹_别急]"
       ],
-      "staticUrl": "assets/bilibili_emoji/373/6860.png",
+      "staticUrl": "assets/bilibili/373/6860.png",
       "isHide": false,
       "packageId": "373",
       "meta": {
@@ -324,7 +324,7 @@
       "shortCodes": [
         "[小可学妹_出生]"
       ],
-      "staticUrl": "assets/bilibili_emoji/373/6861.png",
+      "staticUrl": "assets/bilibili/373/6861.png",
       "isHide": false,
       "packageId": "373",
       "meta": {
@@ -339,7 +339,7 @@
       "shortCodes": [
         "[小可学妹_好热]"
       ],
-      "staticUrl": "assets/bilibili_emoji/373/6862.png",
+      "staticUrl": "assets/bilibili/373/6862.png",
       "isHide": false,
       "packageId": "373",
       "meta": {
@@ -354,7 +354,7 @@
       "shortCodes": [
         "[小可学妹_两眼一黑]"
       ],
-      "staticUrl": "assets/bilibili_emoji/373/6863.png",
+      "staticUrl": "assets/bilibili/373/6863.png",
       "isHide": false,
       "packageId": "373",
       "meta": {
@@ -369,7 +369,7 @@
       "shortCodes": [
         "[小可学妹_妈！]"
       ],
-      "staticUrl": "assets/bilibili_emoji/373/6864.png",
+      "staticUrl": "assets/bilibili/373/6864.png",
       "isHide": false,
       "packageId": "373",
       "meta": {

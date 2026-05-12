@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "363",
   "name": "Hiiro二周年",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/0637430551e72f983707bfb1c0051cbf5137284d.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[Hiiro二周年_kimo]"
       ],
-      "staticUrl": "assets/bilibili_emoji/363/5972.png",
+      "staticUrl": "assets/bilibili/363/5972.png",
       "isHide": false,
       "packageId": "363",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[Hiiro二周年_啊这]"
       ],
-      "staticUrl": "assets/bilibili_emoji/363/5973.png",
+      "staticUrl": "assets/bilibili/363/5973.png",
       "isHide": false,
       "packageId": "363",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[Hiiro二周年_俺也一样]"
       ],
-      "staticUrl": "assets/bilibili_emoji/363/5974.png",
+      "staticUrl": "assets/bilibili/363/5974.png",
       "isHide": false,
       "packageId": "363",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[Hiiro二周年_拜托]"
       ],
-      "staticUrl": "assets/bilibili_emoji/363/5975.png",
+      "staticUrl": "assets/bilibili/363/5975.png",
       "isHide": false,
       "packageId": "363",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[Hiiro二周年_抱抱]"
       ],
-      "staticUrl": "assets/bilibili_emoji/363/5976.png",
+      "staticUrl": "assets/bilibili/363/5976.png",
       "isHide": false,
       "packageId": "363",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[Hiiro二周年_吃瓜]"
       ],
-      "staticUrl": "assets/bilibili_emoji/363/5977.png",
+      "staticUrl": "assets/bilibili/363/5977.png",
       "isHide": false,
       "packageId": "363",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[Hiiro二周年_大的要来了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/363/5978.png",
+      "staticUrl": "assets/bilibili/363/5978.png",
       "isHide": false,
       "packageId": "363",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[Hiiro二周年_干杯]"
       ],
-      "staticUrl": "assets/bilibili_emoji/363/5979.png",
+      "staticUrl": "assets/bilibili/363/5979.png",
       "isHide": false,
       "packageId": "363",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[Hiiro二周年_给你一拳]"
       ],
-      "staticUrl": "assets/bilibili_emoji/363/5980.png",
+      "staticUrl": "assets/bilibili/363/5980.png",
       "isHide": false,
       "packageId": "363",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[Hiiro二周年_好耶]"
       ],
-      "staticUrl": "assets/bilibili_emoji/363/5981.png",
+      "staticUrl": "assets/bilibili/363/5981.png",
       "isHide": false,
       "packageId": "363",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[Hiiro二周年_坏女人]"
       ],
-      "staticUrl": "assets/bilibili_emoji/363/5982.png",
+      "staticUrl": "assets/bilibili/363/5982.png",
       "isHide": false,
       "packageId": "363",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[Hiiro二周年_击剑]"
       ],
-      "staticUrl": "assets/bilibili_emoji/363/5983.png",
+      "staticUrl": "assets/bilibili/363/5983.png",
       "isHide": false,
       "packageId": "363",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[Hiiro二周年_寄]"
       ],
-      "staticUrl": "assets/bilibili_emoji/363/5984.png",
+      "staticUrl": "assets/bilibili/363/5984.png",
       "isHide": false,
       "packageId": "363",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[Hiiro二周年_就这]"
       ],
-      "staticUrl": "assets/bilibili_emoji/363/5985.png",
+      "staticUrl": "assets/bilibili/363/5985.png",
       "isHide": false,
       "packageId": "363",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[Hiiro二周年_辣眼睛]"
       ],
-      "staticUrl": "assets/bilibili_emoji/363/5986.png",
+      "staticUrl": "assets/bilibili/363/5986.png",
       "isHide": false,
       "packageId": "363",
       "meta": {
@@ -234,7 +234,7 @@
       "shortCodes": [
         "[Hiiro二周年_两眼一mua]"
       ],
-      "staticUrl": "assets/bilibili_emoji/363/5987.png",
+      "staticUrl": "assets/bilibili/363/5987.png",
       "isHide": false,
       "packageId": "363",
       "meta": {
@@ -249,7 +249,7 @@
       "shortCodes": [
         "[Hiiro二周年_流口水]"
       ],
-      "staticUrl": "assets/bilibili_emoji/363/5988.png",
+      "staticUrl": "assets/bilibili/363/5988.png",
       "isHide": false,
       "packageId": "363",
       "meta": {
@@ -264,7 +264,7 @@
       "shortCodes": [
         "[Hiiro二周年_麻了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/363/5989.png",
+      "staticUrl": "assets/bilibili/363/5989.png",
       "isHide": false,
       "packageId": "363",
       "meta": {
@@ -279,7 +279,7 @@
       "shortCodes": [
         "[Hiiro二周年_你急了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/363/5990.png",
+      "staticUrl": "assets/bilibili/363/5990.png",
       "isHide": false,
       "packageId": "363",
       "meta": {
@@ -294,7 +294,7 @@
       "shortCodes": [
         "[Hiiro二周年_甜菜]"
       ],
-      "staticUrl": "assets/bilibili_emoji/363/5991.png",
+      "staticUrl": "assets/bilibili/363/5991.png",
       "isHide": false,
       "packageId": "363",
       "meta": {
@@ -309,7 +309,7 @@
       "shortCodes": [
         "[Hiiro二周年_我打你啊]"
       ],
-      "staticUrl": "assets/bilibili_emoji/363/5992.png",
+      "staticUrl": "assets/bilibili/363/5992.png",
       "isHide": false,
       "packageId": "363",
       "meta": {
@@ -324,7 +324,7 @@
       "shortCodes": [
         "[Hiiro二周年_我急了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/363/5993.png",
+      "staticUrl": "assets/bilibili/363/5993.png",
       "isHide": false,
       "packageId": "363",
       "meta": {
@@ -339,7 +339,7 @@
       "shortCodes": [
         "[Hiiro二周年_无语]"
       ],
-      "staticUrl": "assets/bilibili_emoji/363/5994.png",
+      "staticUrl": "assets/bilibili/363/5994.png",
       "isHide": false,
       "packageId": "363",
       "meta": {
@@ -354,7 +354,7 @@
       "shortCodes": [
         "[Hiiro二周年_吓]"
       ],
-      "staticUrl": "assets/bilibili_emoji/363/5995.png",
+      "staticUrl": "assets/bilibili/363/5995.png",
       "isHide": false,
       "packageId": "363",
       "meta": {
@@ -369,7 +369,7 @@
       "shortCodes": [
         "[Hiiro二周年_两眼一黑]"
       ],
-      "staticUrl": "assets/bilibili_emoji/363/5996.png",
+      "staticUrl": "assets/bilibili/363/5996.png",
       "isHide": false,
       "packageId": "363",
       "meta": {

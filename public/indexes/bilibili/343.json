@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "343",
   "name": "月隐空夜",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/3f5ae5f73b2ee1a3f2ba7df267a686f5983f78be.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[月隐空夜_诶嘿]"
       ],
-      "staticUrl": "assets/bilibili_emoji/343/5639.png",
+      "staticUrl": "assets/bilibili/343/5639.png",
       "isHide": false,
       "packageId": "343",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[月隐空夜_打工人]"
       ],
-      "staticUrl": "assets/bilibili_emoji/343/5640.png",
+      "staticUrl": "assets/bilibili/343/5640.png",
       "isHide": false,
       "packageId": "343",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[月隐空夜_咕咕咕]"
       ],
-      "staticUrl": "assets/bilibili_emoji/343/5641.png",
+      "staticUrl": "assets/bilibili/343/5641.png",
       "isHide": false,
       "packageId": "343",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[月隐空夜_害羞]"
       ],
-      "staticUrl": "assets/bilibili_emoji/343/5642.png",
+      "staticUrl": "assets/bilibili/343/5642.png",
       "isHide": false,
       "packageId": "343",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[月隐空夜_回家了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/343/5643.png",
+      "staticUrl": "assets/bilibili/343/5643.png",
       "isHide": false,
       "packageId": "343",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[月隐空夜_开心]"
       ],
-      "staticUrl": "assets/bilibili_emoji/343/5644.png",
+      "staticUrl": "assets/bilibili/343/5644.png",
       "isHide": false,
       "packageId": "343",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[月隐空夜_流泪]"
       ],
-      "staticUrl": "assets/bilibili_emoji/343/5645.png",
+      "staticUrl": "assets/bilibili/343/5645.png",
       "isHide": false,
       "packageId": "343",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[月隐空夜_你给路哟]"
       ],
-      "staticUrl": "assets/bilibili_emoji/343/5646.png",
+      "staticUrl": "assets/bilibili/343/5646.png",
       "isHide": false,
       "packageId": "343",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[月隐空夜_你有问题]"
       ],
-      "staticUrl": "assets/bilibili_emoji/343/5647.png",
+      "staticUrl": "assets/bilibili/343/5647.png",
       "isHide": false,
       "packageId": "343",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[月隐空夜_欧拉]"
       ],
-      "staticUrl": "assets/bilibili_emoji/343/5648.png",
+      "staticUrl": "assets/bilibili/343/5648.png",
       "isHide": false,
       "packageId": "343",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[月隐空夜_欧气满满]"
       ],
-      "staticUrl": "assets/bilibili_emoji/343/5649.png",
+      "staticUrl": "assets/bilibili/343/5649.png",
       "isHide": false,
       "packageId": "343",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[月隐空夜_亲亲]"
       ],
-      "staticUrl": "assets/bilibili_emoji/343/5650.png",
+      "staticUrl": "assets/bilibili/343/5650.png",
       "isHide": false,
       "packageId": "343",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[月隐空夜_生气]"
       ],
-      "staticUrl": "assets/bilibili_emoji/343/5651.png",
+      "staticUrl": "assets/bilibili/343/5651.png",
       "isHide": false,
       "packageId": "343",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[月隐空夜_帅哥!]"
       ],
-      "staticUrl": "assets/bilibili_emoji/343/5652.png",
+      "staticUrl": "assets/bilibili/343/5652.png",
       "isHide": false,
       "packageId": "343",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[月隐空夜_天才]"
       ],
-      "staticUrl": "assets/bilibili_emoji/343/5653.png",
+      "staticUrl": "assets/bilibili/343/5653.png",
       "isHide": false,
       "packageId": "343",
       "meta": {
@@ -234,7 +234,7 @@
       "shortCodes": [
         "[月隐空夜_完了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/343/5654.png",
+      "staticUrl": "assets/bilibili/343/5654.png",
       "isHide": false,
       "packageId": "343",
       "meta": {
@@ -249,7 +249,7 @@
       "shortCodes": [
         "[月隐空夜_捂脸]"
       ],
-      "staticUrl": "assets/bilibili_emoji/343/5655.png",
+      "staticUrl": "assets/bilibili/343/5655.png",
       "isHide": false,
       "packageId": "343",
       "meta": {
@@ -264,7 +264,7 @@
       "shortCodes": [
         "[月隐空夜_下饭]"
       ],
-      "staticUrl": "assets/bilibili_emoji/343/5656.png",
+      "staticUrl": "assets/bilibili/343/5656.png",
       "isHide": false,
       "packageId": "343",
       "meta": {
@@ -279,7 +279,7 @@
       "shortCodes": [
         "[月隐空夜_小脸一黑]"
       ],
-      "staticUrl": "assets/bilibili_emoji/343/5657.png",
+      "staticUrl": "assets/bilibili/343/5657.png",
       "isHide": false,
       "packageId": "343",
       "meta": {
@@ -294,7 +294,7 @@
       "shortCodes": [
         "[月隐空夜_斩!]"
       ],
-      "staticUrl": "assets/bilibili_emoji/343/5658.png",
+      "staticUrl": "assets/bilibili/343/5658.png",
       "isHide": false,
       "packageId": "343",
       "meta": {

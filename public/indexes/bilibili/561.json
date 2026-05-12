@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "561",
   "name": "眠眠兔",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/c8ffff603de1e1e0fe36810ed8d28880a42244ce.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[眠眠兔_吃瓜群众]"
       ],
-      "staticUrl": "assets/bilibili_emoji/561/10254.png",
+      "staticUrl": "assets/bilibili/561/10254.png",
       "isHide": false,
       "packageId": "561",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[眠眠兔_啃啃硬币]"
       ],
-      "staticUrl": "assets/bilibili_emoji/561/10255.png",
+      "staticUrl": "assets/bilibili/561/10255.png",
       "isHide": false,
       "packageId": "561",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[眠眠兔_困困]"
       ],
-      "staticUrl": "assets/bilibili_emoji/561/10256.png",
+      "staticUrl": "assets/bilibili/561/10256.png",
       "isHide": false,
       "packageId": "561",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[眠眠兔_疲惫]"
       ],
-      "staticUrl": "assets/bilibili_emoji/561/10257.png",
+      "staticUrl": "assets/bilibili/561/10257.png",
       "isHide": false,
       "packageId": "561",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[眠眠兔_偷看]"
       ],
-      "staticUrl": "assets/bilibili_emoji/561/10258.png",
+      "staticUrl": "assets/bilibili/561/10258.png",
       "isHide": false,
       "packageId": "561",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[眠眠兔_哇哦]"
       ],
-      "staticUrl": "assets/bilibili_emoji/561/10259.png",
+      "staticUrl": "assets/bilibili/561/10259.png",
       "isHide": false,
       "packageId": "561",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[眠眠兔_无语]"
       ],
-      "staticUrl": "assets/bilibili_emoji/561/10260.png",
+      "staticUrl": "assets/bilibili/561/10260.png",
       "isHide": false,
       "packageId": "561",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[眠眠兔_喜欢]"
       ],
-      "staticUrl": "assets/bilibili_emoji/561/10261.png",
+      "staticUrl": "assets/bilibili/561/10261.png",
       "isHide": false,
       "packageId": "561",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[眠眠兔_疑惑]"
       ],
-      "staticUrl": "assets/bilibili_emoji/561/10262.png",
+      "staticUrl": "assets/bilibili/561/10262.png",
       "isHide": false,
       "packageId": "561",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[眠眠兔_赞]"
       ],
-      "staticUrl": "assets/bilibili_emoji/561/10263.png",
+      "staticUrl": "assets/bilibili/561/10263.png",
       "isHide": false,
       "packageId": "561",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[眠眠兔_抱抱]"
       ],
-      "staticUrl": "assets/bilibili_emoji/561/10388.png",
+      "staticUrl": "assets/bilibili/561/10388.png",
       "isHide": false,
       "packageId": "561",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[眠眠兔_抱大腿]"
       ],
-      "staticUrl": "assets/bilibili_emoji/561/10389.png",
+      "staticUrl": "assets/bilibili/561/10389.png",
       "isHide": false,
       "packageId": "561",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[眠眠兔_掉小珍珠]"
       ],
-      "staticUrl": "assets/bilibili_emoji/561/10390.png",
+      "staticUrl": "assets/bilibili/561/10390.png",
       "isHide": false,
       "packageId": "561",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[眠眠兔_多喝热水]"
       ],
-      "staticUrl": "assets/bilibili_emoji/561/10391.png",
+      "staticUrl": "assets/bilibili/561/10391.png",
       "isHide": false,
       "packageId": "561",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[眠眠兔_躲进小被]"
       ],
-      "staticUrl": "assets/bilibili_emoji/561/10392.png",
+      "staticUrl": "assets/bilibili/561/10392.png",
       "isHide": false,
       "packageId": "561",
       "meta": {
@@ -234,7 +234,7 @@
       "shortCodes": [
         "[眠眠兔_害羞]"
       ],
-      "staticUrl": "assets/bilibili_emoji/561/10393.png",
+      "staticUrl": "assets/bilibili/561/10393.png",
       "isHide": false,
       "packageId": "561",
       "meta": {
@@ -249,7 +249,7 @@
       "shortCodes": [
         "[眠眠兔_举高高]"
       ],
-      "staticUrl": "assets/bilibili_emoji/561/10394.png",
+      "staticUrl": "assets/bilibili/561/10394.png",
       "isHide": false,
       "packageId": "561",
       "meta": {
@@ -264,7 +264,7 @@
       "shortCodes": [
         "[眠眠兔_开心]"
       ],
-      "staticUrl": "assets/bilibili_emoji/561/10395.png",
+      "staticUrl": "assets/bilibili/561/10395.png",
       "isHide": false,
       "packageId": "561",
       "meta": {
@@ -279,7 +279,7 @@
       "shortCodes": [
         "[眠眠兔_啃萝卜]"
       ],
-      "staticUrl": "assets/bilibili_emoji/561/10396.png",
+      "staticUrl": "assets/bilibili/561/10396.png",
       "isHide": false,
       "packageId": "561",
       "meta": {
@@ -294,7 +294,7 @@
       "shortCodes": [
         "[眠眠兔_摸摸脑袋]"
       ],
-      "staticUrl": "assets/bilibili_emoji/561/10397.png",
+      "staticUrl": "assets/bilibili/561/10397.png",
       "isHide": false,
       "packageId": "561",
       "meta": {
@@ -309,7 +309,7 @@
       "shortCodes": [
         "[眠眠兔_气气]"
       ],
-      "staticUrl": "assets/bilibili_emoji/561/10398.png",
+      "staticUrl": "assets/bilibili/561/10398.png",
       "isHide": false,
       "packageId": "561",
       "meta": {
@@ -324,7 +324,7 @@
       "shortCodes": [
         "[眠眠兔_揉揉]"
       ],
-      "staticUrl": "assets/bilibili_emoji/561/10399.png",
+      "staticUrl": "assets/bilibili/561/10399.png",
       "isHide": false,
       "packageId": "561",
       "meta": {
@@ -339,7 +339,7 @@
       "shortCodes": [
         "[眠眠兔_叹气]"
       ],
-      "staticUrl": "assets/bilibili_emoji/561/10400.png",
+      "staticUrl": "assets/bilibili/561/10400.png",
       "isHide": false,
       "packageId": "561",
       "meta": {
@@ -354,7 +354,7 @@
       "shortCodes": [
         "[眠眠兔_贴贴]"
       ],
-      "staticUrl": "assets/bilibili_emoji/561/10401.png",
+      "staticUrl": "assets/bilibili/561/10401.png",
       "isHide": false,
       "packageId": "561",
       "meta": {
@@ -369,7 +369,7 @@
       "shortCodes": [
         "[眠眠兔_晕乎乎]"
       ],
-      "staticUrl": "assets/bilibili_emoji/561/10402.png",
+      "staticUrl": "assets/bilibili/561/10402.png",
       "isHide": false,
       "packageId": "561",
       "meta": {

@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "146",
   "name": "沙茶兔",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/80d85bc88987a25072087fa5ba5a2cb6c2aa42ef.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[沙茶兔_拜拜]"
       ],
-      "staticUrl": "assets/bilibili_emoji/146/2788.png",
+      "staticUrl": "assets/bilibili/146/2788.png",
       "isHide": false,
       "packageId": "146",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[沙茶兔_吃瓜]"
       ],
-      "staticUrl": "assets/bilibili_emoji/146/2789.png",
+      "staticUrl": "assets/bilibili/146/2789.png",
       "isHide": false,
       "packageId": "146",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[沙茶兔_得意]"
       ],
-      "staticUrl": "assets/bilibili_emoji/146/2790.png",
+      "staticUrl": "assets/bilibili/146/2790.png",
       "isHide": false,
       "packageId": "146",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[沙茶兔_哭了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/146/2791.png",
+      "staticUrl": "assets/bilibili/146/2791.png",
       "isHide": false,
       "packageId": "146",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[沙茶兔_冷漠]"
       ],
-      "staticUrl": "assets/bilibili_emoji/146/2792.png",
+      "staticUrl": "assets/bilibili/146/2792.png",
       "isHide": false,
       "packageId": "146",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[沙茶兔_清醒点]"
       ],
-      "staticUrl": "assets/bilibili_emoji/146/2793.png",
+      "staticUrl": "assets/bilibili/146/2793.png",
       "isHide": false,
       "packageId": "146",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[沙茶兔_请说]"
       ],
-      "staticUrl": "assets/bilibili_emoji/146/2794.png",
+      "staticUrl": "assets/bilibili/146/2794.png",
       "isHide": false,
       "packageId": "146",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[沙茶兔_问号]"
       ],
-      "staticUrl": "assets/bilibili_emoji/146/2795.png",
+      "staticUrl": "assets/bilibili/146/2795.png",
       "isHide": false,
       "packageId": "146",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[沙茶兔_嫌弃]"
       ],
-      "staticUrl": "assets/bilibili_emoji/146/2796.png",
+      "staticUrl": "assets/bilibili/146/2796.png",
       "isHide": false,
       "packageId": "146",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[沙茶兔_在吗]"
       ],
-      "staticUrl": "assets/bilibili_emoji/146/2797.png",
+      "staticUrl": "assets/bilibili/146/2797.png",
       "isHide": false,
       "packageId": "146",
       "meta": {

@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "446",
   "name": "装扮二周年",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/3ef27b1aa30bcece4342da4c40d6d9aaa612a561.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[装扮二周年_蛋糕]"
       ],
-      "staticUrl": "assets/bilibili_emoji/446/7723.png",
+      "staticUrl": "assets/bilibili/446/7723.png",
       "isHide": false,
       "packageId": "446",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[装扮二周年_放礼花]"
       ],
-      "staticUrl": "assets/bilibili_emoji/446/7724.png",
+      "staticUrl": "assets/bilibili/446/7724.png",
       "isHide": false,
       "packageId": "446",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[装扮二周年_干杯]"
       ],
-      "staticUrl": "assets/bilibili_emoji/446/7725.png",
+      "staticUrl": "assets/bilibili/446/7725.png",
       "isHide": false,
       "packageId": "446",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[装扮二周年_鼓掌]"
       ],
-      "staticUrl": "assets/bilibili_emoji/446/7726.png",
+      "staticUrl": "assets/bilibili/446/7726.png",
       "isHide": false,
       "packageId": "446",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[装扮二周年_嗨起来]"
       ],
-      "staticUrl": "assets/bilibili_emoji/446/7727.png",
+      "staticUrl": "assets/bilibili/446/7727.png",
       "isHide": false,
       "packageId": "446",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[装扮二周年_换新衣]"
       ],
-      "staticUrl": "assets/bilibili_emoji/446/7728.png",
+      "staticUrl": "assets/bilibili/446/7728.png",
       "isHide": false,
       "packageId": "446",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[装扮二周年_两岁啦]"
       ],
-      "staticUrl": "assets/bilibili_emoji/446/7729.png",
+      "staticUrl": "assets/bilibili/446/7729.png",
       "isHide": false,
       "packageId": "446",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[装扮二周年_撒花花]"
       ],
-      "staticUrl": "assets/bilibili_emoji/446/7730.png",
+      "staticUrl": "assets/bilibili/446/7730.png",
       "isHide": false,
       "packageId": "446",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[装扮二周年_生日快乐]"
       ],
-      "staticUrl": "assets/bilibili_emoji/446/7731.png",
+      "staticUrl": "assets/bilibili/446/7731.png",
       "isHide": false,
       "packageId": "446",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[装扮二周年_摇花扇]"
       ],
-      "staticUrl": "assets/bilibili_emoji/446/7732.png",
+      "staticUrl": "assets/bilibili/446/7732.png",
       "isHide": false,
       "packageId": "446",
       "meta": {

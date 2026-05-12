@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "315",
   "name": "秋日美食",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/89f7d33ae8c2b40a06de80e7173d51cd591a27e5.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[秋日美食_大闸蟹]"
       ],
-      "staticUrl": "assets/bilibili_emoji/315/5178.png",
+      "staticUrl": "assets/bilibili/315/5178.png",
       "isHide": false,
       "packageId": "315",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[秋日美食_桂花糕]"
       ],
-      "staticUrl": "assets/bilibili_emoji/315/5179.png",
+      "staticUrl": "assets/bilibili/315/5179.png",
       "isHide": false,
       "packageId": "315",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[秋日美食_菊花茶]"
       ],
-      "staticUrl": "assets/bilibili_emoji/315/5180.png",
+      "staticUrl": "assets/bilibili/315/5180.png",
       "isHide": false,
       "packageId": "315",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[秋日美食_烤红薯]"
       ],
-      "staticUrl": "assets/bilibili_emoji/315/5181.png",
+      "staticUrl": "assets/bilibili/315/5181.png",
       "isHide": false,
       "packageId": "315",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[秋日美食_南瓜]"
       ],
-      "staticUrl": "assets/bilibili_emoji/315/5182.png",
+      "staticUrl": "assets/bilibili/315/5182.png",
       "isHide": false,
       "packageId": "315",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[秋日美食_烤秋刀鱼]"
       ],
-      "staticUrl": "assets/bilibili_emoji/315/5183.png",
+      "staticUrl": "assets/bilibili/315/5183.png",
       "isHide": false,
       "packageId": "315",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[秋日美食_秋梨]"
       ],
-      "staticUrl": "assets/bilibili_emoji/315/5184.png",
+      "staticUrl": "assets/bilibili/315/5184.png",
       "isHide": false,
       "packageId": "315",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[秋日美食_秋笋]"
       ],
-      "staticUrl": "assets/bilibili_emoji/315/5185.png",
+      "staticUrl": "assets/bilibili/315/5185.png",
       "isHide": false,
       "packageId": "315",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[秋日美食_柿子]"
       ],
-      "staticUrl": "assets/bilibili_emoji/315/5186.png",
+      "staticUrl": "assets/bilibili/315/5186.png",
       "isHide": false,
       "packageId": "315",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[秋日美食_糖炒栗子]"
       ],
-      "staticUrl": "assets/bilibili_emoji/315/5187.png",
+      "staticUrl": "assets/bilibili/315/5187.png",
       "isHide": false,
       "packageId": "315",
       "meta": {

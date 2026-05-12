@@ -7,7 +7,7 @@ export const useBilibiliEmojiStore = defineStore('bilibili-emoji', () => {
     if (!noCache && allEmojiList.value?.length) {
       return allEmojiList.value
     }
-    allEmojiList.value = await fetch('/assets/bilibili_emoji/_index.json').then(
+    allEmojiList.value = await fetch('/assets/bilibili/_index.json').then(
       (res) => res.json(),
     )
     return allEmojiList.value

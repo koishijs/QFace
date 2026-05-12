@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "369",
   "name": "扶桑大红花",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/101c42d364bec202f9fd0c542469bc05443be96a.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[扶桑大红花_网抑云]"
       ],
-      "staticUrl": "assets/bilibili_emoji/369/6072.png",
+      "staticUrl": "assets/bilibili/369/6072.png",
       "isHide": false,
       "packageId": "369",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[扶桑大红花_给你一拳]"
       ],
-      "staticUrl": "assets/bilibili_emoji/369/6073.png",
+      "staticUrl": "assets/bilibili/369/6073.png",
       "isHide": false,
       "packageId": "369",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[扶桑大红花_端水]"
       ],
-      "staticUrl": "assets/bilibili_emoji/369/6074.png",
+      "staticUrl": "assets/bilibili/369/6074.png",
       "isHide": false,
       "packageId": "369",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[扶桑大红花_疑惑]"
       ],
-      "staticUrl": "assets/bilibili_emoji/369/6075.png",
+      "staticUrl": "assets/bilibili/369/6075.png",
       "isHide": false,
       "packageId": "369",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[扶桑大红花_略略略]"
       ],
-      "staticUrl": "assets/bilibili_emoji/369/6076.png",
+      "staticUrl": "assets/bilibili/369/6076.png",
       "isHide": false,
       "packageId": "369",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[扶桑大红花_生气]"
       ],
-      "staticUrl": "assets/bilibili_emoji/369/6077.png",
+      "staticUrl": "assets/bilibili/369/6077.png",
       "isHide": false,
       "packageId": "369",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[扶桑大红花_查岗]"
       ],
-      "staticUrl": "assets/bilibili_emoji/369/6078.png",
+      "staticUrl": "assets/bilibili/369/6078.png",
       "isHide": false,
       "packageId": "369",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[扶桑大红花_有猫饼吧]"
       ],
-      "staticUrl": "assets/bilibili_emoji/369/6079.png",
+      "staticUrl": "assets/bilibili/369/6079.png",
       "isHide": false,
       "packageId": "369",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[扶桑大红花_无语]"
       ],
-      "staticUrl": "assets/bilibili_emoji/369/6080.png",
+      "staticUrl": "assets/bilibili/369/6080.png",
       "isHide": false,
       "packageId": "369",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[扶桑大红花_摸鱼]"
       ],
-      "staticUrl": "assets/bilibili_emoji/369/6081.png",
+      "staticUrl": "assets/bilibili/369/6081.png",
       "isHide": false,
       "packageId": "369",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[扶桑大红花_探头]"
       ],
-      "staticUrl": "assets/bilibili_emoji/369/6082.png",
+      "staticUrl": "assets/bilibili/369/6082.png",
       "isHide": false,
       "packageId": "369",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[扶桑大红花_拿捏]"
       ],
-      "staticUrl": "assets/bilibili_emoji/369/6083.png",
+      "staticUrl": "assets/bilibili/369/6083.png",
       "isHide": false,
       "packageId": "369",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[扶桑大红花_抱抱]"
       ],
-      "staticUrl": "assets/bilibili_emoji/369/6084.png",
+      "staticUrl": "assets/bilibili/369/6084.png",
       "isHide": false,
       "packageId": "369",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[扶桑大红花_戳脸]"
       ],
-      "staticUrl": "assets/bilibili_emoji/369/6085.png",
+      "staticUrl": "assets/bilibili/369/6085.png",
       "isHide": false,
       "packageId": "369",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[扶桑大红花_我超]"
       ],
-      "staticUrl": "assets/bilibili_emoji/369/6086.png",
+      "staticUrl": "assets/bilibili/369/6086.png",
       "isHide": false,
       "packageId": "369",
       "meta": {
@@ -234,7 +234,7 @@
       "shortCodes": [
         "[扶桑大红花_寄]"
       ],
-      "staticUrl": "assets/bilibili_emoji/369/6087.png",
+      "staticUrl": "assets/bilibili/369/6087.png",
       "isHide": false,
       "packageId": "369",
       "meta": {
@@ -249,7 +249,7 @@
       "shortCodes": [
         "[扶桑大红花_委屈]"
       ],
-      "staticUrl": "assets/bilibili_emoji/369/6088.png",
+      "staticUrl": "assets/bilibili/369/6088.png",
       "isHide": false,
       "packageId": "369",
       "meta": {
@@ -264,7 +264,7 @@
       "shortCodes": [
         "[扶桑大红花_好诶]"
       ],
-      "staticUrl": "assets/bilibili_emoji/369/6089.png",
+      "staticUrl": "assets/bilibili/369/6089.png",
       "isHide": false,
       "packageId": "369",
       "meta": {
@@ -279,7 +279,7 @@
       "shortCodes": [
         "[扶桑大红花_啪]"
       ],
-      "staticUrl": "assets/bilibili_emoji/369/6090.png",
+      "staticUrl": "assets/bilibili/369/6090.png",
       "isHide": false,
       "packageId": "369",
       "meta": {
@@ -294,7 +294,7 @@
       "shortCodes": [
         "[扶桑大红花_啊对对对]"
       ],
-      "staticUrl": "assets/bilibili_emoji/369/6091.png",
+      "staticUrl": "assets/bilibili/369/6091.png",
       "isHide": false,
       "packageId": "369",
       "meta": {
@@ -309,7 +309,7 @@
       "shortCodes": [
         "[扶桑大红花_入脑]"
       ],
-      "staticUrl": "assets/bilibili_emoji/369/6092.png",
+      "staticUrl": "assets/bilibili/369/6092.png",
       "isHide": false,
       "packageId": "369",
       "meta": {
@@ -324,7 +324,7 @@
       "shortCodes": [
         "[扶桑大红花_傻乐]"
       ],
-      "staticUrl": "assets/bilibili_emoji/369/6093.png",
+      "staticUrl": "assets/bilibili/369/6093.png",
       "isHide": false,
       "packageId": "369",
       "meta": {
@@ -339,7 +339,7 @@
       "shortCodes": [
         "[扶桑大红花_不行]"
       ],
-      "staticUrl": "assets/bilibili_emoji/369/6094.png",
+      "staticUrl": "assets/bilibili/369/6094.png",
       "isHide": false,
       "packageId": "369",
       "meta": {
@@ -354,7 +354,7 @@
       "shortCodes": [
         "[扶桑大红花_rua]"
       ],
-      "staticUrl": "assets/bilibili_emoji/369/6095.png",
+      "staticUrl": "assets/bilibili/369/6095.png",
       "isHide": false,
       "packageId": "369",
       "meta": {
@@ -369,7 +369,7 @@
       "shortCodes": [
         "[扶桑大红花_mua]"
       ],
-      "staticUrl": "assets/bilibili_emoji/369/6096.png",
+      "staticUrl": "assets/bilibili/369/6096.png",
       "isHide": false,
       "packageId": "369",
       "meta": {

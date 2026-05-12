@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "422",
   "name": "尼奈",
   "coverUrl": "https://i0.hdslb.com/bfs/emote/fe70769f42a56668b5a15161094156594093f328.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[尼奈_mua]"
       ],
-      "staticUrl": "assets/bilibili_emoji/422/7144.png",
+      "staticUrl": "assets/bilibili/422/7144.png",
       "isHide": false,
       "packageId": "422",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[尼奈_奔跑]"
       ],
-      "staticUrl": "assets/bilibili_emoji/422/7145.png",
+      "staticUrl": "assets/bilibili/422/7145.png",
       "isHide": false,
       "packageId": "422",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[尼奈_别在这发癫]"
       ],
-      "staticUrl": "assets/bilibili_emoji/422/7146.png",
+      "staticUrl": "assets/bilibili/422/7146.png",
       "isHide": false,
       "packageId": "422",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[尼奈_放屁]"
       ],
-      "staticUrl": "assets/bilibili_emoji/422/7147.png",
+      "staticUrl": "assets/bilibili/422/7147.png",
       "isHide": false,
       "packageId": "422",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[尼奈_含在叫]"
       ],
-      "staticUrl": "assets/bilibili_emoji/422/7148.png",
+      "staticUrl": "assets/bilibili/422/7148.png",
       "isHide": false,
       "packageId": "422",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[尼奈_汗颜]"
       ],
-      "staticUrl": "assets/bilibili_emoji/422/7149.png",
+      "staticUrl": "assets/bilibili/422/7149.png",
       "isHide": false,
       "packageId": "422",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[尼奈_好玩吗]"
       ],
-      "staticUrl": "assets/bilibili_emoji/422/7150.png",
+      "staticUrl": "assets/bilibili/422/7150.png",
       "isHide": false,
       "packageId": "422",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[尼奈_敬礼]"
       ],
-      "staticUrl": "assets/bilibili_emoji/422/7151.png",
+      "staticUrl": "assets/bilibili/422/7151.png",
       "isHide": false,
       "packageId": "422",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[尼奈_米虫哭]"
       ],
-      "staticUrl": "assets/bilibili_emoji/422/7152.png",
+      "staticUrl": "assets/bilibili/422/7152.png",
       "isHide": false,
       "packageId": "422",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[尼奈_妙!！]"
       ],
-      "staticUrl": "assets/bilibili_emoji/422/7153.png",
+      "staticUrl": "assets/bilibili/422/7153.png",
       "isHide": false,
       "packageId": "422",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[尼奈_那可真别]"
       ],
-      "staticUrl": "assets/bilibili_emoji/422/7154.png",
+      "staticUrl": "assets/bilibili/422/7154.png",
       "isHide": false,
       "packageId": "422",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[尼奈_难耐癫火]"
       ],
-      "staticUrl": "assets/bilibili_emoji/422/7155.png",
+      "staticUrl": "assets/bilibili/422/7155.png",
       "isHide": false,
       "packageId": "422",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[尼奈_你是？]"
       ],
-      "staticUrl": "assets/bilibili_emoji/422/7156.png",
+      "staticUrl": "assets/bilibili/422/7156.png",
       "isHide": false,
       "packageId": "422",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[尼奈_恰米]"
       ],
-      "staticUrl": "assets/bilibili_emoji/422/7157.png",
+      "staticUrl": "assets/bilibili/422/7157.png",
       "isHide": false,
       "packageId": "422",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[尼奈_睡觉]"
       ],
-      "staticUrl": "assets/bilibili_emoji/422/7158.png",
+      "staticUrl": "assets/bilibili/422/7158.png",
       "isHide": false,
       "packageId": "422",
       "meta": {
@@ -234,7 +234,7 @@
       "shortCodes": [
         "[尼奈_歪嘴笑]"
       ],
-      "staticUrl": "assets/bilibili_emoji/422/7159.png",
+      "staticUrl": "assets/bilibili/422/7159.png",
       "isHide": false,
       "packageId": "422",
       "meta": {
@@ -249,7 +249,7 @@
       "shortCodes": [
         "[尼奈_芜]"
       ],
-      "staticUrl": "assets/bilibili_emoji/422/7160.png",
+      "staticUrl": "assets/bilibili/422/7160.png",
       "isHide": false,
       "packageId": "422",
       "meta": {
@@ -264,7 +264,7 @@
       "shortCodes": [
         "[尼奈_仙人指路]"
       ],
-      "staticUrl": "assets/bilibili_emoji/422/7161.png",
+      "staticUrl": "assets/bilibili/422/7161.png",
       "isHide": false,
       "packageId": "422",
       "meta": {
@@ -279,7 +279,7 @@
       "shortCodes": [
         "[尼奈_歇了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/422/7162.png",
+      "staticUrl": "assets/bilibili/422/7162.png",
       "isHide": false,
       "packageId": "422",
       "meta": {
@@ -294,7 +294,7 @@
       "shortCodes": [
         "[尼奈_一脚盛夏]"
       ],
-      "staticUrl": "assets/bilibili_emoji/422/7163.png",
+      "staticUrl": "assets/bilibili/422/7163.png",
       "isHide": false,
       "packageId": "422",
       "meta": {
@@ -309,7 +309,7 @@
       "shortCodes": [
         "[尼奈_大笑]"
       ],
-      "staticUrl": "assets/bilibili_emoji/422/11267.jpg",
+      "staticUrl": "assets/bilibili/422/11267.jpg",
       "isHide": false,
       "packageId": "422",
       "meta": {
@@ -324,7 +324,7 @@
       "shortCodes": [
         "[尼奈_加油]"
       ],
-      "staticUrl": "assets/bilibili_emoji/422/11268.jpg",
+      "staticUrl": "assets/bilibili/422/11268.jpg",
       "isHide": false,
       "packageId": "422",
       "meta": {
@@ -339,7 +339,7 @@
       "shortCodes": [
         "[尼奈_害羞]"
       ],
-      "staticUrl": "assets/bilibili_emoji/422/11269.jpg",
+      "staticUrl": "assets/bilibili/422/11269.jpg",
       "isHide": false,
       "packageId": "422",
       "meta": {
@@ -354,7 +354,7 @@
       "shortCodes": [
         "[尼奈_难顶]"
       ],
-      "staticUrl": "assets/bilibili_emoji/422/11270.jpg",
+      "staticUrl": "assets/bilibili/422/11270.jpg",
       "isHide": false,
       "packageId": "422",
       "meta": {
@@ -369,7 +369,7 @@
       "shortCodes": [
         "[尼奈_拳头硬了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/422/11271.jpg",
+      "staticUrl": "assets/bilibili/422/11271.jpg",
       "isHide": false,
       "packageId": "422",
       "meta": {

@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "341",
   "name": "幻塔",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/75901a2c5e127e82874ed335ff153ce28d7e5b86.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[幻塔_啊这]"
       ],
-      "staticUrl": "assets/bilibili_emoji/341/5586.png",
+      "staticUrl": "assets/bilibili/341/5586.png",
       "isHide": false,
       "packageId": "341",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[幻塔_哎哟]"
       ],
-      "staticUrl": "assets/bilibili_emoji/341/5587.png",
+      "staticUrl": "assets/bilibili/341/5587.png",
       "isHide": false,
       "packageId": "341",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[幻塔_挨打]"
       ],
-      "staticUrl": "assets/bilibili_emoji/341/5588.png",
+      "staticUrl": "assets/bilibili/341/5588.png",
       "isHide": false,
       "packageId": "341",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[幻塔_抱抱]"
       ],
-      "staticUrl": "assets/bilibili_emoji/341/5589.png",
+      "staticUrl": "assets/bilibili/341/5589.png",
       "isHide": false,
       "packageId": "341",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[幻塔_吃瓜]"
       ],
-      "staticUrl": "assets/bilibili_emoji/341/5590.png",
+      "staticUrl": "assets/bilibili/341/5590.png",
       "isHide": false,
       "packageId": "341",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[幻塔_发呆]"
       ],
-      "staticUrl": "assets/bilibili_emoji/341/5592.png",
+      "staticUrl": "assets/bilibili/341/5592.png",
       "isHide": false,
       "packageId": "341",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[幻塔_佛系]"
       ],
-      "staticUrl": "assets/bilibili_emoji/341/5594.png",
+      "staticUrl": "assets/bilibili/341/5594.png",
       "isHide": false,
       "packageId": "341",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[幻塔_害怕]"
       ],
-      "staticUrl": "assets/bilibili_emoji/341/5595.png",
+      "staticUrl": "assets/bilibili/341/5595.png",
       "isHide": false,
       "packageId": "341",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[幻塔_害羞]"
       ],
-      "staticUrl": "assets/bilibili_emoji/341/5596.png",
+      "staticUrl": "assets/bilibili/341/5596.png",
       "isHide": false,
       "packageId": "341",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[幻塔_好耶]"
       ],
-      "staticUrl": "assets/bilibili_emoji/341/5597.png",
+      "staticUrl": "assets/bilibili/341/5597.png",
       "isHide": false,
       "packageId": "341",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[幻塔_啾啾]"
       ],
-      "staticUrl": "assets/bilibili_emoji/341/5598.png",
+      "staticUrl": "assets/bilibili/341/5598.png",
       "isHide": false,
       "packageId": "341",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[幻塔_就是你]"
       ],
-      "staticUrl": "assets/bilibili_emoji/341/5599.png",
+      "staticUrl": "assets/bilibili/341/5599.png",
       "isHide": false,
       "packageId": "341",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[幻塔_卖萌]"
       ],
-      "staticUrl": "assets/bilibili_emoji/341/5600.png",
+      "staticUrl": "assets/bilibili/341/5600.png",
       "isHide": false,
       "packageId": "341",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[幻塔_迷惑]"
       ],
-      "staticUrl": "assets/bilibili_emoji/341/5601.png",
+      "staticUrl": "assets/bilibili/341/5601.png",
       "isHide": false,
       "packageId": "341",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[幻塔_嘁]"
       ],
-      "staticUrl": "assets/bilibili_emoji/341/5602.png",
+      "staticUrl": "assets/bilibili/341/5602.png",
       "isHide": false,
       "packageId": "341",
       "meta": {
@@ -234,7 +234,7 @@
       "shortCodes": [
         "[幻塔_睡眠]"
       ],
-      "staticUrl": "assets/bilibili_emoji/341/5603.png",
+      "staticUrl": "assets/bilibili/341/5603.png",
       "isHide": false,
       "packageId": "341",
       "meta": {
@@ -249,7 +249,7 @@
       "shortCodes": [
         "[幻塔_问号]"
       ],
-      "staticUrl": "assets/bilibili_emoji/341/5604.png",
+      "staticUrl": "assets/bilibili/341/5604.png",
       "isHide": false,
       "packageId": "341",
       "meta": {
@@ -264,7 +264,7 @@
       "shortCodes": [
         "[幻塔_呜呜]"
       ],
-      "staticUrl": "assets/bilibili_emoji/341/5605.png",
+      "staticUrl": "assets/bilibili/341/5605.png",
       "isHide": false,
       "packageId": "341",
       "meta": {
@@ -279,7 +279,7 @@
       "shortCodes": [
         "[幻塔_吓]"
       ],
-      "staticUrl": "assets/bilibili_emoji/341/5606.png",
+      "staticUrl": "assets/bilibili/341/5606.png",
       "isHide": false,
       "packageId": "341",
       "meta": {
@@ -294,7 +294,7 @@
       "shortCodes": [
         "[幻塔_血压]"
       ],
-      "staticUrl": "assets/bilibili_emoji/341/5607.png",
+      "staticUrl": "assets/bilibili/341/5607.png",
       "isHide": false,
       "packageId": "341",
       "meta": {
@@ -309,7 +309,7 @@
       "shortCodes": [
         "[幻塔_自拍]"
       ],
-      "staticUrl": "assets/bilibili_emoji/341/5608.png",
+      "staticUrl": "assets/bilibili/341/5608.png",
       "isHide": false,
       "packageId": "341",
       "meta": {
@@ -324,7 +324,7 @@
       "shortCodes": [
         "[幻塔_摸头]"
       ],
-      "staticUrl": "assets/bilibili_emoji/341/5609.png",
+      "staticUrl": "assets/bilibili/341/5609.png",
       "isHide": false,
       "packageId": "341",
       "meta": {
@@ -339,7 +339,7 @@
       "shortCodes": [
         "[幻塔_微笑]"
       ],
-      "staticUrl": "assets/bilibili_emoji/341/5610.png",
+      "staticUrl": "assets/bilibili/341/5610.png",
       "isHide": false,
       "packageId": "341",
       "meta": {
@@ -354,7 +354,7 @@
       "shortCodes": [
         "[幻塔_委屈]"
       ],
-      "staticUrl": "assets/bilibili_emoji/341/5611.png",
+      "staticUrl": "assets/bilibili/341/5611.png",
       "isHide": false,
       "packageId": "341",
       "meta": {
@@ -369,7 +369,7 @@
       "shortCodes": [
         "[幻塔_悠闲]"
       ],
-      "staticUrl": "assets/bilibili_emoji/341/5612.png",
+      "staticUrl": "assets/bilibili/341/5612.png",
       "isHide": false,
       "packageId": "341",
       "meta": {

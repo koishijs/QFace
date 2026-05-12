@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "106",
   "name": "雾山五行",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/e2fe6d74de3a7a9e7e64ba91c701f672798802a9.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[雾山五行_6到无语]"
       ],
-      "staticUrl": "assets/bilibili_emoji/106/2253.png",
+      "staticUrl": "assets/bilibili/106/2253.png",
       "isHide": false,
       "packageId": "106",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[雾山五行_冲鸭]"
       ],
-      "staticUrl": "assets/bilibili_emoji/106/2254.png",
+      "staticUrl": "assets/bilibili/106/2254.png",
       "isHide": false,
       "packageId": "106",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[雾山五行_滑稽]"
       ],
-      "staticUrl": "assets/bilibili_emoji/106/2255.png",
+      "staticUrl": "assets/bilibili/106/2255.png",
       "isHide": false,
       "packageId": "106",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[雾山五行_3连]"
       ],
-      "staticUrl": "assets/bilibili_emoji/106/2256.png",
+      "staticUrl": "assets/bilibili/106/2256.png",
       "isHide": false,
       "packageId": "106",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[雾山五行_我可以]"
       ],
-      "staticUrl": "assets/bilibili_emoji/106/2257.png",
+      "staticUrl": "assets/bilibili/106/2257.png",
       "isHide": false,
       "packageId": "106",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[雾山五行_emmm]"
       ],
-      "staticUrl": "assets/bilibili_emoji/106/2258.png",
+      "staticUrl": "assets/bilibili/106/2258.png",
       "isHide": false,
       "packageId": "106",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[雾山五行_爷关更]"
       ],
-      "staticUrl": "assets/bilibili_emoji/106/2259.png",
+      "staticUrl": "assets/bilibili/106/2259.png",
       "isHide": false,
       "packageId": "106",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[雾山五行_真香]"
       ],
-      "staticUrl": "assets/bilibili_emoji/106/2260.png",
+      "staticUrl": "assets/bilibili/106/2260.png",
       "isHide": false,
       "packageId": "106",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[雾山五行_震惊]"
       ],
-      "staticUrl": "assets/bilibili_emoji/106/2261.png",
+      "staticUrl": "assets/bilibili/106/2261.png",
       "isHide": false,
       "packageId": "106",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[雾山五行_抓狂]"
       ],
-      "staticUrl": "assets/bilibili_emoji/106/2262.png",
+      "staticUrl": "assets/bilibili/106/2262.png",
       "isHide": false,
       "packageId": "106",
       "meta": {

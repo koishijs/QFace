@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "80",
   "name": "阴阳师·平安物语",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/1812d7021da1427ae9213aa172be2e679364c45c.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[平安物语_变欧喷雾]"
       ],
-      "staticUrl": "assets/bilibili_emoji/80/1846.png",
+      "staticUrl": "assets/bilibili/80/1846.png",
       "isHide": false,
       "packageId": "80",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[平安物语_生气]"
       ],
-      "staticUrl": "assets/bilibili_emoji/80/1847.png",
+      "staticUrl": "assets/bilibili/80/1847.png",
       "isHide": false,
       "packageId": "80",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[平安物语_你币有了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/80/1848.png",
+      "staticUrl": "assets/bilibili/80/1848.png",
       "isHide": false,
       "packageId": "80",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[平安物语_观察]"
       ],
-      "staticUrl": "assets/bilibili_emoji/80/1849.png",
+      "staticUrl": "assets/bilibili/80/1849.png",
       "isHide": false,
       "packageId": "80",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[平安物语_吃惊]"
       ],
-      "staticUrl": "assets/bilibili_emoji/80/1850.png",
+      "staticUrl": "assets/bilibili/80/1850.png",
       "isHide": false,
       "packageId": "80",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[平安物语_呆住]"
       ],
-      "staticUrl": "assets/bilibili_emoji/80/1851.png",
+      "staticUrl": "assets/bilibili/80/1851.png",
       "isHide": false,
       "packageId": "80",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[平安物语_喜欢]"
       ],
-      "staticUrl": "assets/bilibili_emoji/80/1852.png",
+      "staticUrl": "assets/bilibili/80/1852.png",
       "isHide": false,
       "packageId": "80",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[平安物语_我太难了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/80/1853.png",
+      "staticUrl": "assets/bilibili/80/1853.png",
       "isHide": false,
       "packageId": "80",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[平安物语_沉默]"
       ],
-      "staticUrl": "assets/bilibili_emoji/80/1854.png",
+      "staticUrl": "assets/bilibili/80/1854.png",
       "isHide": false,
       "packageId": "80",
       "meta": {

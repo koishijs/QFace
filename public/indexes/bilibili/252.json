@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "252",
   "name": "两不疑",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/66245be4c07a15872cda715119fd0f87e8e58ee0.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[两不疑_无语]"
       ],
-      "staticUrl": "assets/bilibili_emoji/252/4189.png",
+      "staticUrl": "assets/bilibili/252/4189.png",
       "isHide": false,
       "packageId": "252",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[两不疑_得意]"
       ],
-      "staticUrl": "assets/bilibili_emoji/252/4190.png",
+      "staticUrl": "assets/bilibili/252/4190.png",
       "isHide": false,
       "packageId": "252",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[两不疑_疑惑]"
       ],
-      "staticUrl": "assets/bilibili_emoji/252/4191.png",
+      "staticUrl": "assets/bilibili/252/4191.png",
       "isHide": false,
       "packageId": "252",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[两不疑_拒绝]"
       ],
-      "staticUrl": "assets/bilibili_emoji/252/4192.png",
+      "staticUrl": "assets/bilibili/252/4192.png",
       "isHide": false,
       "packageId": "252",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[两不疑_开心]"
       ],
-      "staticUrl": "assets/bilibili_emoji/252/4193.png",
+      "staticUrl": "assets/bilibili/252/4193.png",
       "isHide": false,
       "packageId": "252",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[两不疑_委屈]"
       ],
-      "staticUrl": "assets/bilibili_emoji/252/4194.png",
+      "staticUrl": "assets/bilibili/252/4194.png",
       "isHide": false,
       "packageId": "252",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[两不疑_痛啊]"
       ],
-      "staticUrl": "assets/bilibili_emoji/252/4195.png",
+      "staticUrl": "assets/bilibili/252/4195.png",
       "isHide": false,
       "packageId": "252",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[两不疑_颤抖]"
       ],
-      "staticUrl": "assets/bilibili_emoji/252/4196.png",
+      "staticUrl": "assets/bilibili/252/4196.png",
       "isHide": false,
       "packageId": "252",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[两不疑_苦恼]"
       ],
-      "staticUrl": "assets/bilibili_emoji/252/4197.png",
+      "staticUrl": "assets/bilibili/252/4197.png",
       "isHide": false,
       "packageId": "252",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[两不疑_嗑拉了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/252/4198.png",
+      "staticUrl": "assets/bilibili/252/4198.png",
       "isHide": false,
       "packageId": "252",
       "meta": {

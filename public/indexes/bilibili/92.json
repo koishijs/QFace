@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "92",
   "name": "黄绿合战5th",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/5099b4a06ef5d221de3a1afb3c7ad913e1983642.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[黄绿合战_带劲]"
       ],
-      "staticUrl": "assets/bilibili_emoji/92/2072.png",
+      "staticUrl": "assets/bilibili/92/2072.png",
       "isHide": false,
       "packageId": "92",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[黄绿合战_死亡歌姬]"
       ],
-      "staticUrl": "assets/bilibili_emoji/92/2073.png",
+      "staticUrl": "assets/bilibili/92/2073.png",
       "isHide": false,
       "packageId": "92",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[黄绿合战_哈哈哈]"
       ],
-      "staticUrl": "assets/bilibili_emoji/92/2074.png",
+      "staticUrl": "assets/bilibili/92/2074.png",
       "isHide": false,
       "packageId": "92",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[黄绿合战_打你哦]"
       ],
-      "staticUrl": "assets/bilibili_emoji/92/2075.png",
+      "staticUrl": "assets/bilibili/92/2075.png",
       "isHide": false,
       "packageId": "92",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[黄绿合战_真香]"
       ],
-      "staticUrl": "assets/bilibili_emoji/92/2076.png",
+      "staticUrl": "assets/bilibili/92/2076.png",
       "isHide": false,
       "packageId": "92",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[黄绿合战_蓝蓝路]"
       ],
-      "staticUrl": "assets/bilibili_emoji/92/2077.png",
+      "staticUrl": "assets/bilibili/92/2077.png",
       "isHide": false,
       "packageId": "92",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[黄绿合战_吹爆]"
       ],
-      "staticUrl": "assets/bilibili_emoji/92/2078.png",
+      "staticUrl": "assets/bilibili/92/2078.png",
       "isHide": false,
       "packageId": "92",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[黄绿合战_愤怒]"
       ],
-      "staticUrl": "assets/bilibili_emoji/92/2079.png",
+      "staticUrl": "assets/bilibili/92/2079.png",
       "isHide": false,
       "packageId": "92",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[黄绿合战_威胁]"
       ],
-      "staticUrl": "assets/bilibili_emoji/92/2080.png",
+      "staticUrl": "assets/bilibili/92/2080.png",
       "isHide": false,
       "packageId": "92",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[黄绿合战_金坷垃]"
       ],
-      "staticUrl": "assets/bilibili_emoji/92/2081.png",
+      "staticUrl": "assets/bilibili/92/2081.png",
       "isHide": false,
       "packageId": "92",
       "meta": {

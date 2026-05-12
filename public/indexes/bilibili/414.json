@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "414",
   "name": "奶龙",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/bebc6fa5c1036f3e4b3917c53f10e98ad8993818.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[奶龙_熬夜]"
       ],
-      "staticUrl": "assets/bilibili_emoji/414/6968.png",
+      "staticUrl": "assets/bilibili/414/6968.png",
       "isHide": false,
       "packageId": "414",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[奶龙_呆滞]"
       ],
-      "staticUrl": "assets/bilibili_emoji/414/6969.png",
+      "staticUrl": "assets/bilibili/414/6969.png",
       "isHide": false,
       "packageId": "414",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[奶龙_酸了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/414/6970.png",
+      "staticUrl": "assets/bilibili/414/6970.png",
       "isHide": false,
       "packageId": "414",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[奶龙_我是小丑]"
       ],
-      "staticUrl": "assets/bilibili_emoji/414/6971.png",
+      "staticUrl": "assets/bilibili/414/6971.png",
       "isHide": false,
       "packageId": "414",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[奶龙_我知道了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/414/6972.png",
+      "staticUrl": "assets/bilibili/414/6972.png",
       "isHide": false,
       "packageId": "414",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[奶龙_疑惑]"
       ],
-      "staticUrl": "assets/bilibili_emoji/414/6973.png",
+      "staticUrl": "assets/bilibili/414/6973.png",
       "isHide": false,
       "packageId": "414",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[奶龙_与你无关]"
       ],
-      "staticUrl": "assets/bilibili_emoji/414/6974.png",
+      "staticUrl": "assets/bilibili/414/6974.png",
       "isHide": false,
       "packageId": "414",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[奶龙_这是中国]"
       ],
-      "staticUrl": "assets/bilibili_emoji/414/6975.png",
+      "staticUrl": "assets/bilibili/414/6975.png",
       "isHide": false,
       "packageId": "414",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[奶龙_真香]"
       ],
-      "staticUrl": "assets/bilibili_emoji/414/6976.png",
+      "staticUrl": "assets/bilibili/414/6976.png",
       "isHide": false,
       "packageId": "414",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[奶龙_歇了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/414/6977.png",
+      "staticUrl": "assets/bilibili/414/6977.png",
       "isHide": false,
       "packageId": "414",
       "meta": {

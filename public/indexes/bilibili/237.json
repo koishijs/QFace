@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "237",
   "name": "贝拉kira",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/b2d7684917874368bab2285038701f3633e9d095.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[贝拉kira_OK]"
       ],
-      "staticUrl": "assets/bilibili_emoji/237/5109.png",
+      "staticUrl": "assets/bilibili/237/5109.png",
       "isHide": false,
       "packageId": "237",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[贝拉kira_拜托]"
       ],
-      "staticUrl": "assets/bilibili_emoji/237/5110.png",
+      "staticUrl": "assets/bilibili/237/5110.png",
       "isHide": false,
       "packageId": "237",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[贝拉kira_贝式疑问]"
       ],
-      "staticUrl": "assets/bilibili_emoji/237/5111.png",
+      "staticUrl": "assets/bilibili/237/5111.png",
       "isHide": false,
       "packageId": "237",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[贝拉kira_笔芯]"
       ],
-      "staticUrl": "assets/bilibili_emoji/237/5112.png",
+      "staticUrl": "assets/bilibili/237/5112.png",
       "isHide": false,
       "packageId": "237",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[贝拉kira_别爱我]"
       ],
-      "staticUrl": "assets/bilibili_emoji/237/5113.png",
+      "staticUrl": "assets/bilibili/237/5113.png",
       "isHide": false,
       "packageId": "237",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[贝拉kira_别偷懒]"
       ],
-      "staticUrl": "assets/bilibili_emoji/237/5114.png",
+      "staticUrl": "assets/bilibili/237/5114.png",
       "isHide": false,
       "packageId": "237",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[贝拉kira_不会吧]"
       ],
-      "staticUrl": "assets/bilibili_emoji/237/5115.png",
+      "staticUrl": "assets/bilibili/237/5115.png",
       "isHide": false,
       "packageId": "237",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[贝拉kira_吃我贝极拳]"
       ],
-      "staticUrl": "assets/bilibili_emoji/237/5116.png",
+      "staticUrl": "assets/bilibili/237/5116.png",
       "isHide": false,
       "packageId": "237",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[贝拉kira_给我出去]"
       ],
-      "staticUrl": "assets/bilibili_emoji/237/5117.png",
+      "staticUrl": "assets/bilibili/237/5117.png",
       "isHide": false,
       "packageId": "237",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[贝拉kira_汗]"
       ],
-      "staticUrl": "assets/bilibili_emoji/237/5118.png",
+      "staticUrl": "assets/bilibili/237/5118.png",
       "isHide": false,
       "packageId": "237",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[贝拉kira_哼哼]"
       ],
-      "staticUrl": "assets/bilibili_emoji/237/5119.png",
+      "staticUrl": "assets/bilibili/237/5119.png",
       "isHide": false,
       "packageId": "237",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[贝拉kira_加油]"
       ],
-      "staticUrl": "assets/bilibili_emoji/237/5120.png",
+      "staticUrl": "assets/bilibili/237/5120.png",
       "isHide": false,
       "packageId": "237",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[贝拉kira_开心到劈叉]"
       ],
-      "staticUrl": "assets/bilibili_emoji/237/5121.png",
+      "staticUrl": "assets/bilibili/237/5121.png",
       "isHide": false,
       "packageId": "237",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[贝拉kira_看我可爱吗]"
       ],
-      "staticUrl": "assets/bilibili_emoji/237/5122.png",
+      "staticUrl": "assets/bilibili/237/5122.png",
       "isHide": false,
       "packageId": "237",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[贝拉kira_累趴]"
       ],
-      "staticUrl": "assets/bilibili_emoji/237/5123.png",
+      "staticUrl": "assets/bilibili/237/5123.png",
       "isHide": false,
       "packageId": "237",
       "meta": {
@@ -234,7 +234,7 @@
       "shortCodes": [
         "[贝拉kira_送你小花花]"
       ],
-      "staticUrl": "assets/bilibili_emoji/237/5124.png",
+      "staticUrl": "assets/bilibili/237/5124.png",
       "isHide": false,
       "packageId": "237",
       "meta": {
@@ -249,7 +249,7 @@
       "shortCodes": [
         "[贝拉kira_王之蔑视]"
       ],
-      "staticUrl": "assets/bilibili_emoji/237/5125.png",
+      "staticUrl": "assets/bilibili/237/5125.png",
       "isHide": false,
       "packageId": "237",
       "meta": {
@@ -264,7 +264,7 @@
       "shortCodes": [
         "[贝拉kira_我晕了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/237/5126.png",
+      "staticUrl": "assets/bilibili/237/5126.png",
       "isHide": false,
       "packageId": "237",
       "meta": {
@@ -279,7 +279,7 @@
       "shortCodes": [
         "[贝拉kira_在吗在吗]"
       ],
-      "staticUrl": "assets/bilibili_emoji/237/5127.png",
+      "staticUrl": "assets/bilibili/237/5127.png",
       "isHide": false,
       "packageId": "237",
       "meta": {
@@ -294,7 +294,7 @@
       "shortCodes": [
         "[贝拉kira_这题我会]"
       ],
-      "staticUrl": "assets/bilibili_emoji/237/4049.png",
+      "staticUrl": "assets/bilibili/237/4049.png",
       "isHide": false,
       "packageId": "237",
       "meta": {
@@ -309,7 +309,7 @@
       "shortCodes": [
         "[贝拉kira_sorry]"
       ],
-      "staticUrl": "assets/bilibili_emoji/237/5736.png",
+      "staticUrl": "assets/bilibili/237/5736.png",
       "isHide": false,
       "packageId": "237",
       "meta": {
@@ -324,7 +324,7 @@
       "shortCodes": [
         "[贝拉kira_芭蕾]"
       ],
-      "staticUrl": "assets/bilibili_emoji/237/5737.png",
+      "staticUrl": "assets/bilibili/237/5737.png",
       "isHide": false,
       "packageId": "237",
       "meta": {
@@ -339,7 +339,7 @@
       "shortCodes": [
         "[贝拉kira_贝极星]"
       ],
-      "staticUrl": "assets/bilibili_emoji/237/5738.png",
+      "staticUrl": "assets/bilibili/237/5738.png",
       "isHide": false,
       "packageId": "237",
       "meta": {
@@ -354,7 +354,7 @@
       "shortCodes": [
         "[贝拉kira_拖拉机下山]"
       ],
-      "staticUrl": "assets/bilibili_emoji/237/5739.png",
+      "staticUrl": "assets/bilibili/237/5739.png",
       "isHide": false,
       "packageId": "237",
       "meta": {
@@ -369,7 +369,7 @@
       "shortCodes": [
         "[贝拉kira_我们是]"
       ],
-      "staticUrl": "assets/bilibili_emoji/237/5740.png",
+      "staticUrl": "assets/bilibili/237/5740.png",
       "isHide": false,
       "packageId": "237",
       "meta": {

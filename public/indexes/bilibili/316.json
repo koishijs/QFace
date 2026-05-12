@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "316",
   "name": "圣诞",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/f941d53b641c4680d0500261baf5e4a4f462ab3a.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[圣诞_放礼花]"
       ],
-      "staticUrl": "assets/bilibili_emoji/316/5188.png",
+      "staticUrl": "assets/bilibili/316/5188.png",
       "isHide": false,
       "packageId": "316",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[圣诞_惊喜]"
       ],
-      "staticUrl": "assets/bilibili_emoji/316/5189.png",
+      "staticUrl": "assets/bilibili/316/5189.png",
       "isHide": false,
       "packageId": "316",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[圣诞_溜了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/316/5190.png",
+      "staticUrl": "assets/bilibili/316/5190.png",
       "isHide": false,
       "packageId": "316",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[圣诞_惬意]"
       ],
-      "staticUrl": "assets/bilibili_emoji/316/5191.png",
+      "staticUrl": "assets/bilibili/316/5191.png",
       "isHide": false,
       "packageId": "316",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[圣诞_圣诞快乐]"
       ],
-      "staticUrl": "assets/bilibili_emoji/316/5192.png",
+      "staticUrl": "assets/bilibili/316/5192.png",
       "isHide": false,
       "packageId": "316",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[圣诞_探头]"
       ],
-      "staticUrl": "assets/bilibili_emoji/316/5193.png",
+      "staticUrl": "assets/bilibili/316/5193.png",
       "isHide": false,
       "packageId": "316",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[圣诞_贴贴]"
       ],
-      "staticUrl": "assets/bilibili_emoji/316/5194.png",
+      "staticUrl": "assets/bilibili/316/5194.png",
       "isHide": false,
       "packageId": "316",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[圣诞_哇]"
       ],
-      "staticUrl": "assets/bilibili_emoji/316/5195.png",
+      "staticUrl": "assets/bilibili/316/5195.png",
       "isHide": false,
       "packageId": "316",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[圣诞_下雪了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/316/5196.png",
+      "staticUrl": "assets/bilibili/316/5196.png",
       "isHide": false,
       "packageId": "316",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[圣诞_要礼物]"
       ],
-      "staticUrl": "assets/bilibili_emoji/316/5197.png",
+      "staticUrl": "assets/bilibili/316/5197.png",
       "isHide": false,
       "packageId": "316",
       "meta": {

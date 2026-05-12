@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "486",
   "name": "靠你啦！战神系统",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/d4355d19d833d6ef51bc444423ee0b11ef5ab82c.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[靠你啦！战神系统_星星眼]"
       ],
-      "staticUrl": "assets/bilibili_emoji/486/8623.png",
+      "staticUrl": "assets/bilibili/486/8623.png",
       "isHide": false,
       "packageId": "486",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[靠你啦！战神系统_害羞]"
       ],
-      "staticUrl": "assets/bilibili_emoji/486/8624.png",
+      "staticUrl": "assets/bilibili/486/8624.png",
       "isHide": false,
       "packageId": "486",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[靠你啦！战神系统_哭哭]"
       ],
-      "staticUrl": "assets/bilibili_emoji/486/8625.png",
+      "staticUrl": "assets/bilibili/486/8625.png",
       "isHide": false,
       "packageId": "486",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[靠你啦！战神系统_期待]"
       ],
-      "staticUrl": "assets/bilibili_emoji/486/8626.png",
+      "staticUrl": "assets/bilibili/486/8626.png",
       "isHide": false,
       "packageId": "486",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[靠你啦！战神系统_静静看着你]"
       ],
-      "staticUrl": "assets/bilibili_emoji/486/8627.png",
+      "staticUrl": "assets/bilibili/486/8627.png",
       "isHide": false,
       "packageId": "486",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[靠你啦！战神系统_就是我]"
       ],
-      "staticUrl": "assets/bilibili_emoji/486/8628.png",
+      "staticUrl": "assets/bilibili/486/8628.png",
       "isHide": false,
       "packageId": "486",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[靠你啦！战神系统_生气]"
       ],
-      "staticUrl": "assets/bilibili_emoji/486/8629.png",
+      "staticUrl": "assets/bilibili/486/8629.png",
       "isHide": false,
       "packageId": "486",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[靠你啦！战神系统_wink]"
       ],
-      "staticUrl": "assets/bilibili_emoji/486/8630.png",
+      "staticUrl": "assets/bilibili/486/8630.png",
       "isHide": false,
       "packageId": "486",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[靠你啦！战神系统_思考]"
       ],
-      "staticUrl": "assets/bilibili_emoji/486/8631.png",
+      "staticUrl": "assets/bilibili/486/8631.png",
       "isHide": false,
       "packageId": "486",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[靠你啦！战神系统_偷笑]"
       ],
-      "staticUrl": "assets/bilibili_emoji/486/8632.png",
+      "staticUrl": "assets/bilibili/486/8632.png",
       "isHide": false,
       "packageId": "486",
       "meta": {

@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "569",
   "name": "魔道祖师",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/08a707048f97ef376c723fbe36a720e2ed004f58.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[魔道祖师动画_sos]"
       ],
-      "staticUrl": "assets/bilibili_emoji/569/10433.png",
+      "staticUrl": "assets/bilibili/569/10433.png",
       "isHide": false,
       "packageId": "569",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[魔道祖师动画_wink]"
       ],
-      "staticUrl": "assets/bilibili_emoji/569/10434.png",
+      "staticUrl": "assets/bilibili/569/10434.png",
       "isHide": false,
       "packageId": "569",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[魔道祖师动画_唉]"
       ],
-      "staticUrl": "assets/bilibili_emoji/569/10435.png",
+      "staticUrl": "assets/bilibili/569/10435.png",
       "isHide": false,
       "packageId": "569",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[魔道祖师动画_不敢说话]"
       ],
-      "staticUrl": "assets/bilibili_emoji/569/10436.png",
+      "staticUrl": "assets/bilibili/569/10436.png",
       "isHide": false,
       "packageId": "569",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[魔道祖师动画_超赞]"
       ],
-      "staticUrl": "assets/bilibili_emoji/569/10437.png",
+      "staticUrl": "assets/bilibili/569/10437.png",
       "isHide": false,
       "packageId": "569",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[魔道祖师动画_冲]"
       ],
-      "staticUrl": "assets/bilibili_emoji/569/10438.png",
+      "staticUrl": "assets/bilibili/569/10438.png",
       "isHide": false,
       "packageId": "569",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[魔道祖师动画_崇拜]"
       ],
-      "staticUrl": "assets/bilibili_emoji/569/10439.png",
+      "staticUrl": "assets/bilibili/569/10439.png",
       "isHide": false,
       "packageId": "569",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[魔道祖师动画_哈哈哈]"
       ],
-      "staticUrl": "assets/bilibili_emoji/569/10440.png",
+      "staticUrl": "assets/bilibili/569/10440.png",
       "isHide": false,
       "packageId": "569",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[魔道祖师动画_害羞]"
       ],
-      "staticUrl": "assets/bilibili_emoji/569/10441.png",
+      "staticUrl": "assets/bilibili/569/10441.png",
       "isHide": false,
       "packageId": "569",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[魔道祖师动画_好耶]"
       ],
-      "staticUrl": "assets/bilibili_emoji/569/10442.png",
+      "staticUrl": "assets/bilibili/569/10442.png",
       "isHide": false,
       "packageId": "569",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[魔道祖师动画_惊]"
       ],
-      "staticUrl": "assets/bilibili_emoji/569/10443.png",
+      "staticUrl": "assets/bilibili/569/10443.png",
       "isHide": false,
       "packageId": "569",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[魔道祖师动画_惊恐]"
       ],
-      "staticUrl": "assets/bilibili_emoji/569/10444.png",
+      "staticUrl": "assets/bilibili/569/10444.png",
       "isHide": false,
       "packageId": "569",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[魔道祖师动画_没眼看]"
       ],
-      "staticUrl": "assets/bilibili_emoji/569/10445.png",
+      "staticUrl": "assets/bilibili/569/10445.png",
       "isHide": false,
       "packageId": "569",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[魔道祖师动画_努力]"
       ],
-      "staticUrl": "assets/bilibili_emoji/569/10446.png",
+      "staticUrl": "assets/bilibili/569/10446.png",
       "isHide": false,
       "packageId": "569",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[魔道祖师动画_怒]"
       ],
-      "staticUrl": "assets/bilibili_emoji/569/10447.png",
+      "staticUrl": "assets/bilibili/569/10447.png",
       "isHide": false,
       "packageId": "569",
       "meta": {
@@ -234,7 +234,7 @@
       "shortCodes": [
         "[魔道祖师动画_气到变形]"
       ],
-      "staticUrl": "assets/bilibili_emoji/569/10448.png",
+      "staticUrl": "assets/bilibili/569/10448.png",
       "isHide": false,
       "packageId": "569",
       "meta": {
@@ -249,7 +249,7 @@
       "shortCodes": [
         "[魔道祖师动画_救救孩子]"
       ],
-      "staticUrl": "assets/bilibili_emoji/569/10449.png",
+      "staticUrl": "assets/bilibili/569/10449.png",
       "isHide": false,
       "packageId": "569",
       "meta": {
@@ -264,7 +264,7 @@
       "shortCodes": [
         "[魔道祖师动画_气晕]"
       ],
-      "staticUrl": "assets/bilibili_emoji/569/10450.png",
+      "staticUrl": "assets/bilibili/569/10450.png",
       "isHide": false,
       "packageId": "569",
       "meta": {
@@ -279,7 +279,7 @@
       "shortCodes": [
         "[魔道祖师动画_人麻了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/569/10451.png",
+      "staticUrl": "assets/bilibili/569/10451.png",
       "isHide": false,
       "packageId": "569",
       "meta": {
@@ -294,7 +294,7 @@
       "shortCodes": [
         "[魔道祖师动画_思考]"
       ],
-      "staticUrl": "assets/bilibili_emoji/569/10452.png",
+      "staticUrl": "assets/bilibili/569/10452.png",
       "isHide": false,
       "packageId": "569",
       "meta": {
@@ -309,7 +309,7 @@
       "shortCodes": [
         "[魔道祖师动画_吐]"
       ],
-      "staticUrl": "assets/bilibili_emoji/569/10453.png",
+      "staticUrl": "assets/bilibili/569/10453.png",
       "isHide": false,
       "packageId": "569",
       "meta": {
@@ -324,7 +324,7 @@
       "shortCodes": [
         "[魔道祖师动画_无语]"
       ],
-      "staticUrl": "assets/bilibili_emoji/569/10454.png",
+      "staticUrl": "assets/bilibili/569/10454.png",
       "isHide": false,
       "packageId": "569",
       "meta": {
@@ -339,7 +339,7 @@
       "shortCodes": [
         "[魔道祖师动画_星星眼]"
       ],
-      "staticUrl": "assets/bilibili_emoji/569/10455.png",
+      "staticUrl": "assets/bilibili/569/10455.png",
       "isHide": false,
       "packageId": "569",
       "meta": {
@@ -354,7 +354,7 @@
       "shortCodes": [
         "[魔道祖师动画_许愿]"
       ],
-      "staticUrl": "assets/bilibili_emoji/569/10456.png",
+      "staticUrl": "assets/bilibili/569/10456.png",
       "isHide": false,
       "packageId": "569",
       "meta": {
@@ -369,7 +369,7 @@
       "shortCodes": [
         "[魔道祖师动画_永远的神]"
       ],
-      "staticUrl": "assets/bilibili_emoji/569/10457.png",
+      "staticUrl": "assets/bilibili/569/10457.png",
       "isHide": false,
       "packageId": "569",
       "meta": {

@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "182",
   "name": "伍六七之玄武国篇",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/9a5703997961b298aeee4eb8b856092b73fb3834.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[伍六七_暗中观察]"
       ],
-      "staticUrl": "assets/bilibili_emoji/182/3291.png",
+      "staticUrl": "assets/bilibili/182/3291.png",
       "isHide": false,
       "packageId": "182",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[伍六七_比心]"
       ],
-      "staticUrl": "assets/bilibili_emoji/182/3292.png",
+      "staticUrl": "assets/bilibili/182/3292.png",
       "isHide": false,
       "packageId": "182",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[伍六七_给红包]"
       ],
-      "staticUrl": "assets/bilibili_emoji/182/3293.png",
+      "staticUrl": "assets/bilibili/182/3293.png",
       "isHide": false,
       "packageId": "182",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[伍六七_恭喜发财]"
       ],
-      "staticUrl": "assets/bilibili_emoji/182/3294.png",
+      "staticUrl": "assets/bilibili/182/3294.png",
       "isHide": false,
       "packageId": "182",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[伍六七_妙啊]"
       ],
-      "staticUrl": "assets/bilibili_emoji/182/3295.png",
+      "staticUrl": "assets/bilibili/182/3295.png",
       "isHide": false,
       "packageId": "182",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[伍六七_年年有鱼]"
       ],
-      "staticUrl": "assets/bilibili_emoji/182/3296.png",
+      "staticUrl": "assets/bilibili/182/3296.png",
       "isHide": false,
       "packageId": "182",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[伍六七_牛气冲天]"
       ],
-      "staticUrl": "assets/bilibili_emoji/182/3297.png",
+      "staticUrl": "assets/bilibili/182/3297.png",
       "isHide": false,
       "packageId": "182",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[伍六七_情比金坚]"
       ],
-      "staticUrl": "assets/bilibili_emoji/182/3298.png",
+      "staticUrl": "assets/bilibili/182/3298.png",
       "isHide": false,
       "packageId": "182",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[伍六七_送福]"
       ],
-      "staticUrl": "assets/bilibili_emoji/182/3299.png",
+      "staticUrl": "assets/bilibili/182/3299.png",
       "isHide": false,
       "packageId": "182",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[伍六七_震惊]"
       ],
-      "staticUrl": "assets/bilibili_emoji/182/3300.png",
+      "staticUrl": "assets/bilibili/182/3300.png",
       "isHide": false,
       "packageId": "182",
       "meta": {

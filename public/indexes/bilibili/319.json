@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "319",
   "name": "姬拉KIra",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/9cf7741b6f4f5c43d8c4be081930b6fee892a0a9.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[姬拉Kira_awsl]"
       ],
-      "staticUrl": "assets/bilibili_emoji/319/5223.png",
+      "staticUrl": "assets/bilibili/319/5223.png",
       "isHide": false,
       "packageId": "319",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[姬拉Kira_rua]"
       ],
-      "staticUrl": "assets/bilibili_emoji/319/5224.png",
+      "staticUrl": "assets/bilibili/319/5224.png",
       "isHide": false,
       "packageId": "319",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[姬拉Kira_啊啊啊]"
       ],
-      "staticUrl": "assets/bilibili_emoji/319/5225.png",
+      "staticUrl": "assets/bilibili/319/5225.png",
       "isHide": false,
       "packageId": "319",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[姬拉Kira_冲鸭]"
       ],
-      "staticUrl": "assets/bilibili_emoji/319/5226.png",
+      "staticUrl": "assets/bilibili/319/5226.png",
       "isHide": false,
       "packageId": "319",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[姬拉Kira_点火]"
       ],
-      "staticUrl": "assets/bilibili_emoji/319/5227.png",
+      "staticUrl": "assets/bilibili/319/5227.png",
       "isHide": false,
       "packageId": "319",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[姬拉Kira_充满力量]"
       ],
-      "staticUrl": "assets/bilibili_emoji/319/5228.png",
+      "staticUrl": "assets/bilibili/319/5228.png",
       "isHide": false,
       "packageId": "319",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[姬拉Kira_嘟嘴]"
       ],
-      "staticUrl": "assets/bilibili_emoji/319/5229.png",
+      "staticUrl": "assets/bilibili/319/5229.png",
       "isHide": false,
       "packageId": "319",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[姬拉Kira_对不起]"
       ],
-      "staticUrl": "assets/bilibili_emoji/319/5230.png",
+      "staticUrl": "assets/bilibili/319/5230.png",
       "isHide": false,
       "packageId": "319",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[姬拉Kira_给我砸]"
       ],
-      "staticUrl": "assets/bilibili_emoji/319/5231.png",
+      "staticUrl": "assets/bilibili/319/5231.png",
       "isHide": false,
       "packageId": "319",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[姬拉Kira_憨]"
       ],
-      "staticUrl": "assets/bilibili_emoji/319/5232.png",
+      "staticUrl": "assets/bilibili/319/5232.png",
       "isHide": false,
       "packageId": "319",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[姬拉Kira_好耶]"
       ],
-      "staticUrl": "assets/bilibili_emoji/319/5233.png",
+      "staticUrl": "assets/bilibili/319/5233.png",
       "isHide": false,
       "packageId": "319",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[姬拉Kira_啾咪]"
       ],
-      "staticUrl": "assets/bilibili_emoji/319/5234.png",
+      "staticUrl": "assets/bilibili/319/5234.png",
       "isHide": false,
       "packageId": "319",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[姬拉Kira_理直气壮]"
       ],
-      "staticUrl": "assets/bilibili_emoji/319/5235.png",
+      "staticUrl": "assets/bilibili/319/5235.png",
       "isHide": false,
       "packageId": "319",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[姬拉Kira_那我呢]"
       ],
-      "staticUrl": "assets/bilibili_emoji/319/5236.png",
+      "staticUrl": "assets/bilibili/319/5236.png",
       "isHide": false,
       "packageId": "319",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[姬拉Kira_哦是吗]"
       ],
-      "staticUrl": "assets/bilibili_emoji/319/5237.png",
+      "staticUrl": "assets/bilibili/319/5237.png",
       "isHide": false,
       "packageId": "319",
       "meta": {
@@ -234,7 +234,7 @@
       "shortCodes": [
         "[姬拉Kira_叹气]"
       ],
-      "staticUrl": "assets/bilibili_emoji/319/5238.png",
+      "staticUrl": "assets/bilibili/319/5238.png",
       "isHide": false,
       "packageId": "319",
       "meta": {
@@ -249,7 +249,7 @@
       "shortCodes": [
         "[姬拉Kira_晚安]"
       ],
-      "staticUrl": "assets/bilibili_emoji/319/5239.png",
+      "staticUrl": "assets/bilibili/319/5239.png",
       "isHide": false,
       "packageId": "319",
       "meta": {
@@ -264,7 +264,7 @@
       "shortCodes": [
         "[姬拉Kira_我歇了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/319/5240.png",
+      "staticUrl": "assets/bilibili/319/5240.png",
       "isHide": false,
       "packageId": "319",
       "meta": {
@@ -279,7 +279,7 @@
       "shortCodes": [
         "[姬拉Kira_要抱抱]"
       ],
-      "staticUrl": "assets/bilibili_emoji/319/5241.png",
+      "staticUrl": "assets/bilibili/319/5241.png",
       "isHide": false,
       "packageId": "319",
       "meta": {
@@ -294,7 +294,7 @@
       "shortCodes": [
         "[姬拉Kira_疑惑]"
       ],
-      "staticUrl": "assets/bilibili_emoji/319/5242.png",
+      "staticUrl": "assets/bilibili/319/5242.png",
       "isHide": false,
       "packageId": "319",
       "meta": {

@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "246",
   "name": "星座系列：巨蟹座",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/9896d1b5dcb7d1fb669a50fca0678e3857d28680.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[巨蟹座_好热]"
       ],
-      "staticUrl": "assets/bilibili_emoji/246/4077.png",
+      "staticUrl": "assets/bilibili/246/4077.png",
       "isHide": false,
       "packageId": "246",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[巨蟹座_难顶]"
       ],
-      "staticUrl": "assets/bilibili_emoji/246/4078.png",
+      "staticUrl": "assets/bilibili/246/4078.png",
       "isHide": false,
       "packageId": "246",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[巨蟹座_拍拍]"
       ],
-      "staticUrl": "assets/bilibili_emoji/246/4079.png",
+      "staticUrl": "assets/bilibili/246/4079.png",
       "isHide": false,
       "packageId": "246",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[巨蟹座_体温过高]"
       ],
-      "staticUrl": "assets/bilibili_emoji/246/4080.png",
+      "staticUrl": "assets/bilibili/246/4080.png",
       "isHide": false,
       "packageId": "246",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[巨蟹座_贴贴]"
       ],
-      "staticUrl": "assets/bilibili_emoji/246/4081.png",
+      "staticUrl": "assets/bilibili/246/4081.png",
       "isHide": false,
       "packageId": "246",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[巨蟹座_铁锅炖自己]"
       ],
-      "staticUrl": "assets/bilibili_emoji/246/4082.png",
+      "staticUrl": "assets/bilibili/246/4082.png",
       "isHide": false,
       "packageId": "246",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[巨蟹座_痛啊]"
       ],
-      "staticUrl": "assets/bilibili_emoji/246/4083.png",
+      "staticUrl": "assets/bilibili/246/4083.png",
       "isHide": false,
       "packageId": "246",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[巨蟹座_蟹蟹]"
       ],
-      "staticUrl": "assets/bilibili_emoji/246/4084.png",
+      "staticUrl": "assets/bilibili/246/4084.png",
       "isHide": false,
       "packageId": "246",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[巨蟹座_蟹蟹爱你]"
       ],
-      "staticUrl": "assets/bilibili_emoji/246/4085.png",
+      "staticUrl": "assets/bilibili/246/4085.png",
       "isHide": false,
       "packageId": "246",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[巨蟹座_有八卦]"
       ],
-      "staticUrl": "assets/bilibili_emoji/246/4086.png",
+      "staticUrl": "assets/bilibili/246/4086.png",
       "isHide": false,
       "packageId": "246",
       "meta": {

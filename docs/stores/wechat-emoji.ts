@@ -6,7 +6,7 @@ export const useWechatEmojiStore = defineStore('wechat-emoji', () => {
     if (!noCache && allEmojiList.value?.length) {
       return allEmojiList.value
     }
-    allEmojiList.value = await fetch('/assets/wechat_emoji/_index.json').then(
+    allEmojiList.value = await fetch('/assets/wechat/_index.json').then(
       (res) => res.json()
     )
     return allEmojiList.value

@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "164",
   "name": "战双帕弥什付费专享",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/af957a8b2d475868eced46759debf1fd2aaf73ec.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[战双_哭哭]"
       ],
-      "staticUrl": "assets/bilibili_emoji/164/3049.png",
+      "staticUrl": "assets/bilibili/164/3049.png",
       "isHide": false,
       "packageId": "164",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[战双_贴贴]"
       ],
-      "staticUrl": "assets/bilibili_emoji/164/3050.png",
+      "staticUrl": "assets/bilibili/164/3050.png",
       "isHide": false,
       "packageId": "164",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[战双_闪亮]"
       ],
-      "staticUrl": "assets/bilibili_emoji/164/3051.png",
+      "staticUrl": "assets/bilibili/164/3051.png",
       "isHide": false,
       "packageId": "164",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[战双_柠檬精]"
       ],
-      "staticUrl": "assets/bilibili_emoji/164/3052.png",
+      "staticUrl": "assets/bilibili/164/3052.png",
       "isHide": false,
       "packageId": "164",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[战双_升天]"
       ],
-      "staticUrl": "assets/bilibili_emoji/164/3053.png",
+      "staticUrl": "assets/bilibili/164/3053.png",
       "isHide": false,
       "packageId": "164",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[战双_干杯]"
       ],
-      "staticUrl": "assets/bilibili_emoji/164/3054.png",
+      "staticUrl": "assets/bilibili/164/3054.png",
       "isHide": false,
       "packageId": "164",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[战双_饿饿]"
       ],
-      "staticUrl": "assets/bilibili_emoji/164/3055.png",
+      "staticUrl": "assets/bilibili/164/3055.png",
       "isHide": false,
       "packageId": "164",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[战双_点赞]"
       ],
-      "staticUrl": "assets/bilibili_emoji/164/3058.png",
+      "staticUrl": "assets/bilibili/164/3058.png",
       "isHide": false,
       "packageId": "164",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[战双_打call]"
       ],
-      "staticUrl": "assets/bilibili_emoji/164/3056.png",
+      "staticUrl": "assets/bilibili/164/3056.png",
       "isHide": false,
       "packageId": "164",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[战双_吃瓜]"
       ],
-      "staticUrl": "assets/bilibili_emoji/164/3057.png",
+      "staticUrl": "assets/bilibili/164/3057.png",
       "isHide": false,
       "packageId": "164",
       "meta": {

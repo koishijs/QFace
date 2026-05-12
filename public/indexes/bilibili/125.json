@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "125",
   "name": "一起看电竞",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/812ce6959d34ee87cf68c64c17ae2467ff3433fe.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[一起看电竞_别浪]"
       ],
-      "staticUrl": "assets/bilibili_emoji/125/2520.png",
+      "staticUrl": "assets/bilibili/125/2520.png",
       "isHide": false,
       "packageId": "125",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[一起看电竞_冲冲冲]"
       ],
-      "staticUrl": "assets/bilibili_emoji/125/2521.png",
+      "staticUrl": "assets/bilibili/125/2521.png",
       "isHide": false,
       "packageId": "125",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[一起看电竞_别奶了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/125/2522.png",
+      "staticUrl": "assets/bilibili/125/2522.png",
       "isHide": false,
       "packageId": "125",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[一起看电竞_救心丸]"
       ],
-      "staticUrl": "assets/bilibili_emoji/125/2523.png",
+      "staticUrl": "assets/bilibili/125/2523.png",
       "isHide": false,
       "packageId": "125",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[一起看电竞_起飞]"
       ],
-      "staticUrl": "assets/bilibili_emoji/125/2556.png",
+      "staticUrl": "assets/bilibili/125/2556.png",
       "isHide": false,
       "packageId": "125",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[一起看电竞_翻盘了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/125/2525.png",
+      "staticUrl": "assets/bilibili/125/2525.png",
       "isHide": false,
       "packageId": "125",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[一起看电竞_这合理么]"
       ],
-      "staticUrl": "assets/bilibili_emoji/125/2527.png",
+      "staticUrl": "assets/bilibili/125/2527.png",
       "isHide": false,
       "packageId": "125",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[一起看电竞_工具人]"
       ],
-      "staticUrl": "assets/bilibili_emoji/125/2524.png",
+      "staticUrl": "assets/bilibili/125/2524.png",
       "isHide": false,
       "packageId": "125",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[一起看电竞_永远的神]"
       ],
-      "staticUrl": "assets/bilibili_emoji/125/2529.png",
+      "staticUrl": "assets/bilibili/125/2529.png",
       "isHide": false,
       "packageId": "125",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[一起看电竞_MVP]"
       ],
-      "staticUrl": "assets/bilibili_emoji/125/2528.png",
+      "staticUrl": "assets/bilibili/125/2528.png",
       "isHide": false,
       "packageId": "125",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[一起看电竞_上流]"
       ],
-      "staticUrl": "assets/bilibili_emoji/125/2526.png",
+      "staticUrl": "assets/bilibili/125/2526.png",
       "isHide": false,
       "packageId": "125",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[一起看电竞_别墅靠海]"
       ],
-      "staticUrl": "assets/bilibili_emoji/125/2557.png",
+      "staticUrl": "assets/bilibili/125/2557.png",
       "isHide": false,
       "packageId": "125",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[一起看电竞_摇骰子]"
       ],
-      "staticUrl": "assets/bilibili_emoji/125/2558.png",
+      "staticUrl": "assets/bilibili/125/2558.png",
       "isHide": false,
       "packageId": "125",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[一起看电竞_彳亍]"
       ],
-      "staticUrl": "assets/bilibili_emoji/125/2559.png",
+      "staticUrl": "assets/bilibili/125/2559.png",
       "isHide": false,
       "packageId": "125",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[一起看电竞_稳住]"
       ],
-      "staticUrl": "assets/bilibili_emoji/125/2560.png",
+      "staticUrl": "assets/bilibili/125/2560.png",
       "isHide": false,
       "packageId": "125",
       "meta": {

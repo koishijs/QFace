@@ -18,7 +18,7 @@ import {
  */
 
 const ROOT_DIR = resolve(import.meta.dirname, '..')
-const SOURCE_INDEX = resolve(ROOT_DIR, 'public/assets/bilibili_emoji/_index.json')
+const SOURCE_INDEX = resolve(ROOT_DIR, 'public/assets/bilibili/_index.json')
 const OUTPUT_DIR = resolve(ROOT_DIR, 'public/indexes/bilibili')
 
 async function main(): Promise<void> {

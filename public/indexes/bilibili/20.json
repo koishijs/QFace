@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "20",
   "name": "狐妖",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/8ef84c906cdf2f53e2b49dfca072179bb7679c7e.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[狐妖_不服憋着]"
       ],
-      "staticUrl": "assets/bilibili_emoji/20/391.png",
+      "staticUrl": "assets/bilibili/20/391.png",
       "isHide": false,
       "packageId": "20",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[狐妖_吃瓜]"
       ],
-      "staticUrl": "assets/bilibili_emoji/20/392.png",
+      "staticUrl": "assets/bilibili/20/392.png",
       "isHide": false,
       "packageId": "20",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[狐妖_不明嚼栗]"
       ],
-      "staticUrl": "assets/bilibili_emoji/20/393.png",
+      "staticUrl": "assets/bilibili/20/393.png",
       "isHide": false,
       "packageId": "20",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[狐妖_抽打]"
       ],
-      "staticUrl": "assets/bilibili_emoji/20/394.png",
+      "staticUrl": "assets/bilibili/20/394.png",
       "isHide": false,
       "packageId": "20",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[狐妖_吃我安利]"
       ],
-      "staticUrl": "assets/bilibili_emoji/20/395.png",
+      "staticUrl": "assets/bilibili/20/395.png",
       "isHide": false,
       "packageId": "20",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[狐妖_伐开心]"
       ],
-      "staticUrl": "assets/bilibili_emoji/20/396.png",
+      "staticUrl": "assets/bilibili/20/396.png",
       "isHide": false,
       "packageId": "20",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[狐妖_惊]"
       ],
-      "staticUrl": "assets/bilibili_emoji/20/397.png",
+      "staticUrl": "assets/bilibili/20/397.png",
       "isHide": false,
       "packageId": "20",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[狐妖_大笑]"
       ],
-      "staticUrl": "assets/bilibili_emoji/20/398.png",
+      "staticUrl": "assets/bilibili/20/398.png",
       "isHide": false,
       "packageId": "20",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[狐妖_震惊]"
       ],
-      "staticUrl": "assets/bilibili_emoji/20/399.png",
+      "staticUrl": "assets/bilibili/20/399.png",
       "isHide": false,
       "packageId": "20",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[狐妖_脸红]"
       ],
-      "staticUrl": "assets/bilibili_emoji/20/400.png",
+      "staticUrl": "assets/bilibili/20/400.png",
       "isHide": false,
       "packageId": "20",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[狐妖_冷漠]"
       ],
-      "staticUrl": "assets/bilibili_emoji/20/401.png",
+      "staticUrl": "assets/bilibili/20/401.png",
       "isHide": false,
       "packageId": "20",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[狐妖_哭]"
       ],
-      "staticUrl": "assets/bilibili_emoji/20/402.png",
+      "staticUrl": "assets/bilibili/20/402.png",
       "isHide": false,
       "packageId": "20",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[狐妖_目瞪口呆]"
       ],
-      "staticUrl": "assets/bilibili_emoji/20/403.png",
+      "staticUrl": "assets/bilibili/20/403.png",
       "isHide": false,
       "packageId": "20",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[狐妖_前排]"
       ],
-      "staticUrl": "assets/bilibili_emoji/20/404.png",
+      "staticUrl": "assets/bilibili/20/404.png",
       "isHide": false,
       "packageId": "20",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[狐妖_沙发]"
       ],
-      "staticUrl": "assets/bilibili_emoji/20/405.png",
+      "staticUrl": "assets/bilibili/20/405.png",
       "isHide": false,
       "packageId": "20",
       "meta": {
@@ -234,7 +234,7 @@
       "shortCodes": [
         "[狐妖_掀桌]"
       ],
-      "staticUrl": "assets/bilibili_emoji/20/406.png",
+      "staticUrl": "assets/bilibili/20/406.png",
       "isHide": false,
       "packageId": "20",
       "meta": {
@@ -249,7 +249,7 @@
       "shortCodes": [
         "[狐妖_心]"
       ],
-      "staticUrl": "assets/bilibili_emoji/20/407.png",
+      "staticUrl": "assets/bilibili/20/407.png",
       "isHide": false,
       "packageId": "20",
       "meta": {
@@ -264,7 +264,7 @@
       "shortCodes": [
         "[狐妖_晕]"
       ],
-      "staticUrl": "assets/bilibili_emoji/20/408.png",
+      "staticUrl": "assets/bilibili/20/408.png",
       "isHide": false,
       "packageId": "20",
       "meta": {
@@ -279,7 +279,7 @@
       "shortCodes": [
         "[狐妖_吃药]"
       ],
-      "staticUrl": "assets/bilibili_emoji/20/409.png",
+      "staticUrl": "assets/bilibili/20/409.png",
       "isHide": false,
       "packageId": "20",
       "meta": {
@@ -294,7 +294,7 @@
       "shortCodes": [
         "[狐妖_mdzz]"
       ],
-      "staticUrl": "assets/bilibili_emoji/20/410.png",
+      "staticUrl": "assets/bilibili/20/410.png",
       "isHide": false,
       "packageId": "20",
       "meta": {

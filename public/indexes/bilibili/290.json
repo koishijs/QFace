@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "290",
   "name": "EDG战队",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/dcf941456389644070606f4040932a2cf7d90f78.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[EDG_666]"
       ],
-      "staticUrl": "assets/bilibili_emoji/290/4802.png",
+      "staticUrl": "assets/bilibili/290/4802.png",
       "isHide": false,
       "packageId": "290",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[EDG_777]"
       ],
-      "staticUrl": "assets/bilibili_emoji/290/4803.png",
+      "staticUrl": "assets/bilibili/290/4803.png",
       "isHide": false,
       "packageId": "290",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[EDG_出征]"
       ],
-      "staticUrl": "assets/bilibili_emoji/290/4804.png",
+      "staticUrl": "assets/bilibili/290/4804.png",
       "isHide": false,
       "packageId": "290",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[EDG_点点]"
       ],
-      "staticUrl": "assets/bilibili_emoji/290/4805.png",
+      "staticUrl": "assets/bilibili/290/4805.png",
       "isHide": false,
       "packageId": "290",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[EDG_集结]"
       ],
-      "staticUrl": "assets/bilibili_emoji/290/4806.png",
+      "staticUrl": "assets/bilibili/290/4806.png",
       "isHide": false,
       "packageId": "290",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[EDG_加油]"
       ],
-      "staticUrl": "assets/bilibili_emoji/290/4807.png",
+      "staticUrl": "assets/bilibili/290/4807.png",
       "isHide": false,
       "packageId": "290",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[EDG_哭哭]"
       ],
-      "staticUrl": "assets/bilibili_emoji/290/4808.png",
+      "staticUrl": "assets/bilibili/290/4808.png",
       "isHide": false,
       "packageId": "290",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[EDG_喜欢]"
       ],
-      "staticUrl": "assets/bilibili_emoji/290/4809.png",
+      "staticUrl": "assets/bilibili/290/4809.png",
       "isHide": false,
       "packageId": "290",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[EDG_有了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/290/4810.png",
+      "staticUrl": "assets/bilibili/290/4810.png",
       "isHide": false,
       "packageId": "290",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[EDG_EDG]"
       ],
-      "staticUrl": "assets/bilibili_emoji/290/4811.png",
+      "staticUrl": "assets/bilibili/290/4811.png",
       "isHide": false,
       "packageId": "290",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[EDG_3:2]"
       ],
-      "staticUrl": "assets/bilibili_emoji/290/5128.png",
+      "staticUrl": "assets/bilibili/290/5128.png",
       "isHide": false,
       "packageId": "290",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[EDG_冠军777]"
       ],
-      "staticUrl": "assets/bilibili_emoji/290/5129.png",
+      "staticUrl": "assets/bilibili/290/5129.png",
       "isHide": false,
       "packageId": "290",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[EDG_我们是冠军]"
       ],
-      "staticUrl": "assets/bilibili_emoji/290/5130.png",
+      "staticUrl": "assets/bilibili/290/5130.png",
       "isHide": false,
       "packageId": "290",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[EDG_王者归来]"
       ],
-      "staticUrl": "assets/bilibili_emoji/290/5131.png",
+      "staticUrl": "assets/bilibili/290/5131.png",
       "isHide": false,
       "packageId": "290",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[EDG_奖杯]"
       ],
-      "staticUrl": "assets/bilibili_emoji/290/5132.png",
+      "staticUrl": "assets/bilibili/290/5132.png",
       "isHide": false,
       "packageId": "290",
       "meta": {

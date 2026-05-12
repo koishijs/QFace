@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "102",
   "name": "言和7th生日纪念",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/2f2ab11a72dcc5d2b22f770435ced8c8d8bea2b5.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[言和7th_不好意思]"
       ],
-      "staticUrl": "assets/bilibili_emoji/102/2213.png",
+      "staticUrl": "assets/bilibili/102/2213.png",
       "isHide": false,
       "packageId": "102",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[言和7th_乖巧]"
       ],
-      "staticUrl": "assets/bilibili_emoji/102/2214.png",
+      "staticUrl": "assets/bilibili/102/2214.png",
       "isHide": false,
       "packageId": "102",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[言和7th_来晚了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/102/2215.png",
+      "staticUrl": "assets/bilibili/102/2215.png",
       "isHide": false,
       "packageId": "102",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[言和7th_静静看你]"
       ],
-      "staticUrl": "assets/bilibili_emoji/102/2216.png",
+      "staticUrl": "assets/bilibili/102/2216.png",
       "isHide": false,
       "packageId": "102",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[言和7th_一键三连]"
       ],
-      "staticUrl": "assets/bilibili_emoji/102/2217.png",
+      "staticUrl": "assets/bilibili/102/2217.png",
       "isHide": false,
       "packageId": "102",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[言和7th_捶你胸口]"
       ],
-      "staticUrl": "assets/bilibili_emoji/102/2218.png",
+      "staticUrl": "assets/bilibili/102/2218.png",
       "isHide": false,
       "packageId": "102",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[言和7th_期待]"
       ],
-      "staticUrl": "assets/bilibili_emoji/102/2219.png",
+      "staticUrl": "assets/bilibili/102/2219.png",
       "isHide": false,
       "packageId": "102",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[言和7th_小fafa]"
       ],
-      "staticUrl": "assets/bilibili_emoji/102/2220.png",
+      "staticUrl": "assets/bilibili/102/2220.png",
       "isHide": false,
       "packageId": "102",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[言和7th_不行]"
       ],
-      "staticUrl": "assets/bilibili_emoji/102/2221.png",
+      "staticUrl": "assets/bilibili/102/2221.png",
       "isHide": false,
       "packageId": "102",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[言和7th_梦里都有]"
       ],
-      "staticUrl": "assets/bilibili_emoji/102/2222.png",
+      "staticUrl": "assets/bilibili/102/2222.png",
       "isHide": false,
       "packageId": "102",
       "meta": {

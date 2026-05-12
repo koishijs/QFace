@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "593",
   "name": "猫诺装扮套装",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/2c0d165f19c1bc72d9201236f068a932aa9ac933.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[猫诺装扮套装_暗中观察]"
       ],
-      "staticUrl": "assets/bilibili_emoji/593/10758.png",
+      "staticUrl": "assets/bilibili/593/10758.png",
       "isHide": false,
       "packageId": "593",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[猫诺装扮套装_察觉]"
       ],
-      "staticUrl": "assets/bilibili_emoji/593/10759.png",
+      "staticUrl": "assets/bilibili/593/10759.png",
       "isHide": false,
       "packageId": "593",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[猫诺装扮套装_打CALL]"
       ],
-      "staticUrl": "assets/bilibili_emoji/593/10760.png",
+      "staticUrl": "assets/bilibili/593/10760.png",
       "isHide": false,
       "packageId": "593",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[猫诺装扮套装_大气]"
       ],
-      "staticUrl": "assets/bilibili_emoji/593/10761.png",
+      "staticUrl": "assets/bilibili/593/10761.png",
       "isHide": false,
       "packageId": "593",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[猫诺装扮套装_干杯]"
       ],
-      "staticUrl": "assets/bilibili_emoji/593/10762.png",
+      "staticUrl": "assets/bilibili/593/10762.png",
       "isHide": false,
       "packageId": "593",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[猫诺装扮套装_可恶！]"
       ],
-      "staticUrl": "assets/bilibili_emoji/593/10763.png",
+      "staticUrl": "assets/bilibili/593/10763.png",
       "isHide": false,
       "packageId": "593",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[猫诺装扮套装_哭泣]"
       ],
-      "staticUrl": "assets/bilibili_emoji/593/10764.png",
+      "staticUrl": "assets/bilibili/593/10764.png",
       "isHide": false,
       "packageId": "593",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[猫诺装扮套装_来咯！]"
       ],
-      "staticUrl": "assets/bilibili_emoji/593/10765.png",
+      "staticUrl": "assets/bilibili/593/10765.png",
       "isHide": false,
       "packageId": "593",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[猫诺装扮套装_闷气]"
       ],
-      "staticUrl": "assets/bilibili_emoji/593/10766.png",
+      "staticUrl": "assets/bilibili/593/10766.png",
       "isHide": false,
       "packageId": "593",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[猫诺装扮套装_喵喵]"
       ],
-      "staticUrl": "assets/bilibili_emoji/593/10767.png",
+      "staticUrl": "assets/bilibili/593/10767.png",
       "isHide": false,
       "packageId": "593",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[猫诺装扮套装_摸摸头]"
       ],
-      "staticUrl": "assets/bilibili_emoji/593/10768.png",
+      "staticUrl": "assets/bilibili/593/10768.png",
       "isHide": false,
       "packageId": "593",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[猫诺装扮套装_摸鱼]"
       ],
-      "staticUrl": "assets/bilibili_emoji/593/10769.png",
+      "staticUrl": "assets/bilibili/593/10769.png",
       "isHide": false,
       "packageId": "593",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[猫诺装扮套装_噢不！]"
       ],
-      "staticUrl": "assets/bilibili_emoji/593/10770.png",
+      "staticUrl": "assets/bilibili/593/10770.png",
       "isHide": false,
       "packageId": "593",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[猫诺装扮套装_亲亲]"
       ],
-      "staticUrl": "assets/bilibili_emoji/593/10771.png",
+      "staticUrl": "assets/bilibili/593/10771.png",
       "isHide": false,
       "packageId": "593",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[猫诺装扮套装_生气]"
       ],
-      "staticUrl": "assets/bilibili_emoji/593/10772.png",
+      "staticUrl": "assets/bilibili/593/10772.png",
       "isHide": false,
       "packageId": "593",
       "meta": {
@@ -234,7 +234,7 @@
       "shortCodes": [
         "[猫诺装扮套装_探头]"
       ],
-      "staticUrl": "assets/bilibili_emoji/593/10773.png",
+      "staticUrl": "assets/bilibili/593/10773.png",
       "isHide": false,
       "packageId": "593",
       "meta": {
@@ -249,7 +249,7 @@
       "shortCodes": [
         "[猫诺装扮套装_贴贴]"
       ],
-      "staticUrl": "assets/bilibili_emoji/593/10774.png",
+      "staticUrl": "assets/bilibili/593/10774.png",
       "isHide": false,
       "packageId": "593",
       "meta": {
@@ -264,7 +264,7 @@
       "shortCodes": [
         "[猫诺装扮套装_晚安]"
       ],
-      "staticUrl": "assets/bilibili_emoji/593/10775.png",
+      "staticUrl": "assets/bilibili/593/10775.png",
       "isHide": false,
       "packageId": "593",
       "meta": {
@@ -279,7 +279,7 @@
       "shortCodes": [
         "[猫诺装扮套装_无语]"
       ],
-      "staticUrl": "assets/bilibili_emoji/593/10776.png",
+      "staticUrl": "assets/bilibili/593/10776.png",
       "isHide": false,
       "packageId": "593",
       "meta": {
@@ -294,7 +294,7 @@
       "shortCodes": [
         "[猫诺装扮套装_喜欢]"
       ],
-      "staticUrl": "assets/bilibili_emoji/593/10777.png",
+      "staticUrl": "assets/bilibili/593/10777.png",
       "isHide": false,
       "packageId": "593",
       "meta": {

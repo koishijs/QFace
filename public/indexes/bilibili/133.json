@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "133",
   "name": "阿萨Aza",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/1849cb91cc8f3bdd97c7cecf4b18d989937abb52.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[阿萨Aza_？？？]"
       ],
-      "staticUrl": "assets/bilibili_emoji/133/2641.png",
+      "staticUrl": "assets/bilibili/133/2641.png",
       "isHide": false,
       "packageId": "133",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[阿萨Aza_拜托]"
       ],
-      "staticUrl": "assets/bilibili_emoji/133/2642.png",
+      "staticUrl": "assets/bilibili/133/2642.png",
       "isHide": false,
       "packageId": "133",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[阿萨Aza_棒]"
       ],
-      "staticUrl": "assets/bilibili_emoji/133/2643.png",
+      "staticUrl": "assets/bilibili/133/2643.png",
       "isHide": false,
       "packageId": "133",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[阿萨Aza_喝牛奶]"
       ],
-      "staticUrl": "assets/bilibili_emoji/133/2644.png",
+      "staticUrl": "assets/bilibili/133/2644.png",
       "isHide": false,
       "packageId": "133",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[阿萨Aza_警觉]"
       ],
-      "staticUrl": "assets/bilibili_emoji/133/2645.png",
+      "staticUrl": "assets/bilibili/133/2645.png",
       "isHide": false,
       "packageId": "133",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[阿萨Aza_哭哭]"
       ],
-      "staticUrl": "assets/bilibili_emoji/133/2646.png",
+      "staticUrl": "assets/bilibili/133/2646.png",
       "isHide": false,
       "packageId": "133",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[阿萨Aza_生气]"
       ],
-      "staticUrl": "assets/bilibili_emoji/133/2647.png",
+      "staticUrl": "assets/bilibili/133/2647.png",
       "isHide": false,
       "packageId": "133",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[阿萨Aza_危]"
       ],
-      "staticUrl": "assets/bilibili_emoji/133/2648.png",
+      "staticUrl": "assets/bilibili/133/2648.png",
       "isHide": false,
       "packageId": "133",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[阿萨Aza_嘻嘻]"
       ],
-      "staticUrl": "assets/bilibili_emoji/133/2649.png",
+      "staticUrl": "assets/bilibili/133/2649.png",
       "isHide": false,
       "packageId": "133",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[阿萨Aza_咋了咋了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/133/2650.png",
+      "staticUrl": "assets/bilibili/133/2650.png",
       "isHide": false,
       "packageId": "133",
       "meta": {

@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "361",
   "name": "KAITO",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/9111a1a21b942ba1404a52ca7f7a7840c690ed26.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[KAITO_打call]"
       ],
-      "staticUrl": "assets/bilibili_emoji/361/5937.png",
+      "staticUrl": "assets/bilibili/361/5937.png",
       "isHide": false,
       "packageId": "361",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[KAITO_唱歌]"
       ],
-      "staticUrl": "assets/bilibili_emoji/361/5938.png",
+      "staticUrl": "assets/bilibili/361/5938.png",
       "isHide": false,
       "packageId": "361",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[KAITO_吃糕群众]"
       ],
-      "staticUrl": "assets/bilibili_emoji/361/5939.png",
+      "staticUrl": "assets/bilibili/361/5939.png",
       "isHide": false,
       "packageId": "361",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[KAITO_冻住]"
       ],
-      "staticUrl": "assets/bilibili_emoji/361/5940.png",
+      "staticUrl": "assets/bilibili/361/5940.png",
       "isHide": false,
       "packageId": "361",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[KAITO_鼓掌]"
       ],
-      "staticUrl": "assets/bilibili_emoji/361/5941.png",
+      "staticUrl": "assets/bilibili/361/5941.png",
       "isHide": false,
       "packageId": "361",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[KAITO_嗨]"
       ],
-      "staticUrl": "assets/bilibili_emoji/361/5942.png",
+      "staticUrl": "assets/bilibili/361/5942.png",
       "isHide": false,
       "packageId": "361",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[KAITO_害羞]"
       ],
-      "staticUrl": "assets/bilibili_emoji/361/5943.png",
+      "staticUrl": "assets/bilibili/361/5943.png",
       "isHide": false,
       "packageId": "361",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[KAITO_看看]"
       ],
-      "staticUrl": "assets/bilibili_emoji/361/5944.png",
+      "staticUrl": "assets/bilibili/361/5944.png",
       "isHide": false,
       "packageId": "361",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[KAITO_聆听]"
       ],
-      "staticUrl": "assets/bilibili_emoji/361/5945.png",
+      "staticUrl": "assets/bilibili/361/5945.png",
       "isHide": false,
       "packageId": "361",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[KAITO_抹泪]"
       ],
-      "staticUrl": "assets/bilibili_emoji/361/5946.png",
+      "staticUrl": "assets/bilibili/361/5946.png",
       "isHide": false,
       "packageId": "361",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[KAITO_哦吼]"
       ],
-      "staticUrl": "assets/bilibili_emoji/361/5947.png",
+      "staticUrl": "assets/bilibili/361/5947.png",
       "isHide": false,
       "packageId": "361",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[KAITO_期待]"
       ],
-      "staticUrl": "assets/bilibili_emoji/361/5948.png",
+      "staticUrl": "assets/bilibili/361/5948.png",
       "isHide": false,
       "packageId": "361",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[KAITO_叹气]"
       ],
-      "staticUrl": "assets/bilibili_emoji/361/5949.png",
+      "staticUrl": "assets/bilibili/361/5949.png",
       "isHide": false,
       "packageId": "361",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[KAITO_心心]"
       ],
-      "staticUrl": "assets/bilibili_emoji/361/5950.png",
+      "staticUrl": "assets/bilibili/361/5950.png",
       "isHide": false,
       "packageId": "361",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[KAITO_抱抱]"
       ],
-      "staticUrl": "assets/bilibili_emoji/361/5951.png",
+      "staticUrl": "assets/bilibili/361/5951.png",
       "isHide": false,
       "packageId": "361",
       "meta": {

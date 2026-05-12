@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "251",
   "name": "魔法学院",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/c84f4f4432a34e41415427788de09ee8bc2b3e81.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[魔法学院_bye]"
       ],
-      "staticUrl": "assets/bilibili_emoji/251/4162.png",
+      "staticUrl": "assets/bilibili/251/4162.png",
       "isHide": false,
       "packageId": "251",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[魔法学院_giegie]"
       ],
-      "staticUrl": "assets/bilibili_emoji/251/4163.png",
+      "staticUrl": "assets/bilibili/251/4163.png",
       "isHide": false,
       "packageId": "251",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[魔法学院_变猪]"
       ],
-      "staticUrl": "assets/bilibili_emoji/251/4164.png",
+      "staticUrl": "assets/bilibili/251/4164.png",
       "isHide": false,
       "packageId": "251",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[魔法学院_冲]"
       ],
-      "staticUrl": "assets/bilibili_emoji/251/4165.png",
+      "staticUrl": "assets/bilibili/251/4165.png",
       "isHide": false,
       "packageId": "251",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[魔法学院_打咩]"
       ],
-      "staticUrl": "assets/bilibili_emoji/251/4166.png",
+      "staticUrl": "assets/bilibili/251/4166.png",
       "isHide": false,
       "packageId": "251",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[魔法学院_干饭]"
       ],
-      "staticUrl": "assets/bilibili_emoji/251/4167.png",
+      "staticUrl": "assets/bilibili/251/4167.png",
       "isHide": false,
       "packageId": "251",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[魔法学院_好厉害]"
       ],
-      "staticUrl": "assets/bilibili_emoji/251/4168.png",
+      "staticUrl": "assets/bilibili/251/4168.png",
       "isHide": false,
       "packageId": "251",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[魔法学院_好耶]"
       ],
-      "staticUrl": "assets/bilibili_emoji/251/4169.png",
+      "staticUrl": "assets/bilibili/251/4169.png",
       "isHide": false,
       "packageId": "251",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[魔法学院_那我走]"
       ],
-      "staticUrl": "assets/bilibili_emoji/251/4170.png",
+      "staticUrl": "assets/bilibili/251/4170.png",
       "isHide": false,
       "packageId": "251",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[魔法学院_瘫]"
       ],
-      "staticUrl": "assets/bilibili_emoji/251/4171.png",
+      "staticUrl": "assets/bilibili/251/4171.png",
       "isHide": false,
       "packageId": "251",
       "meta": {

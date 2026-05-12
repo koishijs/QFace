@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "204",
   "name": "花丸晴琉",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/4b40f416ab70b474c41c2e5d5669d64e0a7788e2.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[花丸晴琉_mua]"
       ],
-      "staticUrl": "assets/bilibili_emoji/204/3611.png",
+      "staticUrl": "assets/bilibili/204/3611.png",
       "isHide": false,
       "packageId": "204",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[花丸晴琉_wink]"
       ],
-      "staticUrl": "assets/bilibili_emoji/204/3612.png",
+      "staticUrl": "assets/bilibili/204/3612.png",
       "isHide": false,
       "packageId": "204",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[花丸晴琉_啊咧]"
       ],
-      "staticUrl": "assets/bilibili_emoji/204/3613.png",
+      "staticUrl": "assets/bilibili/204/3613.png",
       "isHide": false,
       "packageId": "204",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[花丸晴琉_大笑]"
       ],
-      "staticUrl": "assets/bilibili_emoji/204/3614.png",
+      "staticUrl": "assets/bilibili/204/3614.png",
       "isHide": false,
       "packageId": "204",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[花丸晴琉_呆住]"
       ],
-      "staticUrl": "assets/bilibili_emoji/204/3615.png",
+      "staticUrl": "assets/bilibili/204/3615.png",
       "isHide": false,
       "packageId": "204",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[花丸晴琉_对不起]"
       ],
-      "staticUrl": "assets/bilibili_emoji/204/3616.png",
+      "staticUrl": "assets/bilibili/204/3616.png",
       "isHide": false,
       "packageId": "204",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[花丸晴琉_好耶]"
       ],
-      "staticUrl": "assets/bilibili_emoji/204/3617.png",
+      "staticUrl": "assets/bilibili/204/3617.png",
       "isHide": false,
       "packageId": "204",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[花丸晴琉_挥手]"
       ],
-      "staticUrl": "assets/bilibili_emoji/204/3618.png",
+      "staticUrl": "assets/bilibili/204/3618.png",
       "isHide": false,
       "packageId": "204",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[花丸晴琉_惊慌]"
       ],
-      "staticUrl": "assets/bilibili_emoji/204/3619.png",
+      "staticUrl": "assets/bilibili/204/3619.png",
       "isHide": false,
       "packageId": "204",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[花丸晴琉_泪目]"
       ],
-      "staticUrl": "assets/bilibili_emoji/204/3620.png",
+      "staticUrl": "assets/bilibili/204/3620.png",
       "isHide": false,
       "packageId": "204",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[花丸晴琉_丧]"
       ],
-      "staticUrl": "assets/bilibili_emoji/204/3621.png",
+      "staticUrl": "assets/bilibili/204/3621.png",
       "isHide": false,
       "packageId": "204",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[花丸晴琉_生气]"
       ],
-      "staticUrl": "assets/bilibili_emoji/204/3622.png",
+      "staticUrl": "assets/bilibili/204/3622.png",
       "isHide": false,
       "packageId": "204",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[花丸晴琉_晚安]"
       ],
-      "staticUrl": "assets/bilibili_emoji/204/3623.png",
+      "staticUrl": "assets/bilibili/204/3623.png",
       "isHide": false,
       "packageId": "204",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[花丸晴琉_无语]"
       ],
-      "staticUrl": "assets/bilibili_emoji/204/3624.png",
+      "staticUrl": "assets/bilibili/204/3624.png",
       "isHide": false,
       "packageId": "204",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[花丸晴琉_喜欢]"
       ],
-      "staticUrl": "assets/bilibili_emoji/204/3625.png",
+      "staticUrl": "assets/bilibili/204/3625.png",
       "isHide": false,
       "packageId": "204",
       "meta": {
@@ -234,7 +234,7 @@
       "shortCodes": [
         "[花丸晴琉_邪恶]"
       ],
-      "staticUrl": "assets/bilibili_emoji/204/3626.png",
+      "staticUrl": "assets/bilibili/204/3626.png",
       "isHide": false,
       "packageId": "204",
       "meta": {
@@ -249,7 +249,7 @@
       "shortCodes": [
         "[花丸晴琉_疑惑]"
       ],
-      "staticUrl": "assets/bilibili_emoji/204/3627.png",
+      "staticUrl": "assets/bilibili/204/3627.png",
       "isHide": false,
       "packageId": "204",
       "meta": {
@@ -264,7 +264,7 @@
       "shortCodes": [
         "[花丸晴琉_嘤嘤]"
       ],
-      "staticUrl": "assets/bilibili_emoji/204/3628.png",
+      "staticUrl": "assets/bilibili/204/3628.png",
       "isHide": false,
       "packageId": "204",
       "meta": {
@@ -279,7 +279,7 @@
       "shortCodes": [
         "[花丸晴琉_赞]"
       ],
-      "staticUrl": "assets/bilibili_emoji/204/3629.png",
+      "staticUrl": "assets/bilibili/204/3629.png",
       "isHide": false,
       "packageId": "204",
       "meta": {
@@ -294,7 +294,7 @@
       "shortCodes": [
         "[花丸晴琉_早安]"
       ],
-      "staticUrl": "assets/bilibili_emoji/204/3630.png",
+      "staticUrl": "assets/bilibili/204/3630.png",
       "isHide": false,
       "packageId": "204",
       "meta": {

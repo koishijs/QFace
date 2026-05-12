@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "544",
   "name": "蕾蕾大表哥",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/bd155249e298af92c899f67ad3d0bc3cc2499f5b.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[蕾蕾大表哥_no]"
       ],
-      "staticUrl": "assets/bilibili_emoji/544/9984.png",
+      "staticUrl": "assets/bilibili/544/9984.png",
       "isHide": false,
       "packageId": "544",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[蕾蕾大表哥_yes]"
       ],
-      "staticUrl": "assets/bilibili_emoji/544/9985.png",
+      "staticUrl": "assets/bilibili/544/9985.png",
       "isHide": false,
       "packageId": "544",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[蕾蕾大表哥_抱抱]"
       ],
-      "staticUrl": "assets/bilibili_emoji/544/9986.png",
+      "staticUrl": "assets/bilibili/544/9986.png",
       "isHide": false,
       "packageId": "544",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[蕾蕾大表哥_比心]"
       ],
-      "staticUrl": "assets/bilibili_emoji/544/9987.png",
+      "staticUrl": "assets/bilibili/544/9987.png",
       "isHide": false,
       "packageId": "544",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[蕾蕾大表哥_测码]"
       ],
-      "staticUrl": "assets/bilibili_emoji/544/9988.png",
+      "staticUrl": "assets/bilibili/544/9988.png",
       "isHide": false,
       "packageId": "544",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[蕾蕾大表哥_地蕾]"
       ],
-      "staticUrl": "assets/bilibili_emoji/544/9989.png",
+      "staticUrl": "assets/bilibili/544/9989.png",
       "isHide": false,
       "packageId": "544",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[蕾蕾大表哥_耳机一歪]"
       ],
-      "staticUrl": "assets/bilibili_emoji/544/9990.png",
+      "staticUrl": "assets/bilibili/544/9990.png",
       "isHide": false,
       "packageId": "544",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[蕾蕾大表哥_欢呼]"
       ],
-      "staticUrl": "assets/bilibili_emoji/544/9991.png",
+      "staticUrl": "assets/bilibili/544/9991.png",
       "isHide": false,
       "packageId": "544",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[蕾蕾大表哥_火大]"
       ],
-      "staticUrl": "assets/bilibili_emoji/544/9992.png",
+      "staticUrl": "assets/bilibili/544/9992.png",
       "isHide": false,
       "packageId": "544",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[蕾蕾大表哥_就这]"
       ],
-      "staticUrl": "assets/bilibili_emoji/544/9993.png",
+      "staticUrl": "assets/bilibili/544/9993.png",
       "isHide": false,
       "packageId": "544",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[蕾蕾大表哥_辣眼睛]"
       ],
-      "staticUrl": "assets/bilibili_emoji/544/9994.png",
+      "staticUrl": "assets/bilibili/544/9994.png",
       "isHide": false,
       "packageId": "544",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[蕾蕾大表哥_流汗]"
       ],
-      "staticUrl": "assets/bilibili_emoji/544/9995.png",
+      "staticUrl": "assets/bilibili/544/9995.png",
       "isHide": false,
       "packageId": "544",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[蕾蕾大表哥_美妙开局]"
       ],
-      "staticUrl": "assets/bilibili_emoji/544/9996.png",
+      "staticUrl": "assets/bilibili/544/9996.png",
       "isHide": false,
       "packageId": "544",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[蕾蕾大表哥_拿来吧你]"
       ],
-      "staticUrl": "assets/bilibili_emoji/544/9997.png",
+      "staticUrl": "assets/bilibili/544/9997.png",
       "isHide": false,
       "packageId": "544",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[蕾蕾大表哥_嗯？]"
       ],
-      "staticUrl": "assets/bilibili_emoji/544/9998.png",
+      "staticUrl": "assets/bilibili/544/9998.png",
       "isHide": false,
       "packageId": "544",
       "meta": {
@@ -234,7 +234,7 @@
       "shortCodes": [
         "[蕾蕾大表哥_弱爆]"
       ],
-      "staticUrl": "assets/bilibili_emoji/544/9999.png",
+      "staticUrl": "assets/bilibili/544/9999.png",
       "isHide": false,
       "packageId": "544",
       "meta": {
@@ -249,7 +249,7 @@
       "shortCodes": [
         "[蕾蕾大表哥_喂喂喂]"
       ],
-      "staticUrl": "assets/bilibili_emoji/544/10000.png",
+      "staticUrl": "assets/bilibili/544/10000.png",
       "isHide": false,
       "packageId": "544",
       "meta": {
@@ -264,7 +264,7 @@
       "shortCodes": [
         "[蕾蕾大表哥_嘻嘻]"
       ],
-      "staticUrl": "assets/bilibili_emoji/544/10001.png",
+      "staticUrl": "assets/bilibili/544/10001.png",
       "isHide": false,
       "packageId": "544",
       "meta": {
@@ -279,7 +279,7 @@
       "shortCodes": [
         "[蕾蕾大表哥_早八]"
       ],
-      "staticUrl": "assets/bilibili_emoji/544/10002.png",
+      "staticUrl": "assets/bilibili/544/10002.png",
       "isHide": false,
       "packageId": "544",
       "meta": {
@@ -294,7 +294,7 @@
       "shortCodes": [
         "[蕾蕾大表哥_站长推荐]"
       ],
-      "staticUrl": "assets/bilibili_emoji/544/10003.png",
+      "staticUrl": "assets/bilibili/544/10003.png",
       "isHide": false,
       "packageId": "544",
       "meta": {

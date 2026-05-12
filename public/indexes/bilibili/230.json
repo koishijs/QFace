@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "230",
   "name": "BW2021",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/707eec4117ff53f6a87c007b27dd81cf82bce430.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[BW2021_KSWL]"
       ],
-      "staticUrl": "assets/bilibili_emoji/230/4031.png",
+      "staticUrl": "assets/bilibili/230/4031.png",
       "isHide": false,
       "packageId": "230",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[BW2021_冲]"
       ],
-      "staticUrl": "assets/bilibili_emoji/230/4032.png",
+      "staticUrl": "assets/bilibili/230/4032.png",
       "isHide": false,
       "packageId": "230",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[BW2021_疯狂打call]"
       ],
-      "staticUrl": "assets/bilibili_emoji/230/4033.png",
+      "staticUrl": "assets/bilibili/230/4033.png",
       "isHide": false,
       "packageId": "230",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[BW2021_买买买]"
       ],
-      "staticUrl": "assets/bilibili_emoji/230/4034.png",
+      "staticUrl": "assets/bilibili/230/4034.png",
       "isHide": false,
       "packageId": "230",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[BW2021_搞什么飞机]"
       ],
-      "staticUrl": "assets/bilibili_emoji/230/4035.png",
+      "staticUrl": "assets/bilibili/230/4035.png",
       "isHide": false,
       "packageId": "230",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[BW2021_开始表演]"
       ],
-      "staticUrl": "assets/bilibili_emoji/230/4036.png",
+      "staticUrl": "assets/bilibili/230/4036.png",
       "isHide": false,
       "packageId": "230",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[BW2021_燃起来了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/230/4037.png",
+      "staticUrl": "assets/bilibili/230/4037.png",
       "isHide": false,
       "packageId": "230",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[BW2021_三连走你]"
       ],
-      "staticUrl": "assets/bilibili_emoji/230/4038.png",
+      "staticUrl": "assets/bilibili/230/4038.png",
       "isHide": false,
       "packageId": "230",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[BW2021_呜呜呜]"
       ],
-      "staticUrl": "assets/bilibili_emoji/230/4039.png",
+      "staticUrl": "assets/bilibili/230/4039.png",
       "isHide": false,
       "packageId": "230",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[BW2021_向大佬低头]"
       ],
-      "staticUrl": "assets/bilibili_emoji/230/4040.png",
+      "staticUrl": "assets/bilibili/230/4040.png",
       "isHide": false,
       "packageId": "230",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[BW2021_真是绝了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/230/4041.png",
+      "staticUrl": "assets/bilibili/230/4041.png",
       "isHide": false,
       "packageId": "230",
       "meta": {

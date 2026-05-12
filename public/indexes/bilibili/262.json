@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "262",
   "name": "PinoQ",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/c0782e3c7169bfaf0fe59fb14917161bae4af73e.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[PinoQ_OK]"
       ],
-      "staticUrl": "assets/bilibili_emoji/262/4352.png",
+      "staticUrl": "assets/bilibili/262/4352.png",
       "isHide": false,
       "packageId": "262",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[PinoQ_爱你]"
       ],
-      "staticUrl": "assets/bilibili_emoji/262/4353.png",
+      "staticUrl": "assets/bilibili/262/4353.png",
       "isHide": false,
       "packageId": "262",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[PinoQ_乖巧]"
       ],
-      "staticUrl": "assets/bilibili_emoji/262/4354.png",
+      "staticUrl": "assets/bilibili/262/4354.png",
       "isHide": false,
       "packageId": "262",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[PinoQ_哈喽]"
       ],
-      "staticUrl": "assets/bilibili_emoji/262/4355.png",
+      "staticUrl": "assets/bilibili/262/4355.png",
       "isHide": false,
       "packageId": "262",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[PinoQ_哼]"
       ],
-      "staticUrl": "assets/bilibili_emoji/262/4356.png",
+      "staticUrl": "assets/bilibili/262/4356.png",
       "isHide": false,
       "packageId": "262",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[PinoQ_惊醒]"
       ],
-      "staticUrl": "assets/bilibili_emoji/262/4357.png",
+      "staticUrl": "assets/bilibili/262/4357.png",
       "isHide": false,
       "packageId": "262",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[PinoQ_开始吃书]"
       ],
-      "staticUrl": "assets/bilibili_emoji/262/4358.png",
+      "staticUrl": "assets/bilibili/262/4358.png",
       "isHide": false,
       "packageId": "262",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[PinoQ_哭]"
       ],
-      "staticUrl": "assets/bilibili_emoji/262/4359.png",
+      "staticUrl": "assets/bilibili/262/4359.png",
       "isHide": false,
       "packageId": "262",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[PinoQ_脸红]"
       ],
-      "staticUrl": "assets/bilibili_emoji/262/4360.png",
+      "staticUrl": "assets/bilibili/262/4360.png",
       "isHide": false,
       "packageId": "262",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[PinoQ_捏捏]"
       ],
-      "staticUrl": "assets/bilibili_emoji/262/4361.png",
+      "staticUrl": "assets/bilibili/262/4361.png",
       "isHide": false,
       "packageId": "262",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[PinoQ_什么]"
       ],
-      "staticUrl": "assets/bilibili_emoji/262/4362.png",
+      "staticUrl": "assets/bilibili/262/4362.png",
       "isHide": false,
       "packageId": "262",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[PinoQ_哇]"
       ],
-      "staticUrl": "assets/bilibili_emoji/262/4363.png",
+      "staticUrl": "assets/bilibili/262/4363.png",
       "isHide": false,
       "packageId": "262",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[PinoQ_谢谢]"
       ],
-      "staticUrl": "assets/bilibili_emoji/262/4364.png",
+      "staticUrl": "assets/bilibili/262/4364.png",
       "isHide": false,
       "packageId": "262",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[PinoQ_原地石化]"
       ],
-      "staticUrl": "assets/bilibili_emoji/262/4365.png",
+      "staticUrl": "assets/bilibili/262/4365.png",
       "isHide": false,
       "packageId": "262",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[PinoQ_在吗]"
       ],
-      "staticUrl": "assets/bilibili_emoji/262/4366.png",
+      "staticUrl": "assets/bilibili/262/4366.png",
       "isHide": false,
       "packageId": "262",
       "meta": {

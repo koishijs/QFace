@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "131",
   "name": "鹿乃",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/55c2b23a38429e38149156bfbd540694447d410f.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[鹿乃_？？？]"
       ],
-      "staticUrl": "assets/bilibili_emoji/131/2601.png",
+      "staticUrl": "assets/bilibili/131/2601.png",
       "isHide": false,
       "packageId": "131",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[鹿乃_awsl]"
       ],
-      "staticUrl": "assets/bilibili_emoji/131/2602.png",
+      "staticUrl": "assets/bilibili/131/2602.png",
       "isHide": false,
       "packageId": "131",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[鹿乃_DD斩]"
       ],
-      "staticUrl": "assets/bilibili_emoji/131/2603.png",
+      "staticUrl": "assets/bilibili/131/2603.png",
       "isHide": false,
       "packageId": "131",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[鹿乃_OK]"
       ],
-      "staticUrl": "assets/bilibili_emoji/131/2604.png",
+      "staticUrl": "assets/bilibili/131/2604.png",
       "isHide": false,
       "packageId": "131",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[鹿乃_比心]"
       ],
-      "staticUrl": "assets/bilibili_emoji/131/2605.png",
+      "staticUrl": "assets/bilibili/131/2605.png",
       "isHide": false,
       "packageId": "131",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[鹿乃_别在意]"
       ],
-      "staticUrl": "assets/bilibili_emoji/131/2606.png",
+      "staticUrl": "assets/bilibili/131/2606.png",
       "isHide": false,
       "packageId": "131",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[鹿乃_吃瓜]"
       ],
-      "staticUrl": "assets/bilibili_emoji/131/2607.png",
+      "staticUrl": "assets/bilibili/131/2607.png",
       "isHide": false,
       "packageId": "131",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[鹿乃_吃桃]"
       ],
-      "staticUrl": "assets/bilibili_emoji/131/2608.png",
+      "staticUrl": "assets/bilibili/131/2608.png",
       "isHide": false,
       "packageId": "131",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[鹿乃_打call]"
       ],
-      "staticUrl": "assets/bilibili_emoji/131/2609.png",
+      "staticUrl": "assets/bilibili/131/2609.png",
       "isHide": false,
       "packageId": "131",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[鹿乃_打扰了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/131/2610.png",
+      "staticUrl": "assets/bilibili/131/2610.png",
       "isHide": false,
       "packageId": "131",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[鹿乃_点赞]"
       ],
-      "staticUrl": "assets/bilibili_emoji/131/2611.png",
+      "staticUrl": "assets/bilibili/131/2611.png",
       "isHide": false,
       "packageId": "131",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[鹿乃_对不起]"
       ],
-      "staticUrl": "assets/bilibili_emoji/131/2612.png",
+      "staticUrl": "assets/bilibili/131/2612.png",
       "isHide": false,
       "packageId": "131",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[鹿乃_饿了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/131/2613.png",
+      "staticUrl": "assets/bilibili/131/2613.png",
       "isHide": false,
       "packageId": "131",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[鹿乃_哈哈]"
       ],
-      "staticUrl": "assets/bilibili_emoji/131/2614.png",
+      "staticUrl": "assets/bilibili/131/2614.png",
       "isHide": false,
       "packageId": "131",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[鹿乃_好吃]"
       ],
-      "staticUrl": "assets/bilibili_emoji/131/2615.png",
+      "staticUrl": "assets/bilibili/131/2615.png",
       "isHide": false,
       "packageId": "131",
       "meta": {
@@ -234,7 +234,7 @@
       "shortCodes": [
         "[鹿乃_哼歌]"
       ],
-      "staticUrl": "assets/bilibili_emoji/131/2616.png",
+      "staticUrl": "assets/bilibili/131/2616.png",
       "isHide": false,
       "packageId": "131",
       "meta": {
@@ -249,7 +249,7 @@
       "shortCodes": [
         "[鹿乃_欢迎回来]"
       ],
-      "staticUrl": "assets/bilibili_emoji/131/2617.png",
+      "staticUrl": "assets/bilibili/131/2617.png",
       "isHide": false,
       "packageId": "131",
       "meta": {
@@ -264,7 +264,7 @@
       "shortCodes": [
         "[鹿乃_加油]"
       ],
-      "staticUrl": "assets/bilibili_emoji/131/2618.png",
+      "staticUrl": "assets/bilibili/131/2618.png",
       "isHide": false,
       "packageId": "131",
       "meta": {
@@ -279,7 +279,7 @@
       "shortCodes": [
         "[鹿乃_惊]"
       ],
-      "staticUrl": "assets/bilibili_emoji/131/2619.png",
+      "staticUrl": "assets/bilibili/131/2619.png",
       "isHide": false,
       "packageId": "131",
       "meta": {
@@ -294,7 +294,7 @@
       "shortCodes": [
         "[鹿乃_买买买]"
       ],
-      "staticUrl": "assets/bilibili_emoji/131/2620.png",
+      "staticUrl": "assets/bilibili/131/2620.png",
       "isHide": false,
       "packageId": "131",
       "meta": {
@@ -309,7 +309,7 @@
       "shortCodes": [
         "[鹿乃_奇怪的知识]"
       ],
-      "staticUrl": "assets/bilibili_emoji/131/2621.png",
+      "staticUrl": "assets/bilibili/131/2621.png",
       "isHide": false,
       "packageId": "131",
       "meta": {
@@ -324,7 +324,7 @@
       "shortCodes": [
         "[鹿乃_生气]"
       ],
-      "staticUrl": "assets/bilibili_emoji/131/2622.png",
+      "staticUrl": "assets/bilibili/131/2622.png",
       "isHide": false,
       "packageId": "131",
       "meta": {
@@ -339,7 +339,7 @@
       "shortCodes": [
         "[鹿乃_晚安]"
       ],
-      "staticUrl": "assets/bilibili_emoji/131/2623.png",
+      "staticUrl": "assets/bilibili/131/2623.png",
       "isHide": false,
       "packageId": "131",
       "meta": {
@@ -354,7 +354,7 @@
       "shortCodes": [
         "[鹿乃_我回来了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/131/2624.png",
+      "staticUrl": "assets/bilibili/131/2624.png",
       "isHide": false,
       "packageId": "131",
       "meta": {
@@ -369,7 +369,7 @@
       "shortCodes": [
         "[鹿乃_喜欢]"
       ],
-      "staticUrl": "assets/bilibili_emoji/131/2625.png",
+      "staticUrl": "assets/bilibili/131/2625.png",
       "isHide": false,
       "packageId": "131",
       "meta": {
@@ -384,7 +384,7 @@
       "shortCodes": [
         "[鹿乃_邪魅一笑]"
       ],
-      "staticUrl": "assets/bilibili_emoji/131/2626.png",
+      "staticUrl": "assets/bilibili/131/2626.png",
       "isHide": false,
       "packageId": "131",
       "meta": {
@@ -399,7 +399,7 @@
       "shortCodes": [
         "[鹿乃_谢谢]"
       ],
-      "staticUrl": "assets/bilibili_emoji/131/2627.png",
+      "staticUrl": "assets/bilibili/131/2627.png",
       "isHide": false,
       "packageId": "131",
       "meta": {
@@ -414,7 +414,7 @@
       "shortCodes": [
         "[鹿乃_再见]"
       ],
-      "staticUrl": "assets/bilibili_emoji/131/2628.png",
+      "staticUrl": "assets/bilibili/131/2628.png",
       "isHide": false,
       "packageId": "131",
       "meta": {
@@ -429,7 +429,7 @@
       "shortCodes": [
         "[鹿乃_早安]"
       ],
-      "staticUrl": "assets/bilibili_emoji/131/2629.png",
+      "staticUrl": "assets/bilibili/131/2629.png",
       "isHide": false,
       "packageId": "131",
       "meta": {
@@ -444,7 +444,7 @@
       "shortCodes": [
         "[鹿乃_真的]"
       ],
-      "staticUrl": "assets/bilibili_emoji/131/2630.png",
+      "staticUrl": "assets/bilibili/131/2630.png",
       "isHide": false,
       "packageId": "131",
       "meta": {

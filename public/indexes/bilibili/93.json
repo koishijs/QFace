@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "93",
   "name": "泠鸢yousa",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/5fa6082e098402d16d58c68e441ae76e40befd2c.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[泠鸢yousa_awsl]"
       ],
-      "staticUrl": "assets/bilibili_emoji/93/2086.png",
+      "staticUrl": "assets/bilibili/93/2086.png",
       "isHide": false,
       "packageId": "93",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[泠鸢yousa_打call]"
       ],
-      "staticUrl": "assets/bilibili_emoji/93/2087.png",
+      "staticUrl": "assets/bilibili/93/2087.png",
       "isHide": false,
       "packageId": "93",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[泠鸢yousa_沉默]"
       ],
-      "staticUrl": "assets/bilibili_emoji/93/2088.png",
+      "staticUrl": "assets/bilibili/93/2088.png",
       "isHide": false,
       "packageId": "93",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[泠鸢yousa_大哭]"
       ],
-      "staticUrl": "assets/bilibili_emoji/93/2089.png",
+      "staticUrl": "assets/bilibili/93/2089.png",
       "isHide": false,
       "packageId": "93",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[泠鸢yousa_干杯]"
       ],
-      "staticUrl": "assets/bilibili_emoji/93/2090.png",
+      "staticUrl": "assets/bilibili/93/2090.png",
       "isHide": false,
       "packageId": "93",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[泠鸢yousa_好人卡]"
       ],
-      "staticUrl": "assets/bilibili_emoji/93/2091.png",
+      "staticUrl": "assets/bilibili/93/2091.png",
       "isHide": false,
       "packageId": "93",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[泠鸢yousa_加大力度]"
       ],
-      "staticUrl": "assets/bilibili_emoji/93/2092.png",
+      "staticUrl": "assets/bilibili/93/2092.png",
       "isHide": false,
       "packageId": "93",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[泠鸢yousa_滑稽]"
       ],
-      "staticUrl": "assets/bilibili_emoji/93/2093.png",
+      "staticUrl": "assets/bilibili/93/2093.png",
       "isHide": false,
       "packageId": "93",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[泠鸢yousa_请吃桃]"
       ],
-      "staticUrl": "assets/bilibili_emoji/93/2094.png",
+      "staticUrl": "assets/bilibili/93/2094.png",
       "isHide": false,
       "packageId": "93",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[泠鸢yousa_惊讶]"
       ],
-      "staticUrl": "assets/bilibili_emoji/93/2095.png",
+      "staticUrl": "assets/bilibili/93/2095.png",
       "isHide": false,
       "packageId": "93",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[泠鸢yousa_生气]"
       ],
-      "staticUrl": "assets/bilibili_emoji/93/2096.png",
+      "staticUrl": "assets/bilibili/93/2096.png",
       "isHide": false,
       "packageId": "93",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[泠鸢yousa_贴贴]"
       ],
-      "staticUrl": "assets/bilibili_emoji/93/2097.png",
+      "staticUrl": "assets/bilibili/93/2097.png",
       "isHide": false,
       "packageId": "93",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[泠鸢yousa_头晕]"
       ],
-      "staticUrl": "assets/bilibili_emoji/93/2098.png",
+      "staticUrl": "assets/bilibili/93/2098.png",
       "isHide": false,
       "packageId": "93",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[泠鸢yousa_问号]"
       ],
-      "staticUrl": "assets/bilibili_emoji/93/2099.png",
+      "staticUrl": "assets/bilibili/93/2099.png",
       "isHide": false,
       "packageId": "93",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[泠鸢yousa_真棒]"
       ],
-      "staticUrl": "assets/bilibili_emoji/93/2100.png",
+      "staticUrl": "assets/bilibili/93/2100.png",
       "isHide": false,
       "packageId": "93",
       "meta": {

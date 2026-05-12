@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "417",
   "name": "沉默寡言白河愁",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/67b43baf3c6b14b03aeb1da1c9f3e7a56442889b.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[沉默寡言白河愁_吃瓜]"
       ],
-      "staticUrl": "assets/bilibili_emoji/417/7023.png",
+      "staticUrl": "assets/bilibili/417/7023.png",
       "isHide": false,
       "packageId": "417",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[沉默寡言白河愁_呆住]"
       ],
-      "staticUrl": "assets/bilibili_emoji/417/7024.png",
+      "staticUrl": "assets/bilibili/417/7024.png",
       "isHide": false,
       "packageId": "417",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[沉默寡言白河愁_干杯]"
       ],
-      "staticUrl": "assets/bilibili_emoji/417/7025.png",
+      "staticUrl": "assets/bilibili/417/7025.png",
       "isHide": false,
       "packageId": "417",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[沉默寡言白河愁_哈哈哈哈]"
       ],
-      "staticUrl": "assets/bilibili_emoji/417/7026.png",
+      "staticUrl": "assets/bilibili/417/7026.png",
       "isHide": false,
       "packageId": "417",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[沉默寡言白河愁_好耶]"
       ],
-      "staticUrl": "assets/bilibili_emoji/417/7027.png",
+      "staticUrl": "assets/bilibili/417/7027.png",
       "isHide": false,
       "packageId": "417",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[沉默寡言白河愁_喝口茶]"
       ],
-      "staticUrl": "assets/bilibili_emoji/417/7028.png",
+      "staticUrl": "assets/bilibili/417/7028.png",
       "isHide": false,
       "packageId": "417",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[沉默寡言白河愁_加油]"
       ],
-      "staticUrl": "assets/bilibili_emoji/417/7029.png",
+      "staticUrl": "assets/bilibili/417/7029.png",
       "isHide": false,
       "packageId": "417",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[沉默寡言白河愁_骄傲]"
       ],
-      "staticUrl": "assets/bilibili_emoji/417/7030.png",
+      "staticUrl": "assets/bilibili/417/7030.png",
       "isHide": false,
       "packageId": "417",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[沉默寡言白河愁_哭哭]"
       ],
-      "staticUrl": "assets/bilibili_emoji/417/7031.png",
+      "staticUrl": "assets/bilibili/417/7031.png",
       "isHide": false,
       "packageId": "417",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[沉默寡言白河愁_酷]"
       ],
-      "staticUrl": "assets/bilibili_emoji/417/7032.png",
+      "staticUrl": "assets/bilibili/417/7032.png",
       "isHide": false,
       "packageId": "417",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[沉默寡言白河愁_迷惑]"
       ],
-      "staticUrl": "assets/bilibili_emoji/417/7033.png",
+      "staticUrl": "assets/bilibili/417/7033.png",
       "isHide": false,
       "packageId": "417",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[沉默寡言白河愁_恼]"
       ],
-      "staticUrl": "assets/bilibili_emoji/417/7034.png",
+      "staticUrl": "assets/bilibili/417/7034.png",
       "isHide": false,
       "packageId": "417",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[沉默寡言白河愁_晚安]"
       ],
-      "staticUrl": "assets/bilibili_emoji/417/7035.png",
+      "staticUrl": "assets/bilibili/417/7035.png",
       "isHide": false,
       "packageId": "417",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[沉默寡言白河愁_威胁]"
       ],
-      "staticUrl": "assets/bilibili_emoji/417/7036.png",
+      "staticUrl": "assets/bilibili/417/7036.png",
       "isHide": false,
       "packageId": "417",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[沉默寡言白河愁_委屈]"
       ],
-      "staticUrl": "assets/bilibili_emoji/417/7037.png",
+      "staticUrl": "assets/bilibili/417/7037.png",
       "isHide": false,
       "packageId": "417",
       "meta": {
@@ -234,7 +234,7 @@
       "shortCodes": [
         "[沉默寡言白河愁_呜呜呜]"
       ],
-      "staticUrl": "assets/bilibili_emoji/417/7038.png",
+      "staticUrl": "assets/bilibili/417/7038.png",
       "isHide": false,
       "packageId": "417",
       "meta": {
@@ -249,7 +249,7 @@
       "shortCodes": [
         "[沉默寡言白河愁_希望没事]"
       ],
-      "staticUrl": "assets/bilibili_emoji/417/7039.png",
+      "staticUrl": "assets/bilibili/417/7039.png",
       "isHide": false,
       "packageId": "417",
       "meta": {
@@ -264,7 +264,7 @@
       "shortCodes": [
         "[沉默寡言白河愁_疑惑]"
       ],
-      "staticUrl": "assets/bilibili_emoji/417/7040.png",
+      "staticUrl": "assets/bilibili/417/7040.png",
       "isHide": false,
       "packageId": "417",
       "meta": {
@@ -279,7 +279,7 @@
       "shortCodes": [
         "[沉默寡言白河愁_阴险]"
       ],
-      "staticUrl": "assets/bilibili_emoji/417/7041.png",
+      "staticUrl": "assets/bilibili/417/7041.png",
       "isHide": false,
       "packageId": "417",
       "meta": {
@@ -294,7 +294,7 @@
       "shortCodes": [
         "[沉默寡言白河愁_真棒]"
       ],
-      "staticUrl": "assets/bilibili_emoji/417/7042.png",
+      "staticUrl": "assets/bilibili/417/7042.png",
       "isHide": false,
       "packageId": "417",
       "meta": {

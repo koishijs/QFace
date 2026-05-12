@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "226",
   "name": "明日方舟音律联觉",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/349cabbbd0316019387291d6db1d91646b53c288.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[音律联觉_欢迎]"
       ],
-      "staticUrl": "assets/bilibili_emoji/226/3955.png",
+      "staticUrl": "assets/bilibili/226/3955.png",
       "isHide": false,
       "packageId": "226",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[音律联觉_赞]"
       ],
-      "staticUrl": "assets/bilibili_emoji/226/3956.png",
+      "staticUrl": "assets/bilibili/226/3956.png",
       "isHide": false,
       "packageId": "226",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[音律联觉_真的吗]"
       ],
-      "staticUrl": "assets/bilibili_emoji/226/3957.png",
+      "staticUrl": "assets/bilibili/226/3957.png",
       "isHide": false,
       "packageId": "226",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[音律联觉_期待]"
       ],
-      "staticUrl": "assets/bilibili_emoji/226/3958.png",
+      "staticUrl": "assets/bilibili/226/3958.png",
       "isHide": false,
       "packageId": "226",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[音律联觉_生气了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/226/3959.png",
+      "staticUrl": "assets/bilibili/226/3959.png",
       "isHide": false,
       "packageId": "226",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[音律联觉_看手机]"
       ],
-      "staticUrl": "assets/bilibili_emoji/226/3960.png",
+      "staticUrl": "assets/bilibili/226/3960.png",
       "isHide": false,
       "packageId": "226",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[音律联觉_哭哭]"
       ],
-      "staticUrl": "assets/bilibili_emoji/226/3961.png",
+      "staticUrl": "assets/bilibili/226/3961.png",
       "isHide": false,
       "packageId": "226",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[音律联觉_吃瓜]"
       ],
-      "staticUrl": "assets/bilibili_emoji/226/3962.png",
+      "staticUrl": "assets/bilibili/226/3962.png",
       "isHide": false,
       "packageId": "226",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[音律联觉_疑惑]"
       ],
-      "staticUrl": "assets/bilibili_emoji/226/3963.png",
+      "staticUrl": "assets/bilibili/226/3963.png",
       "isHide": false,
       "packageId": "226",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[音律联觉_摇滚起来]"
       ],
-      "staticUrl": "assets/bilibili_emoji/226/3964.png",
+      "staticUrl": "assets/bilibili/226/3964.png",
       "isHide": false,
       "packageId": "226",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[音律联觉_和善]"
       ],
-      "staticUrl": "assets/bilibili_emoji/226/3965.png",
+      "staticUrl": "assets/bilibili/226/3965.png",
       "isHide": false,
       "packageId": "226",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[音律联觉_警告]"
       ],
-      "staticUrl": "assets/bilibili_emoji/226/3966.png",
+      "staticUrl": "assets/bilibili/226/3966.png",
       "isHide": false,
       "packageId": "226",
       "meta": {

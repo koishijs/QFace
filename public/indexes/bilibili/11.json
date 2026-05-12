@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "11",
   "name": "请吃红小豆吧！",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/d7f455d638152737a3ed4dacefb9e7b68d8046e0.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[请吃红小豆吧！_wow]"
       ],
-      "staticUrl": "assets/bilibili_emoji/11/228.png",
+      "staticUrl": "assets/bilibili/11/228.png",
       "isHide": false,
       "packageId": "11",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[请吃红小豆吧！_吃包]"
       ],
-      "staticUrl": "assets/bilibili_emoji/11/229.png",
+      "staticUrl": "assets/bilibili/11/229.png",
       "isHide": false,
       "packageId": "11",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[请吃红小豆吧！_倒地]"
       ],
-      "staticUrl": "assets/bilibili_emoji/11/230.png",
+      "staticUrl": "assets/bilibili/11/230.png",
       "isHide": false,
       "packageId": "11",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[请吃红小豆吧！_盯]"
       ],
-      "staticUrl": "assets/bilibili_emoji/11/231.png",
+      "staticUrl": "assets/bilibili/11/231.png",
       "isHide": false,
       "packageId": "11",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[请吃红小豆吧！_翻白眼]"
       ],
-      "staticUrl": "assets/bilibili_emoji/11/232.png",
+      "staticUrl": "assets/bilibili/11/232.png",
       "isHide": false,
       "packageId": "11",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[请吃红小豆吧！_好难]"
       ],
-      "staticUrl": "assets/bilibili_emoji/11/233.png",
+      "staticUrl": "assets/bilibili/11/233.png",
       "isHide": false,
       "packageId": "11",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[请吃红小豆吧！_喝水]"
       ],
-      "staticUrl": "assets/bilibili_emoji/11/234.png",
+      "staticUrl": "assets/bilibili/11/234.png",
       "isHide": false,
       "packageId": "11",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[请吃红小豆吧！_嘿嘿嘿]"
       ],
-      "staticUrl": "assets/bilibili_emoji/11/235.png",
+      "staticUrl": "assets/bilibili/11/235.png",
       "isHide": false,
       "packageId": "11",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[请吃红小豆吧！_开心]"
       ],
-      "staticUrl": "assets/bilibili_emoji/11/236.png",
+      "staticUrl": "assets/bilibili/11/236.png",
       "isHide": false,
       "packageId": "11",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[请吃红小豆吧！_哭唧唧]"
       ],
-      "staticUrl": "assets/bilibili_emoji/11/237.png",
+      "staticUrl": "assets/bilibili/11/237.png",
       "isHide": false,
       "packageId": "11",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[请吃红小豆吧！_略略略]"
       ],
-      "staticUrl": "assets/bilibili_emoji/11/238.png",
+      "staticUrl": "assets/bilibili/11/238.png",
       "isHide": false,
       "packageId": "11",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[请吃红小豆吧！_么么]"
       ],
-      "staticUrl": "assets/bilibili_emoji/11/239.png",
+      "staticUrl": "assets/bilibili/11/239.png",
       "isHide": false,
       "packageId": "11",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[请吃红小豆吧！_哦]"
       ],
-      "staticUrl": "assets/bilibili_emoji/11/240.png",
+      "staticUrl": "assets/bilibili/11/240.png",
       "isHide": false,
       "packageId": "11",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[请吃红小豆吧！_撒娇]"
       ],
-      "staticUrl": "assets/bilibili_emoji/11/241.png",
+      "staticUrl": "assets/bilibili/11/241.png",
       "isHide": false,
       "packageId": "11",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[请吃红小豆吧！_受到惊吓]"
       ],
-      "staticUrl": "assets/bilibili_emoji/11/242.png",
+      "staticUrl": "assets/bilibili/11/242.png",
       "isHide": false,
       "packageId": "11",
       "meta": {
@@ -234,7 +234,7 @@
       "shortCodes": [
         "[请吃红小豆吧！_睡觉]"
       ],
-      "staticUrl": "assets/bilibili_emoji/11/243.png",
+      "staticUrl": "assets/bilibili/11/243.png",
       "isHide": false,
       "packageId": "11",
       "meta": {
@@ -249,7 +249,7 @@
       "shortCodes": [
         "[请吃红小豆吧！_问号脸]"
       ],
-      "staticUrl": "assets/bilibili_emoji/11/244.png",
+      "staticUrl": "assets/bilibili/11/244.png",
       "isHide": false,
       "packageId": "11",
       "meta": {
@@ -264,7 +264,7 @@
       "shortCodes": [
         "[请吃红小豆吧！_耶耶耶]"
       ],
-      "staticUrl": "assets/bilibili_emoji/11/245.png",
+      "staticUrl": "assets/bilibili/11/245.png",
       "isHide": false,
       "packageId": "11",
       "meta": {
@@ -279,7 +279,7 @@
       "shortCodes": [
         "[请吃红小豆吧！_一脸懵逼]"
       ],
-      "staticUrl": "assets/bilibili_emoji/11/246.png",
+      "staticUrl": "assets/bilibili/11/246.png",
       "isHide": false,
       "packageId": "11",
       "meta": {
@@ -294,7 +294,7 @@
       "shortCodes": [
         "[请吃红小豆吧！_眨眼]"
       ],
-      "staticUrl": "assets/bilibili_emoji/11/247.png",
+      "staticUrl": "assets/bilibili/11/247.png",
       "isHide": false,
       "packageId": "11",
       "meta": {

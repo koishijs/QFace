@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "480",
   "name": "梦音茶糯",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/30c0b4605aa3299a84d869bd1644472e6325ddf1.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[梦音茶糯_？？？]"
       ],
-      "staticUrl": "assets/bilibili_emoji/480/8491.png",
+      "staticUrl": "assets/bilibili/480/8491.png",
       "isHide": false,
       "packageId": "480",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[梦音茶糯_mua]"
       ],
-      "staticUrl": "assets/bilibili_emoji/480/8492.png",
+      "staticUrl": "assets/bilibili/480/8492.png",
       "isHide": false,
       "packageId": "480",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[梦音茶糯_NO]"
       ],
-      "staticUrl": "assets/bilibili_emoji/480/8493.png",
+      "staticUrl": "assets/bilibili/480/8493.png",
       "isHide": false,
       "packageId": "480",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[梦音茶糯_绷不住了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/480/8494.png",
+      "staticUrl": "assets/bilibili/480/8494.png",
       "isHide": false,
       "packageId": "480",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[梦音茶糯_超凶]"
       ],
-      "staticUrl": "assets/bilibili_emoji/480/8495.png",
+      "staticUrl": "assets/bilibili/480/8495.png",
       "isHide": false,
       "packageId": "480",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[梦音茶糯_吃撑]"
       ],
-      "staticUrl": "assets/bilibili_emoji/480/8496.png",
+      "staticUrl": "assets/bilibili/480/8496.png",
       "isHide": false,
       "packageId": "480",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[梦音茶糯_恭喜]"
       ],
-      "staticUrl": "assets/bilibili_emoji/480/8497.png",
+      "staticUrl": "assets/bilibili/480/8497.png",
       "isHide": false,
       "packageId": "480",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[梦音茶糯_好听]"
       ],
-      "staticUrl": "assets/bilibili_emoji/480/8498.png",
+      "staticUrl": "assets/bilibili/480/8498.png",
       "isHide": false,
       "packageId": "480",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[梦音茶糯_好耶]"
       ],
-      "staticUrl": "assets/bilibili_emoji/480/8499.png",
+      "staticUrl": "assets/bilibili/480/8499.png",
       "isHide": false,
       "packageId": "480",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[梦音茶糯_泪目]"
       ],
-      "staticUrl": "assets/bilibili_emoji/480/8500.png",
+      "staticUrl": "assets/bilibili/480/8500.png",
       "isHide": false,
       "packageId": "480",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[梦音茶糯_摸鱼]"
       ],
-      "staticUrl": "assets/bilibili_emoji/480/8501.png",
+      "staticUrl": "assets/bilibili/480/8501.png",
       "isHide": false,
       "packageId": "480",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[梦音茶糯_期待]"
       ],
-      "staticUrl": "assets/bilibili_emoji/480/8502.png",
+      "staticUrl": "assets/bilibili/480/8502.png",
       "isHide": false,
       "packageId": "480",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[梦音茶糯_三连了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/480/8503.png",
+      "staticUrl": "assets/bilibili/480/8503.png",
       "isHide": false,
       "packageId": "480",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[梦音茶糯_晚安]"
       ],
-      "staticUrl": "assets/bilibili_emoji/480/8504.png",
+      "staticUrl": "assets/bilibili/480/8504.png",
       "isHide": false,
       "packageId": "480",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[梦音茶糯_无语]"
       ],
-      "staticUrl": "assets/bilibili_emoji/480/8505.png",
+      "staticUrl": "assets/bilibili/480/8505.png",
       "isHide": false,
       "packageId": "480",
       "meta": {
@@ -234,7 +234,7 @@
       "shortCodes": [
         "[梦音茶糯_屑！]"
       ],
-      "staticUrl": "assets/bilibili_emoji/480/8506.png",
+      "staticUrl": "assets/bilibili/480/8506.png",
       "isHide": false,
       "packageId": "480",
       "meta": {
@@ -249,7 +249,7 @@
       "shortCodes": [
         "[梦音茶糯_辛苦了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/480/8507.png",
+      "staticUrl": "assets/bilibili/480/8507.png",
       "isHide": false,
       "packageId": "480",
       "meta": {
@@ -264,7 +264,7 @@
       "shortCodes": [
         "[梦音茶糯_摇晃菇]"
       ],
-      "staticUrl": "assets/bilibili_emoji/480/8508.png",
+      "staticUrl": "assets/bilibili/480/8508.png",
       "isHide": false,
       "packageId": "480",
       "meta": {
@@ -279,7 +279,7 @@
       "shortCodes": [
         "[梦音茶糯_优雅]"
       ],
-      "staticUrl": "assets/bilibili_emoji/480/8509.png",
+      "staticUrl": "assets/bilibili/480/8509.png",
       "isHide": false,
       "packageId": "480",
       "meta": {
@@ -294,7 +294,7 @@
       "shortCodes": [
         "[梦音茶糯_震撼]"
       ],
-      "staticUrl": "assets/bilibili_emoji/480/8510.png",
+      "staticUrl": "assets/bilibili/480/8510.png",
       "isHide": false,
       "packageId": "480",
       "meta": {

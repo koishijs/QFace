@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "227",
   "name": "乙女音",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/0b45ffa789e6fb2d8dc6dadf12c7d922a476e5bd.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[乙女音_5000兆円]"
       ],
-      "staticUrl": "assets/bilibili_emoji/227/3970.png",
+      "staticUrl": "assets/bilibili/227/3970.png",
       "isHide": false,
       "packageId": "227",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[乙女音_喜欢]"
       ],
-      "staticUrl": "assets/bilibili_emoji/227/3981.png",
+      "staticUrl": "assets/bilibili/227/3981.png",
       "isHide": false,
       "packageId": "227",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[乙女音_好人]"
       ],
-      "staticUrl": "assets/bilibili_emoji/227/3973.png",
+      "staticUrl": "assets/bilibili/227/3973.png",
       "isHide": false,
       "packageId": "227",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[乙女音_谢谢]"
       ],
-      "staticUrl": "assets/bilibili_emoji/227/3979.png",
+      "staticUrl": "assets/bilibili/227/3979.png",
       "isHide": false,
       "packageId": "227",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[乙女音_好耶]"
       ],
-      "staticUrl": "assets/bilibili_emoji/227/3974.png",
+      "staticUrl": "assets/bilibili/227/3974.png",
       "isHide": false,
       "packageId": "227",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[乙女音_很行]"
       ],
-      "staticUrl": "assets/bilibili_emoji/227/3975.png",
+      "staticUrl": "assets/bilibili/227/3975.png",
       "isHide": false,
       "packageId": "227",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[乙女音_理解]"
       ],
-      "staticUrl": "assets/bilibili_emoji/227/3976.png",
+      "staticUrl": "assets/bilibili/227/3976.png",
       "isHide": false,
       "packageId": "227",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[乙女音_柠檬]"
       ],
-      "staticUrl": "assets/bilibili_emoji/227/3977.png",
+      "staticUrl": "assets/bilibili/227/3977.png",
       "isHide": false,
       "packageId": "227",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[乙女音_对不起]"
       ],
-      "staticUrl": "assets/bilibili_emoji/227/3972.png",
+      "staticUrl": "assets/bilibili/227/3972.png",
       "isHide": false,
       "packageId": "227",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[乙女音_打咩]"
       ],
-      "staticUrl": "assets/bilibili_emoji/227/3971.png",
+      "staticUrl": "assets/bilibili/227/3971.png",
       "isHide": false,
       "packageId": "227",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[乙女音_生气]"
       ],
-      "staticUrl": "assets/bilibili_emoji/227/3978.png",
+      "staticUrl": "assets/bilibili/227/3978.png",
       "isHide": false,
       "packageId": "227",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[乙女音_晚安]"
       ],
-      "staticUrl": "assets/bilibili_emoji/227/3980.png",
+      "staticUrl": "assets/bilibili/227/3980.png",
       "isHide": false,
       "packageId": "227",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[乙女音_嘻嘻]"
       ],
-      "staticUrl": "assets/bilibili_emoji/227/3982.png",
+      "staticUrl": "assets/bilibili/227/3982.png",
       "isHide": false,
       "packageId": "227",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[乙女音_原来如此]"
       ],
-      "staticUrl": "assets/bilibili_emoji/227/3983.png",
+      "staticUrl": "assets/bilibili/227/3983.png",
       "isHide": false,
       "packageId": "227",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[乙女音_震撼]"
       ],
-      "staticUrl": "assets/bilibili_emoji/227/3984.png",
+      "staticUrl": "assets/bilibili/227/3984.png",
       "isHide": false,
       "packageId": "227",
       "meta": {

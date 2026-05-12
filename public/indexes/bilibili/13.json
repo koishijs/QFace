@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "13",
   "name": "星梦手记",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/c4a6081c03495a969ad3ea4b8630d1bda9e6c87f.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[星梦手记_吃瓜]"
       ],
-      "staticUrl": "assets/bilibili_emoji/13/263.png",
+      "staticUrl": "assets/bilibili/13/263.png",
       "isHide": false,
       "packageId": "13",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[星梦手记_薇薇惊吓]"
       ],
-      "staticUrl": "assets/bilibili_emoji/13/264.png",
+      "staticUrl": "assets/bilibili/13/264.png",
       "isHide": false,
       "packageId": "13",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[星梦手记_惺梛认真]"
       ],
-      "staticUrl": "assets/bilibili_emoji/13/265.png",
+      "staticUrl": "assets/bilibili/13/265.png",
       "isHide": false,
       "packageId": "13",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[星梦手记_石化]"
       ],
-      "staticUrl": "assets/bilibili_emoji/13/266.png",
+      "staticUrl": "assets/bilibili/13/266.png",
       "isHide": false,
       "packageId": "13",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[星梦手记_问号]"
       ],
-      "staticUrl": "assets/bilibili_emoji/13/267.png",
+      "staticUrl": "assets/bilibili/13/267.png",
       "isHide": false,
       "packageId": "13",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[星梦手记_卖萌]"
       ],
-      "staticUrl": "assets/bilibili_emoji/13/268.png",
+      "staticUrl": "assets/bilibili/13/268.png",
       "isHide": false,
       "packageId": "13",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[星梦手记_尴尬]"
       ],
-      "staticUrl": "assets/bilibili_emoji/13/269.png",
+      "staticUrl": "assets/bilibili/13/269.png",
       "isHide": false,
       "packageId": "13",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[星梦手记_要抱]"
       ],
-      "staticUrl": "assets/bilibili_emoji/13/270.png",
+      "staticUrl": "assets/bilibili/13/270.png",
       "isHide": false,
       "packageId": "13",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[星梦手记_未来认真]"
       ],
-      "staticUrl": "assets/bilibili_emoji/13/271.png",
+      "staticUrl": "assets/bilibili/13/271.png",
       "isHide": false,
       "packageId": "13",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[星梦手记_摊手]"
       ],
-      "staticUrl": "assets/bilibili_emoji/13/272.png",
+      "staticUrl": "assets/bilibili/13/272.png",
       "isHide": false,
       "packageId": "13",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[星梦手记_委屈]"
       ],
-      "staticUrl": "assets/bilibili_emoji/13/273.png",
+      "staticUrl": "assets/bilibili/13/273.png",
       "isHide": false,
       "packageId": "13",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[星梦手记_没钱]"
       ],
-      "staticUrl": "assets/bilibili_emoji/13/275.png",
+      "staticUrl": "assets/bilibili/13/275.png",
       "isHide": false,
       "packageId": "13",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[星梦手记_无辜]"
       ],
-      "staticUrl": "assets/bilibili_emoji/13/276.png",
+      "staticUrl": "assets/bilibili/13/276.png",
       "isHide": false,
       "packageId": "13",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[星梦手记_弃疗]"
       ],
-      "staticUrl": "assets/bilibili_emoji/13/277.png",
+      "staticUrl": "assets/bilibili/13/277.png",
       "isHide": false,
       "packageId": "13",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[星梦手记_雨照惊吓]"
       ],
-      "staticUrl": "assets/bilibili_emoji/13/278.png",
+      "staticUrl": "assets/bilibili/13/278.png",
       "isHide": false,
       "packageId": "13",
       "meta": {

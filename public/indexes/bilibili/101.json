@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "101",
   "name": "洛天依8th生日纪念",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/f73b23dfef03618e1085507f248f70342c62b203.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[洛天依_goodjob]"
       ],
-      "staticUrl": "assets/bilibili_emoji/101/2202.png",
+      "staticUrl": "assets/bilibili/101/2202.png",
       "isHide": false,
       "packageId": "101",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[洛天依_啊这]"
       ],
-      "staticUrl": "assets/bilibili_emoji/101/2203.png",
+      "staticUrl": "assets/bilibili/101/2203.png",
       "isHide": false,
       "packageId": "101",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[洛天依_爱你]"
       ],
-      "staticUrl": "assets/bilibili_emoji/101/2204.png",
+      "staticUrl": "assets/bilibili/101/2204.png",
       "isHide": false,
       "packageId": "101",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[洛天依_嘲笑]"
       ],
-      "staticUrl": "assets/bilibili_emoji/101/2205.png",
+      "staticUrl": "assets/bilibili/101/2205.png",
       "isHide": false,
       "packageId": "101",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[洛天依_吃瓜]"
       ],
-      "staticUrl": "assets/bilibili_emoji/101/2206.png",
+      "staticUrl": "assets/bilibili/101/2206.png",
       "isHide": false,
       "packageId": "101",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[洛天依_害羞]"
       ],
-      "staticUrl": "assets/bilibili_emoji/101/2207.png",
+      "staticUrl": "assets/bilibili/101/2207.png",
       "isHide": false,
       "packageId": "101",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[洛天依_捏捏]"
       ],
-      "staticUrl": "assets/bilibili_emoji/101/2208.png",
+      "staticUrl": "assets/bilibili/101/2208.png",
       "isHide": false,
       "packageId": "101",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[洛天依_恰柠檬]"
       ],
-      "staticUrl": "assets/bilibili_emoji/101/2209.png",
+      "staticUrl": "assets/bilibili/101/2209.png",
       "isHide": false,
       "packageId": "101",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[洛天依_耶]"
       ],
-      "staticUrl": "assets/bilibili_emoji/101/2210.png",
+      "staticUrl": "assets/bilibili/101/2210.png",
       "isHide": false,
       "packageId": "101",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[洛天依_震惊]"
       ],
-      "staticUrl": "assets/bilibili_emoji/101/2211.png",
+      "staticUrl": "assets/bilibili/101/2211.png",
       "isHide": false,
       "packageId": "101",
       "meta": {

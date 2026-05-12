@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "111",
   "name": "约战：精灵再临",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/0d59fffd4e1ae5eacbcb716bc551a6ae64e61976.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[约战_咕咕咕]"
       ],
-      "staticUrl": "assets/bilibili_emoji/111/2342.png",
+      "staticUrl": "assets/bilibili/111/2342.png",
       "isHide": false,
       "packageId": "111",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[约战_抱抱]"
       ],
-      "staticUrl": "assets/bilibili_emoji/111/2343.png",
+      "staticUrl": "assets/bilibili/111/2343.png",
       "isHide": false,
       "packageId": "111",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[约战_优秀]"
       ],
-      "staticUrl": "assets/bilibili_emoji/111/2344.png",
+      "staticUrl": "assets/bilibili/111/2344.png",
       "isHide": false,
       "packageId": "111",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[约战_哈哈哈]"
       ],
-      "staticUrl": "assets/bilibili_emoji/111/2345.png",
+      "staticUrl": "assets/bilibili/111/2345.png",
       "isHide": false,
       "packageId": "111",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[约战_哼]"
       ],
-      "staticUrl": "assets/bilibili_emoji/111/2346.png",
+      "staticUrl": "assets/bilibili/111/2346.png",
       "isHide": false,
       "packageId": "111",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[约战_看什么]"
       ],
-      "staticUrl": "assets/bilibili_emoji/111/2347.png",
+      "staticUrl": "assets/bilibili/111/2347.png",
       "isHide": false,
       "packageId": "111",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[约战_嘲讽]"
       ],
-      "staticUrl": "assets/bilibili_emoji/111/2348.png",
+      "staticUrl": "assets/bilibili/111/2348.png",
       "isHide": false,
       "packageId": "111",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[约战_爱你]"
       ],
-      "staticUrl": "assets/bilibili_emoji/111/2349.png",
+      "staticUrl": "assets/bilibili/111/2349.png",
       "isHide": false,
       "packageId": "111",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[约战_OTL]"
       ],
-      "staticUrl": "assets/bilibili_emoji/111/2350.png",
+      "staticUrl": "assets/bilibili/111/2350.png",
       "isHide": false,
       "packageId": "111",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[约战_谢谢]"
       ],
-      "staticUrl": "assets/bilibili_emoji/111/2351.png",
+      "staticUrl": "assets/bilibili/111/2351.png",
       "isHide": false,
       "packageId": "111",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[约战_暗中观察]"
       ],
-      "staticUrl": "assets/bilibili_emoji/111/2352.png",
+      "staticUrl": "assets/bilibili/111/2352.png",
       "isHide": false,
       "packageId": "111",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[约战_怪我咯]"
       ],
-      "staticUrl": "assets/bilibili_emoji/111/2353.png",
+      "staticUrl": "assets/bilibili/111/2353.png",
       "isHide": false,
       "packageId": "111",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[约战_嗯嗯]"
       ],
-      "staticUrl": "assets/bilibili_emoji/111/2354.png",
+      "staticUrl": "assets/bilibili/111/2354.png",
       "isHide": false,
       "packageId": "111",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[约战_盯]"
       ],
-      "staticUrl": "assets/bilibili_emoji/111/2355.png",
+      "staticUrl": "assets/bilibili/111/2355.png",
       "isHide": false,
       "packageId": "111",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[约战_没关系]"
       ],
-      "staticUrl": "assets/bilibili_emoji/111/2356.png",
+      "staticUrl": "assets/bilibili/111/2356.png",
       "isHide": false,
       "packageId": "111",
       "meta": {
@@ -234,7 +234,7 @@
       "shortCodes": [
         "[约战_晚安]"
       ],
-      "staticUrl": "assets/bilibili_emoji/111/2357.png",
+      "staticUrl": "assets/bilibili/111/2357.png",
       "isHide": false,
       "packageId": "111",
       "meta": {

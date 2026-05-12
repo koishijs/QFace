@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "118",
   "name": "琉绮Ruki",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/eb932b50446eb40bd867b5c4545d5a4016257dca.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[琉绮Ruki_？？？]"
       ],
-      "staticUrl": "assets/bilibili_emoji/118/2442.png",
+      "staticUrl": "assets/bilibili/118/2442.png",
       "isHide": false,
       "packageId": "118",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[琉绮Ruki_不是吧]"
       ],
-      "staticUrl": "assets/bilibili_emoji/118/2443.png",
+      "staticUrl": "assets/bilibili/118/2443.png",
       "isHide": false,
       "packageId": "118",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[琉绮Ruki_吃瓜]"
       ],
-      "staticUrl": "assets/bilibili_emoji/118/2444.png",
+      "staticUrl": "assets/bilibili/118/2444.png",
       "isHide": false,
       "packageId": "118",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[琉绮Ruki_刺激]"
       ],
-      "staticUrl": "assets/bilibili_emoji/118/2445.png",
+      "staticUrl": "assets/bilibili/118/2445.png",
       "isHide": false,
       "packageId": "118",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[琉绮Ruki_害羞]"
       ],
-      "staticUrl": "assets/bilibili_emoji/118/2446.png",
+      "staticUrl": "assets/bilibili/118/2446.png",
       "isHide": false,
       "packageId": "118",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[琉绮Ruki_惊呆惹]"
       ],
-      "staticUrl": "assets/bilibili_emoji/118/2447.png",
+      "staticUrl": "assets/bilibili/118/2447.png",
       "isHide": false,
       "packageId": "118",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[琉绮Ruki_哭哭]"
       ],
-      "staticUrl": "assets/bilibili_emoji/118/2448.png",
+      "staticUrl": "assets/bilibili/118/2448.png",
       "isHide": false,
       "packageId": "118",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[琉绮Ruki_气鼓鼓]"
       ],
-      "staticUrl": "assets/bilibili_emoji/118/2449.png",
+      "staticUrl": "assets/bilibili/118/2449.png",
       "isHide": false,
       "packageId": "118",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[琉绮Ruki_身体被掏空]"
       ],
-      "staticUrl": "assets/bilibili_emoji/118/2450.png",
+      "staticUrl": "assets/bilibili/118/2450.png",
       "isHide": false,
       "packageId": "118",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[琉绮Ruki_思考中]"
       ],
-      "staticUrl": "assets/bilibili_emoji/118/2451.png",
+      "staticUrl": "assets/bilibili/118/2451.png",
       "isHide": false,
       "packageId": "118",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[琉绮Ruki_哇哦]"
       ],
-      "staticUrl": "assets/bilibili_emoji/118/2452.png",
+      "staticUrl": "assets/bilibili/118/2452.png",
       "isHide": false,
       "packageId": "118",
       "meta": {

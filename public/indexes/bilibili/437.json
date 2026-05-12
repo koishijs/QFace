@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "437",
   "name": "夏日音乐会",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/7b0fd5b356d577b0e5a2ea7e438c1d522f49a0fe.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[夏日音乐会_放烟花]"
       ],
-      "staticUrl": "assets/bilibili_emoji/437/7582.png",
+      "staticUrl": "assets/bilibili/437/7582.png",
       "isHide": false,
       "packageId": "437",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[夏日音乐会_钢琴]"
       ],
-      "staticUrl": "assets/bilibili_emoji/437/7583.png",
+      "staticUrl": "assets/bilibili/437/7583.png",
       "isHide": false,
       "packageId": "437",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[夏日音乐会_话筒]"
       ],
-      "staticUrl": "assets/bilibili_emoji/437/7584.png",
+      "staticUrl": "assets/bilibili/437/7584.png",
       "isHide": false,
       "packageId": "437",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[夏日音乐会_吉他]"
       ],
-      "staticUrl": "assets/bilibili_emoji/437/7585.png",
+      "staticUrl": "assets/bilibili/437/7585.png",
       "isHide": false,
       "packageId": "437",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[夏日音乐会_架子鼓]"
       ],
-      "staticUrl": "assets/bilibili_emoji/437/7586.png",
+      "staticUrl": "assets/bilibili/437/7586.png",
       "isHide": false,
       "packageId": "437",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[夏日音乐会_美妙音符]"
       ],
-      "staticUrl": "assets/bilibili_emoji/437/7587.png",
+      "staticUrl": "assets/bilibili/437/7587.png",
       "isHide": false,
       "packageId": "437",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[夏日音乐会_手风琴]"
       ],
-      "staticUrl": "assets/bilibili_emoji/437/7588.png",
+      "staticUrl": "assets/bilibili/437/7588.png",
       "isHide": false,
       "packageId": "437",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[夏日音乐会_小号]"
       ],
-      "staticUrl": "assets/bilibili_emoji/437/7589.png",
+      "staticUrl": "assets/bilibili/437/7589.png",
       "isHide": false,
       "packageId": "437",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[夏日音乐会_小提琴]"
       ],
-      "staticUrl": "assets/bilibili_emoji/437/7590.png",
+      "staticUrl": "assets/bilibili/437/7590.png",
       "isHide": false,
       "packageId": "437",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[夏日音乐会_奏乐]"
       ],
-      "staticUrl": "assets/bilibili_emoji/437/7591.png",
+      "staticUrl": "assets/bilibili/437/7591.png",
       "isHide": false,
       "packageId": "437",
       "meta": {

@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "434",
   "name": "沙滩泳池派对",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/db5c0b9a1fc961e1e81eefef8ab2f667c24fc9cf.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[沙滩泳池派对_冲浪]"
       ],
-      "staticUrl": "assets/bilibili_emoji/434/7552.png",
+      "staticUrl": "assets/bilibili/434/7552.png",
       "isHide": false,
       "packageId": "434",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[沙滩泳池派对_干杯]"
       ],
-      "staticUrl": "assets/bilibili_emoji/434/7553.png",
+      "staticUrl": "assets/bilibili/434/7553.png",
       "isHide": false,
       "packageId": "434",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[沙滩泳池派对_咕噜咕噜]"
       ],
-      "staticUrl": "assets/bilibili_emoji/434/7554.png",
+      "staticUrl": "assets/bilibili/434/7554.png",
       "isHide": false,
       "packageId": "434",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[沙滩泳池派对_来玩水呀]"
       ],
-      "staticUrl": "assets/bilibili_emoji/434/7555.png",
+      "staticUrl": "assets/bilibili/434/7555.png",
       "isHide": false,
       "packageId": "434",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[沙滩泳池派对_潜水]"
       ],
-      "staticUrl": "assets/bilibili_emoji/434/7556.png",
+      "staticUrl": "assets/bilibili/434/7556.png",
       "isHide": false,
       "packageId": "434",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[沙滩泳池派对_球球啦]"
       ],
-      "staticUrl": "assets/bilibili_emoji/434/7557.png",
+      "staticUrl": "assets/bilibili/434/7557.png",
       "isHide": false,
       "packageId": "434",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[沙滩泳池派对_沙雕]"
       ],
-      "staticUrl": "assets/bilibili_emoji/434/7558.png",
+      "staticUrl": "assets/bilibili/434/7558.png",
       "isHide": false,
       "packageId": "434",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[沙滩泳池派对_沙滩鞋]"
       ],
-      "staticUrl": "assets/bilibili_emoji/434/7559.png",
+      "staticUrl": "assets/bilibili/434/7559.png",
       "isHide": false,
       "packageId": "434",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[沙滩泳池派对_水枪]"
       ],
-      "staticUrl": "assets/bilibili_emoji/434/7560.png",
+      "staticUrl": "assets/bilibili/434/7560.png",
       "isHide": false,
       "packageId": "434",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[沙滩泳池派对_歇会儿]"
       ],
-      "staticUrl": "assets/bilibili_emoji/434/7561.png",
+      "staticUrl": "assets/bilibili/434/7561.png",
       "isHide": false,
       "packageId": "434",
       "meta": {

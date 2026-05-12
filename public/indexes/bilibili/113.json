@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "113",
   "name": "神楽Mea",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/7f338fa47ac3040b84ea0bc7e47b5d5f55e30727.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[神楽Mea_拜托拜托]"
       ],
-      "staticUrl": "assets/bilibili_emoji/113/2375.png",
+      "staticUrl": "assets/bilibili/113/2375.png",
       "isHide": false,
       "packageId": "113",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[神楽Mea_不可以]"
       ],
-      "staticUrl": "assets/bilibili_emoji/113/2376.png",
+      "staticUrl": "assets/bilibili/113/2376.png",
       "isHide": false,
       "packageId": "113",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[神楽Mea_给我钱]"
       ],
-      "staticUrl": "assets/bilibili_emoji/113/2377.png",
+      "staticUrl": "assets/bilibili/113/2377.png",
       "isHide": false,
       "packageId": "113",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[神楽Mea_哈哈哈]"
       ],
-      "staticUrl": "assets/bilibili_emoji/113/2378.png",
+      "staticUrl": "assets/bilibili/113/2378.png",
       "isHide": false,
       "packageId": "113",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[神楽Mea_哭给你看]"
       ],
-      "staticUrl": "assets/bilibili_emoji/113/2379.png",
+      "staticUrl": "assets/bilibili/113/2379.png",
       "isHide": false,
       "packageId": "113",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[神楽Mea_理解一下]"
       ],
-      "staticUrl": "assets/bilibili_emoji/113/2380.png",
+      "staticUrl": "assets/bilibili/113/2380.png",
       "isHide": false,
       "packageId": "113",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[神楽Mea_略略略]"
       ],
-      "staticUrl": "assets/bilibili_emoji/113/2381.png",
+      "staticUrl": "assets/bilibili/113/2381.png",
       "isHide": false,
       "packageId": "113",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[神楽Mea_啾咪]"
       ],
-      "staticUrl": "assets/bilibili_emoji/113/2382.png",
+      "staticUrl": "assets/bilibili/113/2382.png",
       "isHide": false,
       "packageId": "113",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[神楽Mea_咩]"
       ],
-      "staticUrl": "assets/bilibili_emoji/113/2383.png",
+      "staticUrl": "assets/bilibili/113/2383.png",
       "isHide": false,
       "packageId": "113",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[神楽Mea_你很可爱]"
       ],
-      "staticUrl": "assets/bilibili_emoji/113/2384.png",
+      "staticUrl": "assets/bilibili/113/2384.png",
       "isHide": false,
       "packageId": "113",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[神楽Mea_不满么]"
       ],
-      "staticUrl": "assets/bilibili_emoji/113/2385.png",
+      "staticUrl": "assets/bilibili/113/2385.png",
       "isHide": false,
       "packageId": "113",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[神楽Mea_我错了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/113/2386.png",
+      "staticUrl": "assets/bilibili/113/2386.png",
       "isHide": false,
       "packageId": "113",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[神楽Mea_嘲讽]"
       ],
-      "staticUrl": "assets/bilibili_emoji/113/2387.png",
+      "staticUrl": "assets/bilibili/113/2387.png",
       "isHide": false,
       "packageId": "113",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[神楽Mea_kimo]"
       ],
-      "staticUrl": "assets/bilibili_emoji/113/2388.png",
+      "staticUrl": "assets/bilibili/113/2388.png",
       "isHide": false,
       "packageId": "113",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[神楽Mea_戳便便]"
       ],
-      "staticUrl": "assets/bilibili_emoji/113/2389.png",
+      "staticUrl": "assets/bilibili/113/2389.png",
       "isHide": false,
       "packageId": "113",
       "meta": {

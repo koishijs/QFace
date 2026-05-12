@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "134",
   "name": "天官赐福动画",
   "coverUrl": "https://i0.hdslb.com/bfs/emote/994769335f0ee8e932fc4ba6358a9096926ef0c0.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[天官赐福_害羞]"
       ],
-      "staticUrl": "assets/bilibili_emoji/134/2655.png",
+      "staticUrl": "assets/bilibili/134/2655.png",
       "isHide": false,
       "packageId": "134",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[天官赐福_彩虹屁]"
       ],
-      "staticUrl": "assets/bilibili_emoji/134/2653.png",
+      "staticUrl": "assets/bilibili/134/2653.png",
       "isHide": false,
       "packageId": "134",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[天官赐福_钞能力]"
       ],
-      "staticUrl": "assets/bilibili_emoji/134/2654.png",
+      "staticUrl": "assets/bilibili/134/2654.png",
       "isHide": false,
       "packageId": "134",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[天官赐福_贫穷]"
       ],
-      "staticUrl": "assets/bilibili_emoji/134/2659.png",
+      "staticUrl": "assets/bilibili/134/2659.png",
       "isHide": false,
       "packageId": "134",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[天官赐福_哭]"
       ],
-      "staticUrl": "assets/bilibili_emoji/134/2656.png",
+      "staticUrl": "assets/bilibili/134/2656.png",
       "isHide": false,
       "packageId": "134",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[天官赐福_溜了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/134/2657.png",
+      "staticUrl": "assets/bilibili/134/2657.png",
       "isHide": false,
       "packageId": "134",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[天官赐福_？？？]"
       ],
-      "staticUrl": "assets/bilibili_emoji/134/2652.png",
+      "staticUrl": "assets/bilibili/134/2652.png",
       "isHide": false,
       "packageId": "134",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[天官赐福_满脸高兴]"
       ],
-      "staticUrl": "assets/bilibili_emoji/134/2658.png",
+      "staticUrl": "assets/bilibili/134/2658.png",
       "isHide": false,
       "packageId": "134",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[天官赐福_请慢用]"
       ],
-      "staticUrl": "assets/bilibili_emoji/134/2660.png",
+      "staticUrl": "assets/bilibili/134/2660.png",
       "isHide": false,
       "packageId": "134",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[天官赐福_喜欢]"
       ],
-      "staticUrl": "assets/bilibili_emoji/134/2662.png",
+      "staticUrl": "assets/bilibili/134/2662.png",
       "isHide": false,
       "packageId": "134",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[天官赐福_突然出现]"
       ],
-      "staticUrl": "assets/bilibili_emoji/134/2661.png",
+      "staticUrl": "assets/bilibili/134/2661.png",
       "isHide": false,
       "packageId": "134",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[天官赐福_点赞]"
       ],
-      "staticUrl": "assets/bilibili_emoji/134/2786.png",
+      "staticUrl": "assets/bilibili/134/2786.png",
       "isHide": false,
       "packageId": "134",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[天官赐福_尴尬]"
       ],
-      "staticUrl": "assets/bilibili_emoji/134/2787.png",
+      "staticUrl": "assets/bilibili/134/2787.png",
       "isHide": false,
       "packageId": "134",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[天官赐福_机智如我]"
       ],
-      "staticUrl": "assets/bilibili_emoji/134/2903.jpg",
+      "staticUrl": "assets/bilibili/134/2903.jpg",
       "isHide": false,
       "packageId": "134",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[天官赐福_静静看着你]"
       ],
-      "staticUrl": "assets/bilibili_emoji/134/2904.png",
+      "staticUrl": "assets/bilibili/134/2904.png",
       "isHide": false,
       "packageId": "134",
       "meta": {
@@ -234,7 +234,7 @@
       "shortCodes": [
         "[天官赐福_看星星]"
       ],
-      "staticUrl": "assets/bilibili_emoji/134/2965.png",
+      "staticUrl": "assets/bilibili/134/2965.png",
       "isHide": false,
       "packageId": "134",
       "meta": {
@@ -249,7 +249,7 @@
       "shortCodes": [
         "[天官赐福_我裂开了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/134/2966.png",
+      "staticUrl": "assets/bilibili/134/2966.png",
       "isHide": false,
       "packageId": "134",
       "meta": {
@@ -264,7 +264,7 @@
       "shortCodes": [
         "[天官赐福_可怜兮兮]"
       ],
-      "staticUrl": "assets/bilibili_emoji/134/2977.png",
+      "staticUrl": "assets/bilibili/134/2977.png",
       "isHide": false,
       "packageId": "134",
       "meta": {
@@ -279,7 +279,7 @@
       "shortCodes": [
         "[天官赐福_起床啦]"
       ],
-      "staticUrl": "assets/bilibili_emoji/134/2978.png",
+      "staticUrl": "assets/bilibili/134/2978.png",
       "isHide": false,
       "packageId": "134",
       "meta": {
@@ -294,7 +294,7 @@
       "shortCodes": [
         "[天官赐福_公主抱]"
       ],
-      "staticUrl": "assets/bilibili_emoji/134/3095.png",
+      "staticUrl": "assets/bilibili/134/3095.png",
       "isHide": false,
       "packageId": "134",
       "meta": {

@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "104",
   "name": "天宝伏妖录",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/515dbd4b8ce2d55fc3bbc11dd8278be518397087.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[天宝伏妖录_不满]"
       ],
-      "staticUrl": "assets/bilibili_emoji/104/2233.png",
+      "staticUrl": "assets/bilibili/104/2233.png",
       "isHide": false,
       "packageId": "104",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[天宝伏妖录_得意]"
       ],
-      "staticUrl": "assets/bilibili_emoji/104/2234.png",
+      "staticUrl": "assets/bilibili/104/2234.png",
       "isHide": false,
       "packageId": "104",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[天宝伏妖录_害羞]"
       ],
-      "staticUrl": "assets/bilibili_emoji/104/2235.png",
+      "staticUrl": "assets/bilibili/104/2235.png",
       "isHide": false,
       "packageId": "104",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[天宝伏妖录_噗]"
       ],
-      "staticUrl": "assets/bilibili_emoji/104/2236.png",
+      "staticUrl": "assets/bilibili/104/2236.png",
       "isHide": false,
       "packageId": "104",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[天宝伏妖录_思考]"
       ],
-      "staticUrl": "assets/bilibili_emoji/104/2237.png",
+      "staticUrl": "assets/bilibili/104/2237.png",
       "isHide": false,
       "packageId": "104",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[天宝伏妖录_嘿嘿]"
       ],
-      "staticUrl": "assets/bilibili_emoji/104/2238.png",
+      "staticUrl": "assets/bilibili/104/2238.png",
       "isHide": false,
       "packageId": "104",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[天宝伏妖录_困了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/104/2239.png",
+      "staticUrl": "assets/bilibili/104/2239.png",
       "isHide": false,
       "packageId": "104",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[天宝伏妖录_比心心]"
       ],
-      "staticUrl": "assets/bilibili_emoji/104/2240.png",
+      "staticUrl": "assets/bilibili/104/2240.png",
       "isHide": false,
       "packageId": "104",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[天宝伏妖录_吓哭]"
       ],
-      "staticUrl": "assets/bilibili_emoji/104/2241.png",
+      "staticUrl": "assets/bilibili/104/2241.png",
       "isHide": false,
       "packageId": "104",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[天宝伏妖录_疑惑]"
       ],
-      "staticUrl": "assets/bilibili_emoji/104/2242.png",
+      "staticUrl": "assets/bilibili/104/2242.png",
       "isHide": false,
       "packageId": "104",
       "meta": {

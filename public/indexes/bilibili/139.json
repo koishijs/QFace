@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "139",
   "name": "原神",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/c75b16bd023a19fcfeb32034013bb32978deddf6.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[原神_小事一桩]"
       ],
-      "staticUrl": "assets/bilibili_emoji/139/2728.png",
+      "staticUrl": "assets/bilibili/139/2728.png",
       "isHide": false,
       "packageId": "139",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[原神_唔]"
       ],
-      "staticUrl": "assets/bilibili_emoji/139/2729.png",
+      "staticUrl": "assets/bilibili/139/2729.png",
       "isHide": false,
       "packageId": "139",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[原神_躺平]"
       ],
-      "staticUrl": "assets/bilibili_emoji/139/2730.png",
+      "staticUrl": "assets/bilibili/139/2730.png",
       "isHide": false,
       "packageId": "139",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[原神_哦]"
       ],
-      "staticUrl": "assets/bilibili_emoji/139/2731.png",
+      "staticUrl": "assets/bilibili/139/2731.png",
       "isHide": false,
       "packageId": "139",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[原神_哭哭]"
       ],
-      "staticUrl": "assets/bilibili_emoji/139/2732.png",
+      "staticUrl": "assets/bilibili/139/2732.png",
       "isHide": false,
       "packageId": "139",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[原神_救救我]"
       ],
-      "staticUrl": "assets/bilibili_emoji/139/2733.png",
+      "staticUrl": "assets/bilibili/139/2733.png",
       "isHide": false,
       "packageId": "139",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[原神_警觉]"
       ],
-      "staticUrl": "assets/bilibili_emoji/139/2734.png",
+      "staticUrl": "assets/bilibili/139/2734.png",
       "isHide": false,
       "packageId": "139",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[原神_交给我吧]"
       ],
-      "staticUrl": "assets/bilibili_emoji/139/2735.png",
+      "staticUrl": "assets/bilibili/139/2735.png",
       "isHide": false,
       "packageId": "139",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[原神_哼哼]"
       ],
-      "staticUrl": "assets/bilibili_emoji/139/2736.png",
+      "staticUrl": "assets/bilibili/139/2736.png",
       "isHide": false,
       "packageId": "139",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[原神_给我走开]"
       ],
-      "staticUrl": "assets/bilibili_emoji/139/2737.png",
+      "staticUrl": "assets/bilibili/139/2737.png",
       "isHide": false,
       "packageId": "139",
       "meta": {
@@ -159,7 +159,7 @@
       "shortCodes": [
         "[原神_鸽子]"
       ],
-      "staticUrl": "assets/bilibili_emoji/139/2738.png",
+      "staticUrl": "assets/bilibili/139/2738.png",
       "isHide": false,
       "packageId": "139",
       "meta": {
@@ -174,7 +174,7 @@
       "shortCodes": [
         "[原神_干杯]"
       ],
-      "staticUrl": "assets/bilibili_emoji/139/2739.png",
+      "staticUrl": "assets/bilibili/139/2739.png",
       "isHide": false,
       "packageId": "139",
       "meta": {
@@ -189,7 +189,7 @@
       "shortCodes": [
         "[原神_该吃饭了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/139/2740.png",
+      "staticUrl": "assets/bilibili/139/2740.png",
       "isHide": false,
       "packageId": "139",
       "meta": {
@@ -204,7 +204,7 @@
       "shortCodes": [
         "[原神_出货吧]"
       ],
-      "staticUrl": "assets/bilibili_emoji/139/2741.png",
+      "staticUrl": "assets/bilibili/139/2741.png",
       "isHide": false,
       "packageId": "139",
       "meta": {
@@ -219,7 +219,7 @@
       "shortCodes": [
         "[原神_吃惊]"
       ],
-      "staticUrl": "assets/bilibili_emoji/139/2742.png",
+      "staticUrl": "assets/bilibili/139/2742.png",
       "isHide": false,
       "packageId": "139",
       "meta": {
@@ -234,7 +234,7 @@
       "shortCodes": [
         "[原神_不要啊]"
       ],
-      "staticUrl": "assets/bilibili_emoji/139/2743.png",
+      "staticUrl": "assets/bilibili/139/2743.png",
       "isHide": false,
       "packageId": "139",
       "meta": {
@@ -249,7 +249,7 @@
       "shortCodes": [
         "[原神_拜托]"
       ],
-      "staticUrl": "assets/bilibili_emoji/139/2744.png",
+      "staticUrl": "assets/bilibili/139/2744.png",
       "isHide": false,
       "packageId": "139",
       "meta": {
@@ -264,7 +264,7 @@
       "shortCodes": [
         "[原神_zzZZ]"
       ],
-      "staticUrl": "assets/bilibili_emoji/139/2745.png",
+      "staticUrl": "assets/bilibili/139/2745.png",
       "isHide": false,
       "packageId": "139",
       "meta": {
@@ -279,7 +279,7 @@
       "shortCodes": [
         "[原神_good job]"
       ],
-      "staticUrl": "assets/bilibili_emoji/139/2746.png",
+      "staticUrl": "assets/bilibili/139/2746.png",
       "isHide": false,
       "packageId": "139",
       "meta": {
@@ -294,7 +294,7 @@
       "shortCodes": [
         "[原神_1摩拉]"
       ],
-      "staticUrl": "assets/bilibili_emoji/139/2747.png",
+      "staticUrl": "assets/bilibili/139/2747.png",
       "isHide": false,
       "packageId": "139",
       "meta": {
@@ -309,7 +309,7 @@
       "shortCodes": [
         "[原神_OK]"
       ],
-      "staticUrl": "assets/bilibili_emoji/139/2760.png",
+      "staticUrl": "assets/bilibili/139/2760.png",
       "isHide": false,
       "packageId": "139",
       "meta": {
@@ -324,7 +324,7 @@
       "shortCodes": [
         "[原神_暗中观察]"
       ],
-      "staticUrl": "assets/bilibili_emoji/139/2761.png",
+      "staticUrl": "assets/bilibili/139/2761.png",
       "isHide": false,
       "packageId": "139",
       "meta": {
@@ -339,7 +339,7 @@
       "shortCodes": [
         "[原神_比心]"
       ],
-      "staticUrl": "assets/bilibili_emoji/139/2762.png",
+      "staticUrl": "assets/bilibili/139/2762.png",
       "isHide": false,
       "packageId": "139",
       "meta": {
@@ -354,7 +354,7 @@
       "shortCodes": [
         "[原神_震撼]"
       ],
-      "staticUrl": "assets/bilibili_emoji/139/2763.png",
+      "staticUrl": "assets/bilibili/139/2763.png",
       "isHide": false,
       "packageId": "139",
       "meta": {
@@ -369,7 +369,7 @@
       "shortCodes": [
         "[原神_倒]"
       ],
-      "staticUrl": "assets/bilibili_emoji/139/2764.png",
+      "staticUrl": "assets/bilibili/139/2764.png",
       "isHide": false,
       "packageId": "139",
       "meta": {
@@ -384,7 +384,7 @@
       "shortCodes": [
         "[原神_点赞]"
       ],
-      "staticUrl": "assets/bilibili_emoji/139/2765.png",
+      "staticUrl": "assets/bilibili/139/2765.png",
       "isHide": false,
       "packageId": "139",
       "meta": {
@@ -399,7 +399,7 @@
       "shortCodes": [
         "[原神_鼓掌]"
       ],
-      "staticUrl": "assets/bilibili_emoji/139/2766.png",
+      "staticUrl": "assets/bilibili/139/2766.png",
       "isHide": false,
       "packageId": "139",
       "meta": {
@@ -414,7 +414,7 @@
       "shortCodes": [
         "[原神_乖巧]"
       ],
-      "staticUrl": "assets/bilibili_emoji/139/2767.png",
+      "staticUrl": "assets/bilibili/139/2767.png",
       "isHide": false,
       "packageId": "139",
       "meta": {
@@ -429,7 +429,7 @@
       "shortCodes": [
         "[原神_得意]"
       ],
-      "staticUrl": "assets/bilibili_emoji/139/2768.png",
+      "staticUrl": "assets/bilibili/139/2768.png",
       "isHide": false,
       "packageId": "139",
       "meta": {
@@ -444,7 +444,7 @@
       "shortCodes": [
         "[原神_冷漠]"
       ],
-      "staticUrl": "assets/bilibili_emoji/139/2769.png",
+      "staticUrl": "assets/bilibili/139/2769.png",
       "isHide": false,
       "packageId": "139",
       "meta": {
@@ -459,7 +459,7 @@
       "shortCodes": [
         "[原神_期待]"
       ],
-      "staticUrl": "assets/bilibili_emoji/139/2770.png",
+      "staticUrl": "assets/bilibili/139/2770.png",
       "isHide": false,
       "packageId": "139",
       "meta": {
@@ -474,7 +474,7 @@
       "shortCodes": [
         "[原神_撒花]"
       ],
-      "staticUrl": "assets/bilibili_emoji/139/2771.png",
+      "staticUrl": "assets/bilibili/139/2771.png",
       "isHide": false,
       "packageId": "139",
       "meta": {
@@ -489,7 +489,7 @@
       "shortCodes": [
         "[原神_晚安]"
       ],
-      "staticUrl": "assets/bilibili_emoji/139/2772.png",
+      "staticUrl": "assets/bilibili/139/2772.png",
       "isHide": false,
       "packageId": "139",
       "meta": {
@@ -504,7 +504,7 @@
       "shortCodes": [
         "[原神_委屈]"
       ],
-      "staticUrl": "assets/bilibili_emoji/139/2773.png",
+      "staticUrl": "assets/bilibili/139/2773.png",
       "isHide": false,
       "packageId": "139",
       "meta": {
@@ -519,7 +519,7 @@
       "shortCodes": [
         "[原神_疑问]"
       ],
-      "staticUrl": "assets/bilibili_emoji/139/2774.png",
+      "staticUrl": "assets/bilibili/139/2774.png",
       "isHide": false,
       "packageId": "139",
       "meta": {
@@ -534,7 +534,7 @@
       "shortCodes": [
         "[原神_有主意了]"
       ],
-      "staticUrl": "assets/bilibili_emoji/139/2775.png",
+      "staticUrl": "assets/bilibili/139/2775.png",
       "isHide": false,
       "packageId": "139",
       "meta": {

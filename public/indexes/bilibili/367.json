@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "367",
   "name": "小魔头暴露啦！",
   "coverUrl": "http://i0.hdslb.com/bfs/emote/c6fd80876d81cb668bce0b08766784451c9ba4aa.png",
@@ -9,7 +9,7 @@
       "shortCodes": [
         "[小魔头暴露啦_震惊]"
       ],
-      "staticUrl": "assets/bilibili_emoji/367/6041.png",
+      "staticUrl": "assets/bilibili/367/6041.png",
       "isHide": false,
       "packageId": "367",
       "meta": {
@@ -24,7 +24,7 @@
       "shortCodes": [
         "[小魔头暴露啦_疑惑]"
       ],
-      "staticUrl": "assets/bilibili_emoji/367/6042.png",
+      "staticUrl": "assets/bilibili/367/6042.png",
       "isHide": false,
       "packageId": "367",
       "meta": {
@@ -39,7 +39,7 @@
       "shortCodes": [
         "[小魔头暴露啦_点赞]"
       ],
-      "staticUrl": "assets/bilibili_emoji/367/6043.png",
+      "staticUrl": "assets/bilibili/367/6043.png",
       "isHide": false,
       "packageId": "367",
       "meta": {
@@ -54,7 +54,7 @@
       "shortCodes": [
         "[小魔头暴露啦_比心]"
       ],
-      "staticUrl": "assets/bilibili_emoji/367/6044.png",
+      "staticUrl": "assets/bilibili/367/6044.png",
       "isHide": false,
       "packageId": "367",
       "meta": {
@@ -69,7 +69,7 @@
       "shortCodes": [
         "[小魔头暴露啦_哒咩]"
       ],
-      "staticUrl": "assets/bilibili_emoji/367/6045.png",
+      "staticUrl": "assets/bilibili/367/6045.png",
       "isHide": false,
       "packageId": "367",
       "meta": {
@@ -84,7 +84,7 @@
       "shortCodes": [
         "[小魔头暴露啦_哇]"
       ],
-      "staticUrl": "assets/bilibili_emoji/367/6046.png",
+      "staticUrl": "assets/bilibili/367/6046.png",
       "isHide": false,
       "packageId": "367",
       "meta": {
@@ -99,7 +99,7 @@
       "shortCodes": [
         "[小魔头暴露啦_冲鸭]"
       ],
-      "staticUrl": "assets/bilibili_emoji/367/6047.png",
+      "staticUrl": "assets/bilibili/367/6047.png",
       "isHide": false,
       "packageId": "367",
       "meta": {
@@ -114,7 +114,7 @@
       "shortCodes": [
         "[小魔头暴露啦_冒头]"
       ],
-      "staticUrl": "assets/bilibili_emoji/367/6048.png",
+      "staticUrl": "assets/bilibili/367/6048.png",
       "isHide": false,
       "packageId": "367",
       "meta": {
@@ -129,7 +129,7 @@
       "shortCodes": [
         "[小魔头暴露啦_傲娇]"
       ],
-      "staticUrl": "assets/bilibili_emoji/367/6049.png",
+      "staticUrl": "assets/bilibili/367/6049.png",
       "isHide": false,
       "packageId": "367",
       "meta": {
@@ -144,7 +144,7 @@
       "shortCodes": [
         "[小魔头暴露啦_乖巧]"
       ],
-      "staticUrl": "assets/bilibili_emoji/367/6050.png",
+      "staticUrl": "assets/bilibili/367/6050.png",
       "isHide": false,
       "packageId": "367",
       "meta": {
