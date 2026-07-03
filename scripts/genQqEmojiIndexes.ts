@@ -14,6 +14,8 @@ import {
   QqSysEmojiWithAssets,
   QqSysEmojiAssetType,
   QqNTSystemEmojiItem,
+  QQSysEmojiConfig,
+  QqSysEmojiGroup,
 } from '../docs/types/QqSysEmoji'
 import { homedir } from 'os'
 
@@ -33,6 +35,10 @@ const CONFIG = {
     'Library/Containers/com.tencent.qq/Data/Library/Application Support/QQ',
   FACE_CONFIG_RELATIVE_PATH:
     'global/nt_data/Emoji/emoji-resource/face_config.json',
+  // 应用包内自带的表情面板配置，含分组名与联想词，比 face_config.json 更丰富
+  QQ_VERSIONS_RELATIVE_PATH: 'versions',
+  DEFAULT_CONFIG_RELATIVE_PATH:
+    'QQUpdate.app/Contents/Resources/app/resource/default-emojis/default_config.json',
   EMOJI_RESOURCE_RELATIVE_PATH:
     'nt_data/Emoji/BaseEmojiSyastems/EmojiSystermResource',
   OUTPUT_RELATIVE_PATH: 'public/assets/qq_emoji',
@@ -139,6 +145,51 @@ class PathManager {
       CONFIG.EMOJI_RESOURCE_RELATIVE_PATH
     )
   }
+
+  /**
+   * 查找最新 QQ 版本内自带的 default_config.json
+   * （按 mtime 从新到旧，返回第一个真实存在该文件的版本）
+   */
+  async findLatestDefaultConfigFile(): Promise<string> {
+    const versionsDir = resolve(
+      this.qqntAppSupportDir,
+      CONFIG.QQ_VERSIONS_RELATIVE_PATH
+    )
+
+    const entries = await readdir(versionsDir, { withFileTypes: true })
+    const versionDirs = entries.filter((entry) => entry.isDirectory())
+
+    if (versionDirs.length === 0) {
+      throw new Error('No QQ version directory found under versions/')
+    }
+
+    const dirStats = await Promise.all(
+      versionDirs.map(async (dir) => ({
+        stat: await stat(resolve(versionsDir, dir.name)),
+        dir,
+      }))
+    )
+
+    const sorted = dirStats.sort(
+      (a, b) => Number(b.stat.mtimeMs) - Number(a.stat.mtimeMs)
+    )
+
+    for (const { dir } of sorted) {
+      const configFile = resolve(
+        versionsDir,
+        dir.name,
+        CONFIG.DEFAULT_CONFIG_RELATIVE_PATH
+      )
+      try {
+        await stat(configFile)
+        return configFile
+      } catch {
+        // 该版本不含 default_config.json，尝试下一个
+      }
+    }
+
+    throw new Error('No default_config.json found in any QQ version')
+  }
 }
 
 /**
@@ -229,6 +280,67 @@ class EmojiManager {
     // 加载普通表情
     for (const item of config.emoji) {
       this.emojiMap.set(item.QSid, this.createEmojiFromNTItem(item))
+    }
+  }
+
+  /**
+   * 将一条 default_config 面板表情合并进现有 Emoji
+   * default_config 字段更丰富（describe / associateWords / aniSticker 信息），
+   * 存在的真值字段优先覆盖 face_config，缺失则保留原值
+   */
+  private mergeDefaultConfigItem(item: QqSysEmojiItem): void {
+    const existing = this.emojiMap.get(item.emojiId)
+
+    if (!existing) {
+      this.emojiMap.set(
+        item.emojiId,
+        this.createDefaultEmoji(item.emojiId, {
+          describe: item.describe,
+          qzoneCode: item.qzoneCode,
+          qcid: item.qcid,
+          emojiType: item.emojiType,
+          aniStickerPackId: item.aniStickerPackId,
+          aniStickerId: item.aniStickerId,
+          associateWords: item.associateWords ?? [],
+          isHide: item.isHide,
+          animationWidth: item.animationWidth,
+          animationHeigh: item.animationHeigh,
+        })
+      )
+      return
+    }
+
+    existing.describe = item.describe || existing.describe
+    existing.qzoneCode = item.qzoneCode || existing.qzoneCode
+    existing.qcid = item.qcid || existing.qcid
+    existing.emojiType = item.emojiType || existing.emojiType
+    existing.aniStickerPackId =
+      item.aniStickerPackId || existing.aniStickerPackId
+    existing.aniStickerId = item.aniStickerId || existing.aniStickerId
+    existing.associateWords = item.associateWords?.length
+      ? item.associateWords
+      : existing.associateWords
+    existing.animationWidth = item.animationWidth || existing.animationWidth
+    existing.animationHeigh = item.animationHeigh || existing.animationHeigh
+  }
+
+  /**
+   * 从应用自带的 default_config.json 加载并富化 Emoji 数据
+   */
+  async loadFromDefaultConfig(defaultConfigFile: string): Promise<void> {
+    const config: QQSysEmojiConfig = JSON.parse(
+      await readFile(defaultConfigFile, 'utf-8')
+    )
+
+    // 遍历所有面板（normalPanelResult / redHeartPanelResult / 其它）
+    const panels: { SysEmojiGroupList: QqSysEmojiGroup[] }[] =
+      Object.values(config)
+    for (const panel of panels) {
+      for (const group of panel.SysEmojiGroupList ?? []) {
+        for (const item of group.SysEmojiList ?? []) {
+          this.mergeDefaultConfigItem(item)
+        }
+      }
     }
   }
 
@@ -454,11 +566,18 @@ class QqEmojiGenerator {
       console.log('正在复制资源文件...')
       await this.fileManager.copyResourceFiles(qqntEmojiAssetsDir)
 
-      // 加载配置文件
+      // 加载配置文件（face_config 提供基础覆盖）
       console.log('正在加载配置文件...')
       await this.emojiManager.loadFromConfig(
         this.pathManager.getFaceConfigFile()
       )
+
+      // 加载应用自带的 default_config，富化分组、联想词等信息
+      console.log('正在加载 default_config 面板配置...')
+      const defaultConfigFile =
+        await this.pathManager.findLatestDefaultConfigFile()
+      console.log(`找到面板配置: ${defaultConfigFile}`)
+      await this.emojiManager.loadFromDefaultConfig(defaultConfigFile)
 
       // 处理所有 Emoji 资源
       console.log('正在处理 Emoji 资源...')
