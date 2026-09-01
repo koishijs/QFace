@@ -8,7 +8,7 @@ import {
   stat,
   writeFile,
 } from 'fs/promises'
-import { resolve } from 'path'
+import { basename, resolve } from 'path'
 import {
   QqSysEmojiItem,
   QqSysEmojiWithAssets,
@@ -41,11 +41,17 @@ const CONFIG = {
     'QQUpdate.app/Contents/Resources/app/resource/default-emojis/default_config.json',
   EMOJI_RESOURCE_RELATIVE_PATH:
     'nt_data/Emoji/BaseEmojiSyastems/EmojiSystermResource',
+  // 手动维护的补充面板配置（fetchFullSysEmojis 响应，结构同 default_config.json），
+  // 用于补全 face_config / default_config 未覆盖的新表情元数据
+  SUPPLEMENT_CONFIG_RELATIVE_PATH: 'scripts/data/sys_emoji_supplement.json',
   OUTPUT_RELATIVE_PATH: 'public/assets/qq_emoji',
   BACKUP_RELATIVE_PATH: '.backup',
   INDEX_FILE_NAME: '_index.json',
   FACE_CONFIG_FILE_NAME: 'face_config.json',
 } as const
+
+// 拷贝与索引时需要跳过的系统垃圾文件
+const JUNK_FILE_NAMES = new Set(['.DS_Store', '__MACOSX', 'Thumbs.db'])
 
 // 资源类型配置
 const ASSET_TYPE_CONFIG = {
@@ -99,6 +105,10 @@ class PathManager {
 
   getOutputConfigFile(): string {
     return this.outputConfigFile
+  }
+
+  getSupplementConfigFile(): string {
+    return resolve(this.projectRoot, CONFIG.SUPPLEMENT_CONFIG_RELATIVE_PATH)
   }
 
   /**
@@ -345,6 +355,16 @@ class EmojiManager {
   }
 
   /**
+   * 列出资源存在但仍缺元数据（describe 为空）的表情 id，
+   * 用于提示维护者更新 sys_emoji_supplement.json
+   */
+  getEmojiIdsMissingMeta(): string[] {
+    return Array.from(this.emojiMap.values())
+      .filter((emoji) => emoji.assets.length > 0 && !emoji.describe)
+      .map((emoji) => emoji.emojiId)
+  }
+
+  /**
    * 获取排序后的 Emoji 列表
    */
   getSortedEmojiList(): QqSysEmojiWithAssets[] {
@@ -424,9 +444,10 @@ class FileManager {
     try {
       await mkdir(this.pathManager.getOutputDir(), { recursive: true })
 
-      // 复制 Emoji 资源目录
+      // 复制 Emoji 资源目录（跳过 .DS_Store 等系统垃圾文件）
       await cp(qqntEmojiAssetsDir, this.pathManager.getOutputDir(), {
         recursive: true,
+        filter: (source) => !JUNK_FILE_NAMES.has(basename(source)),
       })
 
       // 复制配置文件
@@ -461,7 +482,7 @@ class FileManager {
 
     await Promise.all(
       files
-        .filter((file) => file.isFile())
+        .filter((file) => file.isFile() && !JUNK_FILE_NAMES.has(file.name))
         .map(async (file) => {
           const path = this.pathManager.getRelativePath(
             resolve(file.parentPath, file.name)
@@ -579,9 +600,28 @@ class QqEmojiGenerator {
       console.log(`找到面板配置: ${defaultConfigFile}`)
       await this.emojiManager.loadFromDefaultConfig(defaultConfigFile)
 
+      // 加载手动维护的补充面板配置（覆盖前两者未收录的新表情元数据）
+      const supplementConfigFile = this.pathManager.getSupplementConfigFile()
+      if (await this.fileManager.exists(supplementConfigFile)) {
+        console.log(`正在加载补充面板配置: ${supplementConfigFile}`)
+        await this.emojiManager.loadFromDefaultConfig(supplementConfigFile)
+      } else {
+        console.log('未找到补充面板配置，跳过')
+      }
+
       // 处理所有 Emoji 资源
       console.log('正在处理 Emoji 资源...')
       await this.fileManager.processAllEmojiAssets(this.emojiManager)
+
+      // 提示仍缺元数据的表情（资源已提取但配置未收录，索引中只有最简条目）
+      const missingMetaIds = this.emojiManager.getEmojiIdsMissingMeta()
+      if (missingMetaIds.length > 0) {
+        console.warn(
+          `⚠️ 以下 ${missingMetaIds.length} 个表情缺少元数据（describe 为空），` +
+            `可通过 NapCat dump 插件更新 ${CONFIG.SUPPLEMENT_CONFIG_RELATIVE_PATH}：\n` +
+            missingMetaIds.join(', ')
+        )
+      }
 
       // 生成索引文件
       console.log('正在生成索引文件...')
