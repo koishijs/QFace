@@ -9989,6 +9989,265 @@
     ]
   },
   {
+    "emojiId": "485",
+    "describe": "",
+    "qzoneCode": "",
+    "qcid": 0,
+    "emojiType": 0,
+    "aniStickerPackId": 0,
+    "aniStickerId": 0,
+    "associateWords": [],
+    "isHide": false,
+    "startTime": "",
+    "endTime": "",
+    "animationWidth": 0,
+    "animationHeigh": 0,
+    "assets": [
+      {
+        "type": 0,
+        "name": "485_0.png",
+        "path": "assets/qq_emoji/485/png/485_0.png"
+      },
+      {
+        "type": 0,
+        "name": "485.png",
+        "path": "assets/qq_emoji/485/png/485.png"
+      },
+      {
+        "type": 2,
+        "name": "485.png",
+        "path": "assets/qq_emoji/485/apng/485.png"
+      },
+      {
+        "type": 3,
+        "name": "485.json",
+        "path": "assets/qq_emoji/485/lottie/485.json"
+      }
+    ]
+  },
+  {
+    "emojiId": "488",
+    "describe": "",
+    "qzoneCode": "",
+    "qcid": 0,
+    "emojiType": 0,
+    "aniStickerPackId": 0,
+    "aniStickerId": 0,
+    "associateWords": [],
+    "isHide": false,
+    "startTime": "",
+    "endTime": "",
+    "animationWidth": 0,
+    "animationHeigh": 0,
+    "assets": [
+      {
+        "type": 0,
+        "name": "488_0.png",
+        "path": "assets/qq_emoji/488/png/488_0.png"
+      },
+      {
+        "type": 0,
+        "name": "488.png",
+        "path": "assets/qq_emoji/488/png/488.png"
+      },
+      {
+        "type": 2,
+        "name": "488.png",
+        "path": "assets/qq_emoji/488/apng/488.png"
+      },
+      {
+        "type": 3,
+        "name": "488.json",
+        "path": "assets/qq_emoji/488/lottie/488.json"
+      }
+    ]
+  },
+  {
+    "emojiId": "489",
+    "describe": "",
+    "qzoneCode": "",
+    "qcid": 0,
+    "emojiType": 0,
+    "aniStickerPackId": 0,
+    "aniStickerId": 0,
+    "associateWords": [],
+    "isHide": false,
+    "startTime": "",
+    "endTime": "",
+    "animationWidth": 0,
+    "animationHeigh": 0,
+    "assets": [
+      {
+        "type": 0,
+        "name": "489_0.png",
+        "path": "assets/qq_emoji/489/png/489_0.png"
+      },
+      {
+        "type": 0,
+        "name": "489.png",
+        "path": "assets/qq_emoji/489/png/489.png"
+      },
+      {
+        "type": 2,
+        "name": "489.png",
+        "path": "assets/qq_emoji/489/apng/489.png"
+      },
+      {
+        "type": 3,
+        "name": "489.json",
+        "path": "assets/qq_emoji/489/lottie/489.json"
+      }
+    ]
+  },
+  {
+    "emojiId": "490",
+    "describe": "",
+    "qzoneCode": "",
+    "qcid": 0,
+    "emojiType": 0,
+    "aniStickerPackId": 0,
+    "aniStickerId": 0,
+    "associateWords": [],
+    "isHide": false,
+    "startTime": "",
+    "endTime": "",
+    "animationWidth": 0,
+    "animationHeigh": 0,
+    "assets": [
+      {
+        "type": 0,
+        "name": "490_0.png",
+        "path": "assets/qq_emoji/490/png/490_0.png"
+      },
+      {
+        "type": 0,
+        "name": "490.png",
+        "path": "assets/qq_emoji/490/png/490.png"
+      },
+      {
+        "type": 2,
+        "name": "490.png",
+        "path": "assets/qq_emoji/490/apng/490.png"
+      },
+      {
+        "type": 3,
+        "name": "490.json",
+        "path": "assets/qq_emoji/490/lottie/490.json"
+      }
+    ]
+  },
+  {
+    "emojiId": "491",
+    "describe": "",
+    "qzoneCode": "",
+    "qcid": 0,
+    "emojiType": 0,
+    "aniStickerPackId": 0,
+    "aniStickerId": 0,
+    "associateWords": [],
+    "isHide": false,
+    "startTime": "",
+    "endTime": "",
+    "animationWidth": 0,
+    "animationHeigh": 0,
+    "assets": [
+      {
+        "type": 0,
+        "name": "491_0.png",
+        "path": "assets/qq_emoji/491/png/491_0.png"
+      },
+      {
+        "type": 0,
+        "name": "491.png",
+        "path": "assets/qq_emoji/491/png/491.png"
+      },
+      {
+        "type": 2,
+        "name": "491.png",
+        "path": "assets/qq_emoji/491/apng/491.png"
+      },
+      {
+        "type": 3,
+        "name": "491.json",
+        "path": "assets/qq_emoji/491/lottie/491.json"
+      }
+    ]
+  },
+  {
+    "emojiId": "492",
+    "describe": "",
+    "qzoneCode": "",
+    "qcid": 0,
+    "emojiType": 0,
+    "aniStickerPackId": 0,
+    "aniStickerId": 0,
+    "associateWords": [],
+    "isHide": false,
+    "startTime": "",
+    "endTime": "",
+    "animationWidth": 0,
+    "animationHeigh": 0,
+    "assets": [
+      {
+        "type": 0,
+        "name": "492_0.png",
+        "path": "assets/qq_emoji/492/png/492_0.png"
+      },
+      {
+        "type": 0,
+        "name": "492.png",
+        "path": "assets/qq_emoji/492/png/492.png"
+      },
+      {
+        "type": 2,
+        "name": "492.png",
+        "path": "assets/qq_emoji/492/apng/492.png"
+      },
+      {
+        "type": 3,
+        "name": "492.json",
+        "path": "assets/qq_emoji/492/lottie/492.json"
+      }
+    ]
+  },
+  {
+    "emojiId": "493",
+    "describe": "",
+    "qzoneCode": "",
+    "qcid": 0,
+    "emojiType": 0,
+    "aniStickerPackId": 0,
+    "aniStickerId": 0,
+    "associateWords": [],
+    "isHide": false,
+    "startTime": "",
+    "endTime": "",
+    "animationWidth": 0,
+    "animationHeigh": 0,
+    "assets": [
+      {
+        "type": 0,
+        "name": "493_0.png",
+        "path": "assets/qq_emoji/493/png/493_0.png"
+      },
+      {
+        "type": 0,
+        "name": "493.png",
+        "path": "assets/qq_emoji/493/png/493.png"
+      },
+      {
+        "type": 2,
+        "name": "493.png",
+        "path": "assets/qq_emoji/493/apng/493.png"
+      },
+      {
+        "type": 3,
+        "name": "493.json",
+        "path": "assets/qq_emoji/493/lottie/493.json"
+      }
+    ]
+  },
+  {
     "emojiId": "〽",
     "describe": "/股票",
     "qzoneCode": "401691",
