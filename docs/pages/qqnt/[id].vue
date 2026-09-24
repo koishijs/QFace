@@ -72,6 +72,21 @@
               @click='searchWithWord(word)'
               v-for='word in data.associateWords'
             ) {{ word }}
+        .meta
+          .meta-hint 元数据 · 点击值即可复制
+          .meta-grid
+            .meta-group(:key='group.title' v-for='group in metaGroups')
+              h3.meta-group-title {{ group.title }}
+              dl.meta-rows
+                .meta-row(:key='row.key' v-for='row in group.rows')
+                  dt.meta-key {{ row.key }}
+                  dd.meta-value
+                    button.meta-copy(
+                      :title='`复制 ${row.key}`'
+                      @click='copyText(row.value)'
+                      v-if='row.value !== ""'
+                    ) {{ row.value }}
+                    span.meta-empty(v-else) —
 
     section.section-card(v-if='activeAssets.length')
       .section-header
@@ -100,30 +115,13 @@
             button.icon-btn(@click='copyText(asset.path)' title='复制路径')
               Copy(:size='14')
 
-    section.section-card
-      .section-header
-        h2.section-title 元数据
-        .section-hint 点击值即可复制
-      .meta-grid
-        .meta-group(:key='group.title' v-for='group in metaGroups')
-          h3.meta-group-title {{ group.title }}
-          dl.meta-rows
-            .meta-row(:key='row.key' v-for='row in group.rows')
-              dt.meta-key {{ row.key }}
-              dd.meta-value
-                button.meta-copy(
-                  :title='`复制 ${row.key}`'
-                  @click='copyText(row.value)'
-                  v-if='row.value !== ""'
-                ) {{ row.value }}
-                span.meta-empty(v-else) —
-      details.raw-json
-        summary
-          span 原始 JSON
-          button.btn.btn-small(@click.prevent='copyText(rawJson)')
-            Copy(:size='13')
-            span 复制
-        pre {{ rawJson }}
+    details.raw-json
+      summary
+        span 原始 JSON
+        button.btn.btn-small(@click.prevent='copyText(rawJson)')
+          Copy(:size='13')
+          span 复制
+      pre {{ rawJson }}
 
   Transition(name='toast')
     .toast(v-if='toastText')
@@ -680,6 +678,11 @@ $mono: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace
   border: 1px solid var(--border-color)
   border-radius: 16px
 
+.hero-preview
+  position: sticky
+  top: 24px
+  align-self: start
+
 .preview-box
   aspect-ratio: 1
   display: grid
@@ -816,7 +819,13 @@ $mono: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace
   font-size: 13px
   color: var(--text-muted)
 
-.section-hint
+.meta
+  display: flex
+  flex-direction: column
+  gap: 8px
+  margin-top: 4px
+
+.meta-hint
   font-size: 12px
   color: var(--text-muted)
 
@@ -948,16 +957,16 @@ $mono: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace
   color: var(--text-muted)
 
 .raw-json
-  margin-top: 16px
+  background: var(--background-card)
   border: 1px solid var(--border-color)
-  border-radius: 12px
+  border-radius: 16px
 
   summary
     display: flex
     align-items: center
     justify-content: space-between
-    padding: 10px 16px
-    font-size: 13px
+    padding: 14px 20px
+    font-size: 14px
     color: var(--text-secondary)
     cursor: pointer
     list-style: none
@@ -1012,6 +1021,10 @@ $mono: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace
   opacity: 0
   transform: translate(-50%, 8px)
 
+@media (max-width: 1024px)
+  .meta-grid
+    grid-template-columns: 1fr
+
 @media (max-width: 768px)
   .detail-content
     padding: 20px 16px
@@ -1022,6 +1035,7 @@ $mono: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace
     gap: 20px
 
   .hero-preview
+    position: static
     max-width: 320px
     width: 100%
     margin: 0 auto

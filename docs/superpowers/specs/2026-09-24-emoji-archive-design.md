@@ -108,15 +108,14 @@ interface QqSysEmojiV2 extends QqSysEmojiWithAssets {
 
 1. **版本标签页**：`history` 非空时显示。第一个为当前资源（标签为该表情的 `lastSeenIn`，标注「最新」），其后按 `history` 顺序排列，默认选中当前资源。选中的标签决定整页使用的资源集合 `activeAssets`；元数据不随标签变化。
 2. **主区块**（桌面左右两栏，窄屏上下堆叠）：
-   - 左：大预览，优先 APNG，其次 Lottie，再次 PNG；下方操作按钮：下载、转 GIF、复制图片。均基于 `activeAssets`。
-   - 右：名称与 `#emojiId`；状态徽章（已下架 / 隐藏 / `emojiType === 1` 时的「超级表情」）；「收录于 <firstSeenIn> · 最后见于 <lastSeenIn>」（缺省项不显示）；关联词汇标签（点击跳转搜索，行为同现状）。
+   - 左（桌面端 sticky）：大预览，优先 APNG，其次 Lottie，再次 PNG；下方操作按钮：下载、转 GIF、复制图片。均基于 `activeAssets`。
+   - 右：名称与 `#emojiId`；状态徽章（已下架 / 隐藏 / `emojiType === 1` 时的「超级表情」）；「收录于 <firstSeenIn> · 最后见于 <lastSeenIn>」（缺省项不显示）；关联词汇标签（点击跳转搜索）；元数据分组键值表（点击值复制，宽屏 2×2、1024px 以下单列）：
+     - 标识：`emojiId`、`describe`、`qzoneCode`、`qcid`
+     - 动画贴纸：`emojiType`、`aniStickerPackId`、`aniStickerId`、`animationWidth × animationHeigh`
+     - 显示：`isHide`、`startTime`、`endTime`
+     - 收录：`firstSeenIn`、`lastSeenIn`、`removed`
 3. **资源**：图片与 Lottie 合并为一个区块，每个资源一个小方块：预览、类型标签、文件名、下载、新窗口打开、复制路径。基于 `activeAssets`。
-4. **元数据**：分组键值表，点击值复制。
-   - 标识：`emojiId`、`describe`、`qzoneCode`、`qcid`
-   - 动画贴纸：`emojiType`、`aniStickerPackId`、`aniStickerId`、`animationWidth × animationHeigh`
-   - 显示：`isHide`、`startTime`、`endTime`
-   - 收录：`firstSeenIn`、`lastSeenIn`、`removed`
-   - 表格下方为默认折叠的「原始 JSON」及复制按钮，替代现有调试信息区块。
+4. **原始 JSON**：页面底部默认折叠的独立区块，附复制按钮，替代现有调试信息区块。
 
 ### 配色（全站）
 
