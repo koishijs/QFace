@@ -68,6 +68,21 @@ The previous `_index.v2.json` is required. Review the archived files it reports;
 pnpm test  # unit tests for the sync planner
 ```
 
+### Update Supplement Metadata
+
+Metadata (names, keywords, sticker info) of new QQNT emojis is delivered by the server over the logged-in session and only stored in the encrypted `nt_db/emoji.db`; the plain `face_config.json` / `default_config.json` are no longer updated. `scripts/data/sys_emoji_supplement.json` fills the gap and is merged by `gen:qqnt`.
+
+To refresh it:
+
+1. On a GUI QQNT client (Windows is simplest), log in and open the emoji panel once. Headless clients such as NapCat never populate the table.
+2. Decrypt the account databases with [x_key_scanner](https://github.com/QQBackup/x_key_scanner) from an elevated terminal: `x_key_scanner --output ./plain`. macOS QQ enables the hardened runtime, so memory scanning fails there with SIP on.
+3. Convert and merge (works on any OS):
+
+```bash
+pnpm gen:qqnt-supplement path/to/plain/<uin>/emoji.db
+pnpm gen:qqnt  # macOS only
+```
+
 ### Generate WeChat Emoji Indexes
 
 ```bash
