@@ -39,7 +39,7 @@ header#global-header
   top: 0
   left: 0
   right: 0
-  height: 70px
+  height: var(--header-height)
   background: rgba(17, 17, 19, 0.95)
   backdrop-filter: blur(20px)
   border-bottom: 1px solid var(--border-color)

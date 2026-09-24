@@ -680,7 +680,7 @@ $mono: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace
 
 .hero-preview
   position: sticky
-  top: 24px
+  top: calc(var(--header-height) + 24px)
   align-self: start
 
 .preview-box

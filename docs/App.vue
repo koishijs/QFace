@@ -15,6 +15,6 @@
   flex-direction: column
   main
     flex: 1
-    padding-top: 70px
-    min-height: calc(100vh - 70px)
+    padding-top: var(--header-height)
+    min-height: calc(100vh - var(--header-height))
 </style>
