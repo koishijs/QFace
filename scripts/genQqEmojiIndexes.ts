@@ -25,6 +25,7 @@ import {
   AssetHashMap,
   collectEmojiIds,
   compareQqVersions,
+  computeVariantSeen,
   computeVersionFields,
   planEmojiSync,
 } from './qqEmojiArchive'
@@ -340,9 +341,11 @@ class EmojiManager {
   /**
    * 写入版本字段；已下架表情在配置中已无元数据时沿用上一份索引的元数据
    * @param sourceEmojiIds 本次 QQ 资源目录中含资源的表情
+   * @param archivedEmojiIds 本次有旧文件被移入 _history 的表情
    */
   applyVersionFields(
     sourceEmojiIds: Set<string>,
+    archivedEmojiIds: Set<string>,
     prev: QqEmojiIndexV2,
     curVersion: string
   ): void {
@@ -358,6 +361,7 @@ class EmojiManager {
           history: _history,
           firstSeenIn: _firstSeenIn,
           lastSeenIn: _lastSeenIn,
+          assetsFirstSeenIn: _assetsFirstSeenIn,
           removed: _removed,
           ...meta
         } = p
@@ -368,6 +372,23 @@ class EmojiManager {
         emoji,
         computeVersionFields(inSource, emoji.assets.length > 0, p, curVersion)
       )
+
+      const variantSeen = computeVariantSeen(
+        emoji.history?.map((entry) => entry.lastSeenIn) ?? [],
+        p,
+        archivedEmojiIds.has(emoji.emojiId),
+        prev.qqntVersion,
+        curVersion
+      )
+      if (variantSeen.assetsFirstSeenIn) {
+        emoji.assetsFirstSeenIn = variantSeen.assetsFirstSeenIn
+      }
+      emoji.history = emoji.history?.map(({ lastSeenIn, assets }) => {
+        const firstSeenIn = variantSeen.historyFirstSeenIn.get(lastSeenIn)
+        return firstSeenIn
+          ? { firstSeenIn, lastSeenIn, assets }
+          : { lastSeenIn, assets }
+      })
     }
   }
 
@@ -651,6 +672,7 @@ class FileManager {
         ({
           firstSeenIn: _firstSeenIn,
           lastSeenIn: _lastSeenIn,
+          assetsFirstSeenIn: _assetsFirstSeenIn,
           removed: _removed,
           history: _history,
           ...rest
@@ -744,6 +766,7 @@ class QqEmojiGenerator {
 
       this.emojiManager.applyVersionFields(
         sourceEmojiIds,
+        archivedEmojiIds,
         prevIndex,
         curVersion
       )

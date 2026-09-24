@@ -2,6 +2,7 @@ import { describe, it } from 'node:test'
 import assert from 'node:assert/strict'
 import {
   compareQqVersions,
+  computeVariantSeen,
   computeVersionFields,
   planEmojiSync,
 } from './qqEmojiArchive'
@@ -100,6 +101,62 @@ describe('computeVersionFields', () => {
 
   it('sets nothing for metadata-only entries', () => {
     assert.deepEqual(computeVersionFields(false, false, undefined, cur), {})
+  })
+})
+
+describe('computeVariantSeen', () => {
+  const prevSync = '7.0.2-53644'
+  const cur = '7.0.3-60000'
+
+  it('dates the replaced variant and the new current variant on first archive', () => {
+    const result = computeVariantSeen(
+      [prevSync],
+      { firstSeenIn: '6.9.86-42941' },
+      true,
+      prevSync,
+      cur
+    )
+    assert.equal(result.assetsFirstSeenIn, cur)
+    assert.deepEqual([...result.historyFirstSeenIn], [[prevSync, '6.9.86-42941']])
+  })
+
+  it('carries the current variant date into history on a second archive', () => {
+    const prev = {
+      firstSeenIn: '6.9.86-42941',
+      assetsFirstSeenIn: '7.0.1-52892',
+      history: [{ lastSeenIn: '7.0.0-50000', firstSeenIn: '6.9.86-42941' }],
+    }
+    const result = computeVariantSeen(
+      [prevSync, '7.0.0-50000'],
+      prev,
+      true,
+      prevSync,
+      cur
+    )
+    assert.equal(result.assetsFirstSeenIn, cur)
+    assert.deepEqual(Object.fromEntries(result.historyFirstSeenIn), {
+      [prevSync]: '7.0.1-52892',
+      '7.0.0-50000': '6.9.86-42941',
+    })
+  })
+
+  it('keeps dates unchanged when nothing is archived', () => {
+    const prev = {
+      assetsFirstSeenIn: '6.9.87-44204',
+      history: [{ lastSeenIn: '6.9.86-42941' }],
+    }
+    const result = computeVariantSeen(['6.9.86-42941'], prev, false, prevSync, cur)
+    assert.equal(result.assetsFirstSeenIn, '6.9.87-44204')
+    assert.deepEqual([...result.historyFirstSeenIn], [['6.9.86-42941', undefined]])
+  })
+
+  it('drops assetsFirstSeenIn once all history is deleted', () => {
+    const prev = {
+      assetsFirstSeenIn: '6.9.87-44204',
+      history: [{ lastSeenIn: '6.9.86-42941' }],
+    }
+    const result = computeVariantSeen([], prev, false, prevSync, cur)
+    assert.equal(result.assetsFirstSeenIn, undefined)
   })
 })
 

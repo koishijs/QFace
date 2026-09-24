@@ -54,6 +54,7 @@ export interface QqSysEmojiWithAssets extends QqSysEmojiItem {
  * lastSeenIn is a lower bound of when it was removed.
  */
 export interface QqSysEmojiHistory {
+  firstSeenIn?: string
   lastSeenIn: string
   assets: QqSysEmojiAsset[]
 }
@@ -61,6 +62,8 @@ export interface QqSysEmojiHistory {
 export interface QqSysEmojiV2 extends QqSysEmojiWithAssets {
   firstSeenIn?: string
   lastSeenIn?: string
+  /** First sync of the current assets; set only when history exists */
+  assetsFirstSeenIn?: string
   removed?: true
   history?: QqSysEmojiHistory[]
 }

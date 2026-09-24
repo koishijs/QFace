@@ -91,6 +91,57 @@ export function computeVersionFields(
   return {}
 }
 
+export interface VariantSeenPrev {
+  firstSeenIn?: string
+  assetsFirstSeenIn?: string
+  history?: { lastSeenIn: string; firstSeenIn?: string }[]
+}
+
+export interface VariantSeen {
+  /** 当前这一版资源首次同步到的版本；无历史版本时不设 */
+  assetsFirstSeenIn?: string
+  /** 各历史版本（按 lastSeenIn）首次同步到的版本 */
+  historyFirstSeenIn: Map<string, string | undefined>
+}
+
+/**
+ * 计算各资源版本的首次同步版本
+ * @param historyVersions 同步后 _history 下存在的版本（即各历史版本的 lastSeenIn）
+ * @param archived 本次同步是否把该表情的旧文件移入了 _history
+ * @param archiveVersion 本次归档所用的版本，即上一次同步的版本
+ */
+export function computeVariantSeen(
+  historyVersions: string[],
+  prev: VariantSeenPrev | undefined,
+  archived: boolean,
+  archiveVersion: string,
+  curVersion: string
+): VariantSeen {
+  // 被换下的那一版，其首次同步版本就是它作为当前资源时的首次同步版本
+  const replacedFirstSeenIn = prev?.assetsFirstSeenIn ?? prev?.firstSeenIn
+  const historyFirstSeenIn = new Map<string, string | undefined>()
+  for (const version of historyVersions) {
+    const prevEntry = prev?.history?.find((entry) => entry.lastSeenIn === version)
+    historyFirstSeenIn.set(
+      version,
+      prevEntry
+        ? prevEntry.firstSeenIn
+        : archived && version === archiveVersion
+          ? replacedFirstSeenIn
+          : undefined
+    )
+  }
+
+  if (historyVersions.length === 0) {
+    return { historyFirstSeenIn }
+  }
+  const assetsFirstSeenIn = archived ? curVersion : prev?.assetsFirstSeenIn
+  return {
+    ...(assetsFirstSeenIn ? { assetsFirstSeenIn } : {}),
+    historyFirstSeenIn,
+  }
+}
+
 /** 按 `.` / `-` 切分后逐段数值比较，例如 6.9.87-44204 < 7.0.2-53644 */
 export function compareQqVersions(a: string, b: string): number {
   const pa = a.split(/[.-]/).map(Number)
