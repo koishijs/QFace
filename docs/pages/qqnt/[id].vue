@@ -3,262 +3,156 @@
   .breadcrumb-nav
     .breadcrumb-content
       RouterLink.breadcrumb-link(to='/qqnt')
-        svg(
-          fill='none'
-          height='16'
-          viewBox='0 0 24 24'
-          width='16'
-          xmlns='http://www.w3.org/2000/svg'
-        )
-          path(
-            d='M19 12H5M12 19l-7-7 7-7'
-            stroke='currentColor'
-            stroke-linecap='round'
-            stroke-linejoin='round'
-            stroke-width='2'
-          )
+        ArrowLeft(:size='16')
         span 返回列表
-      .breadcrumb-separator
-        svg(
-          fill='none'
-          height='12'
-          viewBox='0 0 24 24'
-          width='12'
-          xmlns='http://www.w3.org/2000/svg'
-        )
-          path(
-            d='M9 18l6-6-6-6'
-            stroke='currentColor'
-            stroke-linecap='round'
-            stroke-linejoin='round'
-            stroke-width='2'
-          )
+      ChevronRight.breadcrumb-separator(:size='14')
       .breadcrumb-current {{ data?.describe?.replace(/^\//, '') || data?.emojiId || 'Loading...' }}
 
   .loading-state(v-if='!data')
-    .loading-content
-      .loading-spinner
-        .spinner
-      h2.loading-title 正在加载表情详情...
-      p.loading-text 请稍候，我们正在获取表情数据
+    .spinner
+    p.loading-text 正在加载表情详情...
 
-  .emoji-detail-content(v-else)
-    .emoji-header
-      .emoji-preview
-        .preview-container
-          img(:alt='data.describe || "QQ Emoji"', :src='previewImage')
-      .emoji-info
-        h1.emoji-title {{ data.describe?.replace(/^\//, '') || '[MISSING_DESCRIBE]' }}
-        .emoji-meta
-          .meta-item
-            .meta-label Emoji ID
-            .meta-value {{ data.emojiId }}
-          .meta-item
-            .meta-label 描述
-            .meta-value {{ data.describe || '无描述' }}
-          .meta-item
-            .meta-label 类型
-            .meta-value {{ data.emojiType }}
-          .meta-item
-            .meta-label 是否隐藏
-            .meta-value
-              .status-badge(:class='data.isHide ? "hidden" : "visible"') {{ data.isHide ? '隐藏' : '显示' }}
-          .meta-item(v-if='data.animationWidth')
-            .meta-label 动画尺寸
-            .meta-value {{ data.animationWidth }} × {{ data.animationHeigh }}
-      .preview-actions
-        button.action-btn(@click='downloadImage' v-if='previewImage')
-          svg(
-            fill='none'
-            height='16'
-            viewBox='0 0 24 24'
-            width='16'
-            xmlns='http://www.w3.org/2000/svg'
+  .detail-content(v-else)
+    //- Version tabs: only when older variants exist
+    .version-tabs(v-if='versionTabs.length > 1' role='tablist')
+      button.version-tab(
+        :aria-selected='activeVersion === tab.key'
+        :class='{ active: activeVersion === tab.key }'
+        :key='tab.key'
+        @click='activeVersion = tab.key'
+        role='tab'
+        v-for='tab in versionTabs'
+      )
+        span.tab-label {{ tab.label }}
+        span.tab-tag(v-if='tab.tag') {{ tab.tag }}
+
+    section.hero-card
+      .hero-preview
+        .preview-box
+          LottieViewer(
+            :animation-link='heroLottie.path'
+            :auto-play='true'
+            :height='180'
+            :width='180'
+            renderer='canvas'
+            v-if='!heroImage && heroLottie'
           )
-            path(
-              d='M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4M7 10l5 5 5-5M12 15V3'
-              stroke='currentColor'
-              stroke-linecap='round'
-              stroke-linejoin='round'
-              stroke-width='2'
+          img(:alt='data.describe || "QQ Emoji"', :src='heroImage || "assets/default.png"' v-else)
+        .preview-actions
+          button.btn(:disabled='!heroStillImage' @click='downloadImage')
+            Download(:size='15')
+            span 下载
+          button.btn(
+            :aria-busy='isConvertingGif ? "true" : "false"'
+            :disabled='!canConvertApngToGif || isConvertingGif'
+            @click='convertApngToGif'
+          )
+            LoaderCircle.spin(:size='15' v-if='isConvertingGif')
+            Download(:size='15' v-else)
+            span {{ isConvertingGif ? '转换中' : '转 GIF' }}
+          button.btn(:disabled='!heroStillImage' @click='copyImage')
+            Copy(:size='15')
+            span 复制图片
+
+      .hero-info
+        .title-row
+          h1.emoji-title {{ data.describe?.replace(/^\//, '') || '未命名表情' }}
+          button.id-chip(@click='copyText(data.emojiId)' title='复制 ID') {{ '#' + data.emojiId }}
+        .badges(v-if='badges.length')
+          span.badge(:class='badge.tone' :key='badge.text' v-for='badge in badges') {{ badge.text }}
+        .seen-line(v-if='data.firstSeenIn || data.lastSeenIn')
+          span(v-if='data.firstSeenIn') 收录于 {{ data.firstSeenIn }}
+          span.dot(v-if='data.firstSeenIn && data.lastSeenIn') ·
+          span(v-if='data.lastSeenIn') 最后见于 {{ data.lastSeenIn }}
+        .words(v-if='data.associateWords?.length')
+          .words-label 关联词汇
+          .words-list
+            button.word(
+              :key='word'
+              @click='searchWithWord(word)'
+              v-for='word in data.associateWords'
+            ) {{ word }}
+
+    section.section-card(v-if='activeAssets.length')
+      .section-header
+        h2.section-title 资源文件
+        .section-count {{ activeAssets.length }}
+      .asset-grid
+        .asset-tile(:key='asset.path' v-for='asset in activeAssets')
+          .asset-thumb
+            LottieViewer(
+              :animation-link='asset.path'
+              :auto-play='true'
+              :height='88'
+              :width='88'
+              renderer='canvas'
+              v-if='asset.type === QqSysEmojiAssetType.LOTTIE_JSON'
             )
-          span 下载
-        button.action-btn(
-          :class='{ "is-loading": isConvertingGif }'
-          :disabled='isConvertingGif'
-          :aria-busy='isConvertingGif ? "true" : "false"'
-          @click='convertApngToGif'
-          v-if='canConvertApngToGif'
-        )
-          svg(
-            v-if='isConvertingGif'
-            fill='none'
-            height='16'
-            viewBox='0 0 24 24'
-            width='16'
-            xmlns='http://www.w3.org/2000/svg'
-          )
-            path(
-              d='M21 12a9 9 0 1 1-6.219-8.56'
-              stroke='currentColor'
-              stroke-linecap='round'
-              stroke-linejoin='round'
-              stroke-width='2'
-            )
-          svg(
-            v-else
-            fill='none'
-            height='16'
-            viewBox='0 0 24 24'
-            width='16'
-            xmlns='http://www.w3.org/2000/svg'
-          )
-            path(
-              d='M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4M7 10l5 5 5-5M12 15V3'
-              stroke='currentColor'
-              stroke-linecap='round'
-              stroke-linejoin='round'
-              stroke-width='2'
-            )
-          span {{ isConvertingGif ? '转换中...' : '转GIF' }}
-        button.action-btn(@click='copyImage' v-if='previewImage')
-          svg(
-            fill='none'
-            height='16'
-            viewBox='0 0 24 24'
-            width='16'
-            xmlns='http://www.w3.org/2000/svg'
-          )
-            path(
-              d='M16 4h2a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2h2M8 2h8v4H8V2z'
-              stroke='currentColor'
-              stroke-linecap='round'
-              stroke-linejoin='round'
-              stroke-width='2'
-            )
-          span 复制
+            img(:alt='asset.name', :src='asset.path' loading='lazy' v-else)
+          .asset-meta
+            .asset-name(:title='asset.name') {{ asset.name }}
+            .asset-type {{ ASSET_TYPE_LABEL[asset.type] }}
+          .asset-actions
+            button.icon-btn(@click='downloadAsset(asset)' title='下载')
+              Download(:size='14')
+            a.icon-btn(:href='asset.path' target='_blank' title='新窗口打开')
+              ExternalLink(:size='14')
+            button.icon-btn(@click='copyText(asset.path)' title='复制路径')
+              Copy(:size='14')
 
-    .emoji-sections
-      .section-card(v-if='data.associateWords?.length')
-        .section-header
-          h2.section-title 关联词汇
-          .section-count {{ data.associateWords.length }} 个
-        .tags-container
-          .tag(
-            :key='word'
-            @click='searchWithWord(word)'
-            v-for='word in data.associateWords'
-          ) {{ word }}
+    section.section-card
+      .section-header
+        h2.section-title 元数据
+        .section-hint 点击值即可复制
+      .meta-grid
+        .meta-group(:key='group.title' v-for='group in metaGroups')
+          h3.meta-group-title {{ group.title }}
+          dl.meta-rows
+            .meta-row(:key='row.key' v-for='row in group.rows')
+              dt.meta-key {{ row.key }}
+              dd.meta-value
+                button.meta-copy(
+                  :title='`复制 ${row.key}`'
+                  @click='copyText(row.value)'
+                  v-if='row.value !== ""'
+                ) {{ row.value }}
+                span.meta-empty(v-else) —
+      details.raw-json
+        summary
+          span 原始 JSON
+          button.btn.btn-small(@click.prevent='copyText(rawJson)')
+            Copy(:size='13')
+            span 复制
+        pre {{ rawJson }}
 
-      .section-card(v-if='imgAssets.length')
-        .section-header
-          h2.section-title 图片资源
-          .section-count {{ imgAssets.length }} 个
-        .assets-grid
-          .asset-item(
-            :key='index'
-            @click='previewAsset(asset)'
-            v-for='(asset, index) in imgAssets'
-          )
-            .asset-preview
-              img(:alt='asset.name', :src='asset.path')
-            .asset-info
-              .asset-name {{ asset.name }}
-              .asset-type {{ QqSysEmojiAssetType[asset.type] }}
-              .asset-actions
-                button.asset-btn(@click.stop='downloadAsset(asset)')
-                  svg(
-                    fill='none'
-                    height='14'
-                    viewBox='0 0 24 24'
-                    width='14'
-                    xmlns='http://www.w3.org/2000/svg'
-                  )
-                    path(
-                      d='M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4M7 10l5 5 5-5M12 15V3'
-                      stroke='currentColor'
-                      stroke-linecap='round'
-                      stroke-linejoin='round'
-                      stroke-width='2'
-                    )
-                a.asset-btn(:href='asset.path' @click.stop target='_blank')
-                  svg(
-                    fill='none'
-                    height='14'
-                    viewBox='0 0 24 24'
-                    width='14'
-                    xmlns='http://www.w3.org/2000/svg'
-                  )
-                    path(
-                      d='M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6M15 3h6v6M10 14L21 3'
-                      stroke='currentColor'
-                      stroke-linecap='round'
-                      stroke-linejoin='round'
-                      stroke-width='2'
-                    )
-
-      .section-card(v-if='lottieFiles.length')
-        .section-header
-          h2.section-title 动画文件
-          .section-count {{ lottieFiles.length }} 个
-        .lottie-container
-          .lottie-item(:key='index' v-for='(file, index) in lottieFiles')
-            .lottie-preview
-              LottieViewer(
-                :animation-link='file.path',
-                :auto-play='true',
-                :height='data.animationHeigh || 200',
-                :width='data.animationWidth || 200'
-                renderer='canvas'
-              )
-            .lottie-info
-              .lottie-name {{ file.name }}
-              .lottie-actions
-                button.lottie-btn(@click='downloadLottie(file)')
-                  svg(
-                    fill='none'
-                    height='14'
-                    viewBox='0 0 24 24'
-                    width='14'
-                    xmlns='http://www.w3.org/2000/svg'
-                  )
-                    path(
-                      d='M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4M7 10l5 5 5-5M12 15V3'
-                      stroke='currentColor'
-                      stroke-linecap='round'
-                      stroke-linejoin='round'
-                      stroke-width='2'
-                    )
-                a.lottie-btn(:href='file.path' target='_blank')
-                  svg(
-                    fill='none'
-                    height='14'
-                    viewBox='0 0 24 24'
-                    width='14'
-                    xmlns='http://www.w3.org/2000/svg'
-                  )
-                    path(
-                      d='M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6M15 3h6v6M10 14L21 3'
-                      stroke='currentColor'
-                      stroke-linecap='round'
-                      stroke-linejoin='round'
-                      stroke-width='2'
-                    )
-
-    .debug-section
-      .section-card
-        .section-header
-          h2.section-title 调试信息
-        .debug-content
-          pre {{ JSON.stringify(data, null, 2) }}
+  Transition(name='toast')
+    .toast(v-if='toastText')
+      Check(:size='14')
+      span {{ toastText }}
 </template>
 
 <script setup lang="ts">
-import { QqSysEmojiAssetType } from '@/types/QqSysEmoji'
+import {
+  ArrowLeft,
+  Check,
+  ChevronRight,
+  Copy,
+  Download,
+  ExternalLink,
+  LoaderCircle,
+} from 'lucide-vue-next'
+import { type QqSysEmojiAsset, QqSysEmojiAssetType } from '@/types/QqSysEmoji'
 
 const LottieViewer = defineAsyncComponent(() =>
   import('vue3-lottie').then((m) => m.Vue3Lottie)
 )
+
+const ASSET_TYPE_LABEL: Record<QqSysEmojiAssetType, string> = {
+  [QqSysEmojiAssetType.THUMB_PNG]: 'PNG',
+  [QqSysEmojiAssetType.THUMB_GIF]: 'GIF',
+  [QqSysEmojiAssetType.APNG]: 'APNG',
+  [QqSysEmojiAssetType.LOTTIE_JSON]: 'Lottie',
+}
 
 const qStore = useQqEmojiStore()
 const route = useRoute()
@@ -270,42 +164,160 @@ const data = computed(() => {
   return qStore.allEmojiList.find((item) => item.emojiId === emojiId.value)
 })
 
-const imgAssets = computed(() => {
+// 版本标签：CURRENT 为当前资源，其余为 history 中的 lastSeenIn
+const CURRENT = '__current__'
+const activeVersion = ref(CURRENT)
+
+const versionTabs = computed(() => {
+  if (!data.value) {
+    return []
+  }
+  return [
+    {
+      key: CURRENT,
+      label: data.value.lastSeenIn || '当前',
+      tag: data.value.removed ? '最后版本' : '最新',
+    },
+    ...(data.value.history || []).map((entry) => ({
+      key: entry.lastSeenIn,
+      label: entry.lastSeenIn,
+      tag: '',
+    })),
+  ]
+})
+
+const activeAssets = computed<QqSysEmojiAsset[]>(() => {
+  if (!data.value) {
+    return []
+  }
+  if (activeVersion.value === CURRENT) {
+    return data.value.assets
+  }
   return (
-    data.value?.assets.filter(
-      (item) => item.type !== QqSysEmojiAssetType.LOTTIE_JSON
-    ) || []
+    data.value.history?.find((entry) => entry.lastSeenIn === activeVersion.value)
+      ?.assets || []
   )
 })
 
-const lottieFiles = computed(() => {
-  return (
-    data.value?.assets.filter(
-      (item) => item.type === QqSysEmojiAssetType.LOTTIE_JSON
-    ) || []
-  )
+const findAsset = (type: QqSysEmojiAssetType) =>
+  activeAssets.value.find((asset) => asset.type === type)
+
+const heroImage = computed(
+  () =>
+    (
+      findAsset(QqSysEmojiAssetType.APNG) ||
+      findAsset(QqSysEmojiAssetType.THUMB_GIF) ||
+      (findAsset(QqSysEmojiAssetType.LOTTIE_JSON)
+        ? undefined
+        : findAsset(QqSysEmojiAssetType.THUMB_PNG))
+    )?.path
+)
+
+const heroLottie = computed(() =>
+  findAsset(QqSysEmojiAssetType.LOTTIE_JSON)
+)
+
+// 下载 / 复制使用的静态图：有 Lottie 预览时退回 PNG
+const heroStillImage = computed(
+  () =>
+    heroImage.value ||
+    findAsset(QqSysEmojiAssetType.THUMB_PNG)?.path ||
+    ''
+)
+
+const apngAsset = computed(() => findAsset(QqSysEmojiAssetType.APNG) || null)
+
+const canConvertApngToGif = computed(
+  () => !!apngAsset.value && !findAsset(QqSysEmojiAssetType.THUMB_GIF)
+)
+
+const fileBaseName = computed(() => {
+  const id = data.value?.emojiId || 'emoji'
+  return activeVersion.value === CURRENT ? id : `${id}_${activeVersion.value}`
 })
 
-const isConvertingGif = ref(false)
-
-const apngAsset = computed(() => {
-  return (
-    data.value?.assets.find((item) => item.type === QqSysEmojiAssetType.APNG) ||
-    null
-  )
+const badges = computed(() => {
+  const d = data.value
+  if (!d) {
+    return []
+  }
+  return [
+    d.removed && { text: '已下架', tone: 'warn' },
+    d.isHide && { text: '面板隐藏', tone: 'muted' },
+    d.emojiType === 1 && { text: '超级表情', tone: 'brand' },
+  ].filter(Boolean) as { text: string; tone: string }[]
 })
 
-const hasGifAsset = computed(() => {
-  return (
-    data.value?.assets.some(
-      (item) => item.type === QqSysEmojiAssetType.THUMB_GIF
-    ) || false
-  )
+const metaGroups = computed(() => {
+  const d = data.value
+  if (!d) {
+    return []
+  }
+  const str = (value: unknown) =>
+    value === undefined || value === null ? '' : String(value)
+  return [
+    {
+      title: '标识',
+      rows: [
+        { key: 'emojiId', value: str(d.emojiId) },
+        { key: 'describe', value: str(d.describe) },
+        { key: 'qzoneCode', value: str(d.qzoneCode) },
+        { key: 'qcid', value: str(d.qcid) },
+      ],
+    },
+    {
+      title: '动画贴纸',
+      rows: [
+        { key: 'emojiType', value: str(d.emojiType) },
+        { key: 'aniStickerPackId', value: str(d.aniStickerPackId) },
+        { key: 'aniStickerId', value: str(d.aniStickerId) },
+        {
+          key: 'animationSize',
+          value: d.animationWidth
+            ? `${d.animationWidth} × ${d.animationHeigh}`
+            : '',
+        },
+      ],
+    },
+    {
+      title: '显示',
+      rows: [
+        { key: 'isHide', value: str(d.isHide) },
+        { key: 'startTime', value: str(d.startTime) },
+        { key: 'endTime', value: str(d.endTime) },
+      ],
+    },
+    {
+      title: '收录',
+      rows: [
+        { key: 'firstSeenIn', value: str(d.firstSeenIn) },
+        { key: 'lastSeenIn', value: str(d.lastSeenIn) },
+        { key: 'removed', value: str(!!d.removed) },
+      ],
+    },
+  ]
 })
 
-const canConvertApngToGif = computed(() => {
-  return !!apngAsset.value && !hasGifAsset.value
-})
+const rawJson = computed(() => JSON.stringify(data.value, null, 2))
+
+// 复制提示
+const toastText = ref('')
+let toastTimer: ReturnType<typeof setTimeout> | undefined
+function showToast(text: string) {
+  toastText.value = text
+  clearTimeout(toastTimer)
+  toastTimer = setTimeout(() => (toastText.value = ''), 1600)
+}
+
+async function copyText(text: string) {
+  try {
+    await navigator.clipboard.writeText(text)
+    showToast('已复制')
+  } catch (err) {
+    console.error('复制失败:', err)
+    showToast('复制失败')
+  }
+}
 
 let converterModulesPromise: Promise<{
   parseAPNG: (buffer: ArrayBuffer) => any
@@ -378,41 +390,38 @@ async function loadConverterModules() {
   return converterModulesPromise
 }
 
-const previewImage = computed(() => {
-  const posibleThumb = [
-    QqSysEmojiAssetType.APNG,
-    QqSysEmojiAssetType.THUMB_GIF,
-    QqSysEmojiAssetType.THUMB_PNG,
-  ]
-  return (
-    posibleThumb
-      .map((type) => data.value?.assets.find((asset) => asset.type === type))
-      .filter(Boolean)[0]?.path || 'assets/default.png'
-  )
-})
-
-// 功能函数
-function downloadImage() {
+function triggerDownload(href: string, fileName: string) {
   const link = document.createElement('a')
-  link.href = previewImage.value
-  link.download = `${data.value?.emojiId || 'emoji'}.png`
+  link.href = href
+  link.download = fileName
   document.body.appendChild(link)
   link.click()
   document.body.removeChild(link)
 }
 
+function downloadImage() {
+  if (heroStillImage.value) {
+    triggerDownload(heroStillImage.value, `${fileBaseName.value}.png`)
+  }
+}
+
+function downloadAsset(asset: QqSysEmojiAsset) {
+  triggerDownload(asset.path, asset.name)
+}
+
 async function copyImage() {
   try {
-    const response = await fetch(previewImage.value)
+    const response = await fetch(heroStillImage.value)
     const blob = await response.blob()
     await navigator.clipboard.write([
       new ClipboardItem({
         [blob.type]: blob,
       }),
     ])
-    // 可以添加成功提示
+    showToast('图片已复制')
   } catch (err) {
     console.error('复制失败:', err)
+    showToast('复制失败')
   }
 }
 
@@ -423,30 +432,13 @@ function searchWithWord(word: string) {
   })
 }
 
-function previewAsset(asset: any) {
-  // 可以打开模态框预览
-  window.open(asset.path, '_blank')
-}
-
-function downloadAsset(asset: any) {
-  const link = document.createElement('a')
-  link.href = asset.path
-  link.download = asset.name
-  document.body.appendChild(link)
-  link.click()
-  document.body.removeChild(link)
-}
-
 function downloadBlob(blob: Blob, fileName: string) {
   const url = URL.createObjectURL(blob)
-  const link = document.createElement('a')
-  link.href = url
-  link.download = fileName
-  document.body.appendChild(link)
-  link.click()
-  document.body.removeChild(link)
+  triggerDownload(url, fileName)
   URL.revokeObjectURL(url)
 }
+
+const isConvertingGif = ref(false)
 
 async function convertApngToGif() {
   if (!canConvertApngToGif.value || !apngAsset.value || isConvertingGif.value) {
@@ -511,8 +503,10 @@ async function convertApngToGif() {
 
     gif.finish()
     const gifBytes = gif.bytes()
-    const fileName = `${data.value?.emojiId || 'emoji'}.gif`
-    downloadBlob(new Blob([gifBytes], { type: 'image/gif' }), fileName)
+    downloadBlob(
+      new Blob([gifBytes], { type: 'image/gif' }),
+      `${fileBaseName.value}.gif`
+    )
   } catch (err) {
     console.error('APNG 转 GIF 失败:', err)
     window.alert('APNG 转 GIF 失败，请稍后重试')
@@ -521,18 +515,10 @@ async function convertApngToGif() {
   }
 }
 
-function downloadLottie(file: any) {
-  const link = document.createElement('a')
-  link.href = file.path
-  link.download = file.name
-  document.body.appendChild(link)
-  link.click()
-  document.body.removeChild(link)
-}
-
 onBeforeRouteUpdate((to) => {
   if (to.name === route.name) {
     emojiId.value = to.params.id as string
+    activeVersion.value = CURRENT
   }
 })
 
@@ -542,32 +528,33 @@ onMounted(() => {
 </script>
 
 <style scoped lang="sass">
+$mono: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace
+
 #emoji-details
   min-height: 100vh
-  background: var(--background-dark)
   padding-bottom: 60px
 
 .breadcrumb-nav
   background: var(--background-card)
   border-bottom: 1px solid var(--border-color)
-  padding: 16px 0
+  padding: 12px 0
 
 .breadcrumb-content
-  max-width: 1400px
+  max-width: 1200px
   margin: 0 auto
   padding: 0 24px
   display: flex
   align-items: center
-  gap: 12px
+  gap: 8px
 
 .breadcrumb-link
   display: flex
   align-items: center
-  gap: 8px
+  gap: 6px
   color: var(--text-secondary)
   text-decoration: none
   font-weight: 500
-  padding: 8px 12px
+  padding: 6px 10px
   border-radius: 8px
   transition: all 0.2s ease
 
@@ -584,446 +571,474 @@ onMounted(() => {
 
 .loading-state
   display: flex
+  flex-direction: column
   align-items: center
   justify-content: center
+  gap: 16px
   min-height: 60vh
-  padding: 60px 20px
-
-.loading-content
-  text-align: center
-  max-width: 400px
-
-.loading-spinner
-  margin-bottom: 24px
 
 .spinner
-  width: 48px
-  height: 48px
+  width: 40px
+  height: 40px
   border: 3px solid var(--border-color)
-  border-top: 3px solid #667eea
+  border-top-color: var(--color-primary-text)
   border-radius: 50%
   animation: spin 1s linear infinite
-  margin: 0 auto
+
+.spin
+  animation: spin 1s linear infinite
 
 @keyframes spin
-  0%
-    transform: rotate(0deg)
-  100%
+  to
     transform: rotate(360deg)
 
-.loading-title
-  font-size: 24px
-  font-weight: 600
-  color: var(--text-primary)
-  margin: 0 0 12px 0
-
 .loading-text
-  font-size: 16px
   color: var(--text-secondary)
   margin: 0
-  line-height: 1.6
 
-.emoji-detail-content
-  max-width: 1400px
+.detail-content
+  max-width: 1200px
   margin: 0 auto
-  padding: 40px 24px
-
-.emoji-header
-  display: grid
-  grid-template-columns: 300px 1fr
-  gap: 40px
-  margin-bottom: 60px
-  background: var(--background-card)
-  border-radius: 20px
-  padding: 40px
-  border: 1px solid var(--border-color)
-
-.emoji-preview
-  display: flex
-  align-items: center
-  justify-content: center
-
-.preview-container
-  width: 200px
-  height: 200px
-  border-radius: 16px
-  overflow: hidden
-  background: linear-gradient(135deg, rgba(102, 126, 234, 0.1) 0%, rgba(118, 75, 162, 0.1) 100%)
-  display: flex
-  align-items: center
-  justify-content: center
-  border: 1px solid var(--border-color)
-
-  img
-    max-width: 100%
-    max-height: 100%
-    object-fit: contain
-
-.preview-actions
-  display: flex
-  gap: 12px
-  grid-column: 1 / -1
-  padding-top: 20px
-  margin-top: 4px
-  border-top: 1px solid var(--border-color)
-
-.action-btn
-  flex: 1
-  display: flex
-  align-items: center
-  justify-content: center
-  gap: 8px
-  padding: 12px 16px
-  background: var(--background-hover)
-  border: 1px solid var(--border-color)
-  border-radius: 12px
-  color: var(--text-primary)
-  font-weight: 500
-  cursor: pointer
-  transition: all 0.2s ease
-
-  &:hover
-    background: var(--primary-gradient)
-    color: white
-    transform: translateY(-2px)
-
-  &:disabled
-    opacity: 0.6
-    cursor: not-allowed
-
-  &:disabled:hover
-    background: var(--background-hover)
-    color: var(--text-primary)
-    transform: none
-
-  &.is-loading svg
-    animation: spin 0.9s linear infinite
-
-  span
-    white-space: nowrap
-
-.emoji-info
+  padding: 32px 24px
   display: flex
   flex-direction: column
   gap: 24px
 
-.emoji-title
-  font-size: 32px
-  font-weight: 800
-  color: var(--text-primary)
-  margin: 0
-  line-height: 1.2
-
-.emoji-meta
-  display: grid
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr))
-  gap: 16px
-
-.meta-item
-  display: flex
-  flex-direction: column
-  gap: 4px
-
-.meta-label
-  font-size: 12px
-  color: var(--text-muted)
-  text-transform: uppercase
-  letter-spacing: 1px
-  font-weight: 600
-
-.meta-value
-  font-size: 14px
-  color: var(--text-primary)
-  font-weight: 500
-
-.status-badge
-  display: inline-block
-  padding: 4px 12px
-  border-radius: 20px
-  font-size: 12px
-  font-weight: 600
-  text-transform: uppercase
-  letter-spacing: 0.5px
-
-  &.visible
-    background: rgba(76, 175, 80, 0.2)
-    color: #4caf50
-
-  &.hidden
-    background: rgba(244, 67, 54, 0.2)
-    color: #f44336
-
-.emoji-sections
-  display: flex
-  flex-direction: column
-  gap: 32px
-
-.section-card
-  background: var(--background-card)
-  border: 1px solid var(--border-color)
-  border-radius: 20px
-  padding: 32px
-  transition: all 0.3s ease
-
-  &:hover
-    box-shadow: var(--shadow-md)
-
-.section-header
-  display: flex
-  justify-content: space-between
-  align-items: center
-  margin-bottom: 24px
-
-.section-title
-  font-size: 24px
-  font-weight: 700
-  color: var(--text-primary)
-  margin: 0
-
-.section-count
-  background: var(--primary-gradient)
-  color: white
-  padding: 6px 12px
-  border-radius: 20px
-  font-size: 12px
-  font-weight: 600
-  text-transform: uppercase
-  letter-spacing: 1px
-
-.tags-container
+// Version tabs
+.version-tabs
   display: flex
   flex-wrap: wrap
-  gap: 12px
+  gap: 8px
 
-.tag
+.version-tab
+  display: inline-flex
+  align-items: center
+  gap: 8px
+  padding: 7px 14px
+  border-radius: 999px
+  border: 1px solid var(--border-color)
+  background: var(--background-card)
+  color: var(--text-secondary)
+  font-family: $mono
+  font-size: 13px
+  cursor: pointer
+  transition: all 0.2s ease
+
+  &:hover
+    color: var(--text-primary)
+    border-color: var(--color-primary-text)
+
+  &.active
+    background: var(--color-primary)
+    border-color: var(--color-primary)
+    color: #fff
+
+  .tab-tag
+    font-family: inherit
+    font-size: 11px
+    padding: 1px 6px
+    border-radius: 999px
+    background: rgba(255, 255, 255, 0.16)
+
+// Shared buttons
+.btn
+  display: inline-flex
+  align-items: center
+  justify-content: center
+  gap: 6px
+  padding: 9px 8px
+  border-radius: 10px
+  white-space: nowrap
+  border: 1px solid var(--border-color)
   background: var(--background-hover)
   color: var(--text-primary)
-  padding: 8px 16px
-  border-radius: 20px
-  font-size: 14px
+  font-size: 13px
   font-weight: 500
   cursor: pointer
   transition: all 0.2s ease
-  border: 1px solid var(--border-color)
 
-  &:hover
-    background: var(--primary-gradient)
-    color: white
-    transform: translateY(-2px)
+  &:hover:not(:disabled)
+    border-color: var(--color-primary-text)
+    background: var(--color-primary-soft)
 
-.assets-grid
+  &:disabled
+    opacity: 0.45
+    cursor: not-allowed
+
+.btn-small
+  padding: 4px 10px
+  font-size: 12px
+  border-radius: 8px
+
+// Hero
+.hero-card
   display: grid
-  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr))
-  gap: 20px
-
-.asset-item
-  background: var(--background-hover)
+  grid-template-columns: 300px minmax(0, 1fr)
+  gap: 32px
+  padding: 28px
+  background: var(--background-card)
   border: 1px solid var(--border-color)
   border-radius: 16px
+
+.preview-box
+  aspect-ratio: 1
+  display: grid
+  place-items: center
+  border-radius: 14px
+  background: var(--background-hover)
+  border: 1px solid var(--border-color)
   overflow: hidden
-  cursor: pointer
-  transition: all 0.3s ease
-
-  &:hover
-    transform: translateY(-4px)
-    box-shadow: var(--shadow-md)
-
-.asset-preview
-  height: 120px
-  display: flex
-  align-items: center
-  justify-content: center
-  background: rgba(255, 255, 255, 0.05)
 
   img
-    max-width: 100%
-    max-height: 100%
+    width: 64%
+    height: 64%
     object-fit: contain
 
-.asset-info
-  padding: 16px
+.preview-actions
+  display: grid
+  grid-template-columns: repeat(3, 1fr)
+  gap: 8px
+  margin-top: 12px
+
+.hero-info
+  display: flex
+  flex-direction: column
+  gap: 16px
+  min-width: 0
+
+.title-row
+  display: flex
+  align-items: center
+  flex-wrap: wrap
+  gap: 12px
+
+.emoji-title
+  margin: 0
+  font-size: 32px
+  font-weight: 700
+  line-height: 1.2
+
+.id-chip
+  font-family: $mono
+  font-size: 14px
+  padding: 3px 10px
+  border-radius: 8px
+  border: 1px solid var(--border-color)
+  background: var(--background-hover)
+  color: var(--color-primary-text)
+  cursor: pointer
+
+  &:hover
+    background: var(--color-primary-soft)
+
+.badges
+  display: flex
+  flex-wrap: wrap
+  gap: 8px
+
+.badge
+  font-size: 12px
+  font-weight: 600
+  padding: 3px 10px
+  border-radius: 999px
+
+  &.brand
+    color: var(--color-primary-text)
+    background: var(--color-primary-soft)
+
+  &.muted
+    color: var(--text-secondary)
+    background: var(--background-hover)
+
+  &.warn
+    color: #f5b971
+    background: rgba(245, 185, 113, 0.12)
+
+.seen-line
+  display: flex
+  flex-wrap: wrap
+  gap: 8px
+  font-family: $mono
+  font-size: 13px
+  color: var(--text-secondary)
+
+  .dot
+    color: var(--text-muted)
+
+.words
+  display: flex
+  flex-direction: column
+  gap: 8px
+
+.words-label
+  font-size: 12px
+  color: var(--text-muted)
+
+.words-list
+  display: flex
+  flex-wrap: wrap
+  gap: 6px
+
+.word
+  font-size: 13px
+  padding: 4px 10px
+  border-radius: 8px
+  border: 1px solid var(--border-color)
+  background: transparent
+  color: var(--text-secondary)
+  cursor: pointer
+  transition: all 0.2s ease
+
+  &:hover
+    color: var(--color-primary-text)
+    border-color: var(--color-primary-text)
+
+// Sections
+.section-card
+  padding: 24px
+  background: var(--background-card)
+  border: 1px solid var(--border-color)
+  border-radius: 16px
+
+.section-header
+  display: flex
+  align-items: baseline
+  gap: 10px
+  margin-bottom: 16px
+
+.section-title
+  margin: 0
+  font-size: 18px
+  font-weight: 600
+
+.section-count
+  font-family: $mono
+  font-size: 13px
+  color: var(--text-muted)
+
+.section-hint
+  font-size: 12px
+  color: var(--text-muted)
+
+// Assets
+.asset-grid
+  display: grid
+  grid-template-columns: repeat(auto-fill, minmax(160px, 1fr))
+  gap: 12px
+
+.asset-tile
+  display: flex
+  flex-direction: column
+  border: 1px solid var(--border-color)
+  border-radius: 12px
+  background: var(--background-hover)
+  overflow: hidden
+
+.asset-thumb
+  aspect-ratio: 4 / 3
+  display: grid
+  place-items: center
+  background: rgba(0, 0, 0, 0.2)
+
+  img
+    width: 88px
+    height: 88px
+    object-fit: contain
+
+.asset-meta
+  display: flex
+  align-items: center
+  justify-content: space-between
+  gap: 8px
+  padding: 10px 12px 4px
 
 .asset-name
-  font-size: 14px
-  font-weight: 600
-  color: var(--text-primary)
-  margin-bottom: 4px
+  font-family: $mono
+  font-size: 12px
   overflow: hidden
   text-overflow: ellipsis
   white-space: nowrap
 
 .asset-type
-  font-size: 12px
-  color: var(--text-secondary)
-  margin-bottom: 12px
+  flex-shrink: 0
+  font-size: 11px
+  font-weight: 600
+  padding: 1px 6px
+  border-radius: 6px
+  color: var(--color-primary-text)
+  background: var(--color-primary-soft)
 
 .asset-actions
   display: flex
-  gap: 8px
+  gap: 4px
+  padding: 6px 8px 8px
 
-.asset-btn
+.icon-btn
   flex: 1
-  display: flex
-  align-items: center
-  justify-content: center
-  padding: 8px
-  background: var(--background-card)
-  border: 1px solid var(--border-color)
+  display: grid
+  place-items: center
+  height: 28px
   border-radius: 8px
+  border: none
+  background: transparent
   color: var(--text-secondary)
   cursor: pointer
   transition: all 0.2s ease
-  text-decoration: none
 
   &:hover
-    background: var(--primary-gradient)
-    color: white
+    color: var(--text-primary)
+    background: var(--color-primary-soft)
 
-.lottie-container
+// Metadata
+.meta-grid
   display: grid
-  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr))
-  gap: 24px
+  grid-template-columns: repeat(2, minmax(0, 1fr))
+  gap: 12px
 
-.lottie-item
-  background: var(--background-hover)
+.meta-group
   border: 1px solid var(--border-color)
-  border-radius: 16px
-  overflow: hidden
-  transition: all 0.3s ease
+  border-radius: 12px
+  padding: 14px 16px
 
-  &:hover
-    transform: translateY(-4px)
-    box-shadow: var(--shadow-md)
-
-.lottie-preview
-  height: 200px
-  display: flex
-  align-items: center
-  justify-content: center
-  background: rgba(255, 255, 255, 0.05)
-
-.lottie-info
-  padding: 16px
-
-.lottie-name
-  font-size: 14px
+.meta-group-title
+  margin: 0 0 8px
+  font-size: 13px
   font-weight: 600
+  color: var(--text-secondary)
+
+.meta-rows
+  margin: 0
+
+.meta-row
+  display: grid
+  grid-template-columns: 140px minmax(0, 1fr)
+  align-items: center
+  gap: 8px
+  min-height: 30px
+
+.meta-key
+  font-family: $mono
+  font-size: 12px
+  color: var(--text-muted)
+
+.meta-value
+  margin: 0
+  min-width: 0
+
+.meta-copy
+  max-width: 100%
+  font-family: $mono
+  font-size: 13px
+  text-align: left
+  padding: 2px 6px
+  margin-left: -6px
+  border: none
+  border-radius: 6px
+  background: transparent
   color: var(--text-primary)
-  margin-bottom: 12px
+  cursor: copy
   overflow: hidden
   text-overflow: ellipsis
   white-space: nowrap
 
-.lottie-actions
-  display: flex
-  gap: 8px
-
-.lottie-btn
-  flex: 1
-  display: flex
-  align-items: center
-  justify-content: center
-  padding: 8px
-  background: var(--background-card)
-  border: 1px solid var(--border-color)
-  border-radius: 8px
-  color: var(--text-secondary)
-  cursor: pointer
-  transition: all 0.2s ease
-  text-decoration: none
-
   &:hover
-    background: var(--primary-gradient)
-    color: white
+    background: var(--color-primary-soft)
 
-.debug-section
-  margin-top: 32px
+.meta-empty
+  color: var(--text-muted)
 
-.debug-content
-  background: var(--background-hover)
+.raw-json
+  margin-top: 16px
   border: 1px solid var(--border-color)
   border-radius: 12px
-  padding: 20px
-  overflow-x: auto
+
+  summary
+    display: flex
+    align-items: center
+    justify-content: space-between
+    padding: 10px 16px
+    font-size: 13px
+    color: var(--text-secondary)
+    cursor: pointer
+    list-style: none
+
+    &::-webkit-details-marker
+      display: none
+
+    &::before
+      content: '▸'
+      margin-right: 8px
+      transition: transform 0.2s ease
+
+    span
+      margin-right: auto
+
+  &[open] summary::before
+    transform: rotate(90deg)
 
   pre
     margin: 0
-    color: var(--text-secondary)
+    padding: 16px
+    max-height: 480px
+    overflow: auto
+    border-top: 1px solid var(--border-color)
+    font-family: $mono
     font-size: 12px
-    line-height: 1.6
-    font-family: 'JetBrains Mono', 'Fira Code', monospace
+    color: var(--text-secondary)
 
-.debug-toggle
-  background: none
-  border: none
-  color: var(--text-secondary)
-  cursor: pointer
-  padding: 8px
-  border-radius: 8px
-  transition: all 0.2s ease
-
-  &:hover
-    background: var(--background-hover)
-    color: var(--text-primary)
-
-.debug-toggle-btn
+// Toast
+.toast
   position: fixed
-  bottom: 24px
-  right: 24px
-  background: var(--background-card)
-  border: 1px solid var(--border-color)
-  border-radius: 50px
-  padding: 12px 20px
-  color: var(--text-secondary)
-  cursor: pointer
+  left: 50%
+  bottom: 32px
+  z-index: 100
+  transform: translateX(-50%)
   display: flex
   align-items: center
-  gap: 8px
-  font-size: 14px
-  font-weight: 500
-  transition: all 0.3s ease
-  z-index: 100
+  gap: 6px
+  padding: 8px 16px
+  border-radius: 999px
+  background: var(--color-primary)
+  color: #fff
+  font-size: 13px
+  box-shadow: var(--shadow-lg)
 
-  &:hover
-    background: var(--primary-gradient)
-    color: white
-    transform: translateY(-2px)
-    box-shadow: var(--shadow-md)
+.toast-enter-active,
+.toast-leave-active
+  transition: all 0.2s ease
 
-@media (max-width: 1024px)
-  .emoji-header
-    grid-template-columns: 1fr
-    gap: 32px
-    text-align: center
-
-  .preview-actions
-    padding-top: 12px
+.toast-enter-from,
+.toast-leave-to
+  opacity: 0
+  transform: translate(-50%, 8px)
 
 @media (max-width: 768px)
-  .emoji-detail-content
+  .detail-content
     padding: 20px 16px
 
-  .emoji-header
-    padding: 24px
+  .hero-card
+    grid-template-columns: 1fr
+    padding: 20px
+    gap: 20px
 
-  .preview-actions
-    flex-wrap: wrap
-
-  .action-btn
-    flex: 1 1 calc(50% - 6px)
+  .hero-preview
+    max-width: 320px
+    width: 100%
+    margin: 0 auto
 
   .emoji-title
-    font-size: 24px
+    font-size: 26px
 
-  .assets-grid
-    grid-template-columns: repeat(auto-fill, minmax(160px, 1fr))
+  .section-card
+    padding: 16px
 
-  .lottie-container
+  .asset-grid
+    grid-template-columns: repeat(2, minmax(0, 1fr))
+    gap: 8px
+
+  .meta-grid
     grid-template-columns: 1fr
 
-  .debug-toggle-btn
-    bottom: 16px
-    right: 16px
-    padding: 10px 16px
-    font-size: 12px
+  .meta-row
+    grid-template-columns: 120px minmax(0, 1fr)
 </style>

@@ -2,6 +2,7 @@
 .qq-emoji-mini-card
   .card-inner
     .emoji-container
+      .removed-badge(v-if='value.removed') 已下架
       .emoji-thumb
         img(:alt='value.describe || "QQ Emoji"', :src='src' loading='lazy')
         .emoji-overlay
@@ -41,10 +42,10 @@
 </template>
 
 <script setup lang="ts">
-import type { QqSysEmojiWithAssets } from '@/types/QqSysEmoji'
+import type { QqSysEmojiV2 } from '@/types/QqSysEmoji'
 
 const props = defineProps<{
-  value: QqSysEmojiWithAssets
+  value: QqSysEmojiV2
 }>()
 
 const getValidThumbImage = (emoji: QqSysEmojiWithAssets) => {
@@ -118,6 +119,19 @@ const hasLottie = computed(() => {
   justify-content: center
   padding: 20px
   background: var(--color-primary-soft)
+
+.removed-badge
+  position: absolute
+  top: 10px
+  right: 10px
+  z-index: 1
+  padding: 2px 8px
+  border-radius: 999px
+  font-size: 11px
+  font-weight: 600
+  color: var(--text-secondary)
+  background: rgba(0, 0, 0, 0.45)
+  border: 1px solid var(--border-color)
 
 .emoji-thumb
   position: relative

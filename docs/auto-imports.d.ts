@@ -324,7 +324,7 @@ declare global {
   export type { Component, Slot, Slots, ComponentPublicInstance, ComputedRef, DirectiveBinding, ExtractDefaultPropTypes, ExtractPropTypes, ExtractPublicPropTypes, InjectionKey, PropType, Ref, ShallowRef, MaybeRef, MaybeRefOrGetter, VNode, WritableComputedRef } from 'vue'
   import('vue')
   // @ts-ignore
-  export type { QqSysEmojiAssetType, QqSysEmojiItem, QqSysEmojiGroup, QQSysEmojiConfig, QqSysEmojiAsset, QqSysEmojiWithAssets, QqNTSystemEmojiItem } from './types/QqSysEmoji'
+  export type { QqSysEmojiAssetType, QqSysEmojiItem, QqSysEmojiGroup, QQSysEmojiConfig, QqSysEmojiAsset, QqSysEmojiWithAssets, QqSysEmojiHistory, QqSysEmojiV2, QqEmojiIndexV2, QqNTSystemEmojiItem } from './types/QqSysEmoji'
   import('./types/QqSysEmoji')
   // @ts-ignore
   export type { WechatNewEmojiItem, WechatNewEmojiConfig } from './types/WechatNewEmoji'

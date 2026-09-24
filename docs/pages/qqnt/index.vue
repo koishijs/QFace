@@ -11,6 +11,7 @@
         .stat-item
           .stat-number {{ totalAssets }}
           .stat-label 个资源文件
+      p.hero-sync(v-if='emoji.qqntVersion') 数据同步自 QQ {{ emoji.qqntVersion }}
   .content-section
     .section-header
       h2.section-title 表情列表
@@ -113,6 +114,12 @@ onMounted(() => {
   margin: 0 auto
   padding: 0 24px
   text-align: center
+
+.hero-sync
+  margin: 24px 0 0
+  font-size: 13px
+  color: var(--text-muted)
+  font-family: ui-monospace, SFMono-Regular, Menlo, monospace
 
 .hero-title
   font-size: 48px
