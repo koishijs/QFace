@@ -117,7 +117,7 @@ const hasLottie = computed(() => {
   align-items: center
   justify-content: center
   padding: 20px
-  background: linear-gradient(135deg, rgba(102, 126, 234, 0.1) 0%, rgba(118, 75, 162, 0.1) 100%)
+  background: var(--color-primary-soft)
 
 .emoji-thumb
   position: relative
@@ -153,7 +153,7 @@ const hasLottie = computed(() => {
 
 .view-icon
   color: white
-  background: var(--primary-gradient)
+  background: var(--color-primary)
   border-radius: 50%
   width: 40px
   height: 40px

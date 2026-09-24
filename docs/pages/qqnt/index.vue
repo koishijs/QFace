@@ -105,7 +105,7 @@ onMounted(() => {
 
 .hero-section
   padding: 80px 0 60px
-  background: linear-gradient(135deg, rgba(102, 126, 234, 0.1) 0%, rgba(118, 75, 162, 0.1) 100%)
+  background: var(--color-primary-soft)
   border-bottom: 1px solid var(--border-color)
 
 .hero-content
@@ -118,10 +118,7 @@ onMounted(() => {
   font-size: 48px
   font-weight: 800
   margin: 0 0 16px 0
-  background: var(--primary-gradient)
-  -webkit-background-clip: text
-  -webkit-text-fill-color: transparent
-  background-clip: text
+  color: var(--color-primary-text)
   line-height: 1.2
 
 .hero-subtitle
@@ -190,8 +187,8 @@ onMounted(() => {
 
     &:focus
       outline: none
-      border-color: #667eea
-      box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.1)
+      border-color: var(--color-primary-text)
+      box-shadow: 0 0 0 3px var(--color-primary-soft)
 
     &::placeholder
       color: var(--text-muted)

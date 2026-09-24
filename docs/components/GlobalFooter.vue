@@ -89,7 +89,7 @@ footer#global-footer
   width: 48px
   height: 48px
   border-radius: 12px
-  background: var(--primary-gradient)
+  background: var(--color-primary)
   display: flex
   align-items: center
   justify-content: center
@@ -99,12 +99,8 @@ footer#global-footer
   h3
     font-size: 24px
     font-weight: 700
-    color: var(--text-primary)
     margin: 0 0 8px 0
-    background: var(--primary-gradient)
-    -webkit-background-clip: text
-    -webkit-text-fill-color: transparent
-    background-clip: text
+    color: var(--color-primary-text)
 
   p
     font-size: 14px
@@ -154,7 +150,7 @@ footer#global-footer
       font-weight: 500
 
       &:hover
-        color: #667eea
+        color: var(--color-primary-text)
 
   .disclaimer
     font-size: 12px
@@ -177,7 +173,7 @@ footer#global-footer
   transition: all 0.2s ease
 
   &:hover
-    background: var(--primary-gradient)
+    background: var(--color-primary)
     color: white
     transform: translateY(-2px)
 

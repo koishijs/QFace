@@ -76,7 +76,7 @@ header#global-header
   width: 40px
   height: 40px
   border-radius: 10px
-  background: var(--primary-gradient)
+  background: var(--color-primary)
   box-shadow: var(--shadow-md)
 
 .logo-text
@@ -84,10 +84,7 @@ header#global-header
     margin: 0
     font-size: 24px
     font-weight: 700
-    background: var(--primary-gradient)
-    -webkit-background-clip: text
-    -webkit-text-fill-color: transparent
-    background-clip: text
+    color: var(--color-primary-text)
   .subtitle
     display: block
     font-size: 12px
@@ -127,7 +124,7 @@ header#global-header
         transform: translateX(-50%)
         width: 20px
         height: 2px
-        background: var(--primary-gradient)
+        background: var(--color-primary)
         border-radius: 1px
 
 @media (max-width: 768px)
