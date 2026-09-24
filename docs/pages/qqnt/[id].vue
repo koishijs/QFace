@@ -60,10 +60,10 @@
           button.id-chip(@click='copyText(data.emojiId)' title='复制 ID') {{ '#' + data.emojiId }}
         .badges(v-if='badges.length')
           span.badge(:class='badge.tone' :key='badge.text' v-for='badge in badges') {{ badge.text }}
-        .seen-line(v-if='data.firstSeenIn || data.lastSeenIn')
-          span(v-if='data.firstSeenIn') 收录于 {{ data.firstSeenIn }}
-          span.dot(v-if='data.firstSeenIn && data.lastSeenIn') ·
-          span(v-if='data.lastSeenIn') 最后见于 {{ data.lastSeenIn }}
+        .seen-line(v-if='activeSeen.firstSeenIn || activeSeen.lastSeenIn')
+          span(v-if='activeSeen.firstSeenIn') 收录于 {{ activeSeen.firstSeenIn }}
+          span.dot(v-if='activeSeen.firstSeenIn && activeSeen.lastSeenIn') ·
+          span(v-if='activeSeen.lastSeenIn') 最后见于 {{ activeSeen.lastSeenIn }}
         .words(v-if='data.associateWords?.length')
           .words-label 关联词汇
           .words-list
@@ -195,6 +195,29 @@ const activeAssets = computed<QqSysEmojiAsset[]>(() => {
     data.value.history?.find((entry) => entry.lastSeenIn === activeVersion.value)
       ?.assets || []
   )
+})
+
+// 选中版本自身的收录区间；元数据表仍展示表情整体的字段
+// 表情整体的 firstSeenIn 只属于最老的一版，其余各版何时出现没有记录
+const activeSeen = computed<{ firstSeenIn?: string; lastSeenIn?: string }>(() => {
+  const d = data.value
+  const history = d?.history || []
+  if (!d) {
+    return {}
+  }
+  if (activeVersion.value === CURRENT) {
+    return {
+      firstSeenIn: history.length ? undefined : d.firstSeenIn,
+      lastSeenIn: d.lastSeenIn,
+    }
+  }
+  const index = history.findIndex(
+    (entry) => entry.lastSeenIn === activeVersion.value
+  )
+  return {
+    firstSeenIn: index === history.length - 1 ? d.firstSeenIn : undefined,
+    lastSeenIn: history[index]?.lastSeenIn,
+  }
 })
 
 const findAsset = (type: QqSysEmojiAssetType) =>
