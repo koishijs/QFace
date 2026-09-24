@@ -127,7 +127,7 @@ interface QqSysEmojiV2 extends QqSysEmojiWithAssets {
   - `--color-primary: #5546a3`：实心按钮、选中标签等填充色（上置白字）
   - `--color-primary-text: #aa99ff`：深色背景上的强调文字、链接、图标
   - `--color-primary-soft: rgba(170, 153, 255, 0.14)`：悬停底色、徽章底色
-- `--shadow-glow` 改用 `--color-primary-soft` 同色系。
+- 删除未被使用的 `--shadow-glow`。
 - 所有 `var(--primary-gradient)` 与硬编码的 `rgba(102, 126, 234, …)` / `rgba(118, 75, 162, …)` 渐变替换为上述 token（涉及 `GlobalHeader`、`GlobalFooter`、`QEmojiMiniCard`、`pages/qqnt/index.vue`、`pages/qqnt/[id].vue`）。渐变文字（`background-clip: text`）改为 `--color-primary-text` 纯色文字。
 
 ## 数据补录

@@ -8,6 +8,29 @@
 
 - 在线预览：https://koishi.js.org/QFace/#/qqnt
 - API 接口：https://koishi.js.org/QFace/assets/qq_emoji/_index.json
+- API 接口（v2）：https://koishi.js.org/QFace/assets/qq_emoji/_index.v2.json
+
+QQ 从资源包中删除的表情（如季节限定表情）和被替换掉的旧版资源都会保留在本库中。
+
+`_index.json` 结构保持不变，只包含当前仍在 QQ 中的表情。`_index.v2.json` 包含全部表情及以下附加信息：
+
+```ts
+interface QqEmojiIndexV2 {
+  qqntVersion: string // 最近一次同步的 QQ 版本，例如 "7.0.2-53644"
+  emojis: (QqSysEmojiWithAssets & {
+    firstSeenIn?: string // 本库首次同步到该表情的 QQ 版本
+    lastSeenIn?: string // 本库最后一次同步到该表情的 QQ 版本
+    removed?: true // 已从 QQ 中删除
+    history?: {
+      lastSeenIn: string // 这批旧资源最后一次被同步到的 QQ 版本
+      assets: QqSysEmojiAsset[]
+    }[]
+  })[]
+}
+```
+
+> [!NOTE]
+> 版本字段来自本库的同步记录，同步不定期手动执行，**不是**官方的上架 / 下架版本：表情实际上架可能早于 `firstSeenIn`，实际删除发生在 `lastSeenIn` 之后。仅有配置、从未有过资源文件的条目不含版本字段。
 
 ## 微信
 
@@ -30,10 +53,18 @@ pnpm run gen:qqnt
 
 What does it do?
 
-1. Reads your `Library/Containers/com.tencent.qq/Data/Library/Application Support/QQ` for latest QQ vendor folder
-2. Find the `global/nt_data/Emoji/emoji-resource/face_config.json` and `nt_data/Emoji/BaseEmojiSyastems/EmojiSystermResource`
-3. Copy the resources to `public/assets/qq_emoji`
-4. Generate the `_index.json` file
+1. Reads `versions/config.json` under `Library/Containers/com.tencent.qq/Data/Library/Application Support/QQ` for the running QQ version (`curVersion`)
+2. Syncs `nt_qq_*/nt_data/Emoji/BaseEmojiSyastems/EmojiSystermResource` into `public/assets/qq_emoji` file by file:
+   - changed or dropped files are moved to `<emojiId>/_history/<last synced version>/` before being replaced
+   - emojis missing from QQ are kept and marked `removed`
+3. Reads metadata from `global/nt_data/Emoji/emoji-resource/face_config.json` and `versions/<curVersion>/.../default-emojis/default_config.json`
+4. Writes `_index.json` and `_index.v2.json`, then prints new / removed / archived emojis and a suggested commit message
+
+The previous `_index.v2.json` is required. Review the archived files it reports; delete meaningless ones (e.g. a single-frame placeholder later replaced by a real animation) and re-run.
+
+```bash
+pnpm test  # unit tests for the sync planner
+```
 
 ### Generate WeChat Emoji Indexes
 
