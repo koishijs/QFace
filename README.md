@@ -20,9 +20,11 @@ interface QqEmojiIndexV2 {
   emojis: (QqSysEmojiWithAssets & {
     firstSeenIn?: string // 本库首次同步到该表情的 QQ 版本
     lastSeenIn?: string // 本库最后一次同步到该表情的 QQ 版本
+    assetsFirstSeenIn?: string // 当前这一版资源首次同步到的 QQ 版本，仅在有历史版本时存在
     removed?: true // 已从 QQ 中删除
     history?: {
-      lastSeenIn: string // 这批旧资源最后一次被同步到的 QQ 版本
+      firstSeenIn?: string // 这一版资源首次同步到的 QQ 版本
+      lastSeenIn: string // 这一版资源最后一次同步到的 QQ 版本
       assets: QqSysEmojiAsset[]
     }[]
   })[]

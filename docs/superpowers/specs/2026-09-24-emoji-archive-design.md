@@ -51,6 +51,7 @@ interface QqEmojiIndexV2 {
 }
 
 interface QqSysEmojiHistory {
+  firstSeenIn?: string // 这一版资源首次同步到的版本
   lastSeenIn: string // 即 _history 下的目录名
   assets: QqSysEmojiAsset[]
 }
@@ -58,6 +59,7 @@ interface QqSysEmojiHistory {
 interface QqSysEmojiV2 extends QqSysEmojiWithAssets {
   firstSeenIn?: string
   lastSeenIn?: string
+  assetsFirstSeenIn?: string // 当前这一版资源首次同步到的版本；仅在有历史版本时存在
   removed?: true
   history?: QqSysEmojiHistory[] // 按 lastSeenIn 降序；无历史时省略
 }
@@ -84,8 +86,11 @@ interface QqSysEmojiV2 extends QqSysEmojiWithAssets {
    - 源中存在该表情目录：`lastSeenIn = curVersion`；`firstSeenIn = p?.lastSeenIn ? p.firstSeenIn : curVersion`（`p.firstSeenIn` 缺省时保持缺省）；不设 `removed`。
    - 源中不存在、输出目录中存在：`removed = true`；`firstSeenIn` / `lastSeenIn` 沿用 `p`。
    - 两处都不存在：不设版本字段。
-8. 已下架表情的元数据在配置加载后 `describe` 仍为空时，沿用 `p` 的元数据字段（`assets`、`history`、版本字段除外）。
-9. 写出 `_index.v2.json` 与 `_index.json`。
+8. 计算各资源版本的首次同步版本（`archived` 指本次该表情有文件被归档）：
+   - 本次新归档的历史版本：`firstSeenIn = p.assetsFirstSeenIn ?? p.firstSeenIn`；其余历史版本沿用 `p.history` 中同 `lastSeenIn` 条目的 `firstSeenIn`。
+   - `assetsFirstSeenIn`：`archived` 时为 `curVersion`，否则沿用 `p`；`history` 为空时不设。
+9. 已下架表情的元数据在配置加载后 `describe` 仍为空时，沿用 `p` 的元数据字段（`assets`、`history`、版本字段除外）。
+10. 写出 `_index.v2.json` 与 `_index.json`。
 
 ## 同步结束输出
 
@@ -108,6 +113,7 @@ interface QqSysEmojiV2 extends QqSysEmojiWithAssets {
 
 1. **版本标签页**：`history` 非空时显示。第一个为当前资源（标签为该表情的 `lastSeenIn`，标注「最新」），其后按 `history` 顺序排列，默认选中当前资源。选中的标签决定整页使用的资源集合 `activeAssets`；元数据不随标签变化。
 2. **主区块**（桌面左右两栏，窄屏上下堆叠）：
+   - 版本信息行显示选中版本自身的「收录于 / 最后见于」：当前资源在有历史版本时用 `assetsFirstSeenIn`，否则用 `firstSeenIn`；历史版本用条目自身字段。
    - 左（桌面端 sticky）：大预览，优先 APNG，其次 Lottie，再次 PNG；下方操作按钮：下载、转 GIF、复制图片。均基于 `activeAssets`。
    - 右：名称与 `#emojiId`；状态徽章（已下架 / 隐藏 / `emojiType === 1` 时的「超级表情」）；「收录于 <firstSeenIn> · 最后见于 <lastSeenIn>」（缺省项不显示）；关联词汇标签（点击跳转搜索）；元数据分组键值表（点击值复制，宽屏 2×2、1024px 以下单列）：
      - 标识：`emojiId`、`describe`、`qzoneCode`、`qcid`
@@ -143,6 +149,7 @@ interface QqSysEmojiV2 extends QqSysEmojiWithAssets {
 
 - `firstSeenIn`：表情目录首次出现的提交对应版本；出现在基线中的不设。
 - `lastSeenIn`：当前均存在，取 `7.0.2-53644`。
+- `332` 当前资源在 `381a3bc` 换入，`assetsFirstSeenIn` 为 `6.9.87-44204`。
 - 历史文件：从 `381a3bc^` 取出 `332/png/332.png`、`332/apng/332.png`（「/举牌牌」2025 版），放入 `332/_history/6.9.86-42941/` 对应子目录。`344` 在该提交中的旧 apng 是单帧占位图，不补录。
 - 补录后运行 `gen:qqnt` 生成正式索引。
 
