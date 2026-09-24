@@ -5,6 +5,7 @@
 - QQ 从资源包中删除的表情（季节限定等）继续保留在展示库，并标注为已下架。
 - 表情资源被 QQ 替换时，旧文件作为历史版本保留，可在详情页切换查看。
 - 记录每个表情被本库首次 / 最后一次同步到的 QQ 版本。
+- 重新设计详情页以展示完整元数据；全站配色改用 Koishi 品牌色。
 - 以上均由 `pnpm run gen:qqnt` 自动完成；现有 `_index.json` 对第三方保持不变。
 
 ## 版本号来源
@@ -95,13 +96,39 @@ interface QqSysEmojiV2 extends QqSysEmojiWithAssets {
 
 ## 前端
 
+### 数据与列表
+
 - store 改为读取 `_index.v2.json`，`allEmojiList` 取 `emojis`，并暴露 `qqntVersion`。
 - 列表页标题区显示「数据同步自 QQ <qqntVersion>」。
 - `QEmojiMiniCard`：`removed` 时显示「已下架」标记。
-- `pages/qqnt/[id].vue`：
-  - 元信息区显示「收录于 <firstSeenIn>」「最后见于 <lastSeenIn>」（缺省则不显示对应项），`removed` 时显示「已下架」徽章。
-  - `history` 非空时在详情内容顶部显示版本标签页：第一个为当前资源（标签为该表情的 `lastSeenIn`，标注「最新」），其后按 `history` 顺序排列。默认选中当前资源。
-  - 选中的标签决定整页使用的资源集合 `activeAssets`：头部预览、下载、转 GIF、复制、图片资源区、动画文件区均基于 `activeAssets`。元数据区不随标签变化。
+
+### 详情页 `pages/qqnt/[id].vue`（重新设计）
+
+同时服务开发者（查 ID、复制字段）与普通用户（看动图、下载）。自上而下：
+
+1. **版本标签页**：`history` 非空时显示。第一个为当前资源（标签为该表情的 `lastSeenIn`，标注「最新」），其后按 `history` 顺序排列，默认选中当前资源。选中的标签决定整页使用的资源集合 `activeAssets`；元数据不随标签变化。
+2. **主区块**（桌面左右两栏，窄屏上下堆叠）：
+   - 左：大预览，优先 APNG，其次 Lottie，再次 PNG；下方操作按钮：下载、转 GIF、复制图片。均基于 `activeAssets`。
+   - 右：名称与 `#emojiId`；状态徽章（已下架 / 隐藏 / `emojiType === 1` 时的「超级表情」）；「收录于 <firstSeenIn> · 最后见于 <lastSeenIn>」（缺省项不显示）；关联词汇标签（点击跳转搜索，行为同现状）。
+3. **资源**：图片与 Lottie 合并为一个区块，每个资源一个小方块：预览、类型标签、文件名、下载、新窗口打开、复制路径。基于 `activeAssets`。
+4. **元数据**：分组键值表，点击值复制。
+   - 标识：`emojiId`、`describe`、`qzoneCode`、`qcid`
+   - 动画贴纸：`emojiType`、`aniStickerPackId`、`aniStickerId`、`animationWidth × animationHeigh`
+   - 显示：`isHide`、`startTime`、`endTime`
+   - 收录：`firstSeenIn`、`lastSeenIn`、`removed`
+   - 表格下方为默认折叠的「原始 JSON」及复制按钮，替代现有调试信息区块。
+
+### 配色（全站）
+
+站点仅深色模式。`docs/styles/index.sass` 中：
+
+- 删除 `--primary-gradient`、`--secondary-gradient`、`--success-gradient` 及 `body` 的径向渐变背景。
+- 新增 Koishi 品牌色 token（取自 Koishi logo 与 koishi.chat 深色主题）：
+  - `--color-primary: #5546a3`：实心按钮、选中标签等填充色（上置白字）
+  - `--color-primary-text: #aa99ff`：深色背景上的强调文字、链接、图标
+  - `--color-primary-soft: rgba(170, 153, 255, 0.14)`：悬停底色、徽章底色
+- `--shadow-glow` 改用 `--color-primary-soft` 同色系。
+- 所有 `var(--primary-gradient)` 与硬编码的 `rgba(102, 126, 234, …)` / `rgba(118, 75, 162, …)` 渐变替换为上述 token（涉及 `GlobalHeader`、`GlobalFooter`、`QEmojiMiniCard`、`pages/qqnt/index.vue`、`pages/qqnt/[id].vue`）。渐变文字（`background-clip: text`）改为 `--color-primary-text` 纯色文字。
 
 ## 数据补录
 
@@ -134,6 +161,8 @@ interface QqSysEmojiV2 extends QqSysEmojiWithAssets {
 - 版本号比较
 
 最后在本机运行一次 `gen:qqnt`，确认 `_index.json` 无 diff、`_index.v2.json` 符合预期。
+
+前端用浏览器截图人工验收：列表页、普通表情详情（如 `344`）、带历史版本的详情（`332`，切换标签后资源随之变化）、窄屏布局。
 
 ## 文档
 
