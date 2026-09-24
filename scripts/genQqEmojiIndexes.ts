@@ -635,7 +635,10 @@ class FileManager {
   ): Promise<void> {
     const indexV2: QqEmojiIndexV2 = {
       qqntVersion: curVersion,
-      emojis: emojiList,
+      // history 放最后，便于阅读 diff
+      emojis: emojiList.map(({ history, ...rest }) =>
+        history ? { ...rest, history } : rest
+      ),
     }
     await writeFile(
       this.pathManager.getOutputConfigV2File(),
