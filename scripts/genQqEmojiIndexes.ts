@@ -1,30 +1,41 @@
+import { createHash } from 'crypto'
 import {
-  cp,
+  copyFile,
   mkdir,
-  opendir,
   readdir,
   readFile,
   rename,
   stat,
   writeFile,
 } from 'fs/promises'
-import { basename, resolve } from 'path'
+import { dirname, relative, resolve, sep } from 'path'
 import {
   QqSysEmojiItem,
   QqSysEmojiWithAssets,
+  QqSysEmojiAsset,
   QqSysEmojiAssetType,
   QqNTSystemEmojiItem,
   QQSysEmojiConfig,
   QqSysEmojiGroup,
+  QqSysEmojiV2,
+  QqEmojiIndexV2,
 } from '../docs/types/QqSysEmoji'
 import { homedir } from 'os'
+import {
+  AssetHashMap,
+  collectEmojiIds,
+  compareQqVersions,
+  computeVersionFields,
+  planEmojiSync,
+} from './qqEmojiArchive'
 
 /**
  * QQ Emoji 资源生成器
  *
  * 此脚本自动从 QQ 的软件文件夹中读取 Emoji 相关的资源文件
- * 拷贝资源到 public/assets/qq_emoji 文件夹中
- * 并生成一个索引文件
+ * 增量同步到 public/assets/qq_emoji：被替换或删除的旧文件移入 <emojiId>/_history/<版本>/，
+ * 从 QQ 中消失的表情原样保留并标记为已下架
+ * 并生成 v1 / v2 两份索引文件
  * 目前只支持 macOS 系统
  */
 
@@ -35,8 +46,9 @@ const CONFIG = {
     'Library/Containers/com.tencent.qq/Data/Library/Application Support/QQ',
   FACE_CONFIG_RELATIVE_PATH:
     'global/nt_data/Emoji/emoji-resource/face_config.json',
+  // curVersion 为 QQ 当前实际运行的版本（含热更新）；/Applications/QQ.app 的 Info.plist 是初装版本，不可用
+  VERSIONS_CONFIG_RELATIVE_PATH: 'versions/config.json',
   // 应用包内自带的表情面板配置，含分组名与联想词，比 face_config.json 更丰富
-  QQ_VERSIONS_RELATIVE_PATH: 'versions',
   DEFAULT_CONFIG_RELATIVE_PATH:
     'QQUpdate.app/Contents/Resources/app/resource/default-emojis/default_config.json',
   EMOJI_RESOURCE_RELATIVE_PATH:
@@ -45,9 +57,10 @@ const CONFIG = {
   // 用于补全 face_config / default_config 未覆盖的新表情元数据
   SUPPLEMENT_CONFIG_RELATIVE_PATH: 'scripts/data/sys_emoji_supplement.json',
   OUTPUT_RELATIVE_PATH: 'public/assets/qq_emoji',
-  BACKUP_RELATIVE_PATH: '.backup',
   INDEX_FILE_NAME: '_index.json',
+  INDEX_V2_FILE_NAME: '_index.v2.json',
   FACE_CONFIG_FILE_NAME: 'face_config.json',
+  HISTORY_DIR_NAME: '_history',
 } as const
 
 // 拷贝与索引时需要跳过的系统垃圾文件
@@ -68,8 +81,6 @@ class PathManager {
   private readonly qqntAppSupportDir: string
   private readonly faceConfigFile: string
   private readonly outputDir: string
-  private readonly backupDir: string
-  private readonly outputConfigFile: string
 
   constructor() {
     this.projectRoot = resolve(import.meta.dirname, '..')
@@ -79,16 +90,6 @@ class PathManager {
       CONFIG.FACE_CONFIG_RELATIVE_PATH
     )
     this.outputDir = resolve(this.projectRoot, CONFIG.OUTPUT_RELATIVE_PATH)
-    this.backupDir = resolve(this.projectRoot, CONFIG.BACKUP_RELATIVE_PATH)
-    this.outputConfigFile = resolve(this.outputDir, CONFIG.INDEX_FILE_NAME)
-  }
-
-  getProjectRoot(): string {
-    return this.projectRoot
-  }
-
-  getQqntAppSupportDir(): string {
-    return this.qqntAppSupportDir
   }
 
   getFaceConfigFile(): string {
@@ -99,16 +100,20 @@ class PathManager {
     return this.outputDir
   }
 
-  getBackupDir(): string {
-    return this.backupDir
+  getOutputConfigFile(): string {
+    return resolve(this.outputDir, CONFIG.INDEX_FILE_NAME)
   }
 
-  getOutputConfigFile(): string {
-    return this.outputConfigFile
+  getOutputConfigV2File(): string {
+    return resolve(this.outputDir, CONFIG.INDEX_V2_FILE_NAME)
   }
 
   getSupplementConfigFile(): string {
     return resolve(this.projectRoot, CONFIG.SUPPLEMENT_CONFIG_RELATIVE_PATH)
+  }
+
+  getHistoryDir(emojiId: string, version: string): string {
+    return resolve(this.outputDir, emojiId, CONFIG.HISTORY_DIR_NAME, version)
   }
 
   /**
@@ -119,6 +124,31 @@ class PathManager {
     return path
       .replace(resolve(this.projectRoot, 'public/assets'), 'assets')
       .replace(/\\/g, '/')
+  }
+
+  /**
+   * 读取 QQ 当前运行版本，例如 7.0.2-53644
+   */
+  async getCurrentQqVersion(): Promise<string> {
+    const config: { curVersion?: string } = JSON.parse(
+      await readFile(
+        resolve(this.qqntAppSupportDir, CONFIG.VERSIONS_CONFIG_RELATIVE_PATH),
+        'utf-8'
+      )
+    )
+    if (!config.curVersion) {
+      throw new Error('versions/config.json 中没有 curVersion')
+    }
+    return config.curVersion
+  }
+
+  getDefaultConfigFile(version: string): string {
+    return resolve(
+      this.qqntAppSupportDir,
+      'versions',
+      version,
+      CONFIG.DEFAULT_CONFIG_RELATIVE_PATH
+    )
   }
 
   /**
@@ -155,58 +185,13 @@ class PathManager {
       CONFIG.EMOJI_RESOURCE_RELATIVE_PATH
     )
   }
-
-  /**
-   * 查找最新 QQ 版本内自带的 default_config.json
-   * （按 mtime 从新到旧，返回第一个真实存在该文件的版本）
-   */
-  async findLatestDefaultConfigFile(): Promise<string> {
-    const versionsDir = resolve(
-      this.qqntAppSupportDir,
-      CONFIG.QQ_VERSIONS_RELATIVE_PATH
-    )
-
-    const entries = await readdir(versionsDir, { withFileTypes: true })
-    const versionDirs = entries.filter((entry) => entry.isDirectory())
-
-    if (versionDirs.length === 0) {
-      throw new Error('No QQ version directory found under versions/')
-    }
-
-    const dirStats = await Promise.all(
-      versionDirs.map(async (dir) => ({
-        stat: await stat(resolve(versionsDir, dir.name)),
-        dir,
-      }))
-    )
-
-    const sorted = dirStats.sort(
-      (a, b) => Number(b.stat.mtimeMs) - Number(a.stat.mtimeMs)
-    )
-
-    for (const { dir } of sorted) {
-      const configFile = resolve(
-        versionsDir,
-        dir.name,
-        CONFIG.DEFAULT_CONFIG_RELATIVE_PATH
-      )
-      try {
-        await stat(configFile)
-        return configFile
-      } catch {
-        // 该版本不含 default_config.json，尝试下一个
-      }
-    }
-
-    throw new Error('No default_config.json found in any QQ version')
-  }
 }
 
 /**
  * Emoji 管理器
  */
 class EmojiManager {
-  private readonly emojiMap = new Map<string, QqSysEmojiWithAssets>()
+  private readonly emojiMap = new Map<string, QqSysEmojiV2>()
 
   /**
    * 创建默认的 Emoji 对象
@@ -214,7 +199,7 @@ class EmojiManager {
   private createDefaultEmoji(
     emojiId: string,
     partial?: Partial<QqSysEmojiItem>
-  ): QqSysEmojiWithAssets {
+  ): QqSysEmojiV2 {
     const defaultEmoji = {
       emojiId,
       describe: '',
@@ -238,9 +223,7 @@ class EmojiManager {
   /**
    * 从 NT 系统 Emoji 项目创建 Emoji 对象
    */
-  private createEmojiFromNTItem(
-    item: QqNTSystemEmojiItem
-  ): QqSysEmojiWithAssets {
+  private createEmojiFromNTItem(item: QqNTSystemEmojiItem): QqSysEmojiV2 {
     return this.createDefaultEmoji(item.QSid, {
       describe: item.QDes,
       qzoneCode: item.EMCode,
@@ -262,7 +245,7 @@ class EmojiManager {
   /**
    * 获取或创建 Emoji 对象
    */
-  getOrCreateEmoji(emojiId: string): QqSysEmojiWithAssets {
+  getOrCreateEmoji(emojiId: string): QqSysEmojiV2 {
     if (this.emojiMap.has(emojiId)) {
       return this.emojiMap.get(emojiId)!
     }
@@ -355,6 +338,40 @@ class EmojiManager {
   }
 
   /**
+   * 写入版本字段；已下架表情在配置中已无元数据时沿用上一份索引的元数据
+   * @param sourceEmojiIds 本次 QQ 资源目录中含资源的表情
+   */
+  applyVersionFields(
+    sourceEmojiIds: Set<string>,
+    prev: QqEmojiIndexV2,
+    curVersion: string
+  ): void {
+    const prevMap = new Map(prev.emojis.map((emoji) => [emoji.emojiId, emoji]))
+
+    for (const emoji of this.emojiMap.values()) {
+      const p = prevMap.get(emoji.emojiId)
+      const inSource = sourceEmojiIds.has(emoji.emojiId)
+
+      if (!inSource && !emoji.describe && p) {
+        const {
+          assets: _assets,
+          history: _history,
+          firstSeenIn: _firstSeenIn,
+          lastSeenIn: _lastSeenIn,
+          removed: _removed,
+          ...meta
+        } = p
+        Object.assign(emoji, meta)
+      }
+
+      Object.assign(
+        emoji,
+        computeVersionFields(inSource, emoji.assets.length > 0, p, curVersion)
+      )
+    }
+  }
+
+  /**
    * 列出资源存在但仍缺元数据（describe 为空）的表情 id，
    * 用于提示维护者更新 sys_emoji_supplement.json
    */
@@ -367,7 +384,16 @@ class EmojiManager {
   /**
    * 获取排序后的 Emoji 列表
    */
-  getSortedEmojiList(): QqSysEmojiWithAssets[] {
+  getSortedEmojiList(): QqSysEmojiV2[] {
+    const sortAssets = (assets: QqSysEmojiAsset[]) =>
+      // 排序资源文件，优先级：png > apng > lottie
+      assets.sort((a, b) => {
+        if (a.type === b.type) {
+          return a.name.localeCompare(b.name)
+        }
+        return a.type - b.type
+      })
+
     return (
       Array.from(this.emojiMap.values())
         // 排序 emojiId
@@ -384,18 +410,21 @@ class EmojiManager {
           }
           return aId - bId
         })
-        // 排序资源文件，优先级：png > apng > lottie
         .map((emoji) => {
-          emoji.assets.sort((a, b) => {
-            if (a.type === b.type) {
-              return a.name.localeCompare(b.name)
-            }
-            return a.type - b.type
-          })
+          sortAssets(emoji.assets)
+          emoji.history?.forEach((entry) => sortAssets(entry.assets))
           return emoji
         })
     )
   }
+}
+
+/**
+ * 同步结果，用于结束时提示维护者
+ */
+interface SyncResult {
+  sourceEmojiIds: Set<string>
+  archivedEmojiIds: Set<string>
 }
 
 /**
@@ -416,127 +445,220 @@ class FileManager {
     }
   }
 
-  /**
-   * 备份现有文件
-   */
-  async backupExistingFiles(): Promise<void> {
-    try {
-      await mkdir(this.pathManager.getBackupDir(), { recursive: true })
-
-      if (await this.exists(this.pathManager.getOutputDir())) {
-        const timestamp = new Date().toISOString().replace(/:/g, '-')
-        const backupPath = resolve(
-          this.pathManager.getBackupDir(),
-          `qq_emoji_${timestamp}`
-        )
-        await rename(this.pathManager.getOutputDir(), backupPath)
-        console.log(`已备份现有文件到: ${backupPath}`)
-      }
-    } catch (error) {
-      console.warn('备份文件时出现警告:', error)
+  async readIndexV2(): Promise<QqEmojiIndexV2> {
+    const file = this.pathManager.getOutputConfigV2File()
+    if (!(await this.exists(file))) {
+      // 历史文件需按上次同步的版本归档，没有上一份 v2 索引就无从得知
+      throw new Error(`缺少上一份索引 ${file}，无法确定历史版本归属`)
     }
+    return JSON.parse(await readFile(file, 'utf-8'))
   }
 
   /**
-   * 复制资源文件
+   * 列出 <emojiId>/{png,apng,lottie}/** 的文件及内容哈希，键使用 `/` 分隔
    */
-  async copyResourceFiles(qqntEmojiAssetsDir: string): Promise<void> {
-    try {
-      await mkdir(this.pathManager.getOutputDir(), { recursive: true })
+  async listAssetFiles(rootDir: string): Promise<AssetHashMap> {
+    const result: AssetHashMap = new Map()
+    const emojiDirs = await readdir(rootDir, { withFileTypes: true })
 
-      // 复制 Emoji 资源目录（跳过 .DS_Store 等系统垃圾文件）
-      await cp(qqntEmojiAssetsDir, this.pathManager.getOutputDir(), {
-        recursive: true,
-        filter: (source) => !JUNK_FILE_NAMES.has(basename(source)),
-      })
+    for (const emojiDir of emojiDirs) {
+      if (!emojiDir.isDirectory()) {
+        continue
+      }
+      for (const typeDir of Object.keys(ASSET_TYPE_CONFIG)) {
+        const dirPath = resolve(rootDir, emojiDir.name, typeDir)
+        if (!(await this.exists(dirPath))) {
+          continue
+        }
+        const files = await readdir(dirPath, {
+          recursive: true,
+          withFileTypes: true,
+        })
+        for (const file of files) {
+          if (!file.isFile() || JUNK_FILE_NAMES.has(file.name)) {
+            continue
+          }
+          const fullPath = resolve(file.parentPath, file.name)
+          const key = relative(rootDir, fullPath).split(sep).join('/')
+          const hash = createHash('sha1')
+            .update(await readFile(fullPath))
+            .digest('hex')
+          result.set(key, hash)
+        }
+      }
+    }
 
-      // 复制配置文件
-      await cp(
-        this.pathManager.getFaceConfigFile(),
-        resolve(this.pathManager.getOutputDir(), CONFIG.FACE_CONFIG_FILE_NAME)
+    return result
+  }
+
+  /**
+   * 增量同步 QQ 资源目录到输出目录
+   * @param archiveVersion 被替换的旧文件归入的版本，即上一次同步的版本
+   */
+  async syncResourceFiles(
+    qqntEmojiAssetsDir: string,
+    archiveVersion: string
+  ): Promise<SyncResult> {
+    const outputDir = this.pathManager.getOutputDir()
+    await mkdir(outputDir, { recursive: true })
+
+    const source = await this.listAssetFiles(qqntEmojiAssetsDir)
+    const target = await this.listAssetFiles(outputDir)
+    const plan = planEmojiSync(source, target)
+
+    for (const key of plan.archive) {
+      const [emojiId, ...rest] = key.split('/')
+      const dest = resolve(
+        this.pathManager.getHistoryDir(emojiId, archiveVersion),
+        ...rest
       )
+      if (await this.exists(dest)) {
+        // 同一版本下同一文件被替换两次，需人工确认保留哪份
+        throw new Error(`历史文件已存在，拒绝覆盖: ${dest}`)
+      }
+      await mkdir(dirname(dest), { recursive: true })
+      await rename(resolve(outputDir, ...key.split('/')), dest)
+    }
 
-      console.log('资源文件复制完成')
-    } catch (error) {
-      console.error('复制资源文件时出错:', error)
-      throw error
+    for (const key of plan.copy) {
+      const dest = resolve(outputDir, ...key.split('/'))
+      await mkdir(dirname(dest), { recursive: true })
+      await copyFile(resolve(qqntEmojiAssetsDir, ...key.split('/')), dest)
+    }
+
+    // 资源目录顶层的 *_emojiids.json 等文件与 face_config.json 直接覆盖
+    const topEntries = await readdir(qqntEmojiAssetsDir, { withFileTypes: true })
+    for (const entry of topEntries) {
+      if (entry.isFile() && !JUNK_FILE_NAMES.has(entry.name)) {
+        await copyFile(
+          resolve(qqntEmojiAssetsDir, entry.name),
+          resolve(outputDir, entry.name)
+        )
+      }
+    }
+    await copyFile(
+      this.pathManager.getFaceConfigFile(),
+      resolve(outputDir, CONFIG.FACE_CONFIG_FILE_NAME)
+    )
+
+    console.log(
+      `资源同步完成：复制 ${plan.copy.length} 个文件，归档 ${plan.archive.length} 个文件`
+    )
+
+    return {
+      sourceEmojiIds: collectEmojiIds(source),
+      archivedEmojiIds: collectEmojiIds(
+        new Map(plan.archive.map((key) => [key, '']))
+      ),
     }
   }
 
   /**
    * 处理指定目录下的资源文件
    */
-  async processAssetDirectory(
-    dirPath: string,
-    assetType: QqSysEmojiAssetType,
-    emoji: QqSysEmojiWithAssets
-  ): Promise<void> {
-    if (!(await this.exists(dirPath))) {
-      return
-    }
+  async collectAssets(dirPath: string): Promise<QqSysEmojiAsset[]> {
+    const assets: QqSysEmojiAsset[] = []
 
-    const files = await readdir(dirPath, {
-      recursive: true,
-      withFileTypes: true,
-    })
-
-    await Promise.all(
-      files
-        .filter((file) => file.isFile() && !JUNK_FILE_NAMES.has(file.name))
-        .map(async (file) => {
-          const path = this.pathManager.getRelativePath(
-            resolve(file.parentPath, file.name)
-          )
-          emoji.assets.push({
-            type: assetType,
-            name: file.name,
-            path,
-          })
-        })
-    )
-  }
-
-  /**
-   * 处理所有 Emoji 资源
-   */
-  async processAllEmojiAssets(emojiManager: EmojiManager): Promise<void> {
-    const assetsDirIterator = await opendir(this.pathManager.getOutputDir(), {
-      recursive: false,
-    })
-
-    for await (const file of assetsDirIterator) {
-      if (!file.isDirectory()) {
+    for (const [dirName, assetType] of Object.entries(ASSET_TYPE_CONFIG)) {
+      const typeDir = resolve(dirPath, dirName)
+      if (!(await this.exists(typeDir))) {
         continue
       }
 
-      const emojiId = file.name
-      console.log(`正在处理表情 ${emojiId}`)
+      const files = await readdir(typeDir, {
+        recursive: true,
+        withFileTypes: true,
+      })
 
+      for (const file of files) {
+        if (!file.isFile() || JUNK_FILE_NAMES.has(file.name)) {
+          continue
+        }
+        assets.push({
+          type: assetType,
+          name: file.name,
+          path: this.pathManager.getRelativePath(
+            resolve(file.parentPath, file.name)
+          ),
+        })
+      }
+    }
+
+    return assets
+  }
+
+  /**
+   * 处理所有 Emoji 资源（含 _history 下的历史版本）
+   */
+  async processAllEmojiAssets(emojiManager: EmojiManager): Promise<void> {
+    const outputDir = this.pathManager.getOutputDir()
+    const entries = await readdir(outputDir, { withFileTypes: true })
+
+    for (const entry of entries) {
+      if (!entry.isDirectory()) {
+        continue
+      }
+
+      const emojiId = entry.name
+      const emojiDir = resolve(outputDir, emojiId)
       const emoji = emojiManager.getOrCreateEmoji(emojiId)
+      emoji.assets.push(...(await this.collectAssets(emojiDir)))
 
-      // 处理所有类型的资源目录
-      await Promise.all(
-        Object.entries(ASSET_TYPE_CONFIG).map(([dirName, assetType]) =>
-          this.processAssetDirectory(
-            resolve(file.parentPath, file.name, dirName),
-            assetType,
-            emoji
-          )
-        )
+      const historyRoot = resolve(emojiDir, CONFIG.HISTORY_DIR_NAME)
+      if (!(await this.exists(historyRoot))) {
+        continue
+      }
+      const versionDirs = (
+        await readdir(historyRoot, { withFileTypes: true })
+      ).filter((dir) => dir.isDirectory())
+      const history = await Promise.all(
+        versionDirs.map(async (dir) => ({
+          lastSeenIn: dir.name,
+          assets: await this.collectAssets(resolve(historyRoot, dir.name)),
+        }))
       )
+      const nonEmpty = history
+        .filter((entry) => entry.assets.length > 0)
+        .sort((a, b) => compareQqVersions(b.lastSeenIn, a.lastSeenIn))
+      if (nonEmpty.length > 0) {
+        emoji.history = nonEmpty
+      }
     }
   }
 
   /**
-   * 生成索引文件
+   * 生成索引文件：v2 含全部字段；v1 结构保持不变，只含未下架表情
    */
-  async generateIndexFile(emojiManager: EmojiManager): Promise<void> {
-    const emojiList = emojiManager.getSortedEmojiList()
+  async generateIndexFiles(
+    emojiList: QqSysEmojiV2[],
+    curVersion: string
+  ): Promise<void> {
+    const indexV2: QqEmojiIndexV2 = {
+      qqntVersion: curVersion,
+      emojis: emojiList,
+    }
+    await writeFile(
+      this.pathManager.getOutputConfigV2File(),
+      JSON.stringify(indexV2, null, 2)
+    )
+
+    const indexV1: QqSysEmojiWithAssets[] = emojiList
+      .filter((emoji) => !emoji.removed)
+      .map(
+        ({
+          firstSeenIn: _firstSeenIn,
+          lastSeenIn: _lastSeenIn,
+          removed: _removed,
+          history: _history,
+          ...rest
+        }) => rest
+      )
     await writeFile(
       this.pathManager.getOutputConfigFile(),
-      JSON.stringify(emojiList, null, 2)
+      JSON.stringify(indexV1, null, 2)
     )
-    console.log(`索引文件已生成: ${this.pathManager.getOutputConfigFile()}`)
+
+    console.log(`索引文件已生成: ${this.pathManager.getOutputDir()}`)
   }
 }
 
@@ -573,19 +695,25 @@ class QqEmojiGenerator {
       // 检查系统兼容性
       this.checkPlatformCompatibility()
 
+      const curVersion = await this.pathManager.getCurrentQqVersion()
+      console.log(`QQ 当前版本: ${curVersion}`)
+
+      const prevIndex = await this.fileManager.readIndexV2()
+      console.log(`上次同步版本: ${prevIndex.qqntVersion}`)
+
       // 查找 QQNT Emoji 资源目录
       console.log('正在查找 QQNT Emoji 资源目录...')
       const qqntEmojiAssetsDir =
         await this.pathManager.findLatestQqntEmojiAssetsDir()
       console.log(`找到资源目录: ${qqntEmojiAssetsDir}`)
 
-      // 备份现有文件
-      console.log('正在备份现有文件...')
-      await this.fileManager.backupExistingFiles()
-
-      // 复制资源文件
-      console.log('正在复制资源文件...')
-      await this.fileManager.copyResourceFiles(qqntEmojiAssetsDir)
+      // 增量同步资源文件
+      console.log('正在同步资源文件...')
+      const { sourceEmojiIds, archivedEmojiIds } =
+        await this.fileManager.syncResourceFiles(
+          qqntEmojiAssetsDir,
+          prevIndex.qqntVersion
+        )
 
       // 加载配置文件（face_config 提供基础覆盖）
       console.log('正在加载配置文件...')
@@ -594,10 +722,8 @@ class QqEmojiGenerator {
       )
 
       // 加载应用自带的 default_config，富化分组、联想词等信息
-      console.log('正在加载 default_config 面板配置...')
-      const defaultConfigFile =
-        await this.pathManager.findLatestDefaultConfigFile()
-      console.log(`找到面板配置: ${defaultConfigFile}`)
+      const defaultConfigFile = this.pathManager.getDefaultConfigFile(curVersion)
+      console.log(`正在加载面板配置: ${defaultConfigFile}`)
       await this.emojiManager.loadFromDefaultConfig(defaultConfigFile)
 
       // 加载手动维护的补充面板配置（覆盖前两者未收录的新表情元数据）
@@ -613,6 +739,12 @@ class QqEmojiGenerator {
       console.log('正在处理 Emoji 资源...')
       await this.fileManager.processAllEmojiAssets(this.emojiManager)
 
+      this.emojiManager.applyVersionFields(
+        sourceEmojiIds,
+        prevIndex,
+        curVersion
+      )
+
       // 提示仍缺元数据的表情（资源已提取但配置未收录，索引中只有最简条目）
       const missingMetaIds = this.emojiManager.getEmojiIdsMissingMeta()
       if (missingMetaIds.length > 0) {
@@ -625,13 +757,49 @@ class QqEmojiGenerator {
 
       // 生成索引文件
       console.log('正在生成索引文件...')
-      await this.fileManager.generateIndexFile(this.emojiManager)
+      const emojiList = this.emojiManager.getSortedEmojiList()
+      await this.fileManager.generateIndexFiles(emojiList, curVersion)
+
+      this.printReport(emojiList, prevIndex, archivedEmojiIds, curVersion)
 
       console.log('✅ QQ Emoji 资源生成完成！')
     } catch (error) {
       console.error('❌ 生成过程中出现错误:', error)
       throw error
     }
+  }
+
+  private printReport(
+    emojiList: QqSysEmojiV2[],
+    prevIndex: QqEmojiIndexV2,
+    archivedEmojiIds: Set<string>,
+    curVersion: string
+  ): void {
+    const prevMap = new Map(
+      prevIndex.emojis.map((emoji) => [emoji.emojiId, emoji])
+    )
+    const added = emojiList.filter(
+      (emoji) =>
+        emoji.firstSeenIn === curVersion &&
+        !prevMap.get(emoji.emojiId)?.lastSeenIn
+    )
+    const removed = emojiList.filter(
+      (emoji) => emoji.removed && !prevMap.get(emoji.emojiId)?.removed
+    )
+    const format = (emojis: QqSysEmojiV2[]) =>
+      emojis.map((emoji) => `${emoji.emojiId}${emoji.describe}`).join(', ')
+
+    console.log('—'.repeat(40))
+    console.log(`新增表情 ${added.length} 个: ${format(added)}`)
+    console.log(`新下架表情 ${removed.length} 个: ${format(removed)}`)
+    console.log(
+      `归档旧版本的表情 ${archivedEmojiIds.size} 个: ${[...archivedEmojiIds].join(', ')}` +
+        (archivedEmojiIds.size
+          ? `\n  请检查 <emojiId>/${CONFIG.HISTORY_DIR_NAME}/${prevIndex.qqntVersion}/，无意义的旧版（如单帧占位图）可删除后重新生成`
+          : '')
+    )
+    console.log(`建议 commit message: chore: qqnt ${curVersion}`)
+    console.log('—'.repeat(40))
   }
 }
 

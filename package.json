@@ -16,7 +16,8 @@
     "dev:docs": "vite",
     "build:docs": "vite build",
     "preview:docs": "vite preview",
-    "gen:qqnt": "tsx scripts/genQqEmojiIndexes.ts"
+    "gen:qqnt": "tsx scripts/genQqEmojiIndexes.ts",
+    "test": "tsx --test scripts/*.test.ts"
   },
   "devDependencies": {
     "@prettier/plugin-pug": "^3.4.2",

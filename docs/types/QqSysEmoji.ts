@@ -48,6 +48,28 @@ export interface QqSysEmojiWithAssets extends QqSysEmojiItem {
   assets: QqSysEmojiAsset[]
 }
 
+/**
+ * Version fields come from this repo's manual sync history, not from Tencent:
+ * firstSeenIn is an upper bound of when the emoji shipped,
+ * lastSeenIn is a lower bound of when it was removed.
+ */
+export interface QqSysEmojiHistory {
+  lastSeenIn: string
+  assets: QqSysEmojiAsset[]
+}
+
+export interface QqSysEmojiV2 extends QqSysEmojiWithAssets {
+  firstSeenIn?: string
+  lastSeenIn?: string
+  removed?: true
+  history?: QqSysEmojiHistory[]
+}
+
+export interface QqEmojiIndexV2 {
+  qqntVersion: string
+  emojis: QqSysEmojiV2[]
+}
+
 export interface QqNTSystemEmojiItem {
   QSid: string
   QCid?: `${number}`
