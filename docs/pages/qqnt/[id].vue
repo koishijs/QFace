@@ -198,27 +198,24 @@ const activeAssets = computed<QqSysEmojiAsset[]>(() => {
 })
 
 // 选中版本自身的收录区间；元数据表仍展示表情整体的字段
-// 表情整体的 firstSeenIn 只属于最老的一版，其余各版何时出现没有记录
-const activeSeen = computed<{ firstSeenIn?: string; lastSeenIn?: string }>(() => {
-  const d = data.value
-  const history = d?.history || []
-  if (!d) {
-    return {}
-  }
-  if (activeVersion.value === CURRENT) {
-    return {
-      firstSeenIn: history.length ? undefined : d.firstSeenIn,
-      lastSeenIn: d.lastSeenIn,
+const activeSeen = computed<{ firstSeenIn?: string; lastSeenIn?: string }>(
+  () => {
+    const d = data.value
+    if (!d) {
+      return {}
     }
+    if (activeVersion.value === CURRENT) {
+      return {
+        firstSeenIn: d.history?.length ? d.assetsFirstSeenIn : d.firstSeenIn,
+        lastSeenIn: d.lastSeenIn,
+      }
+    }
+    const entry = d.history?.find(
+      (item) => item.lastSeenIn === activeVersion.value
+    )
+    return { firstSeenIn: entry?.firstSeenIn, lastSeenIn: entry?.lastSeenIn }
   }
-  const index = history.findIndex(
-    (entry) => entry.lastSeenIn === activeVersion.value
-  )
-  return {
-    firstSeenIn: index === history.length - 1 ? d.firstSeenIn : undefined,
-    lastSeenIn: history[index]?.lastSeenIn,
-  }
-})
+)
 
 const findAsset = (type: QqSysEmojiAssetType) =>
   activeAssets.value.find((asset) => asset.type === type)
@@ -313,6 +310,7 @@ const metaGroups = computed(() => {
       rows: [
         { key: 'firstSeenIn', value: str(d.firstSeenIn) },
         { key: 'lastSeenIn', value: str(d.lastSeenIn) },
+        { key: 'assetsFirstSeenIn', value: str(d.assetsFirstSeenIn) },
         { key: 'removed', value: str(!!d.removed) },
       ],
     },
