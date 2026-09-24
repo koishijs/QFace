@@ -54,7 +54,7 @@ const CONFIG = {
     'QQUpdate.app/Contents/Resources/app/resource/default-emojis/default_config.json',
   EMOJI_RESOURCE_RELATIVE_PATH:
     'nt_data/Emoji/BaseEmojiSyastems/EmojiSystermResource',
-  // 手动维护的补充面板配置（fetchFullSysEmojis 响应，结构同 default_config.json），
+  // 补充面板配置（结构同 default_config.json），由 gen:qqnt-supplement 从解密的 emoji.db 生成，
   // 用于补全 face_config / default_config 未覆盖的新表情元数据
   SUPPLEMENT_CONFIG_RELATIVE_PATH: 'scripts/data/sys_emoji_supplement.json',
   OUTPUT_RELATIVE_PATH: 'public/assets/qq_emoji',
@@ -776,7 +776,7 @@ class QqEmojiGenerator {
       if (missingMetaIds.length > 0) {
         console.warn(
           `⚠️ 以下 ${missingMetaIds.length} 个表情缺少元数据（describe 为空），` +
-            `可通过 NapCat dump 插件更新 ${CONFIG.SUPPLEMENT_CONFIG_RELATIVE_PATH}：\n` +
+            `可用 pnpm gen:qqnt-supplement 从 GUI 客户端解密后的 emoji.db 更新 ${CONFIG.SUPPLEMENT_CONFIG_RELATIVE_PATH}：\n` +
             missingMetaIds.join(', ')
         )
       }

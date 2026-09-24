@@ -17,6 +17,7 @@
     "build:docs": "vite build",
     "preview:docs": "vite preview",
     "gen:qqnt": "tsx scripts/genQqEmojiIndexes.ts",
+    "gen:qqnt-supplement": "tsx scripts/genSysEmojiSupplement.ts",
     "test": "tsx --test scripts/*.test.ts"
   },
   "devDependencies": {
