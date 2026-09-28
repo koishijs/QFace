@@ -1,0 +1,7 @@
+{
+  "name": "qface-sysemoji",
+  "version": "0.0.1",
+  "description": "Export QQNT system emoji definitions for QFace",
+  "type": "module",
+  "main": "index.mjs"
+}

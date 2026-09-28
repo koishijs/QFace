@@ -134,3 +134,4 @@ dist
 .DS_Store
 .backup
 .playwright-mcp
+docker/napcat/data

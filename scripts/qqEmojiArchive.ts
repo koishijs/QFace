@@ -8,30 +8,19 @@
 export type AssetHashMap = Map<string, string>
 
 export interface EmojiSyncPlan {
-  /** 需要从 QQ 资源目录复制到输出目录的文件键 */
+  /** 需要写入输出目录的文件键 */
   copy: string[]
   /** 需要先移入 _history 的输出目录文件键 */
   archive: string[]
-}
-
-export interface EmojiVersionFields {
-  firstSeenIn?: string
-  lastSeenIn?: string
-  removed?: true
 }
 
 export function getEmojiIdOfKey(key: string): string {
   return key.slice(0, key.indexOf('/'))
 }
 
-/** 至少含一个资源文件的表情 id */
-export function collectEmojiIds(files: AssetHashMap): Set<string> {
-  return new Set(Array.from(files.keys(), getEmojiIdOfKey))
-}
-
 /**
- * 比较 QQ 资源目录（source）与输出目录（target），得出同步动作
- * 整个表情在 source 中消失时不产生任何动作：保留原样，视为已下架
+ * 比较一个表情的新资源（source）与输出目录现有资源（target），得出同步动作
+ * 同名文件内容变化或旧文件不再存在时，旧文件都要归档
  */
 export function planEmojiSync(
   source: AssetHashMap,
@@ -50,10 +39,8 @@ export function planEmojiSync(
     }
     copy.push(key)
   }
-
-  const sourceEmojiIds = collectEmojiIds(source)
   for (const key of target.keys()) {
-    if (sourceEmojiIds.has(getEmojiIdOfKey(key)) && !source.has(key)) {
+    if (!source.has(key)) {
       archive.push(key)
     }
   }
@@ -62,95 +49,56 @@ export function planEmojiSync(
 }
 
 /**
- * 计算单个表情的版本字段
- * @param inSource 本次 QQ 资源目录中存在该表情的资源
- * @param inTarget 同步后输出目录中存在该表情的当前资源
- * @param prev 上一份 v2 索引中的同 id 条目
+ * 从 CDN 资源地址中取出发布时间戳（秒），例如
+ * https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/494_base_1789715609.zip → 1789715609
  */
-export function computeVersionFields(
-  inSource: boolean,
-  inTarget: boolean,
-  prev: EmojiVersionFields | undefined,
-  curVersion: string
-): EmojiVersionFields {
-  if (inSource) {
-    // prev 有 lastSeenIn 说明之前同步到过：沿用 firstSeenIn（基线表情保持缺省）
-    const firstSeenIn = prev?.lastSeenIn ? prev.firstSeenIn : curVersion
-    return {
-      ...(firstSeenIn ? { firstSeenIn } : {}),
-      lastSeenIn: curVersion,
-    }
-  }
-  if (inTarget) {
-    return {
-      ...(prev?.firstSeenIn ? { firstSeenIn: prev.firstSeenIn } : {}),
-      ...(prev?.lastSeenIn ? { lastSeenIn: prev.lastSeenIn } : {}),
-      removed: true,
-    }
-  }
-  return {}
-}
-
-export interface VariantSeenPrev {
-  firstSeenIn?: string
-  assetsFirstSeenIn?: string
-  history?: { lastSeenIn: string; firstSeenIn?: string }[]
-}
-
-export interface VariantSeen {
-  /** 当前这一版资源首次同步到的版本；无历史版本时不设 */
-  assetsFirstSeenIn?: string
-  /** 各历史版本（按 lastSeenIn）首次同步到的版本 */
-  historyFirstSeenIn: Map<string, string | undefined>
+export function parseResourceTimestamp(url: string): number | undefined {
+  const match = url.match(/_(?:base|adv)_(\d+)\.zip$/)
+  return match ? Number(match[1]) : undefined
 }
 
 /**
- * 计算各资源版本的首次同步版本
- * @param historyVersions 同步后 _history 下存在的版本（即各历史版本的 lastSeenIn）
- * @param archived 本次同步是否把该表情的旧文件移入了 _history
- * @param archiveVersion 本次归档所用的版本，即上一次同步的版本
+ * QQNT 资源体系上线时统一上传的时间戳（2024-04-11）；
+ * 带此时间戳的资源实际发布时间只能确定「不晚于」这一天
  */
-export function computeVariantSeen(
-  historyVersions: string[],
-  prev: VariantSeenPrev | undefined,
-  archived: boolean,
-  archiveVersion: string,
-  curVersion: string
-): VariantSeen {
-  // 被换下的那一版，其首次同步版本就是它作为当前资源时的首次同步版本
-  const replacedFirstSeenIn = prev?.assetsFirstSeenIn ?? prev?.firstSeenIn
-  const historyFirstSeenIn = new Map<string, string | undefined>()
-  for (const version of historyVersions) {
-    const prevEntry = prev?.history?.find((entry) => entry.lastSeenIn === version)
-    historyFirstSeenIn.set(
-      version,
-      prevEntry
-        ? prevEntry.firstSeenIn
-        : archived && version === archiveVersion
-          ? replacedFirstSeenIn
-          : undefined
-    )
-  }
+export const BASELINE_TIMESTAMP = 1712825561
 
-  if (historyVersions.length === 0) {
-    return { historyFirstSeenIn }
-  }
-  const assetsFirstSeenIn = archived ? curVersion : prev?.assetsFirstSeenIn
-  return {
-    ...(assetsFirstSeenIn ? { assetsFirstSeenIn } : {}),
-    historyFirstSeenIn,
-  }
+/**
+ * 被替换的旧资源的归档目录名：
+ * 已知发布时间戳时用时间戳，否则用「被替换的时间戳」加 before- 前缀
+ */
+export function historyDirName(
+  replacedTimestamp: number | undefined,
+  newTimestamp: number
+): string {
+  return replacedTimestamp !== undefined
+    ? String(replacedTimestamp)
+    : `before-${newTimestamp}`
 }
 
-/** 按 `.` / `-` 切分后逐段数值比较，例如 6.9.87-44204 < 7.0.2-53644 */
-export function compareQqVersions(a: string, b: string): number {
-  const pa = a.split(/[.-]/).map(Number)
-  const pb = b.split(/[.-]/).map(Number)
-  for (let i = 0; i < Math.max(pa.length, pb.length); i++) {
-    const diff = (pa[i] ?? 0) - (pb[i] ?? 0)
-    if (diff !== 0) {
-      return diff
-    }
-  }
-  return 0
+export interface HistoryDirInfo {
+  publishedAt?: number
+  replacedAt?: number
 }
+
+export function parseHistoryDirName(name: string): HistoryDirInfo {
+  const before = name.match(/^before-(\d+)$/)
+  if (before) {
+    return { replacedAt: Number(before[1]) }
+  }
+  if (/^\d+$/.test(name)) {
+    return { publishedAt: Number(name) }
+  }
+  throw new Error(`Unrecognized _history directory name: ${name}`)
+}
+
+/** 历史版本排序键：已知发布时间用发布时间，否则用被替换时间 */
+export function historySortKey(info: HistoryDirInfo): number {
+  return info.publishedAt ?? info.replacedAt ?? 0
+}
+
+export const toIsoTime = (timestamp: number) =>
+  new Date(timestamp * 1000).toISOString()
+
+export const fromIsoTime = (iso: string) =>
+  Math.floor(new Date(iso).getTime() / 1000)

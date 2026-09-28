@@ -1,0 +1,23 @@
+# QQNT (NapCat) used by `pnpm gen:qqnt` to look up system emoji definitions.
+# First run: `docker compose up -d`, scan the QR code at http://localhost:6100/webui?token=qface
+# with a secondary account, then enable auto login for it in the WebUI settings.
+# Later restarts log in by themselves; the login persists in the qq-data volume.
+name: qface
+
+services:
+  napcat:
+    image: mlikiowa/napcat-docker:v4.18.4
+    container_name: napcat
+    hostname: qface-napcat
+    ports:
+      - "6100:6099"
+    environment:
+      - WEBUI_TOKEN=${WEBUI_TOKEN:-qface}
+    volumes:
+      - qq-data:/app/.config/QQ
+      - napcat-config:/app/napcat/config
+      - ./plugin:/app/napcat/plugins/qface-sysemoji
+      - ./data:/qface-data
+volumes:
+  qq-data:
+  napcat-config:

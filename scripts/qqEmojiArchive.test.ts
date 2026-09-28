@@ -1,9 +1,10 @@
 import { describe, it } from 'node:test'
 import assert from 'node:assert/strict'
 import {
-  compareQqVersions,
-  computeVariantSeen,
-  computeVersionFields,
+  historyDirName,
+  historySortKey,
+  parseHistoryDirName,
+  parseResourceTimestamp,
   planEmojiSync,
 } from './qqEmojiArchive'
 
@@ -32,143 +33,62 @@ describe('planEmojiSync', () => {
     assert.deepEqual(plan, { copy: ['1/png/1.png'], archive: ['1/png/1.png'] })
   })
 
-  it('archives files dropped from a still-present emoji', () => {
+  it('archives files dropped by the new variant', () => {
     const plan = planEmojiSync(
       files({ '1/png/1.png': 'a' }),
       files({ '1/png/1.png': 'a', '1/apng/1.png': 'x' })
     )
     assert.deepEqual(plan, { copy: [], archive: ['1/apng/1.png'] })
   })
+})
 
-  it('leaves a fully removed emoji untouched', () => {
-    const plan = planEmojiSync(
-      files({ '1/png/1.png': 'a' }),
-      files({ '1/png/1.png': 'a', '2/png/2.png': 'b', '2/apng/2.png': 'c' })
+describe('parseResourceTimestamp', () => {
+  it('reads the timestamp from base and adv urls', () => {
+    const base =
+      'https://wa.qq.com/qgif-web-permanent/sysemoji/v1/singleres/494_base_1789715609.zip'
+    assert.equal(parseResourceTimestamp(base), 1789715609)
+    assert.equal(
+      parseResourceTimestamp(base.replace('_base_', '_adv_')),
+      1789715609
     )
-    assert.deepEqual(plan, { copy: [], archive: [] })
+  })
+
+  it('handles emoji-character ids and rejects unknown urls', () => {
+    assert.equal(
+      parseResourceTimestamp('https://x/singleres/😍_base_1712825561.zip'),
+      1712825561
+    )
+    assert.equal(parseResourceTimestamp(''), undefined)
   })
 })
 
-describe('computeVersionFields', () => {
-  const cur = '7.0.3-60000'
-
-  it('sets firstSeenIn for an emoji never seen before', () => {
-    assert.deepEqual(computeVersionFields(true, true, undefined, cur), {
-      firstSeenIn: cur,
-      lastSeenIn: cur,
-    })
-    // metadata-only entry in prev index gets assets for the first time
-    assert.deepEqual(computeVersionFields(true, true, {}, cur), {
-      firstSeenIn: cur,
-      lastSeenIn: cur,
+describe('history dir names', () => {
+  it('uses the published timestamp when known', () => {
+    assert.equal(historyDirName(1755499209, 1766043611), '1755499209')
+    assert.deepEqual(parseHistoryDirName('1755499209'), {
+      publishedAt: 1755499209,
     })
   })
 
-  it('keeps firstSeenIn and bumps lastSeenIn for a present emoji', () => {
-    const prev = { firstSeenIn: '6.9.86-42941', lastSeenIn: '7.0.2-53644' }
-    assert.deepEqual(computeVersionFields(true, true, prev, cur), {
-      firstSeenIn: '6.9.86-42941',
-      lastSeenIn: cur,
+  it('falls back to the replacing timestamp when unknown', () => {
+    assert.equal(historyDirName(undefined, 1766043611), 'before-1766043611')
+    assert.deepEqual(parseHistoryDirName('before-1766043611'), {
+      replacedAt: 1766043611,
     })
   })
 
-  it('keeps firstSeenIn absent for baseline emojis', () => {
-    const prev = { lastSeenIn: '7.0.2-53644' }
-    assert.deepEqual(computeVersionFields(true, true, prev, cur), {
-      lastSeenIn: cur,
-    })
+  it('rejects legacy version-named directories', () => {
+    assert.throws(() => parseHistoryDirName('6.9.86-42941'))
   })
 
-  it('marks removed and freezes versions when gone from source', () => {
-    const prev = { firstSeenIn: '6.9.86-42941', lastSeenIn: '7.0.2-53644' }
-    assert.deepEqual(computeVersionFields(false, true, prev, cur), {
-      ...prev,
-      removed: true,
-    })
-  })
-
-  it('clears removed when an emoji comes back', () => {
-    const prev = {
-      firstSeenIn: '6.9.86-42941',
-      lastSeenIn: '7.0.1-52892',
-      removed: true as const,
-    }
-    assert.deepEqual(computeVersionFields(true, true, prev, cur), {
-      firstSeenIn: '6.9.86-42941',
-      lastSeenIn: cur,
-    })
-  })
-
-  it('sets nothing for metadata-only entries', () => {
-    assert.deepEqual(computeVersionFields(false, false, undefined, cur), {})
-  })
-})
-
-describe('computeVariantSeen', () => {
-  const prevSync = '7.0.2-53644'
-  const cur = '7.0.3-60000'
-
-  it('dates the replaced variant and the new current variant on first archive', () => {
-    const result = computeVariantSeen(
-      [prevSync],
-      { firstSeenIn: '6.9.86-42941' },
-      true,
-      prevSync,
-      cur
-    )
-    assert.equal(result.assetsFirstSeenIn, cur)
-    assert.deepEqual([...result.historyFirstSeenIn], [[prevSync, '6.9.86-42941']])
-  })
-
-  it('carries the current variant date into history on a second archive', () => {
-    const prev = {
-      firstSeenIn: '6.9.86-42941',
-      assetsFirstSeenIn: '7.0.1-52892',
-      history: [{ lastSeenIn: '7.0.0-50000', firstSeenIn: '6.9.86-42941' }],
-    }
-    const result = computeVariantSeen(
-      [prevSync, '7.0.0-50000'],
-      prev,
-      true,
-      prevSync,
-      cur
-    )
-    assert.equal(result.assetsFirstSeenIn, cur)
-    assert.deepEqual(Object.fromEntries(result.historyFirstSeenIn), {
-      [prevSync]: '7.0.1-52892',
-      '7.0.0-50000': '6.9.86-42941',
-    })
-  })
-
-  it('keeps dates unchanged when nothing is archived', () => {
-    const prev = {
-      assetsFirstSeenIn: '6.9.87-44204',
-      history: [{ lastSeenIn: '6.9.86-42941' }],
-    }
-    const result = computeVariantSeen(['6.9.86-42941'], prev, false, prevSync, cur)
-    assert.equal(result.assetsFirstSeenIn, '6.9.87-44204')
-    assert.deepEqual([...result.historyFirstSeenIn], [['6.9.86-42941', undefined]])
-  })
-
-  it('drops assetsFirstSeenIn once all history is deleted', () => {
-    const prev = {
-      assetsFirstSeenIn: '6.9.87-44204',
-      history: [{ lastSeenIn: '6.9.86-42941' }],
-    }
-    const result = computeVariantSeen([], prev, false, prevSync, cur)
-    assert.equal(result.assetsFirstSeenIn, undefined)
-  })
-})
-
-describe('compareQqVersions', () => {
-  it('compares segment by segment numerically', () => {
-    const sorted = ['7.0.2-53644', '6.9.87-44204', '6.9.98-51102', '6.9.9-1']
-    sorted.sort(compareQqVersions)
+  it('sorts by published time, else replaced time', () => {
+    const names = ['before-1766043611', '1712825561']
+    const sorted = names
+      .map(parseHistoryDirName)
+      .sort((a, b) => historySortKey(b) - historySortKey(a))
     assert.deepEqual(sorted, [
-      '6.9.9-1',
-      '6.9.87-44204',
-      '6.9.98-51102',
-      '7.0.2-53644',
+      { replacedAt: 1766043611 },
+      { publishedAt: 1712825561 },
     ])
   })
 })
