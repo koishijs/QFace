@@ -44,6 +44,7 @@ declare global {
   const effectScope: typeof import('vue')['effectScope']
   const extendRef: typeof import('@vueuse/core')['extendRef']
   const getActivePinia: typeof import('pinia')['getActivePinia']
+  const getApngFrameDelay: typeof import('./utils/apng')['getApngFrameDelay']
   const getCurrentInstance: typeof import('vue')['getCurrentInstance']
   const getCurrentScope: typeof import('vue')['getCurrentScope']
   const getCurrentWatcher: typeof import('vue')['getCurrentWatcher']
@@ -324,7 +325,7 @@ declare global {
   export type { Component, Slot, Slots, ComponentPublicInstance, ComputedRef, DirectiveBinding, ExtractDefaultPropTypes, ExtractPropTypes, ExtractPublicPropTypes, InjectionKey, PropType, Ref, ShallowRef, MaybeRef, MaybeRefOrGetter, VNode, WritableComputedRef } from 'vue'
   import('vue')
   // @ts-ignore
-  export type { QqSysEmojiAssetType, QqSysEmojiItem, QqSysEmojiGroup, QQSysEmojiConfig, QqSysEmojiAsset, QqSysEmojiWithAssets, QqSysEmojiHistory, QqSysEmojiV2, QqEmojiIndexV2, QqNTSystemEmojiItem } from './types/QqSysEmoji'
+  export type { QqSysEmojiAssetType, QqSysEmojiItem, QqSysEmojiAsset, QqSysEmojiWithAssets, QqSysEmojiDefinition, QqEmojiAssetKind, QqEmojiAssetV2, QqSysEmojiHistoryV2, QqSysEmojiV2, QqEmojiIndexV2 } from './types/QqSysEmoji'
   import('./types/QqSysEmoji')
   // @ts-ignore
   export type { WechatNewEmojiItem, WechatNewEmojiConfig } from './types/WechatNewEmoji'
@@ -373,6 +374,7 @@ declare module 'vue' {
     readonly effectScope: UnwrapRef<typeof import('vue')['effectScope']>
     readonly extendRef: UnwrapRef<typeof import('@vueuse/core')['extendRef']>
     readonly getActivePinia: UnwrapRef<typeof import('pinia')['getActivePinia']>
+    readonly getApngFrameDelay: UnwrapRef<typeof import('./utils/apng')['getApngFrameDelay']>
     readonly getCurrentInstance: UnwrapRef<typeof import('vue')['getCurrentInstance']>
     readonly getCurrentScope: UnwrapRef<typeof import('vue')['getCurrentScope']>
     readonly getCurrentWatcher: UnwrapRef<typeof import('vue')['getCurrentWatcher']>

@@ -12,6 +12,7 @@ declare module 'vue' {
     GlobalHeader: typeof import('./components/GlobalHeader.vue')['default']
     KoishiPlaceholder: typeof import('./components/KoishiPlaceholder.vue')['default']
     QEmojiMiniCard: typeof import('./components/QEmojiMiniCard.vue')['default']
+    QFrameSequence: typeof import('./components/QFrameSequence.vue')['default']
     RouterLink: typeof import('vue-router')['RouterLink']
     RouterView: typeof import('vue-router')['RouterView']
   }

@@ -1,47 +1,44 @@
-import {
-  type QqEmojiIndexV2,
-  QqSysEmojiAssetType,
-  type QqSysEmojiV2,
-} from '@/types/QqSysEmoji'
+import type { QqEmojiIndexV2, QqSysEmojiV2 } from '@/types/QqSysEmoji'
+
+// Numeric ids first in numeric order, then emoji-character ids
+const compareEmojiIds = (a: string, b: string) => {
+  const na = Number(a)
+  const nb = Number(b)
+  if (isNaN(na) || isNaN(nb)) {
+    return isNaN(na) && isNaN(nb) ? a.localeCompare(b) : isNaN(na) ? 1 : -1
+  }
+  return na - nb
+}
 
 export const useQqEmojiStore = defineStore('qq-emoji', () => {
-  const allEmojiList = ref<QqSysEmojiV2[]>([])
-  const qqntVersion = ref('')
+  const emojiMap = ref<Record<string, QqSysEmojiV2>>({})
+  const syncedAt = ref('')
+
   const fetchData = async (noCache = false) => {
-    if (!noCache && allEmojiList.value?.length) {
-      return allEmojiList.value
+    if (!noCache && syncedAt.value) {
+      return emojiMap.value
     }
     const index: QqEmojiIndexV2 = await fetch(
       'assets/qq_emoji/_index.v2.json'
     ).then((res) => res.json())
-    qqntVersion.value = index.qqntVersion
-    allEmojiList.value = index.emojis
-    return allEmojiList.value
-  }
-  const sortedEmojiList = computed(() => {
-    return allEmojiList.value.sort(
-      (a, b) => Number(a.emojiId) - Number(b.emojiId)
-    )
-  })
-  const getEmojiById = (id: string) => {
-    return allEmojiList.value.find((emoji) => emoji.emojiId === id)
+    emojiMap.value = index.emojis
+    syncedAt.value = index.syncedAt
+    return emojiMap.value
   }
 
-  const getLottieAssets = (emoji: QqSysEmojiV2) => {
-    return (
-      emoji.assets.filter(
-        (asset) => asset.type === QqSysEmojiAssetType.LOTTIE_JSON
-      ) || []
+  const sortedEmojiList = computed(() =>
+    Object.values(emojiMap.value).sort((a, b) =>
+      compareEmojiIds(a.emojiId, b.emojiId)
     )
-  }
+  )
+
+  const getEmojiById = (id: string): QqSysEmojiV2 | undefined =>
+    emojiMap.value[id]
 
   return {
-    config: allEmojiList,
     fetchData,
-    allEmojiList,
-    qqntVersion,
+    syncedAt,
     sortedEmojiList,
     getEmojiById,
-    getLottieAssets,
   }
 })

@@ -42,43 +42,24 @@
 </template>
 
 <script setup lang="ts">
-import type { QqSysEmojiV2 } from '@/types/QqSysEmoji'
+import type { QqEmojiAssetKind, QqSysEmojiV2 } from '@/types/QqSysEmoji'
 
 const props = defineProps<{
   value: QqSysEmojiV2
 }>()
 
-const getValidThumbImage = (emoji: QqSysEmojiWithAssets) => {
-  const posibleThumb = [
-    QqSysEmojiAssetType.APNG,
-    QqSysEmojiAssetType.THUMB_GIF,
-    QqSysEmojiAssetType.THUMB_PNG,
-  ]
-  return posibleThumb
-    .map((type) => emoji.assets.find((asset) => asset.type === type))
-    .filter(Boolean)[0]
-}
+const findAsset = (type: QqEmojiAssetKind) =>
+  props.value.assets.find((asset) => asset.type === type)
 
 const src = computed(
-  () => getValidThumbImage(props.value)?.path || 'assets/default.png'
+  () =>
+    (findAsset('apng') || findAsset('png'))?.path || 'assets/default.png'
 )
 
-const assetCount = computed(() => props.value.assets?.length || 0)
+const assetCount = computed(() => props.value.assets.length)
 
-const hasAPng = computed(() => {
-  return (
-    props.value.assets?.some(
-      (asset) => asset.type === QqSysEmojiAssetType.APNG
-    ) || false
-  )
-})
-const hasLottie = computed(() => {
-  return (
-    props.value.assets?.some(
-      (asset) => asset.type === QqSysEmojiAssetType.LOTTIE_JSON
-    ) || false
-  )
-})
+const hasAPng = computed(() => !!findAsset('apng'))
+const hasLottie = computed(() => !!findAsset('lottie'))
 </script>
 
 <style scoped lang="sass">

@@ -60,10 +60,7 @@
           button.id-chip(@click='copyText(data.emojiId)' title='复制 ID') {{ '#' + data.emojiId }}
         .badges(v-if='badges.length')
           span.badge(:class='badge.tone' :key='badge.text' v-for='badge in badges') {{ badge.text }}
-        .seen-line(v-if='activeSeen.firstSeenIn || activeSeen.lastSeenIn')
-          span(v-if='activeSeen.firstSeenIn') 收录于 {{ activeSeen.firstSeenIn }}
-          span.dot(v-if='activeSeen.firstSeenIn && activeSeen.lastSeenIn') ·
-          span(v-if='activeSeen.lastSeenIn') 最后见于 {{ activeSeen.lastSeenIn }}
+        .seen-line(v-if='activeTimeText') {{ activeTimeText }}
         .words(v-if='data.associateWords?.length')
           .words-label 关联词汇
           .words-list
@@ -93,7 +90,7 @@
         h2.section-title 资源文件
         .section-count {{ activeAssets.length }}
       .asset-grid
-        .asset-tile(:key='asset.path' v-for='asset in activeAssets')
+        .asset-tile(:key='asset.path' v-for='asset in tileAssets')
           .asset-thumb
             LottieViewer(
               :animation-link='asset.path'
@@ -101,7 +98,7 @@
               :height='88'
               :width='88'
               renderer='canvas'
-              v-if='asset.type === QqSysEmojiAssetType.LOTTIE_JSON'
+              v-if='asset.type === "lottie"'
             )
             img(:alt='asset.name', :src='asset.path' loading='lazy' v-else)
           .asset-meta
@@ -114,6 +111,14 @@
               ExternalLink(:size='14')
             button.icon-btn(@click='copyText(asset.path)' title='复制路径')
               Copy(:size='14')
+      .frame-sequences(v-if='frameSequences.length')
+        QFrameSequence(
+          :frame-delay='sequenceFrameDelay'
+          :frames='group.assets'
+          :key='group.name'
+          :title='group.name'
+          v-for='group in frameSequences'
+        )
 
     details.raw-json
       summary
@@ -139,17 +144,18 @@ import {
   ExternalLink,
   LoaderCircle,
 } from 'lucide-vue-next'
-import { type QqSysEmojiAsset, QqSysEmojiAssetType } from '@/types/QqSysEmoji'
+import type { QqEmojiAssetKind, QqEmojiAssetV2 } from '@/types/QqSysEmoji'
+import { getApngFrameDelay } from '@/utils/apng'
 
 const LottieViewer = defineAsyncComponent(() =>
   import('vue3-lottie').then((m) => m.Vue3Lottie)
 )
 
-const ASSET_TYPE_LABEL: Record<QqSysEmojiAssetType, string> = {
-  [QqSysEmojiAssetType.THUMB_PNG]: 'PNG',
-  [QqSysEmojiAssetType.THUMB_GIF]: 'GIF',
-  [QqSysEmojiAssetType.APNG]: 'APNG',
-  [QqSysEmojiAssetType.LOTTIE_JSON]: 'Lottie',
+const ASSET_TYPE_LABEL: Record<QqEmojiAssetKind, string> = {
+  png: 'PNG',
+  apng: 'APNG',
+  lottie: 'Lottie',
+  interactive_res: '互动',
 }
 
 const qStore = useQqEmojiStore()
@@ -159,12 +165,29 @@ const router = useRouter()
 const emojiId = ref(route.params.id as string)
 
 const data = computed(() => {
-  return qStore.allEmojiList.find((item) => item.emojiId === emojiId.value)
+  return qStore.getEmojiById(emojiId.value)
 })
 
-// 版本标签：CURRENT 为当前资源，其余为 history 中的 lastSeenIn
-const CURRENT = '__current__'
+// 版本标签：CURRENT 为当前资源，其余为 history 的下标
+const CURRENT = 'current'
 const activeVersion = ref(CURRENT)
+
+// QQNT 资源体系上线时的统一上传时间，带此时间的资源实际发布不晚于这一天
+const BASELINE_TIME = '2024-04-11T08:52:41.000Z'
+
+const formatDate = (iso: string) =>
+  new Intl.DateTimeFormat('sv-SE', { timeZone: 'Asia/Shanghai' }).format(
+    new Date(iso)
+  )
+
+const variantLabel = (time: { publishedAt?: string; replacedAt?: string }) => {
+  if (time.publishedAt) {
+    return time.publishedAt === BASELINE_TIME
+      ? 'QQNT 初版'
+      : formatDate(time.publishedAt)
+  }
+  return time.replacedAt ? `${formatDate(time.replacedAt)} 前` : '未知'
+}
 
 const versionTabs = computed(() => {
   if (!data.value) {
@@ -173,80 +196,115 @@ const versionTabs = computed(() => {
   return [
     {
       key: CURRENT,
-      label: data.value.lastSeenIn || '当前',
+      label: variantLabel({ publishedAt: data.value.assetsPublishedAt }),
       tag: data.value.removed ? '最后版本' : '最新',
     },
-    ...(data.value.history || []).map((entry) => ({
-      key: entry.lastSeenIn,
-      label: entry.lastSeenIn,
+    ...(data.value.history || []).map((entry, index) => ({
+      key: String(index),
+      label: variantLabel(entry),
       tag: '',
     })),
   ]
 })
 
-const activeAssets = computed<QqSysEmojiAsset[]>(() => {
+const activeHistory = computed(() =>
+  activeVersion.value === CURRENT
+    ? undefined
+    : data.value?.history?.[Number(activeVersion.value)]
+)
+
+const activeAssets = computed<QqEmojiAssetV2[]>(() => {
   if (!data.value) {
     return []
   }
-  if (activeVersion.value === CURRENT) {
-    return data.value.assets
-  }
-  return (
-    data.value.history?.find((entry) => entry.lastSeenIn === activeVersion.value)
-      ?.assets || []
-  )
+  return activeHistory.value?.assets ?? data.value.assets
 })
 
-// 选中版本自身的收录区间；元数据表仍展示表情整体的字段
-const activeSeen = computed<{ firstSeenIn?: string; lastSeenIn?: string }>(
-  () => {
-    const d = data.value
-    if (!d) {
-      return {}
-    }
-    if (activeVersion.value === CURRENT) {
-      return {
-        firstSeenIn: d.history?.length ? d.assetsFirstSeenIn : d.firstSeenIn,
-        lastSeenIn: d.lastSeenIn,
-      }
-    }
-    const entry = d.history?.find(
-      (item) => item.lastSeenIn === activeVersion.value
-    )
-    return { firstSeenIn: entry?.firstSeenIn, lastSeenIn: entry?.lastSeenIn }
+// 选中版本资源的发布信息；元数据表仍展示表情整体的字段
+const activeTimeText = computed(() => {
+  const time = activeHistory.value ?? {
+    publishedAt: data.value?.assetsPublishedAt,
   }
+  if (time.publishedAt) {
+    return time.publishedAt === BASELINE_TIME
+      ? `QQNT 初版（${formatDate(BASELINE_TIME)} 或更早）`
+      : `发布于 ${formatDate(time.publishedAt)}`
+  }
+  return time.replacedAt ? `${formatDate(time.replacedAt)} 被替换` : ''
+})
+
+// interactive_res 按子目录分组：编号序列帧用 QFrameSequence 播放，其余（按钮状态图等）照常平铺
+const SEQUENCE_MIN_FRAMES = 3
+
+const interactiveGroups = computed(() => {
+  const groups = new Map<string, QqEmojiAssetV2[]>()
+  for (const asset of activeAssets.value) {
+    if (asset.type !== 'interactive_res') {
+      continue
+    }
+    const name = asset.name.includes('/') ? asset.name.split('/')[0] : ''
+    groups.set(name, [...(groups.get(name) ?? []), asset])
+  }
+  return [...groups].map(([name, assets]) => ({
+    name,
+    assets: assets.sort((a, b) =>
+      a.name.localeCompare(b.name, undefined, { numeric: true })
+    ),
+    isSequence:
+      name !== 'static_image' && assets.length >= SEQUENCE_MIN_FRAMES,
+  }))
+})
+
+const frameSequences = computed(() =>
+  interactiveGroups.value.filter((group) => group.isSequence)
 )
 
-const findAsset = (type: QqSysEmojiAssetType) =>
+const tileAssets = computed(() => [
+  ...activeAssets.value.filter((asset) => asset.type !== 'interactive_res'),
+  ...interactiveGroups.value
+    .filter((group) => !group.isSequence)
+    .flatMap((group) => group.assets),
+])
+
+const findAsset = (type: QqEmojiAssetKind) =>
   activeAssets.value.find((asset) => asset.type === type)
 
+// 预览优先 APNG；只有 Lottie 动画时用 Lottie；否则用 PNG
 const heroImage = computed(
   () =>
-    (
-      findAsset(QqSysEmojiAssetType.APNG) ||
-      findAsset(QqSysEmojiAssetType.THUMB_GIF) ||
-      (findAsset(QqSysEmojiAssetType.LOTTIE_JSON)
-        ? undefined
-        : findAsset(QqSysEmojiAssetType.THUMB_PNG))
-    )?.path
+    (findAsset('apng') || (findAsset('lottie') ? undefined : findAsset('png')))
+      ?.path
 )
 
-const heroLottie = computed(() =>
-  findAsset(QqSysEmojiAssetType.LOTTIE_JSON)
-)
+const heroLottie = computed(() => findAsset('lottie'))
 
 // 下载 / 复制使用的静态图：有 Lottie 预览时退回 PNG
 const heroStillImage = computed(
-  () =>
-    heroImage.value ||
-    findAsset(QqSysEmojiAssetType.THUMB_PNG)?.path ||
-    ''
+  () => heroImage.value || findAsset('png')?.path || ''
 )
 
-const apngAsset = computed(() => findAsset(QqSysEmojiAssetType.APNG) || null)
+const apngAsset = computed(() => findAsset('apng') || null)
 
-const canConvertApngToGif = computed(
-  () => !!apngAsset.value && !findAsset(QqSysEmojiAssetType.THUMB_GIF)
+const canConvertApngToGif = computed(() => !!apngAsset.value)
+
+// 序列帧与该表情的 APNG 帧延迟一致，能读到 APNG 时以它为准
+const sequenceFrameDelay = ref<number>()
+watch(
+  () => (frameSequences.value.length ? apngAsset.value?.path : undefined),
+  async (path) => {
+    sequenceFrameDelay.value = undefined
+    if (!path) {
+      return
+    }
+    try {
+      sequenceFrameDelay.value = getApngFrameDelay(
+        await fetch(path).then((res) => res.arrayBuffer())
+      )
+    } catch (err) {
+      console.error('读取 APNG 帧延迟失败:', err)
+    }
+  },
+  { immediate: true }
 )
 
 const fileBaseName = computed(() => {
@@ -261,7 +319,6 @@ const badges = computed(() => {
   }
   return [
     d.removed && { text: '已下架', tone: 'warn' },
-    d.isHide && { text: '面板隐藏', tone: 'muted' },
     d.emojiType === 1 && { text: '超级表情', tone: 'brand' },
   ].filter(Boolean) as { text: string; tone: string }[]
 })
@@ -306,11 +363,17 @@ const metaGroups = computed(() => {
       ],
     },
     {
-      title: '收录',
+      title: '资源',
       rows: [
-        { key: 'firstSeenIn', value: str(d.firstSeenIn) },
-        { key: 'lastSeenIn', value: str(d.lastSeenIn) },
-        { key: 'assetsFirstSeenIn', value: str(d.assetsFirstSeenIn) },
+        { key: 'assetsPublishedAt', value: str(d.assetsPublishedAt) },
+        {
+          key: 'baseResDownloadUrl',
+          value: str(d.downloadInfo?.baseResDownloadUrl),
+        },
+        {
+          key: 'advancedResDownloadUrl',
+          value: str(d.downloadInfo?.advancedResDownloadUrl),
+        },
         { key: 'removed', value: str(!!d.removed) },
       ],
     },
@@ -851,6 +914,12 @@ $mono: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace
   color: var(--text-muted)
 
 // Assets
+.frame-sequences
+  display: flex
+  flex-direction: column
+  gap: 12px
+  margin-top: 12px
+
 .asset-grid
   display: grid
   grid-template-columns: repeat(auto-fill, minmax(160px, 1fr))
@@ -941,7 +1010,7 @@ $mono: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace
 
 .meta-row
   display: grid
-  grid-template-columns: 140px minmax(0, 1fr)
+  grid-template-columns: 184px minmax(0, 1fr)
   align-items: center
   gap: 8px
   min-height: 30px

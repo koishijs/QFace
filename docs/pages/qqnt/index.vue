@@ -11,7 +11,7 @@
         .stat-item
           .stat-number {{ totalAssets }}
           .stat-label 个资源文件
-      p.hero-sync(v-if='emoji.qqntVersion') 数据同步自 QQ {{ emoji.qqntVersion }}
+      p.hero-sync(v-if='emoji.syncedAt') 数据同步于 {{ emoji.syncedAt.slice(0, 10) }}
   .content-section
     .section-header
       h2.section-title 表情列表
